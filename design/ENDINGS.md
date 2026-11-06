@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Endings Branching Chart — Phase 0 Decisions to Phase 6 Outcomes
 
 *This document maps the decision architecture of the game: which choices in Phases 0–5 determine what is available in Phase 6, and what the four distinct ending states look like. The game has one ending in the cosmic sense — Earth ends, the Board closes the file. What branches is the human experience of those last 22 hours: what the player knows, who is with them, what they pass forward, and what the Board's annotation says.*

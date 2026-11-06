@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 
 ## Hearth — the ICS Earth Branch Internal Messaging System
 

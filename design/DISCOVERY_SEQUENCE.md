@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Discovery Sequence — Player Route & Chronological Narrative Spine
 
 *The path the player walks through the ICS Earth Branch. This sheet maps the single, ordered discovery sequence across Phases 0 through 6, tying every physical space, document pickup, conversation beat, and named set piece directly to the Day Ledger in `design/TIME_MODEL.md`. The world is complete; this is the journey through it.*

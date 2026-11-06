@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## SOLCRED as a Mechanic
 
 *SOLCRED is the facility's money, and it is not money. It cannot be exchanged, cannot be transferred and is logged on every transaction. It is a leash that looks like a wallet. This sheet decides what the player can do with it, what it costs them to do it, and what it means when the prices stop making sense.*

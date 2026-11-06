@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 
 ## Handoff: Archivist → Cartographer
 
@@ -68,7 +68,7 @@ Start with [`README.md`](../README.md), which indexes everything.
 
 ### What the game is
 
-**ICS — Rigged Sphere** is a first-person narrative game in the style of BioShock. The player is a human employee inside the ICS Earth Branch, a corporate facility shaped like a second moon in orbit above Earth. **ICS (Interplanetary Corporate Solutions)** is an alien-run planetary labor company. Its model: arrive, offer work that is genuinely better than anything the local economy provides, and run a harvest underneath it. The warmth is real. The cage is real. The horror is that you cannot point to the moment it goes wrong, because it was always this.
+**ICS: Interplanetary Corporate Solutions** is a first-person narrative game in the style of BioShock. The player is a human employee inside the ICS Earth Branch, a corporate facility shaped like a second moon in orbit above Earth. **ICS (Interplanetary Corporate Solutions)** is an alien-run planetary labor company. Its model: arrive, offer work that is genuinely better than anything the local economy provides, and run a harvest underneath it. The warmth is real. The cage is real. The horror is that you cannot point to the moment it goes wrong, because it was always this.
 
 The central theme: **humans are instinctively drawn toward freedom.** The compliance architecture was never built to break them. It was built to make breaking free feel unnecessary. That is what makes it a cage.
 
@@ -149,7 +149,7 @@ Two other handoffs exist in the author's notes: a "Draftsman" brief, and a summa
 ### Working rules
 
 - Tag anything new as **[PROPOSAL]**. Tag canon as **Canon** and name the source.
-- Follow the house format: `# ICS — Rigged Sphere`, then `## Title`, an italic intro, `---` separators, and a closing `*→ See: …*` list. Cross-reference paths must be real. Filenames use em-dashes.
+- Follow the house format: `# ICS: Interplanetary Corporate Solutions`, then `## Title`, an italic intro, `---` separators, and a closing `*→ See: …*` list. Cross-reference paths must be real. Filenames use em-dashes.
 - Some files (`canon/characters/EOD.md`, `canon/characters/Narrative Arc - Phases 0 through 6.md` and a few others) contain mojibake (`â€”` for `—`, `â†’` for `→`) and CRLF line endings. Preserve both. Edit those files with a scratch Python script that matches the mojibake exactly. `canon/documents/*.md` and `canon/internal-communications/*` are CRLF too, but the normal edit tools handle them.
 - Python standard library only. Use scratch `.py` files, run them once, and delete them straight away. This is Windows PowerShell, so avoid inline `python -c`.
 - **ICS-OS build and test notes.** `python ICS-OS/build_os.py` needs the map database (`python writing-map/build_map.py` first). A new document in `canon/documents/` is left out of the drive until it has a line in the `DOCS` table in `build_os.py`, and the build does not warn. To test the page headlessly, copy `ics-os.html` to a scratch file, inject `<script>sessionStorage.setItem("icsos", JSON.stringify({role:"director"}));</script>` before the main script to skip boot and sign-in, append a test script before the closing body tag, and run Edge with `--headless=new --disable-gpu --dump-dom --virtual-time-budget=5000` (Edge is at `C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe`). Run one Edge at a time and `taskkill /F /IM msedge.exe` afterwards. Delete every scratch file. In PowerShell a backtick in a regex string is an escape character and silently drops, so for anything with backticks write a scratch Python file instead. `Remove-Item` with a wildcard can fail in non-interactive mode; use `Get-ChildItem | ForEach-Object { Remove-Item -LiteralPath ... }`. A `__pycache__` folder appears in ICS-OS after a build; delete it before finishing.

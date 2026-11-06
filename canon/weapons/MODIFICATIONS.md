@@ -1,6 +1,6 @@
 # Weapon Modifications — System Design
 
-*This document covers how the player physically modifies tools and weapons in ICS — Rigged Sphere. The modification system is modeled on the principle that every tool in this facility has a second life waiting inside it — if the person holding it understands what it is well enough to take it apart and put it back together as something different.*
+*This document covers how the player physically modifies tools and weapons in ICS: Interplanetary Corporate Solutions. The modification system is modeled on the principle that every tool in this facility has a second life waiting inside it — if the person holding it understands what it is well enough to take it apart and put it back together as something different.*
 
 *The reference model is Dead Space: the player is not a soldier finding military weapons. They are a person with pattern recognition and problem-solving ability, surrounded by industrial equipment that was designed for specific non-combat purposes, using that equipment against the architecture that built it.*
 

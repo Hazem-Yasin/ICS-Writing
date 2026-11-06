@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Audio Log & Voice Design
 
 *This document covers how the game delivers narrative through audio — what the player hears versus reads, when voice is used and when silence is the choice, and the specific design decisions that make each character's audio presence distinct. Audio in this game is not a delivery mechanism for exposition. It is evidence of a person.*

@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## EOD Encounter Design
 
 *He cannot be fought, he cannot be outrun, and he is not a boss. He is a condition of the building that sometimes takes a shape. This sheet says when that shape is on the screen, what the player can do about it, and what it costs when they can't.*

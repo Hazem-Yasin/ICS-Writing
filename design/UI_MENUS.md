@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## UI, HUD and Menus
 
 *The interface is the badge. There is no separate game menu pretending to be outside the fiction: the inventory grid, the clock, the health strips, the documents and the settings all live on the device the facility issued to the player. The one place the game steps outside the building is the boot screen, and even that is an ICS document.*

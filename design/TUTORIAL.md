@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Tutorial Integration — The Job Is The Tutorial
 
 *The game teaches the player how to play it by giving them a job. There is no tutorial level, no tutorial room, no guardian NPC who says "here's how the badge reader works." The player is E-05682, a behavioral data analyst with three years of experience at ICS Earth Branch. They know how the badge reader works. The game's job is to make the player feel like they already know how everything works — and then begin revealing that they don't know what it means.*

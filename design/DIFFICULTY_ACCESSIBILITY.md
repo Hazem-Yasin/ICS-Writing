@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Difficulty & Accessibility
 
 *This game has no difficulty setting that makes EOD weaker. It has no setting that adds enemies, adds damage, or removes the ending. Difficulty here is a question of how much the game tells the player, not how hard it hits them. Accessibility is the same question asked more carefully: for whom is the information missing, and how do we put it back without breaking the fiction?*

@@ -1,7 +1,7 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Progression System — The Badge & The Tier
 
-*This document covers how the player grows in ICS — Rigged Sphere. The progression system is not a weapon upgrade system. It is not a biological enhancement system. It is the ICS tier advancement system — the same framework that governs every employee in the facility — turned against itself.*
+*This document covers how the player grows in ICS: Interplanetary Corporate Solutions. The progression system is not a weapon upgrade system. It is not a biological enhancement system. It is the ICS tier advancement system — the same framework that governs every employee in the facility — turned against itself.*
 
 ---
 

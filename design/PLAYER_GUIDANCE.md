@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Player Guidance — How the Game Says "Go There"
 
 *The game has no quest marker, no task log and no glowing path. In Phase 6 that is canon: "no objective marker, no task log." This sheet decides how the player knows where to go in Phases 0 to 5, using only things that exist in the facility: people, documents, signs, light and sound.*

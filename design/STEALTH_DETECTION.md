@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Stealth & Detection Mechanics — Full System Design
 
 *This document covers the complete detection architecture — how the player is found, how they avoid being found, and what the costs of each decision look like. design/ENEMY_AI.md covers the behavioral states of each enemy category. This document covers the underlying physics of the detection layer and the specific rules the player works within.*

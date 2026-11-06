@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 # JOBS AND CAREER
 
 *What the player's job actually is, whether there is more than one, and how the ladder works. Everything marked **Canon** is already established and cited. Everything marked **[PROPOSAL]** is new and needs the author's ruling.*

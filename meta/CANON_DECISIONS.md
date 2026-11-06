@@ -67,3 +67,10 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
   - Doc 2.23 Board Governance Charter (Board Access Only), Section 1: the name carries the same split; the Board's own name is not written.
   - Doc 2.29 Glossary, ICS term, PTKW layer: use it in writing only at PTKW level; a Global reader assumes a joke about the mascots.
   - Not edited: Docs 2.14, 2.16, 2.17 (Board-only technical documents where the name has no natural place) and the B and C series. Say if you want more.
+
+## Game title, 2026-11-06
+
+- **Title: "ICS: Interplanetary Corporate Solutions"** (the author's choice, from three options). The public name is the title, so the player reads the cover story first and the other two readings (Docs 2.02, 2.50) arrive inside the game. The working title "ICS — Rigged Sphere" is retired from the 41 working files that carried it (header line and a few intro sentences). Not changed: the `reference/` snapshot (generated; its filename still says Rigged Sphere), and the historical mentions of the retired compiled file "ICS - Rigged Sphere" in README and the handoff.
+- **"Inflatable Crowd Solutions" is never the title.** It stays a PTKW-level reading (Doc 2.02) and the graffiti in B-30.
+- **Not checked:** collisions with existing products named ICS. Web search returns 403; the author should search before the title is final.
+- **Open:** whether the Unity `productName` (now `ICS-Game`) should change; a colon is unsafe in build paths, so a build name would be "ICS Interplanetary Corporate Solutions" or "ICS".

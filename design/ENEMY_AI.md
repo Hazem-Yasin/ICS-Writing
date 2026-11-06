@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Enemy AI — Behavioral States & Detection Design
 
 *This document covers how every enemy category behaves in the game — patrol patterns, alert states, pursuit logic, and how the player interacts with detection. The design must be consistent with who these enemies are: compliance officers, grieving loyalists, and interplanetary enforcers — not generic guards.*

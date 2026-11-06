@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Environmental Storytelling — Rules and Prop Manifest
 
 *The facility tells its story through objects that were placed by someone for a reason. A cleaned floor, a laminated card, a coffee ring, a bench worn on the right. This sheet sets the rules for placing them and lists, level by level, the props that must exist, with a link to the Blender work that will build them.*

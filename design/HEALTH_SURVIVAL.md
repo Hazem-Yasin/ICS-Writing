@@ -1,7 +1,7 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Health & Survival System Design
 
-*This document covers how the player takes damage, survives, and heals in ICS — Rigged Sphere. The system must be consistent with who the player is (a human data analyst, not a soldier), what the world is (a corporate facility, not a battlefield), and what the horror is (a system that was designed to keep you compliant, not to kill you).*
+*This document covers how the player takes damage, survives, and heals in ICS: Interplanetary Corporate Solutions. The system must be consistent with who the player is (a human data analyst, not a soldier), what the world is (a corporate facility, not a battlefield), and what the horror is (a system that was designed to keep you compliant, not to kill you).*
 
 ---
 
@@ -11,7 +11,7 @@ ICS Earth Branch was built to make employees productive, comfortable, and compli
 
 The horror is not that the facility hurts you. The horror is that the people in it do — and that the facility's own systems, turned against their purpose, can too.
 
-This means damage in ICS — Rigged Sphere is always caused by one of three things:
+This means damage in ICS: Interplanetary Corporate Solutions is always caused by one of three things:
 1. **Other people** — PTKW security, EOD's effects, Omega-1 assets
 2. **Modified or misused ICS equipment** — the player is not the only one who understands what a CRD-7R does
 3. **Infrastructure failure** — steam lines, pressurized conduits, the cold of Level 0, falling through a maintenance crawl space

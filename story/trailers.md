@@ -1,7 +1,7 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ### Trailer Scripts
 
-*This file contains the three trailer scripts for ICS — Rigged Sphere. Each is a standalone deliverable. They are ordered from warmest to coldest — Trailer 1 believes in itself; Trailer 3 does not pretend.*
+*This file contains the three trailer scripts for ICS: Interplanetary Corporate Solutions. Each is a standalone deliverable. They are ordered from warmest to coldest — Trailer 1 believes in itself; Trailer 3 does not pretend.*
 
 *→ See: `canon/documents/` for all in-world documents and lore.*
 *→ See: design/DESIGN.md for characters, narrative arc, and scene notes.*

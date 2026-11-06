@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Failure Loop — Death, Capture, Retry
 
 *Failure in this game is a document. The player is never told "you died." They are told what the system has done with them: a status updated, an asset reclassified, a window closed. The loop is built so that the wording is the punishment and the return is fast.*

@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Tool Tuning — Numbers
 
 *Every tool in this game already has a number somewhere: a charge count, a duration, a range, a build time. They live in six different files. This sheet puts them in one table, marks which are canon and which are placeholders, and sets the few numbers that no document has chosen yet.*

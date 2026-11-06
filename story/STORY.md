@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## The Story
 
 *This is the game's narrative written as a story — the moments, the scenes, the experience of being Kai Osei moving through these events for the first time. The Narrative Arc file is the skeleton. This is the flesh.*

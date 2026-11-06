@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Inventory System Design
 
 *The player's inventory is not a bag. It is a collection of things they have decided to carry through a facility that was not designed for them to be carrying anything. The design principle: every item the player holds is a choice that costs something — space, weight, the risk of carrying contraband, the risk of leaving something behind.*

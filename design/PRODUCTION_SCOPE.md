@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Production Scope
 
 *Nothing in the design documents decides how the game is built, by whom, in what engine, or for which platform. This sheet does not decide those things either. It lists every production question the design leaves open, states what the existing documents imply, and puts a clearly marked placeholder where a decision is needed.*

@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## The Tension Curve — Pacing Across Seven Phases
 
 *The game is not a steady climb. It is a held breath, a long cold stretch, a speech, a room that goes quiet, and then twenty-two hours with no objective marker. This sheet maps where the pressure rises, where it drops, and where the game deliberately gives the player somewhere to sit.*

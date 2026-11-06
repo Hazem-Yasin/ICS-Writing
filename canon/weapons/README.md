@@ -1,7 +1,7 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Weapons & Tools Reference
 
-*This folder documents all player-usable weapons and tools in ICS — Rigged Sphere. Each entry covers what the item is, where it comes from in-world, how the player finds it, how it plays, and what it means inside the world.*
+*This folder documents all player-usable weapons and tools in ICS: Interplanetary Corporate Solutions. Each entry covers what the item is, where it comes from in-world, how the player finds it, how it plays, and what it means inside the world.*
 
 *The design logic governing this entire system:*
 

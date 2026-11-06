@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## NPC Companion Mechanics — Tarek, Omar, Sera
 
 *This document covers how the three principal NPCs behave as dynamic characters in the game — not as quest-givers, not as followers, but as people the player shares a facility with. The design goal is: the player should feel the weight of each of these relationships without the game ever announcing that a relationship exists. Tarek is not marked as an ally. Sera is not marked as a complication. Omar is not marked as anything. The player reads it themselves, over time, or they don't.*

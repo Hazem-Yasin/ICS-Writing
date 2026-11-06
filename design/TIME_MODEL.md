@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## The Time Model — Calendar, Clock and Schedules
 
 *The game has two clocks. One is a calendar that runs ninety-six days and is mostly told, not played. The other is a stopwatch that runs twenty-two hours and is played in full. Every schedule in the facility hangs off the first. Every decision in Phase 6 hangs off the second. This sheet says how they fit together.*

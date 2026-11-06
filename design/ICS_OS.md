@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 
 ## ICS-OS (version 0.1) — the ICS Earth Branch Operating System
 

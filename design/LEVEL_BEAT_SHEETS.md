@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Level Beat Sheets — Template and Levels 0–14
 
 *A level file says what a place is. A beat sheet says what happens in it, in what order, and what the player is meant to feel when they leave. The facility files are already good at the first. This sheet adds the second, and gives every future level the same skeleton so that pacing can be compared across the game.*

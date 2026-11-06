@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ### Game Design Document
 
 *This file is the blueprint. It contains everything about how the game works, who walks through it, and what they find when they do. The world is built in the `canon/documents/` folder. This file is what happens inside it.*
@@ -34,7 +34,7 @@
 
 ## 6. Characters
 
-*This section documents the named characters of ICS — Rigged Sphere: who they are, what they know, what they want, and what happens to them. Every character entry includes their asset number, their public-facing ICS identity, and the private truth underneath it. Where a character exists in the in-world documents — in a maintenance note, an EIMU report, a reclassification batch — that reference is noted.*
+*This section documents the named characters of ICS: Interplanetary Corporate Solutions: who they are, what they know, what they want, and what happens to them. Every character entry includes their asset number, their public-facing ICS identity, and the private truth underneath it. Where a character exists in the in-world documents — in a maintenance note, an EIMU report, a reclassification batch — that reference is noted.*
 
 *The game is about systems, not heroes. But systems are walked through by people. These are the people.*
 

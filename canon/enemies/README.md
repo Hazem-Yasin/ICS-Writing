@@ -1,7 +1,7 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Enemy Reference
 
-*This folder documents every hostile force the player encounters in ICS — Rigged Sphere. "Enemy" in this game is not a simple category. The most dangerous enemies are not the ones pointing compliance tools at you. They are the ones who believe in what they're doing — or who made a deal they can't undo.*
+*This folder documents every hostile force the player encounters in ICS: Interplanetary Corporate Solutions. "Enemy" in this game is not a simple category. The most dangerous enemies are not the ones pointing compliance tools at you. They are the ones who believe in what they're doing — or who made a deal they can't undo.*
 
 ---
 

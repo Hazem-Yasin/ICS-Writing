@@ -1,6 +1,6 @@
 # Weapons & Tools — System Overview
 
-*This document covers the design principles, acquisition system, upgrade logic, and weapon categories for ICS — Rigged Sphere.*
+*This document covers the design principles, acquisition system, upgrade logic, and weapon categories for ICS: Interplanetary Corporate Solutions.*
 
 ---
 

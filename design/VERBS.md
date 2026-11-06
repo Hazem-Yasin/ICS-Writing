@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## The Verb Sheet — What the Player Can Do
 
 *Eight verbs. That is the whole game. Everything else in the design documents — the tools, the badge, the maintenance network, the Charter, the 22 hours — is something one of these eight verbs acts on. If a proposed feature does not need a ninth verb, it does not get one.*

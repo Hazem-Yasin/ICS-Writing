@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ### Extended Documents
 
 *This file contains the long-form documents that the player finds and must read completely — documents where the horror lives in the reading itself, not in a summary. Each is written as it would appear to the player: on a screen, in a hand, under a light.*

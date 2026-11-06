@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Art and Visual Direction
 
 *The facility looks like the best place you have ever worked. That is the art direction. Every surface is warm, rounded and clean, and the horror is that the look never changes while everything it means does. The game's visual arc is not a descent into darkness. It is the same light on a building that has lost its people.*

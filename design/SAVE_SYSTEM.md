@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Save System Design
 
 *The save system is a design argument. Every save system makes an argument about what the player's time is worth and what the game considers reversible. This game's argument: the choices that matter are permanent. The choices that don't matter are frequently checkpointed. The player should never lose meaningful progress from a crash or a disconnection. They should also never be able to undo the decision to show Tarek his brother's name.*

@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## The Opening Sequence — Scene Notes
 ### From Shuttle Arrival to First Meaningful Choice
 

@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 
 **A first-person narrative game in the style of BioShock.** The player is a human employee inside the ICS Earth Branch — a corporate facility shaped like a second moon in orbit above Earth. ICS is an alien-run planetary labor company. The warmth is real. The cage is real. The horror is that you cannot point to the moment it goes wrong, because it was always this.
 

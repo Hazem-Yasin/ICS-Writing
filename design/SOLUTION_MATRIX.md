@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## The Solution Matrix — Many Ways Through, None of Them Clean
 
 *Every obstacle in the facility has more than one answer. None of the answers is free, and none of them is "kill it." This sheet lists the obstacles the design documents already contain, the tools and verbs that answer each, and what each answer costs.*

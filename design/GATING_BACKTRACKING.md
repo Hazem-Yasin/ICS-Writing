@@ -1,4 +1,4 @@
-# ICS — Rigged Sphere
+# ICS: Interplanetary Corporate Solutions
 ## Gating and Backtracking — What Opens, What Closes, What Can Be Revisited
 
 *The game is a single building. The player can walk to almost anywhere they have a reason to. Gates are not walls; they are credentials, clocks and people. Backtracking is not penalised and is rarely rewarded with new content, except where the building has changed.*
