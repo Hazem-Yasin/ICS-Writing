@@ -1,4 +1,4 @@
-**From:** PTKW Analyst K-7 (Level 5, Monitoring & Analysis)
+**From:** PTKW Analyst K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
 **To:** PTKW Commercial Operations Lead (Level 6)
 **Subject:** SOLCRED pricing — Q2 behavioral response data — flag for review
 **Status:** PTKW INTERNAL

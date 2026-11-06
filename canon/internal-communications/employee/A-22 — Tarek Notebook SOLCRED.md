@@ -1,4 +1,4 @@
-**From:** E-03388 (Tarek Mansour)
+**From:** E-03388 (Tarek Mansour) <e-03388@e349.ics>
 **To:** [inside the back cover of his personal notebook — not a message]
 **Status:** NOT A MESSAGE — handwritten, found with the notebook in the Level 2 supply station
 

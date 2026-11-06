@@ -1,5 +1,5 @@
-**From:** E-02209 (Hana Park, Level 3 Work Floor B)
-**To:** E-02210 (Femi Adeyemi, Level 3 Work Floor B)
+**From:** E-02209 (Hana Park, Level 3 Work Floor B) <e-02209@e349.ics>
+**To:** E-02210 (Femi Adeyemi, Level 3 Work Floor B) <e-02210@e349.ics>
 **Subject:** the coffee thing
 **Status:** SENT — CCN delivery confirmed
 

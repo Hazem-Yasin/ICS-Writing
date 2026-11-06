@@ -1,4 +1,4 @@
-**From:** M. Castile, ICS Earth Branch Facilities Management
+**From:** M. Castile, ICS Earth Branch Facilities Management <facilities@e349.ics>
 **To:** Level Design Review — All Floors
 **Subject:** Restroom and service area design rationale
 **Date:** Cycle 289, Fit-Out Phase

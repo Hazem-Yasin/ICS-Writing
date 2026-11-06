@@ -6,8 +6,8 @@
 ---
 
 **[FORWARD 1]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** K-12, TOR-9 (archived), VAH-3
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** K-12 <k-12@e349.ics>, TOR-9 (archived) <tor-9@e349.ics>, VAH-3 <vah-3@e349.ics>
 **Subject:** FWD: Marcus's message — note the EIMU during composition
 
 Colleagues,
@@ -29,8 +29,8 @@ K-12: watch his file. The transition from True Believer to something else usuall
 ---
 
 **[FORWARD 2]**
-**From:** K-12 (Level 5, Monitoring & Analysis)
-**To:** K-7
+**From:** K-12 (Level 5, Monitoring & Analysis) <k-12@e349.ics>
+**To:** K-7 <k-7@e349.ics>
 **Subject:** Re: FWD: Marcus's message
 
 K-7,

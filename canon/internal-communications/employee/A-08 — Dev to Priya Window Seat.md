@@ -1,5 +1,5 @@
-**From:** E-03901 (Dev Anand, Level 6 Research)
-**To:** E-03902 (Priya Nair, Level 6 Research)
+**From:** E-03901 (Dev Anand, Level 6 Research) <e-03901@e349.ics>
+**To:** E-03902 (Priya Nair, Level 6 Research) <e-03902@e349.ics>
 **Subject:** RE: RE: RE: RE: RE: the window seat
 **Status:** SENT — CCN delivery confirmed
 

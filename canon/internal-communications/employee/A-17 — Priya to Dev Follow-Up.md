@@ -1,5 +1,5 @@
-**From:** E-03019 (Priya Nair, Level 4 Data Processing)
-**To:** E-02208 (Dev Sharma, Level 4 Data Processing)
+**From:** E-03019 (Priya Nair, Level 4 Data Processing) <e-03019@e349.ics>
+**To:** E-02208 (Dev Sharma, Level 4 Data Processing) <e-02208@e349.ics>
 **Subject:** re: the window thing
 **Status:** FOUND — Level 4 shared terminal, sent folder. Cycle 300 Q2.
 

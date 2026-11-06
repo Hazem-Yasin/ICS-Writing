@@ -1,5 +1,5 @@
-**From:** Earth Branch Operations (Earth Branch Manager)
-**To:** ICS Interplanetary Research Division (EOD Research Team)
+**From:** Earth Branch Operations (Earth Branch Manager) <manager@e349.ics>
+**To:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
 **Subject:** RE: Deployment Order 287 — update: where EOD was on Day 16, and the Blue Harrow survivor interview
 **Date:** Cycle 300 Q4 — Day 22, 02:15
 **Status:** BOARD ACCESS — recovered from the Level 8 operational archive

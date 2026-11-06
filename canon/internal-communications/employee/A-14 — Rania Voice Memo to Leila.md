@@ -1,4 +1,4 @@
-**From:** E-04421 (Rania Odhiambo)
+**From:** E-04421 (Rania Odhiambo) <e-04421@e349.ics>
 **To:** [personal device — voice memo transcription. Found in jacket lining along with Note 5.]
 **Status:** NOT SENT — a voice memo she recorded herself, transcribed
 

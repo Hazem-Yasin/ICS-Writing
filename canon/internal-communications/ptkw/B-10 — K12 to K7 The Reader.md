@@ -1,5 +1,5 @@
-**From:** PTKW Analyst K-12 (Level 5, Monitoring & Analysis)
-**To:** PTKW Analyst K-7 (Level 5, Monitoring & Analysis)
+**From:** PTKW Analyst K-12 (Level 5, Monitoring & Analysis) <k-12@e349.ics>
+**To:** PTKW Analyst K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
 **Subject:** the one who reads at 23:00
 **Status:** PTKW INTERNAL
 

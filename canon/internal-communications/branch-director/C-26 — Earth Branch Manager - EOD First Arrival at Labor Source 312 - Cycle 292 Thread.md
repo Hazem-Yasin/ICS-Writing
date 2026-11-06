@@ -6,8 +6,8 @@
 ---
 
 **[MESSAGE 1]**
-**From:** Branch Manager, Labor Source #312
-**To:** Interplanetary HQ (Regional Sector Lead, Milky Way Division)
+**From:** Branch Manager, Labor Source #312 <manager@e312.ics>
+**To:** Interplanetary HQ (Regional Sector Lead, Milky Way Division) <sector-lead@hq.ics>
 **Subject:** Unregistered person on the Branch — no badge, no tier, no record — request for identification
 **Date:** Cycle 292 Q2 — Day 4, 14:20
 
@@ -28,9 +28,9 @@ I would like to know because I have noticed one thing. I am the only person on t
 ---
 
 **[MESSAGE 2]**
-**From:** Interplanetary HQ (Regional Sector Lead, Milky Way Division)
-**To:** Branch Manager, Labor Source #312
-**Cc:** ICS Interplanetary Research Division (EOD Research Team)
+**From:** Interplanetary HQ (Regional Sector Lead, Milky Way Division) <sector-lead@hq.ics>
+**To:** Branch Manager, Labor Source #312 <manager@e312.ics>
+**Cc:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
 **Subject:** RE: Unregistered person on the Branch
 **Date:** Cycle 292 Q2 — Day 4, 17:05
 
@@ -49,9 +49,9 @@ Branch Manager: you will have it within the hour. Review and adhere to its terms
 ---
 
 **[MESSAGE 3 — THE OPERATIONAL HANDLING PROTOCOL]**
-**From:** ICS Interplanetary Research Division (EOD Research Team)
-**To:** Branch Manager, Labor Source #312
-**Cc:** Interplanetary HQ (Regional Sector Lead, Milky Way Division)
+**From:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
+**To:** Branch Manager, Labor Source #312 <manager@e312.ics>
+**Cc:** Interplanetary HQ (Regional Sector Lead, Milky Way Division) <sector-lead@hq.ics>
 **Subject:** EOD (Executioner of Despair) — Operational Handling & Integration Protocol (Document 2.51)
 **Date:** Cycle 292 Q2 — Day 4, 18:10
 **Attachment:** Document 2.51 (Executive Handling Protocol, Form GOV-PDR-002-BM) with Excised Profile Scan (Section 7).

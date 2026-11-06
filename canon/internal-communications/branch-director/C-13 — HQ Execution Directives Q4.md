@@ -1,5 +1,5 @@
-**From:** ICS Cluster Representative Brant / HQ Operations Division
-**To:** Branch Director Maren Voss, ICS Earth Branch
+**From:** ICS Cluster Representative Brant / HQ Operations Division <sector-lead@hq.ics>
+**To:** Branch Director Maren Voss, ICS Earth Branch <director@e349.ics>
 **Subject:** Cycle 300 Q4 — Execution Directives — BINDING — EYES ONLY
 **Status:** HQ → BRANCH DIRECTOR — RESTRICTED — EYES ONLY — DIRECTIVE BINDING
 

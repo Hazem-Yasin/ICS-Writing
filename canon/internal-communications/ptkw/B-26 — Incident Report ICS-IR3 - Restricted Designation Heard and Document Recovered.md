@@ -1,6 +1,6 @@
-**From:** PTKW Duty Officer, Level 5 (Monitoring & Analysis)
-**To:** K-7; TOR-9 (Reclassification Unit)
-**Cc:** K-12; PTKW Oversight Unit, Interplanetary HQ
+**From:** PTKW Duty Officer, Level 5 (Monitoring & Analysis) <ptkw-duty@e349.ics>
+**To:** K-7 <k-7@e349.ics>; TOR-9 (Reclassification Unit) <tor-9@e349.ics>
+**Cc:** K-12 <k-12@e349.ics>; PTKW Oversight Unit, Interplanetary HQ <ptkw-oversight@hq.ics>
 **Subject:** Incident Report ICS-IR3 — E-03615 — restricted designation spoken aloud, document recovered at position, investigation of source opened
 **Date:** Cycle 300 Q4 — Day 32, 19:05
 **Status:** PTKW INTERNAL — RESTRICTED. The attachment contains Board-level content. See the handling note at the foot.

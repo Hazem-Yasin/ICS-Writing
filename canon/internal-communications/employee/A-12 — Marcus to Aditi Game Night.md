@@ -1,5 +1,5 @@
-**From:** E-02847 (Marcus)
-**To:** E-03144 (Aditi — team member, Level 3 Operations)
+**From:** E-02847 (Marcus) <e-02847@e349.ics>
+**To:** E-03144 (Aditi — team member, Level 3 Operations) <e-03144@e349.ics>
 **Subject:** RE: the Thursday thing
 **Status:** SENT — CCN delivery confirmed
 

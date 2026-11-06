@@ -1,5 +1,5 @@
-**From:** Branch Director Maren Voss, ICS Earth Branch
-**To:** ICS Cluster Representative Brant / HQ Operations
+**From:** Branch Director Maren Voss, ICS Earth Branch <director@e349.ics>
+**To:** ICS Cluster Representative Brant / HQ Operations <sector-lead@hq.ics>
 **Subject:** SOLCRED Q3 pricing directive — Director's note
 **Status:** BRANCH DIRECTOR → HQ — RESTRICTED
 

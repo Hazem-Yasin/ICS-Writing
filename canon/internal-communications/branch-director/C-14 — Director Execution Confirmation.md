@@ -1,5 +1,5 @@
-**From:** Branch Director Maren Voss, ICS Earth Branch
-**To:** ICS Cluster Representative Brant / HQ Operations Division
+**From:** Branch Director Maren Voss, ICS Earth Branch <director@e349.ics>
+**To:** ICS Cluster Representative Brant / HQ Operations Division <sector-lead@hq.ics>
 **Subject:** Re: Cycle 300 Q4 — Execution Directives — Confirmation
 **Status:** BRANCH DIRECTOR → HQ — RESTRICTED — DIRECTIVE BINDING
 

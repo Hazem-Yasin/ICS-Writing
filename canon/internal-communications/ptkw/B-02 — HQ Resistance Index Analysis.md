@@ -1,4 +1,4 @@
-**From:** PTKW Oversight Unit, Interplanetary HQ
+**From:** PTKW Oversight Unit, Interplanetary HQ <ptkw-oversight@hq.ics>
 **To:** PTKW Senior Operations, Earth Branch Level 5
 **Subject:** Earth Branch resistance index — Q3 trend analysis
 **Date:** Cycle 300 Q3

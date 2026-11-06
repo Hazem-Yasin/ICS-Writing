@@ -1,5 +1,5 @@
-**From:** K. Brant, ICS Regional Sector Lead — Earth Sector
-**To:** Dr. Akar; Branch Director [REDACTED]
+**From:** K. Brant, ICS Regional Sector Lead — Earth Sector <sector-lead@hq.ics>
+**To:** Dr. Akar <design@e349.ics>; Branch Director [REDACTED] <director@e349.ics>
 **Subject:** FWD: Board observation — Earth Branch design
 **Date:** Cycle 295
 **Status:** BOARD COMMUNICATION — forwarded to PTKW-cleared recipients

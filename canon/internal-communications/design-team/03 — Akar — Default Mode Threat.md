@@ -1,5 +1,5 @@
-**From:** Dr. Selin Akar
-**To:** BES Working Group; Behavioral Analytics Division
+**From:** Dr. Selin Akar <design@e349.ics>
+**To:** BES Working Group <bes@e349.ics>; Behavioral Analytics Division <design@e349.ics>
 **Subject:** The Default Mode Threat — design implications for social and leisure spaces
 **Date:** Cycle 288, Construction Phase 3
 **Status:** Internal working draft

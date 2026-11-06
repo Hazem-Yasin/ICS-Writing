@@ -15,6 +15,9 @@
 | 6 | **Music.** `DISCOVERY_SEQUENCE` fixes the cut at Day 10, 22:00; `TIME_MODEL` says "Phase 2 runs to Day 14" as a state; `ART_DIRECTION` says "Music off in Phase 2+". Phase 2 begins Day 4, so Days 4–10 still have music. | `DISCOVERY_SEQUENCE`, `TIME_MODEL`, `ART_DIRECTION`, `DESIGN.md` Phase 2 | Music plays until Day 10, 22:00. Scene 1.2 (Day 4) keeps it on; scene 1.5 (Day 18) has none. Reword `ART_DIRECTION` and `DESIGN.md` Phase 2. |
 | 7 | **Atrium act.** `story/STORY.md` §II: the badge reader on the pillar shows Yaw a classification string, and the letter is Yaw's own, left on his chair; Marcus picks it up. `design/DISCOVERY_SEQUENCE.md` Beat 4.1: EOD places a handwritten Arabic letter from Yaw's deceased mother on his chair; the Director watches from the mezzanine. | STORY.md §II, DISCOVERY_SEQUENCE 4.1, `design/EOD_ENCOUNTERS.md` | STORY.md wins (precedence: story over design). Fix Beat 4.1. Scene 1.9 follows STORY.md and does not show the Director. |
 | 8 | **Transmission frequency.** STORY.md: "every two weeks". `design/DESIGN.md` Phase 0 and the player file: "roughly monthly", 47 transmissions in three cycles. Neither fits: fortnightly is about 78, monthly about 36. | STORY.md, DESIGN.md, E-05682 file, JOBS_AND_CAREER | Say "roughly every three weeks" in STORY.md, or keep 47 and drop the frequency. Scene 1.10 names no frequency. |
+| 9 | **The Director's plush.** `story/STORY.md` §V: she found it in the top drawer on the first day of Cycle 294 and put it on the desk. Doc 2.35 (last page) and `Branch Director.md` / `Previous Branch Director.md`: it was on her desk when she arrived; she never put it there, and does not know who did. | STORY.md §V, Doc 2.35, character files | Canon wins: the plush appeared unplaced. Fix STORY.md §V. Scene 1.11 follows Doc 2.35. |
+| 10 | **Entry 37.** STORY.md §V gives Entry 37 the homemade-food, observation-deck and Stage 3 content. Doc 2.35 Entry 37 is one line: "I read the Board Governance Charter." That content is in Entries 29 and 34. C-03 calls Entry 37 "the threshold". | STORY.md §V, Doc 2.35, C-03, C-08 note 7 | Reword STORY.md to cite Entries 29, 34 and 37. Scene 1.11 keeps Entry 37 to its one line. |
+| 11 | **K-7's level.** B-01 and B-05 (and B-07 for K-12) head him "Level 8"; B-22 and B-28 and the character file say Level 5, Monitoring & Analysis. | B-01, B-05, B-07, B-22, B-28, K-7 file | Level 5 is his post; Level 8 is the live-feed desk he rotated through (the K-7 file's own reading). Scene 1.13 uses Level 5. |
 
 Not a contradiction any more: **#038** (Stage 2, closed, Stage 3). It was resolved in ruling 16: Stage 3 when EOD deployed, closed Cycle 201. Stairwell B timing was resolved too (ruling 3: Day 15, 23:00).
 
@@ -44,8 +47,23 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - 1.9: Kai is 25 m from the pillar and cannot read the string. EOD is not seen to look at him.
 - 1.10: Kai can open his quarters terminal during confinement (STORY.md "Before It Begins" puts the folder there). `design/DESIGN.md` Phase 1 says the confined player has "access to nothing" except what they know and the maintenance panel. Assumption: the terminal is readable but cannot send. Needs a ruling.
 - 1.10: Kai writes a list on paper and sends nothing. His real decision about the Vantage channel is left to the author.
+- 1.11: the PTKW form, the signature, Brant's message and the lamp timer are new. She has already read the Charter when the scene starts; its contents are not shown. Entry 37 stays one line.
+- 1.12: the queue, the dialogue and the feedback card are new; nobody is named. The coffee's real nature is never told to the characters, in line with C-09.
+- 1.13: K-7's forty minutes are filled with new detail (the desk, the colleague, the drafts). The sources fix only the times 06:50 and 07:31 and the text of the sent message. K-7 is male by the file's open ruling 1.
 - Opening Sequence "Tier 3 (Day 1)": checked, not a contradiction. Its placement note frames it as Kai's memory of Day 1.
 - 1.3 and 1.5: the Khalid line from Phase 2 is the only mention before the registry, so 1.5 leaves him out.
 - 1.4: the CCN processing note says the message is released to the maintenance terminal only, which follows the canon that the player reads it there.
 - 1.1: the Manager lays the page face down on the blotter instead of filing it. C-26's note says he kept it and scanned it once; the scene stops before the scan. The cleaner saying good night to EOD by name is new.
 - 1.3: "five years" is Omar's tenure (his file), not Kai's (Kai: 3 cycles).
+
+## B-series additions, 2026-11-06 [PROPOSAL]
+
+- **B-29** (investigation result for B-26): follows ruling 28's proposed answer. The scan is not traced to any person; the Division's "returned and destroyed" and B-28's "returned" are set side by side and not interpreted. New rule for the author to confirm or cut: a *recorded exposure* (reading the older designations) is not an incident, repeating them is; nine readers sign an acknowledgment. E-03615's fate stays open; his question "Is it true?" is unanswered.
+- **Design Team D-01:** the real companies and the quoted real person are replaced by invented ones (Halden Ridge Group, Orrin Systems, Fennick & Dole). Handoff Rule C no longer applies to D-01.
+- **B-30** (graffiti): the wall is in the Level 3 main corridor, not a stairwell; discovered by a night cleaner (E-04118, placeholder). The words are the PTKW expansion from Doc 2.02, so the line cannot have come from the B-26 sheet: a second leak. Two sleeping assets' badges pass the corridor doors in the night, left unexplained. The duty officer notes Level 5 itself may be where the words left. The Level 2 restroom pencil line is kept separate. File numbers ICS-IR3-300Q4-032 and -036 follow B-26's pattern.
+- **Mentions of "Inflatable Crowd Solutions" (TODO B3)**, each in a file whose access line allows it:
+  - Doc 2.21 Organizational Charter (PTKW Access Only), preamble: the gap begins at the cover; do not write the second reading where a Tier 1 badge can reach it.
+  - Doc 2.22 Operations Manual (PTKW Access, Branch Director and above), after the Purpose: the five stages are stages of a fill.
+  - Doc 2.23 Board Governance Charter (Board Access Only), Section 1: the name carries the same split; the Board's own name is not written.
+  - Doc 2.29 Glossary, ICS term, PTKW layer: use it in writing only at PTKW level; a Global reader assumes a joke about the mascots.
+  - Not edited: Docs 2.14, 2.16, 2.17 (Board-only technical documents where the name has no natural place) and the B and C series. Say if you want more.

@@ -1,4 +1,4 @@
-**From:** E-02391 (Nilufar Rashidova, Level 3 Research Support)
+**From:** E-02391 (Nilufar Rashidova, Level 3 Research Support) <e-02391@e349.ics>
 **To:** [no recipient — found in draft folder, terminal 3-C-09]
 **Subject:** [no subject]
 **Status:** UNSENT — draft auto-saved 03:47, Cycle 300 Q3 Week 6. Terminal cleared four days later when E-02391 was "reassigned."

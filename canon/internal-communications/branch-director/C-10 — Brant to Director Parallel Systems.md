@@ -1,5 +1,5 @@
-**From:** ICS Cluster Representative Brant
-**To:** Branch Director, ICS Earth Branch
+**From:** ICS Cluster Representative Brant <sector-lead@hq.ics>
+**To:** Branch Director, ICS Earth Branch <director@e349.ics>
 **Subject:** Re: Re: your question about the coffee machine
 **Status:** BRANCH DIRECTOR INTERNAL — Cycle 300 Q3
 

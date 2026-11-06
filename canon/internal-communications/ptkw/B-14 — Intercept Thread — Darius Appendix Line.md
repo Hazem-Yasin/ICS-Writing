@@ -6,8 +6,8 @@
 ---
 
 **[FORWARD 1]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** K-12
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** K-12 <k-12@e349.ics>
 **Subject:** FWD: Darius draft — the appendix line
 
 K-12,
@@ -29,8 +29,8 @@ Watch the window pattern. If the morning ritual breaks — even one day — flag
 ---
 
 **[FORWARD 2]**
-**From:** K-12 (Level 5, Monitoring & Analysis)
-**To:** K-7
+**From:** K-12 (Level 5, Monitoring & Analysis) <k-12@e349.ics>
+**To:** K-7 <k-7@e349.ics>
 **Subject:** Re: FWD: Darius draft
 
 K-7,

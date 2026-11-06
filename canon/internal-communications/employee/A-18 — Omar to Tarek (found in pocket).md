@@ -1,5 +1,5 @@
-**From:** E-05091 (Omar Khalil, Night Shift Facilities)
-**To:** E-03388 (Tarek Mansour, Cleaning Supervisor Levels 1–4)
+**From:** E-05091 (Omar Khalil, Night Shift Facilities) <e-05091@e349.ics>
+**To:** E-03388 (Tarek Mansour, Cleaning Supervisor Levels 1–4) <e-03388@e349.ics>
 **Subject:** [no subject — handwritten on a piece of Level 2 maintenance log paper]
 **Status:** NOT SENT — found folded in Tarek's shirt pocket during Phase 4. Omar slipped it under the door of the Level 2 supply closet. Tarek found it on a Tuesday.
 

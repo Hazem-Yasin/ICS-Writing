@@ -1,6 +1,6 @@
 **FACILITY-WIDE BROADCAST**
-**From:** ICS Earth Branch — People & Culture Division
-**To:** All Staff — All Tiers
+**From:** ICS Earth Branch — People & Culture Division <people@e349.ics>
+**To:** All Staff — All Tiers <all-staff@e349.ics>
 **Subject:** A Friendly Reminder About Facility Equipment and Your Safety
 **Status:** GLOBAL ACCESS — All Staff
 

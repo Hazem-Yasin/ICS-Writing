@@ -1,5 +1,5 @@
 **From:** PTKW Engineering Division (Level 5)
-**To:** K-7, K-12, VAH-3, Branch Director (for awareness)
+**To:** K-7 <k-7@e349.ics>, K-12 <k-12@e349.ics>, VAH-3 <vah-3@e349.ics>, Branch Director (for awareness) <director@e349.ics>
 **Subject:** URGENT — Badge Deactivation Backlog — Phase 5 Security Assessment
 **Status:** PTKW INTERNAL — URGENT
 

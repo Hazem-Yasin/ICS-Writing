@@ -6,8 +6,8 @@
 ---
 
 **[MESSAGE 1]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** Earth Branch Manager
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** Earth Branch Manager <manager@e349.ics>
 **Subject:** The individual on Level 2 — request for information
 **Date:** Day 5, 10:05
 
@@ -22,8 +22,8 @@ I am not asking you to explain the figure. I am asking what PTKW should do if an
 ---
 
 **[MESSAGE 2]**
-**From:** Earth Branch Manager
-**To:** All PTKW agents, all levels
+**From:** Earth Branch Manager <manager@e349.ics>
+**To:** All PTKW agents, all levels <ptkw-all@e349.ics>
 **Subject:** The individual on the Branch
 **Date:** Day 5, 12:10
 
@@ -40,8 +40,8 @@ Staff who ask are told: *A senior ICS consultant is visiting the facility.* Noth
 ---
 
 **[MESSAGE 3]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** Earth Branch Manager
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** Earth Branch Manager <manager@e349.ics>
 **Subject:** Re: The individual on the Branch
 **Date:** Day 5, 12:48
 
@@ -56,8 +56,8 @@ You called him your old friend. If you know him, you know more than we do. May I
 ---
 
 **[MESSAGE 4]**
-**From:** Earth Branch Manager
-**To:** K-7 (Level 5, Monitoring & Analysis)
+**From:** Earth Branch Manager <manager@e349.ics>
+**To:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
 **Subject:** FWD: EOD (Executioner of Despair) — Operational Handling & Integration Protocol (Document 2.51)
 **Date:** Day 6, 06:50
 
@@ -109,8 +109,8 @@ Please review and strictly adhere to the mandatory procedural steps and operatio
 ---
 
 **[MESSAGE 5]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** All PTKW agents, all levels
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** All PTKW agents, all levels <ptkw-all@e349.ics>
 **Subject:** FWD: EOD — Branch Manager's handling manual
 **Date:** Day 6, 07:31
 

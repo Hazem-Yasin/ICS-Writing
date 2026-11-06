@@ -1,5 +1,5 @@
-**From:** ICS Interplanetary Research Division (EOD Research Team)
-**To:** Earth Branch Operations (Earth Branch Manager)
+**From:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
+**To:** Earth Branch Operations (Earth Branch Manager) <manager@e349.ics>
 **Subject:** The Discussion of EOD Sunsetting
 **Date:** Cycle 300 Q4 — Day 29, 07:30
 **Status:** SEALED — TWO READERS: EOD Research Team, Earth Branch Manager. No other office, at any level. EOD [Executioner of Despair (Subjugator, The Willbreaker, Harmony; public name Envoy of Devotion)] is not a reader and is not to be told that this file exists. Recovered from the Level 8 operational archive, in the same folder as Document 2.49. See Document 2.49.

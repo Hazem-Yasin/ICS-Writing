@@ -1,5 +1,5 @@
-**From:** R. Ohm, Behavioral Analytics Lead
-**To:** Dr. Akar; PTKW Design Liaison
+**From:** R. Ohm, Behavioral Analytics Lead <design@e349.ics>
+**To:** Dr. Akar <design@e349.ics>; PTKW Design Liaison
 **Subject:** Resistance Index projections — facility design failure modes
 **Date:** Cycle 289, Pre-Opening Review
 **Status:** PTKW INTERNAL — not for Global Access distribution

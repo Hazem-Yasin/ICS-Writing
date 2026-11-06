@@ -1,5 +1,5 @@
-**From:** E-04788 (Sera Vasquez)
-**To:** E-03761 (colleague, Work Floor C)
+**From:** E-04788 (Sera Vasquez) <e-04788@e349.ics>
+**To:** E-03761 (colleague, Work Floor C) <e-03761@e349.ics>
 **Subject:** checking in
 **Status:** SENT — CCN delivery confirmed
 

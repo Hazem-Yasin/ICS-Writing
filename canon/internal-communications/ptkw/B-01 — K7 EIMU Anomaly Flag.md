@@ -1,4 +1,4 @@
-**From:** PTKW Duty Officer K-7 (Earth Branch, Level 8)
+**From:** PTKW Duty Officer K-7 (Earth Branch, Level 8) <k-7@e349.ics>
 **To:** PTKW Senior Officer, Level 5
 **Subject:** EIMU anomaly — Asset E-01899, repeated
 **Date:** Cycle 300 Q1

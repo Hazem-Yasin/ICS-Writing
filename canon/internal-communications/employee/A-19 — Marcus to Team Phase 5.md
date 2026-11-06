@@ -1,4 +1,4 @@
-**From:** E-02847 (Marcus)
+**From:** E-02847 (Marcus) <e-02847@e349.ics>
 **To:** All Level 4–5 Operations Staff (team distribution list)
 **Subject:** A note from me — please read
 **Status:** CCN SENT — Cycle 300 Q4, Day 23 (Phase 5, Day 2 after Tarek stood up)

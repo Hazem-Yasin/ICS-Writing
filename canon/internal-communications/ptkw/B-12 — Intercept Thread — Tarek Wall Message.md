@@ -6,8 +6,8 @@
 ---
 
 **[FORWARD 1]**
-**From:** TOR-9 (Level 5, Reclassification Unit)
-**To:** K-7, VAH-3 (copied)
+**From:** TOR-9 (Level 5, Reclassification Unit) <tor-9@e349.ics>
+**To:** K-7 <k-7@e349.ics>, VAH-3 (copied) <vah-3@e349.ics>
 **Subject:** FWD: Tarek's supply closet message — for the record
 
 K-7, VAH-3,
@@ -33,8 +33,8 @@ I don't know what classification category that is.
 ---
 
 **[FORWARD 2]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** TOR-9, VAH-3
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** TOR-9 <tor-9@e349.ics>, VAH-3 <vah-3@e349.ics>
 **Subject:** Re: FWD: Tarek's supply closet message
 
 TOR-9,

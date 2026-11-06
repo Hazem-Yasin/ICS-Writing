@@ -1,5 +1,5 @@
-**From:** PTKW Senior Officer VAH-3 (Level 5)
-**To:** PTKW Staff, Earth Branch — circular distribution
+**From:** PTKW Senior Officer VAH-3 (Level 5) <vah-3@e349.ics>
+**To:** PTKW Staff, Earth Branch — circular distribution <ptkw-all@e349.ics>
 **Subject:** Reminder: Human Names Protocol
 **Status:** PTKW INTERNAL
 

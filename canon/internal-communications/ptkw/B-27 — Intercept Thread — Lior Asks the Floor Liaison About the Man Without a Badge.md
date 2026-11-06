@@ -35,8 +35,8 @@ This inbox is not a rumours service.
 ---
 
 **[FORWARD 1]**
-**From:** PTKW Floor Liaison, Level 3
-**To:** K-7 (Level 5, Monitoring & Analysis)
+**From:** PTKW Floor Liaison, Level 3 <ptkw-liaison@e349.ics>
+**To:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
 **Subject:** FWD: third query on the unbadged figure
 
 K-7,
@@ -48,8 +48,8 @@ Third query this morning. I told him we do not know. Do we? Because I don't, and
 ---
 
 **[FORWARD 2]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** PTKW Floor Liaison, Level 3
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** PTKW Floor Liaison, Level 3 <ptkw-liaison@e349.ics>
 **Subject:** Re: FWD: third query
 
 Not yet. I have been told a deployment was authorised and that we maintain standard operations and await instructions. I was not told it had arrived.

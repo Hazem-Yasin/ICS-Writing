@@ -1,5 +1,5 @@
-**From:** Dr. Selin Akar
-**To:** Behavioral Analytics Division; PTKW Design Liaison
+**From:** Dr. Selin Akar <design@e349.ics>
+**To:** Behavioral Analytics Division <design@e349.ics>; PTKW Design Liaison
 **Subject:** Post-opening Year 1 review — what is working and what is not
 **Date:** Cycle 291, Year 1 Post-Opening
 **Status:** PTKW INTERNAL

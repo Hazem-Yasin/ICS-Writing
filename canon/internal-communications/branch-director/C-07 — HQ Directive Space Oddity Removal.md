@@ -1,5 +1,5 @@
-**From:** Interplanetary HQ — Operational Directives Channel
-**To:** Branch Director, ICS Earth Branch
+**From:** Interplanetary HQ — Operational Directives Channel <hq@hq.ics>
+**To:** Branch Director, ICS Earth Branch <director@e349.ics>
 **Subject:** Directive EB-300-Q2-014 — Music Programme adjustment
 **Date:** Cycle 300 Q2
 **Status:** OFFICIAL DIRECTIVE — action required within 72 hours

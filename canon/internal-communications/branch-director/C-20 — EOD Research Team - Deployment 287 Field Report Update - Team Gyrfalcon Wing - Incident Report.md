@@ -1,5 +1,5 @@
-**From:** Earth Branch Operations (Earth Branch Manager)
-**To:** ICS Interplanetary Research Division (EOD Research Team)
+**From:** Earth Branch Operations (Earth Branch Manager) <manager@e349.ics>
+**To:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
 **Subject:** RE: Deployment Order 287 — Gyrfalcon Wing report received
 **Date:** Cycle 300 Q4 — Day 24, 11:05
 **Status:** BOARD ACCESS — recovered from the Level 8 operational archive

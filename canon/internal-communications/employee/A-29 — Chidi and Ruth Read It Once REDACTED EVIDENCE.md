@@ -1,6 +1,6 @@
 **PTKW INVESTIGATION — EVIDENCE COPY — REDACTED**
-**From:** E-03702 (Chidi Obi, Level 3 Work Floor B)
-**To:** E-03471 (Ruth Calloway, Level 3 Work Floor A)
+**From:** E-03702 (Chidi Obi, Level 3 Work Floor B) <e-03702@e349.ics>
+**To:** E-03471 (Ruth Calloway, Level 3 Work Floor A) <e-03471@e349.ics>
 **Subject:** [chat, redacted] read it once
 **Date:** Cycle 300 Q4 — Day 31, 21:05 (redacted Day 33, 11:20)
 **Status:** INTERCEPTED — PTKW investigation evidence copy, redacted. Both E-numbers are placeholders.

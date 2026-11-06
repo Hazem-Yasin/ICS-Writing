@@ -1,5 +1,5 @@
-**From:** E-00219 (James)
-**To:** E-00088 (M — his colleague of six years, now transitioned)
+**From:** E-00219 (James) <e-00219@e349.ics>
+**To:** E-00088 (M — his colleague of six years, now transitioned) <e-00088@e349.ics>
 **Subject:** (no subject)
 **Status:** DRAFT — NOT SENT. CCN notation: *"Recipient asset number E-00088 is no longer registered in the employee communication system. Message cannot be delivered. Draft has been retained in sender's outbox for 847 days."*
 

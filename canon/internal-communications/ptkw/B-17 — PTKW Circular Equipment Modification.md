@@ -1,5 +1,5 @@
 **From:** PTKW Operations Division — Earth Branch
-**To:** All PTKW Personnel, Branch Director (for awareness)
+**To:** All PTKW Personnel, Branch Director (for awareness) <ptkw-all@e349.ics>
 **Subject:** PTKW Circular 300-Q3-14 — Unauthorized Equipment Modification: Threat Assessment & Response Protocol
 **Status:** PTKW INTERNAL — RESTRICTED
 

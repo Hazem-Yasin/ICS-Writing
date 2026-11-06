@@ -1,5 +1,5 @@
 **From:** PTKW Operations, Level 9 — Earth Branch
-**To:** Interplanetary HQ — Transit and Logistics
+**To:** Interplanetary HQ — Transit and Logistics <hq@hq.ics>
 **Subject:** Transition batch processing — Cycle 300 Q4
 **Date:** Cycle 300 Q4
 **Status:** PTKW INTERNAL — Level 9 clearance

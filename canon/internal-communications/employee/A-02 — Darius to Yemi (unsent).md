@@ -1,5 +1,5 @@
-**From:** E-01899 (Darius)
-**To:** E-03042 (Yemi, his former colleague, Earth)
+**From:** E-01899 (Darius) <e-01899@e349.ics>
+**To:** E-03042 (Yemi, his former colleague, Earth) <e-03042@e349.ics>
 **Status:** DRAFT — NOT SENT
 **Found:** In the drafts folder of the personal terminal in residential unit 4-D, Cycle 300 Q2.
 

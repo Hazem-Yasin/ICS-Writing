@@ -1,5 +1,5 @@
-**From:** Branch Director, ICS Earth Branch
-**To:** Regional Sector Lead K. Brant
+**From:** Branch Director, ICS Earth Branch <director@e349.ics>
+**To:** Regional Sector Lead K. Brant <sector-lead@hq.ics>
 **Subject:** After the speech
 **Date:** Cycle 300 Q4 — Day 22 post-EOD deployment
 **Status:** SENT — confirmed received by K. Brant; no record exists in the standard communications archive

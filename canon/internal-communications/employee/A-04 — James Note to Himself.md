@@ -1,4 +1,4 @@
-**From:** E-00219 (James)
+**From:** E-00219 (James) <e-00219@e349.ics>
 **To:** [no recipient — found in notes app on personal device, Level 3 locker 19C]
 **Subject:** [none]
 **Status:** NEVER SENT — not a message; a note to himself

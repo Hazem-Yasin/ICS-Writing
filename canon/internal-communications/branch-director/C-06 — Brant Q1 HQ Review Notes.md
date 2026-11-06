@@ -1,5 +1,5 @@
-**From:** Regional Sector Lead K. Brant
-**To:** Branch Director, ICS Earth Branch
+**From:** Regional Sector Lead K. Brant <sector-lead@hq.ics>
+**To:** Branch Director, ICS Earth Branch <director@e349.ics>
 **Subject:** Q1 operational review — notes from HQ
 **Date:** Cycle 299 Q1
 **Status:** PTKW INTERNAL — Branch Director level

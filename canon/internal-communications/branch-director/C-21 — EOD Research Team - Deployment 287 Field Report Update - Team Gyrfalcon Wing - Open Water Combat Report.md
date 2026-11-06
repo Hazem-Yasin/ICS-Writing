@@ -1,5 +1,5 @@
-**From:** Earth Branch Operations (Earth Branch Manager)
-**To:** ICS Interplanetary Research Division (EOD Research Team)
+**From:** Earth Branch Operations (Earth Branch Manager) <manager@e349.ics>
+**To:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
 **Subject:** RE: Deployment Order 287 — open water air engagement, preliminary report
 **Date:** Cycle 300 Q4 — Day 26, 09:30
 **Status:** SEALED — readers: EOD Research Team, Earth Branch Manager, EOD. Not for PTKW. Recovered from the Level 8 operational archive. See Document 2.49.

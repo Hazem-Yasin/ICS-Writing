@@ -1,5 +1,5 @@
-**From:** E-02847 (Marcus)
-**To:** E-03019 (Priya Nair)
+**From:** E-02847 (Marcus) <e-02847@e349.ics>
+**To:** E-03019 (Priya Nair) <e-03019@e349.ics>
 **Subject:** re: the canteen thing
 **Status:** CCN SENT — Cycle 300 Q4, Day 31 (Phase 5, Day 10)
 

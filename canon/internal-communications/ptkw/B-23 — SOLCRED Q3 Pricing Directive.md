@@ -1,5 +1,5 @@
 **From:** PTKW Commercial Operations Lead (Level 6)
-**To:** PTKW Analyst K-7, Branch Director Maren Voss (for awareness)
+**To:** PTKW Analyst K-7 <k-7@e349.ics>, Branch Director Maren Voss (for awareness) <director@e349.ics>
 **Subject:** Re: SOLCRED pricing — Q2 behavioral response — Q3 directive
 **Status:** PTKW INTERNAL
 

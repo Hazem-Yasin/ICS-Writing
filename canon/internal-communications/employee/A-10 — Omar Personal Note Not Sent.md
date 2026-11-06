@@ -1,4 +1,4 @@
-**From:** E-05091 (Omar Khalil)
+**From:** E-05091 (Omar Khalil) <e-05091@e349.ics>
 **To:** [personal notes app — Level 6 workstation, not a message]
 **Status:** NOT SENT — personal note, found in drafts folder
 

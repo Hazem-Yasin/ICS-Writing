@@ -1,5 +1,5 @@
-**From:** Earth Branch Operations (Earth Branch Manager)
-**To:** ICS Interplanetary Research Division (EOD Research Team)
+**From:** Earth Branch Operations (Earth Branch Manager) <manager@e349.ics>
+**To:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
 **Subject:** RE: The Discussion of EOD Sunsetting
 **Date:** Cycle 300 Q4 — Day 30, 06:15
 **Status:** SEALED — TWO READERS: EOD Research Team, Earth Branch Manager. As C-24. EOD is not a reader and is not to be told that this file exists. Recovered from the Level 8 operational archive, in the same folder as Documents 2.49 and C-24.

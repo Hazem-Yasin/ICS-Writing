@@ -1,5 +1,5 @@
-**From:** PTKW Analyst VAH-3 (Level 7, Behavioral Environment Systems)
-**To:** PTKW Analyst K-7, K-12, TOR-9
+**From:** PTKW Analyst VAH-3 (Level 7, Behavioral Environment Systems) <vah-3@e349.ics>
+**To:** PTKW Analyst K-7 <k-7@e349.ics>, K-12 <k-12@e349.ics>, TOR-9 <tor-9@e349.ics>
 **Subject:** FWD: Query on "spontaneous mutual aid" clustering — Cycle 300 Q2
 **Status:** PTKW INTERNAL
 

@@ -6,8 +6,8 @@
 ---
 
 **[FORWARD 1]**
-**From:** VAH-3 (Level 7, Behavioral Environment Systems)
-**To:** TOR-9, K-7
+**From:** VAH-3 (Level 7, Behavioral Environment Systems) <vah-3@e349.ics>
+**To:** TOR-9 <tor-9@e349.ics>, K-7 <k-7@e349.ics>
 **Subject:** FWD: the James note — the one about M
 
 Colleagues,
@@ -37,8 +37,8 @@ Tier 1 flag. Elevated monitoring, personal device review quarterly.
 ---
 
 **[FORWARD 2]**
-**From:** TOR-9 (Level 5, Reclassification Unit)
-**To:** VAH-3, K-7
+**From:** TOR-9 (Level 5, Reclassification Unit) <tor-9@e349.ics>
+**To:** VAH-3 <vah-3@e349.ics>, K-7 <k-7@e349.ics>
 **Subject:** Re: FWD: the James note
 
 VAH-3,
@@ -62,8 +62,8 @@ I'm putting a workflow request in to close the notice properly. It will take abo
 ---
 
 **[FORWARD 3]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** VAH-3, TOR-9
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** VAH-3 <vah-3@e349.ics>, TOR-9 <tor-9@e349.ics>
 **Subject:** Re: Re: FWD: the James note
 
 I've reviewed the file.

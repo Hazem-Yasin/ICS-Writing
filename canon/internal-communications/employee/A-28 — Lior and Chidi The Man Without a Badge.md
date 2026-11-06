@@ -1,5 +1,5 @@
-**From:** E-03615 (Lior Ben-David, Level 3 Work Floor B)
-**To:** E-03702 (Chidi Obi, Level 3 Work Floor B)
+**From:** E-03615 (Lior Ben-David, Level 3 Work Floor B) <e-03615@e349.ics>
+**To:** E-03702 (Chidi Obi, Level 3 Work Floor B) <e-03702@e349.ics>
 **Subject:** the man in the corridor
 **Status:** INTERCEPTED — CCN Protocol 7 pattern match ("no badge", "who is he"). Cycle 300 Q4, Day 4, 19:12 to 19:40 Branch Time. Both E-numbers are placeholders.
 

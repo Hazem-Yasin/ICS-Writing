@@ -1,5 +1,5 @@
-**From:** ICS Cluster Representative Brant / HQ Operations Division
-**To:** Branch Director Maren Voss, ICS Earth Branch
+**From:** ICS Cluster Representative Brant / HQ Operations Division <sector-lead@hq.ics>
+**To:** Branch Director Maren Voss, ICS Earth Branch <director@e349.ics>
 **Subject:** BINDING DIRECTIVE — Omega-1 Pre-Deployment Briefing — Eyes Only
 **Status:** HQ → BRANCH DIRECTOR — EYES ONLY — BINDING
 

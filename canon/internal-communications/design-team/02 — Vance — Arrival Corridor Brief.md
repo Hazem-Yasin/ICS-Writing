@@ -1,5 +1,5 @@
-**From:** T. Vance, Senior Environmental Design, Facilities Management
-**To:** Dr. Akar; BES Working Group
+**From:** T. Vance, Senior Environmental Design, Facilities Management <design@e349.ics>
+**To:** Dr. Akar <design@e349.ics>; BES Working Group <bes@e349.ics>
 **Subject:** RE: Level 1 arrival corridor — temperature and material brief
 **Date:** Cycle 288, Construction Phase 2
 **Status:** Internal working correspondence

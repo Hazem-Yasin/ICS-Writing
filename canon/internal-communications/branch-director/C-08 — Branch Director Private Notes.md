@@ -1,5 +1,5 @@
-**From:** Branch Director, ICS Earth Branch
-**To:** Branch Director, ICS Earth Branch
+**From:** Branch Director, ICS Earth Branch <director@e349.ics>
+**To:** Branch Director, ICS Earth Branch <director@e349.ics>
 **Subject:** [no subject — personal notes found between pages of the operational log]
 **Status:** NOT A MESSAGE — private notes written by hand, on facility stationery
 

@@ -1,5 +1,5 @@
-**From:** Earth Branch Operations (Earth Branch Manager)
-**To:** ICS Interplanetary Research Division (EOD Research Team)
+**From:** Earth Branch Operations (Earth Branch Manager) <manager@e349.ics>
+**To:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
 **Subject:** RE: Deployment Order 287 — Hallvik tower report
 **Date:** Cycle 300 Q4 — Day 26, 11:20
 **Status:** BOARD ACCESS — recovered from the Level 8 operational archive

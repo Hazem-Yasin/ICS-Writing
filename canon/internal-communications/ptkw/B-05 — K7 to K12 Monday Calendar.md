@@ -1,5 +1,5 @@
-**From:** PTKW Duty Officer K-7 (Level 8)
-**To:** PTKW Duty Officer K-12 (Level 8)
+**From:** PTKW Duty Officer K-7 (Level 8) <k-7@e349.ics>
+**To:** PTKW Duty Officer K-12 (Level 8) <k-12@e349.ics>
 **Subject:** RE: RE: RE: the thing with the calendar
 **Status:** PTKW INTERNAL — Level 8 channel
 

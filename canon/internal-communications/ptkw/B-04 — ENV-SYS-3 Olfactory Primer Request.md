@@ -1,5 +1,5 @@
 **From:** Facility Environmental Management, Levels 11–14 [ICS Alien Staff designation: ENV-SYS-3]
-**To:** Behavioral Environment Specification Working Group, Level 5
+**To:** Behavioral Environment Specification Working Group, Level 5 <bes@e349.ics>
 **Subject:** BES Section 4 revision request — social olfactory primer concentration
 **Date:** Cycle 295
 **Status:** PTKW INTERNAL

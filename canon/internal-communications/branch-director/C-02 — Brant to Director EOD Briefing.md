@@ -1,5 +1,5 @@
-**From:** Regional Sector Lead K. Brant, Milky Way Division
-**To:** Branch Director, ICS Earth Branch
+**From:** Regional Sector Lead K. Brant, Milky Way Division <sector-lead@hq.ics>
+**To:** Branch Director, ICS Earth Branch <director@e349.ics>
 **Subject:** RE: EOD deployment — timing and scope
 **Date:** Cycle 300 Q3
 **Status:** PTKW INTERNAL — Branch Director level

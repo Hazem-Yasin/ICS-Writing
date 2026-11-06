@@ -6,8 +6,8 @@
 ---
 
 **[FORWARD 1]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** K-12 (Level 5, Monitoring & Analysis)
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** K-12 (Level 5, Monitoring & Analysis) <k-12@e349.ics>
 **Subject:** FWD: the Kofi email — look at the last paragraph
 
 K-12,
@@ -31,8 +31,8 @@ I've queued E-04112 for standard 90-day elevated monitoring. I want you to pull 
 ---
 
 **[FORWARD 2]**
-**From:** K-12 (Level 5, Monitoring & Analysis)
-**To:** K-7 (Level 5, Monitoring & Analysis)
+**From:** K-12 (Level 5, Monitoring & Analysis) <k-12@e349.ics>
+**To:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
 **Subject:** Re: FWD: the Kofi email
 
 K-7,

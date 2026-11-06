@@ -1,5 +1,5 @@
-**From:** E-04112 (Yaw Asante, Level 4 Operations)
-**To:** E-04788 (Sera Vasquez, Level 4 Data Processing)
+**From:** E-04112 (Yaw Asante, Level 4 Operations) <e-04112@e349.ics>
+**To:** E-04788 (Sera Vasquez, Level 4 Data Processing) <e-04788@e349.ics>
 **Subject:** SOLCRED question
 **Status:** CCN SENT — Cycle 300 Q1. Flagged PRCA (existing elevated monitoring asset).
 

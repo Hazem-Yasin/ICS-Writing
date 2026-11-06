@@ -1,5 +1,5 @@
-**From:** ICS Interplanetary Research Division (EOD Research Team)
-**To:** Earth Branch Operations (Earth Branch Manager)
+**From:** ICS Interplanetary Research Division (EOD Research Team) <eod-research@hq.ics>
+**To:** Earth Branch Operations (Earth Branch Manager) <manager@e349.ics>
 **Subject:** Deployment Order 287 — EOD, Labor Source #349 — request for findings and context
 **Date:** Cycle 300 Q4 — Day 21, 16:20
 **Status:** BOARD ACCESS — recovered from the Level 8 operational archive

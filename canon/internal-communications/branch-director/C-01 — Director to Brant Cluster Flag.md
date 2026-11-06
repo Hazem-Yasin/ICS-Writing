@@ -1,5 +1,5 @@
-**From:** Branch Director, ICS Earth Branch
-**To:** Regional Sector Lead, Milky Way Division — K. Brant
+**From:** Branch Director, ICS Earth Branch <director@e349.ics>
+**To:** Regional Sector Lead, Milky Way Division — K. Brant <sector-lead@hq.ics>
 **Subject:** Q2 compliance index — note on anomalous cluster
 **Date:** Cycle 300 Q2
 **Status:** PTKW INTERNAL — Branch Director level

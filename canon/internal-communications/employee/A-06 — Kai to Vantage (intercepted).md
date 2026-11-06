@@ -1,4 +1,4 @@
-**From:** E-05682 (Kai Osei — the player)
+**From:** E-05682 (Kai Osei — the player) <e-05682@e349.ics>
 **To:** VANTAGE CONSORTIUM — OPERATIONAL CHANNEL
 **Subject:** Transmission 47 — Q3 behavioral aggregate
 **Status:** INTERCEPTED — CCN PROTOCOL 7 FLAG — HELD PENDING REVIEW

@@ -111,6 +111,8 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 31 | 21:05 | Chidi and Ruth, two assets, discuss the sheet they each read once and do not have; redacted on Day 33 **[PROPOSAL]** | `canon/internal-communications/employee/A-29` |
 | 32 | 16:47 | A human asset is heard saying "[Subjugator]" at his desk; a scan of the Doc 2.15 designation block is found in his drawer; PTKW Level 5 files the incident report at 19:05 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-26` |
 | 33 | 11:20 | PTKW investigation team redacts the Day 31 chat as evidence, with a cover note **[PROPOSAL]** | `canon/internal-communications/employee/A-29` |
+| 34 | 18:20 | Investigation result for B-26: the page was cut by the Research Division; the source is not found; Oversight Unit direction **[PROPOSAL]** | `canon/internal-communications/ptkw/B-29` |
+| 35 | 23:50 → 36, 05:40 | "INFLATABLE CROWD SOLUTIONS" written on the Level 3 corridor wall; found by a night cleaner at 05:40; removed 06:48; report filed 14:30 on Day 36 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-30` |
 | 37 | — | Tarek tries the Level 5 door | `design/NPC_COMPANIONS.md` |
 | 44 | — | The cascade becomes self-sustaining | `design/DESIGN.md` |
 | 61 | 09:47 | Category Omega threshold crossed | `story/STORY.md` §V |

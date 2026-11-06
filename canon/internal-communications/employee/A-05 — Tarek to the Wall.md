@@ -1,4 +1,4 @@
-**From:** E-03388 (Tarek Mansour)
+**From:** E-03388 (Tarek Mansour) <e-03388@e349.ics>
 **To:** [the wall — written in pencil on the inside back cover of the Level 1 janitorial station cleaning supply log]
 **Status:** NOT A MESSAGE
 **Found:** On a shelf in the Level 1 janitorial station, behind the supply inventory binder. The log is dated across seven years of shift records.

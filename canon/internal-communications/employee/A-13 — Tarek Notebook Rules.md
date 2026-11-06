@@ -1,4 +1,4 @@
-**From:** E-03388 (Tarek)
+**From:** E-03388 (Tarek) <e-03388@e349.ics>
 **To:** [inside the front cover of his personal notebook — not a message]
 **Status:** NOT SENT — handwritten, found in the cleaning supply station Level 2
 

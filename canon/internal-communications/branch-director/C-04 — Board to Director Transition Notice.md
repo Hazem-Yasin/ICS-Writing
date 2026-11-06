@@ -1,5 +1,5 @@
-**From:** Interplanetary HQ, Board Communication Channel
-**To:** Branch Director, ICS Earth Branch
+**From:** Interplanetary HQ, Board Communication Channel <hq@hq.ics>
+**To:** Branch Director, ICS Earth Branch <director@e349.ics>
 **Subject:** [no subject — Board communications do not use subject lines]
 **Date:** Cycle 300 Q4 — Day 14 post-speech
 **Status:** RECEIVED — no reply expected or possible

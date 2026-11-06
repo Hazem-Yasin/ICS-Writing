@@ -1,5 +1,5 @@
-**From:** E-01899 (Darius)
-**To:** E-04788 (Sera Vasquez)
+**From:** E-01899 (Darius) <e-01899@e349.ics>
+**To:** E-04788 (Sera Vasquez) <e-04788@e349.ics>
 **Subject:** weird thing with the badge reader
 **Status:** CCN SENT — Cycle 300 Q1. Routine scan, no flag.
 

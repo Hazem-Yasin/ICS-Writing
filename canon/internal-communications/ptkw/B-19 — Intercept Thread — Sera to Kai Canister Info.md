@@ -25,8 +25,8 @@ Anyway. Are you coming to the Level 4 thing tonight?
 ---
 
 **[FORWARD 1]**
-**From:** K-12 (Level 5, Monitoring & Analysis)
-**To:** K-7, TOR-9 (copied)
+**From:** K-12 (Level 5, Monitoring & Analysis) <k-12@e349.ics>
+**To:** K-7 <k-7@e349.ics>, TOR-9 (copied) <tor-9@e349.ics>
 **Subject:** FWD: Sera to E-05682 — the canister information is circulating
 
 Colleagues,
@@ -52,8 +52,8 @@ I sometimes think about what it would mean to be Sera Vasquez — to be warm and
 ---
 
 **[FORWARD 2]**
-**From:** K-7 (Level 5, Monitoring & Analysis)
-**To:** K-12, TOR-9
+**From:** K-7 (Level 5, Monitoring & Analysis) <k-7@e349.ics>
+**To:** K-12 <k-12@e349.ics>, TOR-9 <tor-9@e349.ics>
 **Subject:** Re: FWD: Sera to E-05682
 
 K-12,

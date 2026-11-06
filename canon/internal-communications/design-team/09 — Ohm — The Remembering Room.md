@@ -1,5 +1,5 @@
-**From:** BES Architect Ohm (Behavioral Environment Systems, Design Phase)
-**To:** Lead Designer Akar
+**From:** BES Architect Ohm (Behavioral Environment Systems, Design Phase) <design@e349.ics>
+**To:** Lead Designer Akar <design@e349.ics>
 **Subject:** The problem with the Remembering Room
 **Status:** DESIGN PHASE ARCHIVE — recovered from PTKW Research & Learning server
 

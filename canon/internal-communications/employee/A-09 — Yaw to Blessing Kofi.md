@@ -1,5 +1,5 @@
-**From:** E-04112 (Yaw Asante, Level 4 Operations)
-**To:** E-04113 (Blessing Okafor, Level 4 Operations)
+**From:** E-04112 (Yaw Asante, Level 4 Operations) <e-04112@e349.ics>
+**To:** E-04113 (Blessing Okafor, Level 4 Operations) <e-04113@e349.ics>
 **Subject:** (no subject)
 **Status:** SENT — CCN delivery confirmed
 

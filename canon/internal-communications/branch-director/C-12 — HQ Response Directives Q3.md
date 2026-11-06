@@ -1,5 +1,5 @@
-**From:** ICS Cluster Representative Brant / HQ Review Division
-**To:** Branch Director Maren Voss, ICS Earth Branch
+**From:** ICS Cluster Representative Brant / HQ Review Division <sector-lead@hq.ics>
+**To:** Branch Director Maren Voss, ICS Earth Branch <director@e349.ics>
 **Subject:** Re: Flagged Communications Summary — Cycle 300 Q3 — HQ Response and Directives
 **Status:** HQ → BRANCH DIRECTOR — RESTRICTED — DIRECTIVE BINDING
 

@@ -1,4 +1,4 @@
-**From:** E-01205 (Amara Diallo, Level 3 HR & Wellness)
+**From:** E-01205 (Amara Diallo, Level 3 HR & Wellness) <e-01205@e349.ics>
 **To:** [journal app — personal device, found in Level 3 locker]
 **Status:** NOT A MESSAGE — personal diary entries
 **Found:** Personal device in locker 3-F-114. Device was unclaimed after E-01205 was "reassigned." Three entries.

@@ -1,5 +1,5 @@
-**From:** E-02847 (Marcus)
-**To:** E-05499 (Lena, his sister, Earth)
+**From:** E-02847 (Marcus) <e-02847@e349.ics>
+**To:** E-05499 (Lena, his sister, Earth) <e-05499@e349.ics>
 **Subject:** Month 7 update — sorry for the delay
 **Status:** SENT — CCN delivery confirmed, 18-day transit
 
