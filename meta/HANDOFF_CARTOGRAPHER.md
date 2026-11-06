@@ -2,7 +2,7 @@
 
 ## Handoff: Archivist → Cartographer
 
-> **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` and `ICS-OS/` were deleted with the Godot project and the map is to be remade, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) plus the sibling `ICS-Game` Unity project; the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
+> **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` and `ICS-OS/` were deleted with the Godot project and the map is to be remade, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) (the sibling `ICS-Game` Unity project was deleted; 3D work now lives in the sibling `ICS-Models` repo); the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
 
 *The brief for the agent who maps the path the player walks. Verified against the files. It merges and replaces the earlier briefs from other agents, including the "Draftsman" brief, which is out of date (see "Earlier briefs, reconciled" below).*
 

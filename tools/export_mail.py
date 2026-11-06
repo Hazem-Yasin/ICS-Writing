@@ -2,7 +2,7 @@
 """Export series A-D to one JSON file for the game, with the device slices of design/DEVICES.md.
 
 Usage: python3 tools/export_mail.py [OUTPUT.json]
-Default output: ../ICS-Game/Assets/StreamingAssets/mail.json
+Usage: export_mail.py <output.json>  (default: mail.json next to the repo root)
 Writer's notes (the closing [PROPOSAL] note and the '-> See' lines) are cut from the body.
 """
 import json, re, sys
@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 COMMS = ROOT / "canon" / "internal-communications"
-OUT = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT.parent / "ICS-Game" / "Assets" / "StreamingAssets" / "mail.json"
+OUT = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "mail.json"
 
 sys.path.insert(0, str(ROOT / "tools"))
 from mail_index import MAILBOXES  # noqa: E402

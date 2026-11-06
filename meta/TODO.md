@@ -33,7 +33,7 @@
 
 ## C. Game build **[brainstorm]**
 
-*Unity chosen (editor installed and licensed). Repo `../ICS-Game`, local commit only. Compiles, builds scenes in batchmode and renders stills; **not yet play-tested by a person** (walking, sitting, the IMGUI screen). Mail comes from `tools/export_mail.py`.*
+*Unity test build made and verified in batchmode on 2026-11-06, then **deleted** at the author's request to focus on writing and modelling. Mail export still works: `tools/export_mail.py <output path>`.*
 
 The Godot project was deleted and this repo holds writing only. The brainstorm names **both Godot and Unity** for the same test: a playable 3D character, an office for the Branch Manager (desk, chair you can sit on, a device with a screen, password on a note: "smiling-man"), and a test room with several computers at different access levels.
 

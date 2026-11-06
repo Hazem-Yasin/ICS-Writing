@@ -3,3 +3,4 @@
 .DS_Store
 Thumbs.db
 *.code-workspace
+__pycache__/
