@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "4e682546755d8bc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "02bfecce20f5152e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b707384686606376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C-24 — EOD Research Team - The Discussion of EOD Sunsetting"
+            }
+          },
+          {
+            "id": "44dd8efdd7dff1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal-communications/branch-director/C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "affdc74f2746e2eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d9706e9fbc5fedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "394bb6ea417bc7b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1261c810816b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9fb6fe499dd7e18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "460ae8fba5624be6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "052ea69a0a2d27d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "574aab95e4b35b72",
+    "type": "split",
+    "children": [
+      {
+        "id": "b500fe922d83a62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf9cc73da2ad65d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "weapons/found/Yusra-Cache.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f4ecc48974755cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "weapons/found/Yusra-Cache.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "47623e2511c4602a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0bc80e641df24a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8a2bf1f34bd76b1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weapons/found/Yusra-Cache.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "44dd8efdd7dff1c2",
+  "lastOpenFiles": [
+    "ICS_OS.md",
+    "internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md",
+    "HEARTH.md",
+    "internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md",
+    "internal-communications/ptkw/B-28 — K-7 Asks the Earth Branch Manager About EOD and Forwards His Answer to All PTKW.md",
+    "internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md",
+    "internal-communications/employee/A-28 — Lior and Chidi The Man Without a Badge.md",
+    "internal-communications/branch-director/C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md",
+    "internal-communications/branch-director/C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting.md",
+    "internal-communications/ptkw/B-25 — HQ Host Force Monitoring Instruction.md",
+    "internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md",
+    "documents/2.50 — ICS Nomenclature Note.md~",
+    "documents/2.49 — The Smile Study.md",
+    "documents/2.49 — The Study of Eiriks Smile.md",
+    "documents/2.49 — The Study of Eirik's Smile.md",
+    "internal-communications/branch-director/C-22 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Senior Officer - Hallvik Tower Conversation Report.md",
+    "internal-communications/branch-director/C-21 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Wing - Open Water Combat Report.md",
+    "internal-communications/branch-director/C-20 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Wing - Incident Report.md",
+    "internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md",
+    "internal-communications/branch-director/C-23 — EOD Research Team - Deployment 287 Field Report Update - Master Summary.md",
+    "internal-communications/branch-director/C-22 — EOD Research Team - Deployment 287 Field Report Update - Team Hallvik Tower Conversation Report.md",
+    "internal-communications/branch-director/C-21 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Wing Open Water Combat Report.md",
+    "internal-communications/branch-director/C-20 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Wing Incident Report.md",
+    "internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow Last Survivor Interview.md",
+    "internal-communications/branch-director/C-18 — EOD Research Team - Deployment 287 Field Report Update Request.md",
+    "internal-communications/branch-director/C-19 — EOD Research Team Gyrfalcon Wing Report.md",
+    "internal-communications/branch-director/C-19 — EOD Research Team Blue Harrow Team Interview Update.md",
+    "enemies",
+    "weapons/modifications",
+    "weapons/found",
+    "weapons/improvised",
+    "weapons/compliance",
+    "weapons"
+  ]
+}
