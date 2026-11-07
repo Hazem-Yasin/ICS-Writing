@@ -1,0 +1,14 @@
+#!/bin/sh
+# Installed by `python3 tools/ics.py install-hooks`. Rebuilds the generated files and adds them to the commit.
+# Skip once with:  ICS_NO_REBUILD=1 git commit ...
+[ -n "$ICS_NO_REBUILD" ] && exit 0
+cd "$(git rev-parse --show-toplevel)" || exit 0
+PY=$(command -v python3 || command -v python)
+[ -z "$PY" ] && exit 0
+if git diff --cached --name-only | grep -qE '\.(md|json)$'; then
+  "$PY" tools/ics.py build >/dev/null 2>&1 || { echo "ics: rebuild failed; commit continues without it"; exit 0; }
+  git add meta/INDEX.md meta/ENTITIES.md meta/LINKS.md meta/FACTS.md meta/graph.html meta/THREADS.md meta/OPEN.md \
+          meta/ACCESS.md meta/TIMELINE.md meta/LOOKUP.md reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md 2>/dev/null
+  "$PY" tools/ics.py check || echo "ics: the canon checker found NEW problems above (commit continues; fix or accept them)"
+fi
+exit 0

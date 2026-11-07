@@ -23,7 +23,8 @@ FIXES = {
     "Â°": "°",        # degree sign
 }
 SKIP = {"meta/HANDOFF_CARTOGRAPHER.md",  # describes the damage in prose; edited by hand
-        "meta/INDEX.md", "meta/ENTITIES.md", "meta/LINKS.md", "meta/FACTS.md",
+        "meta/INDEX.md", "meta/ENTITIES.md", "meta/LINKS.md", "meta/FACTS.md", "meta/THREADS.md",
+        "meta/OPEN.md", "meta/ACCESS.md", "meta/TIMELINE.md", "meta/LOOKUP.md",
         "reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md"}
 
 

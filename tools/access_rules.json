@@ -1,0 +1,23 @@
+{
+  "_help": "Used for meta/ACCESS.md and by the checker. 'tiers' ranks who may read what (higher sees more). 'terms' are words that should not appear in a file below their minimum tier. These are reading aids built from the README's three-tier rule and Doc 2.29, not canon: check each flagged line before acting on it. Edit freely, then run: python3 tools/ics.py build",
+  "tiers": {
+    "Employee": 0,
+    "Global": 0,
+    "PTKW": 1,
+    "Branch Director": 2,
+    "Board": 3,
+    "Above Director": 3,
+    "Sealed": 4
+  },
+  "terms": [
+    {"name": "EOD (the letters or the full name)", "pattern": "\\bEOD\\b|Executioner of Despair|Willbreaker", "min": "PTKW",
+     "note": "Doc 2.29: the letters EOD do not appear in Global Access materials; the public name is Envoy of Devotion."},
+    {"name": "The Smile Study", "pattern": "Smile Study|Study of Eirik|RES-BSS-349-S|Document 2\\.49|Doc 2\\.49", "min": "Sealed",
+     "note": "Doc 2.49: readers are the EOD Research Team, the Earth Branch Manager and EOD. No other office, at any level."},
+    {"name": "The EOD sunsetting", "pattern": "EOD [Ss]unsetting|[Ss]unsetting of EOD", "min": "Sealed",
+     "note": "C-24 and C-25 are sealed; C-25 excludes EOD himself."},
+    {"name": "Schedule D / the harvest", "pattern": "Schedule D\\b|\\bthe harvest\\b", "min": "Board",
+     "note": "README: the harvest and Schedule D are the Board layer."}
+  ],
+  "in_world_sources": ["canon/documents/", "canon/internal-communications/", "canon/weapons/", "canon/facility/", "canon/enemies/"]
+}

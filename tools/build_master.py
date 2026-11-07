@@ -18,7 +18,8 @@ ROOT = Path(__file__).resolve().parent.parent
 REF = ROOT / "reference"
 OUT = REF / "ICS_Rigged_Sphere_MASTER_REFERENCE.md"
 APPENDIX = REF / "appendix_a_recovered.md"
-GENERATED = {"meta/INDEX.md", "meta/ENTITIES.md", "meta/LINKS.md", "meta/FACTS.md"}
+GENERATED = {"meta/INDEX.md", "meta/ENTITIES.md", "meta/LINKS.md", "meta/FACTS.md", "meta/THREADS.md",
+             "meta/OPEN.md", "meta/ACCESS.md", "meta/TIMELINE.md", "meta/LOOKUP.md"}
 
 # Part 1 order: these first, then the rest of design/, meta/ and story/ in name order, trailers.md last.
 FIRST = ["README.md", "design/DESIGN.md", "story/STORY.md", "story/EXTENDED.md", "meta/HANDOFF_CARTOGRAPHER.md"]

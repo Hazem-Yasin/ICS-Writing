@@ -39,8 +39,8 @@ Files with no links in or out. Not an error, but nothing connects them to the re
 | 19 | [C-22](<../canon/internal-communications/branch-director/C-22 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Senior Officer - Hallvik Tower Conversation Report.md>) RE: Deployment Order 287 — Hallvik tower report |
 | 19 | [2.22](<../canon/documents/2.22 — Interplanetary Operations Manual.md>) 2.22 ICS Interplanetary Operations Manual — Earth Sector |
 | 18 | [C-20](<../canon/internal-communications/branch-director/C-20 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Wing - Incident Report.md>) RE: Deployment Order 287 — Gyrfalcon Wing report received |
-| 17 | [2.41](<../canon/documents/2.41 — EIMU Deep Assessment EOD.md>) Document 2.41 — EIMU Deep Assessment: Designated Asset: EOD |
 | 17 | [TIME_MODEL](<../design/TIME_MODEL.md>) ICS: Interplanetary Corporate Solutions |
+| 17 | [2.41](<../canon/documents/2.41 — EIMU Deep Assessment EOD.md>) Document 2.41 — EIMU Deep Assessment: Designated Asset: EOD |
 | 17 | [STORY](<../story/STORY.md>) ICS: Interplanetary Corporate Solutions |
 | 16 | [2.48](<../canon/documents/2.48 — Host Force Assessment Gyrfalcon Wing.md>) 2.48 Host Force Assessment — Strategic Air Superiority: Gyrfalcon Wing |
 | 16 | [C-26](<../canon/internal-communications/branch-director/C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md>) The first arrival of EOD — the Manager's question, the HQ reply, and t |
@@ -50,9 +50,9 @@ Files with no links in or out. Not an error, but nothing connects them to the re
 | 14 | [EOD](<../canon/characters/EOD.md>) EOD Executioner of Despair (Subjugator, The Willbreaker, Harmony; publ |
 | 14 | [2.17](<../canon/documents/2.17 — ARM-27 Deployment Sequence Earth.md>) 2.17 ARM-27 Deployment Sequence — Earth (Labor Source #349) |
 | 14 | [2.14](<../canon/documents/2.14 — Planetary Disciplinary Protocol.md>) 2.14 Planetary Disciplinary Protocol — Rogue Labor Source Response |
-| 13 | [2.49](<../canon/documents/2.49 — The Smile Study.md>) 2.49 The Study of Eirik's Smile |
-| 13 | [SAVE_SYSTEM](<../design/SAVE_SYSTEM.md>) ICS: Interplanetary Corporate Solutions |
+| 13 | [EOD_ENCOUNTERS](<../design/EOD_ENCOUNTERS.md>) ICS: Interplanetary Corporate Solutions |
 | 13 | [2.47](<../canon/documents/2.47 — Host Force Assessment The Harrow.md>) 2.47 Host Force Assessment — Ground Special Operations: The Harrow |
+| 13 | [2.49](<../canon/documents/2.49 — The Smile Study.md>) 2.49 The Study of Eirik's Smile |
 
 ## One-way See links
 

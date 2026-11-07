@@ -1,0 +1,8 @@
+{
+  "_help": "Mail threads that cannot be found automatically. build_extras.py already groups messages that share a subject once Re:/Fwd: are removed, or that share a tag in the subject (Deployment Order 287, E-03615, ICS-IR3-...). Add a thread here only when the subjects differ. 'files' are mail ids (C-13) or the start of a file name. Re-run: python3 tools/ics.py build",
+  "threads": [
+    {"name": "Q4 execution directives and the Director's confirmation", "files": ["C-13", "C-14"]},
+    {"name": "SOLCRED pricing: PTKW flag, then the Q3 directive", "files": ["B-22", "B-23"]},
+    {"name": "The man without a badge: the employee, the question, the Manager's warning", "files": ["A-28", "B-27", "B-28"]}
+  ]
+}

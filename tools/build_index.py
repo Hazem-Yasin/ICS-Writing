@@ -28,7 +28,8 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent.parent
 META = ROOT / "meta"
 SKIP_DIRS = {".git", ".obsidian", "node_modules", "tools", "__pycache__"}
-GENERATED = {"meta/INDEX.md", "meta/ENTITIES.md", "meta/LINKS.md", "meta/FACTS.md"}
+GENERATED = {"meta/INDEX.md", "meta/ENTITIES.md", "meta/LINKS.md", "meta/FACTS.md",
+             "meta/THREADS.md", "meta/OPEN.md", "meta/ACCESS.md", "meta/TIMELINE.md", "meta/LOOKUP.md"}
 # Pasted snapshot of the whole project. Listed in the index but left out of counts and links,
 # because it repeats everything and would drown the real files.
 SNAPSHOTS = {"reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md"}
@@ -110,9 +111,23 @@ def summary_of(text, title):
 
 def access_of(text, path):
     head = [l for l in text.splitlines()[:16] if re.search(r"Status|Classification|Access|Readers", l, re.I)]
-    h = " ".join(head).upper()
+    r = _level(" ".join(head).upper(), path)
+    if r == "—":
+        # Some documents state the level further down, or once per section (Doc 2.31). Look only at
+        # lines that are labelled as access lines, and take the most restricted level found.
+        marks = [l for l in text.splitlines() if re.match(r"^\s*>?\s*\*?\[?(Access|Classification)\b", l)]
+        found = [_level(m.upper(), path) for m in marks]
+        found = [f for f in found if f != "—"]
+        if found:
+            return max(found, key=lambda f: TIER.get(f, 0))
+    return r
+
+
+def _level(h, path):
     if "SEALED" in h:
         return "Sealed"
+    if "ABOVE BRANCH DIRECTOR" in h:
+        return "Above Director"
     if "BOARD ACCESS" in h or "BOARD ONLY" in h or "ACCESS: BOARD" in h or "BOARD — RESTRICTED" in h:
         return "Board"
     if "PTKW" in h:
@@ -124,6 +139,10 @@ def access_of(text, path):
     if "/employee/" in "/" + path:
         return "Employee"
     return "—"
+
+
+# Reading order of access levels, lowest first. Sealed is a list of named readers, so it sits above the rest.
+TIER = {"Global": 0, "Employee": 0, "PTKW": 1, "Branch Director": 2, "Above Director": 3, "Board": 3, "Sealed": 4}
 
 
 def flags_of(text):
@@ -569,32 +588,41 @@ def cli_links(docs, maps, q):
             print("  broken:", ", ".join(sorted(broken[d.path])))
 
 
+def build_core(quiet=False):
+    """Write INDEX, ENTITIES, LINKS, FACTS and graph.html. Returns what the extras need."""
+    docs = load()
+    ents = compile_entities(json.loads((ROOT / "tools" / "entities.json").read_text(encoding="utf-8")))
+    maps = scan_links(docs)
+    META.mkdir(exist_ok=True)
+    facts_cfg = json.loads((ROOT / "tools" / "facts.json").read_text(encoding="utf-8"))
+    ent_scan = scan_entities(docs, ents)
+    facts = scan_facts(docs, facts_cfg)
+    write_index(docs)
+    write_entities(docs, ents, ent_scan)
+    write_links(docs, maps)
+    write_facts(facts)
+    write_graph(docs, maps)
+    if not quiet:
+        n_edges = sum(len(v) for v in maps[2].values()) + sum(len(v) for v in maps[3].values())
+        print(f"{len(docs)} files, {n_edges} links. Wrote meta/INDEX.md, ENTITIES.md, LINKS.md, FACTS.md, graph.html")
+    return docs, ents, maps, ent_scan, facts
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--who", help="list files mentioning an entity (name or alias) or a plain search term")
     ap.add_argument("--links", help="show what a file points at and what points at it (id or part of the name)")
     ap.add_argument("--find", help="regex search, files ranked by hits")
     a = ap.parse_args()
-
     docs = load()
     ents = compile_entities(json.loads((ROOT / "tools" / "entities.json").read_text(encoding="utf-8")))
     if a.who:
         return cli_who(docs, ents, a.who)
     if a.find:
         return cli_who(docs, [], a.find)
-    maps = scan_links(docs)
     if a.links:
-        return cli_links(docs, maps, a.links)
-
-    META.mkdir(exist_ok=True)
-    facts_cfg = json.loads((ROOT / "tools" / "facts.json").read_text(encoding="utf-8"))
-    write_index(docs)
-    write_entities(docs, ents, scan_entities(docs, ents))
-    write_links(docs, maps)
-    write_facts(scan_facts(docs, facts_cfg))
-    write_graph(docs, maps)
-    n_edges = sum(len(v) for v in maps[2].values()) + sum(len(v) for v in maps[3].values())
-    print(f"{len(docs)} files, {n_edges} links. Wrote meta/INDEX.md, ENTITIES.md, LINKS.md, FACTS.md, graph.html")
+        return cli_links(docs, scan_links(docs), a.links)
+    build_core()
 
 
 if __name__ == "__main__":
