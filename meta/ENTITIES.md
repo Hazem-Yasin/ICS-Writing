@@ -4,7 +4,7 @@
 
 | Entity | Kind | Files | Mentions | In snapshot |
 |---|---|---|---|---|
-| [EOD](#eod) | character | 117 | 1184 | 1237 |
+| [EOD](#eod) | character | 117 | 1188 | 1241 |
 | [ARM-27](#arm-27) | equipment | 26 | 127 | 134 |
 | [EOD Research Team](#eod-research-team) | organisation | 26 | 136 | 157 |
 | [Earth Branch Manager](#earth-branch-manager) | character | 34 | 146 | 158 |
@@ -23,11 +23,11 @@
 | [Anton Kessel](#anton-kessel) | character | 3 | 6 | 6 |
 | [Deployment Order 287](#deployment-order-287) | event | 16 | 42 | 60 |
 | [Sudbury](#sudbury) | place | 14 | 57 | 57 |
-| [Hallvik](#hallvik) | place | 16 | 48 | 51 |
+| [Hallvik](#hallvik) | place | 16 | 49 | 52 |
 | [Journey Completion Directorate](#journey-completion-directorate) | organisation | 9 | 54 | 54 |
 | [Teshvar Consortium](#teshvar-consortium) | organisation | 4 | 11 | 11 |
 | [Labor Source #312](#labor-source-312) | place | 18 | 64 | 64 |
-| [Labor Source #038](#labor-source-038) | place | 12 | 46 | 46 |
+| [Labor Source #038](#labor-source-038) | place | 12 | 47 | 47 |
 | [Sovereign Projection](#sovereign-projection) | concept | 17 | 57 | 57 |
 | [The Smile Study (Doc 2.49)](#the-smile-study-doc-249) | document | 14 | 63 | 66 |
 | [Human Psychology Report (Doc 2.18)](#human-psychology-report-doc-218) | document | 53 | 188 | 191 |
@@ -43,12 +43,12 @@
 
 *character*. Harmony is also an ordinary word; Subjugator is also the ARM-27 equipment codename; 'the Envoy' is also the title of Trailer 5.
 
-Aliases found: `EOD` ×941, `Executioner of Despair` ×64, `Envoy of Devotion` ×50, `Subjugator` ×48 (ambiguous), `Harmony` ×39 (ambiguous), `The Willbreaker` ×38, `the Sudbury entity` ×3, `the Envoy` ×1 (ambiguous)
+Aliases found: `EOD` ×945, `Executioner of Despair` ×64, `Envoy of Devotion` ×50, `Subjugator` ×48 (ambiguous), `Harmony` ×39 (ambiguous), `The Willbreaker` ×38, `the Sudbury entity` ×3, `the Envoy` ×1 (ambiguous)
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
 | 139 | [C-24](<../canon/internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md>) The Discussion of EOD Sunsetting | Sealed | EOD×44, Envoy of Devotion×23, Executioner of Despair×18, Subjugator×18, The Willbreaker×18, Harmony×18 |
-| 101 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | EOD×73, Subjugator×7, Executioner of Despair×6, Envoy of Devotion×5, The Willbreaker×5, Harmony×5 |
+| 105 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | EOD×77, Subjugator×7, Executioner of Despair×6, Envoy of Devotion×5, The Willbreaker×5, Harmony×5 |
 | 59 | [DESIGN](<../design/DESIGN.md>) ICS: Interplanetary Corporate Solutions | Board | EOD×56, Subjugator×1, The Willbreaker×1, Harmony×1 |
 | 58 | [EOD](<../canon/characters/EOD.md>) EOD Executioner of Despair (Subjugator, The Willbreaker, Har | — | EOD×38, Envoy of Devotion×6, Subjugator×4, Executioner of Despair×3, The Willbreaker×3, Harmony×3, the Sudbury entity×1 |
 | 43 | [README](<../README.md>) ICS: Interplanetary Corporate Solutions | — | EOD×40, Executioner of Despair×2, Subjugator×1 |
@@ -848,13 +848,13 @@ Aliases found: `Sudbury` ×51, `Lindenmere` ×6
 
 *place*
 
-Aliases found: `Hallvik` ×48
+Aliases found: `Hallvik` ×49
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
 | 7 | [C-22](<../canon/internal-communications/branch-director/C-22 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Senior Officer - Hallvik Tower Conversation Report.md>) RE: Deployment Order 287 — Hallvik tower report | Board | Hallvik×7 |
+| 7 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | Hallvik×7 |
 | 6 | [C-21](<../canon/internal-communications/branch-director/C-21 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Wing - Open Water Combat Report.md>) RE: Deployment Order 287 — open water air engagement, prelim | Sealed | Hallvik×6 |
-| 6 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | Hallvik×6 |
 | 5 | [EOD](<../canon/characters/EOD.md>) EOD Executioner of Despair (Subjugator, The Willbreaker, Har | — | Hallvik×5 |
 | 4 | [2.48](<../canon/documents/2.48 — Host Force Assessment Gyrfalcon Wing.md>) 2.48 Host Force Assessment — Strategic Air Superiority: Gyrf | PTKW | Hallvik×4 |
 | 4 | [C-24](<../canon/internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md>) The Discussion of EOD Sunsetting | Sealed | Hallvik×4 |
@@ -931,13 +931,13 @@ Aliases found: `Labor Source #312` ×30, `#312` ×28, `e312` ×6
 
 *place*
 
-Aliases found: `#038` ×31, `Labor Source #038` ×15
+Aliases found: `#038` ×32, `Labor Source #038` ×15
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
 | 11 | [2.27](<../canon/documents/2.27 — Labor Source Profiles.md>) 2.27 ICS Labor Source Profiles — Selected Planetary Dossiers | PTKW | #038×11 |
 | 9 | [2.25](<../canon/documents/2.25 — Planetary Case Files.md>) 2.25 Planetary Case Files: Compliance, Resistance, and Conse | PTKW | #038×7, Labor Source #038×2 |
-| 5 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | Labor Source #038×3, #038×2 |
+| 6 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | #038×3, Labor Source #038×3 |
 | 4 | [EOD](<../canon/characters/EOD.md>) EOD Executioner of Despair (Subjugator, The Willbreaker, Har | — | #038×4 |
 | 4 | [2.29](<../canon/documents/2.29 — Acronym and Terminology Glossary.md>) 5. ICS Acronym & Terminology Glossary | Board | Labor Source #038×3, #038×1 |
 | 4 | [2.37](<../canon/documents/2.37 — In-World Advertisement Archive.md>) 2.37 ICS Earth Branch — In-World Advertisement Archive | — | Labor Source #038×3, #038×1 |

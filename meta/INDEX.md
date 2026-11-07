@@ -8,7 +8,7 @@
 
 | ID / name | Title | Access | Flags | Words | Summary |
 |---|---|---|---|---|---|
-| [README](<../README.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 3962 | A first-person narrative game in the style of BioShock. The player is a human employee inside the ICS Earth Branch — a corporate facility shaped like … |
+| [README](<../README.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 4024 | A first-person narrative game in the style of BioShock. The player is a human employee inside the ICS Earth Branch — a corporate facility shaped like … |
 
 ## canon/characters
 
@@ -288,7 +288,7 @@
 | ID / name | Title | Access | Flags | Words | Summary |
 |---|---|---|---|---|---|
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | Canon Decisions | — | proposal | 2233 | For the author to rule on. Nothing here has been applied to canon. Defaults marked PROPOSAL are what the new scenes assumed, so a different ruling may… |
-| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | ICS: Interplanetary Corporate Solutions | — | proposal, encoding damage | 17665 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, sy… |
+| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | ICS: Interplanetary Corporate Solutions | — | proposal, encoding damage | 18649 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, sy… |
 | [STYLE_GUIDE](<../meta/STYLE_GUIDE.md>) | Style Guide | — | proposal | 441 | PROPOSAL One page. Drawn from story/STORY.md and the scenes in story/scenes/. The author may overrule any line. |
 | [TODO](<../meta/TODO.md>) | Todo | — | proposal | 1295 | Working list. Items from the author's brainstorm (pasted 2026-11-06) are marked brainstorm. Anything that adds canon is a PROPOSAL until the author ru… |
 
@@ -296,7 +296,7 @@
 
 | ID / name | Title | Access | Flags | Words | Summary |
 |---|---|---|---|---|---|
-| [ICS_Rigged_Sphere_MASTER_REFERENCE](<../reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md>) | Q2 compliance index — note on anomalous cluster | Sealed | proposal, encoding damage, snapshot | 420460 | One file holding everything written about the game. It replaces WORLD.md and ICS - Rigged Sphere.md, both of which were retired after a line-by-line c… |
+| [ICS_Rigged_Sphere_MASTER_REFERENCE](<../reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md>) | Q2 compliance index — note on anomalous cluster | Sealed | proposal, encoding damage, snapshot | 421587 | One file holding everything written about the game. It replaces WORLD.md and ICS - Rigged Sphere.md, both of which were retired after a line-by-line c… |
 | [appendix_a_recovered](<../reference/appendix_a_recovered.md>) | APPENDIX A - TEXT RECOVERED FROM THE RETIRED FILES | Board |  | 3840 | These passages existed only in WORLD.md and ICS - Rigged Sphere.md when those two files were retired. They are kept here verbatim (taken from the comp… |
 
 ## story

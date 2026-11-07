@@ -7,7 +7,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 | What | Count |
 |---|---|
 | Open-question sections | 25 (about 147 listed items) |
-| Inline TODO / TBD / “to be decided” lines | 6 |
+| Inline TODO / TBD / “to be decided” lines | 7 |
 | Unchecked items in `meta/TODO.md` | 7 |
 | Files carrying [PROPOSAL] material not yet ruled canon | 63 |
 
@@ -27,7 +27,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “Open rulings (ask the user; don't guess)”
 
-`meta/HANDOFF_CARTOGRAPHER.md` line 376
+`meta/HANDOFF_CARTOGRAPHER.md` line 428
 
 **Still open — needs the author's call:**
 - Phase 6 real-time length: `design/TIME_MODEL.md` proposes 88 minutes at 15×.
@@ -494,6 +494,7 @@ Whether the player's early flags land on **named characters** (Hana, Omar, Tarek
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 48 | - 1.10: Kai can open his quarters terminal during confinement (STORY.md "Before It Begins" puts the folder there). design/DESIGN.md Phase 1 says the confined p… |
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 64 | - Mentions of "Inflatable Crowd Solutions" (TODO B3), each in a file whose access line allows it: |
 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 5 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, systems in… |
+| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 47 | 5. meta/OPEN.md and meta/TODO.md: open questions, PROPOSAL files and TODOs. |
 | [1.1 - Labor Source 312, Day Four](<../story/scenes/1.1 - Labor Source 312, Day Four.md>) | 19 | I did not wave. Nobody noticed. I want that understood as an accident, not as courage. I was the one person in the building who had not yet decided what his fa… |
 
 ## Files carrying [PROPOSAL] material

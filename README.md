@@ -20,6 +20,10 @@ reference/  Generated snapshot of the whole corpus. Read-only.
 
 If two files disagree, `canon/` wins over `story/`, and `story/` wins over `design/`.
 
+### Repository
+
+This is one git repository. Every file keeps its path, so links and the lookup tools work unchanged. The master reference in the reference folder is generated and not tracked: run `python3 tools/ics.py build` after cloning to create it, and again after changing content to refresh `meta/` and `reference/`. To rebuild and check on every commit, run `python3 tools/ics.py install-hooks`.
+
 ---
 
 ## Files

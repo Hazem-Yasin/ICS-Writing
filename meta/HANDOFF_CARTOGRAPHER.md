@@ -4,6 +4,58 @@
 
 > **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` and `ICS-OS/` were deleted with the Godot project and the map is to be remade, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) (the sibling `ICS-Game` Unity project was deleted; 3D work now lives in the sibling `ICS-Models` repo); the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
 
+### Update 2026-11-07: read this first
+
+*This section is newer than everything below it. Where it disagrees with an older note, this section governs.*
+
+**What changed since this brief was written**
+
+- **The folder is now nine private git repositories sharing one tree.** Every file keeps its path. `ics-writing-canon-documents`, `-canon-characters`, `-canon-enemies`, `-canon-facility`, `-canon-weapons`, `-canon-internal-communications`, `ics-writing-design`, `ics-writing-story`, and `ics-writing-hub` (this README, `meta/`, `reference/`, `tools/`). The hub ignores `canon/`, `design/` and `story/`. Run `git status` inside the folder you changed; one edit can touch several repos. `bash tools/setup_repos.sh` clones the eight content repos on a fresh machine. Nothing has been pushed; the GitHub repositories still have to be created (private, empty).
+- **Lookup system and one-command tooling (all in `tools/`).** `python3 tools/ics.py build` regenerates `meta/INDEX.md`, `ENTITIES.md`, `LINKS.md`, `FACTS.md`, `THREADS.md`, `OPEN.md`, `ACCESS.md`, `TIMELINE.md`, `LOOKUP.md`, `graph.html` and the master reference. `check` runs the canon checker against the baseline (`check --accept` re-accepts). `impact <id>` lists what a change touches. `who <term>` answers "who can read this". Start every search at `meta/LOOKUP.md`.
+- **The commit hook is not active in this layout.** `tools/hooks/pre-commit` exists, but a hook only fires in the repo that has it configured, and the old per-project git config was archived. Rebuild and check by hand before committing: `python3 tools/ics.py build && python3 tools/ics.py check`.
+- **Mojibake repaired** in 16 files. `canon/characters/EOD.md` was rewritten (full designation first, the public name after it; both fights; the Day 18 flight; the Hallvik tower; the sunsetting exchange; the Manager's "friend"; a scored account of the deployment up to the Captain's smile; "every book" passage removed).
+- **Ruled out of date:** the `writing-map/` and `ICS-OS/` folders and their build commands, the Unity/Godot paths, and the baseline numbers further down.
+
+**Open items (the author owns these; do not act without a ruling)**
+
+1. **#038.** Doc 2.24 says all ~400 assets were transitioned; Doc 2.25 says only the 40 Tier 8 leaders were. `EOD.md` follows 2.25. After the ruling, edit Docs 2.24 and 2.27 and `EOD.md` line ~142, and log it in `meta/CANON_DECISIONS.md`. Related: Day 21 AIM-120D totals (44 in C-23, 42 in C-21's control log) and the wording "nine times before Earth".
+2. **The ICS logo.** Canon is Doc 2.32: Deep Blue `#1A2E52` circle, Warm Gold `#C9A84C` arc that reads as a fishhook, rounded sans-serif wordmark, no sharp angles, tagline "Because You're Worth the Investment." A design pass is pending (SVG directions, a spec, a preview page; the `design/logo/` folder does not exist yet). The old drafts in `ICS-_-RiggedSphere/.bob/artifacts/` are not canon and the seal draft contradicts canon. Web references could not be fetched. The author has not chosen a tone. Log the trailer-colour conflict in `meta/CANON_DECISIONS.md` when the design is made.
+3. **Fact-checker false alarms.** Tighten the patterns in `tools/facts.json` for Level 7, AIM-120D and the ordinal check, then `python3 tools/ics.py check --accept`.
+4. **"Read every book Earth has ever written about freedom."** Removed from `EOD.md` as too cringe. Still in Doc 2.15 line ~56, Doc 2.41 line ~96 and `design/DESIGN.md` lines ~313 and ~820. The author has not said whether to remove those. Doc 2.23 line 164 uses "every book" in another sense; leave it.
+5. **Known critique.** There is little story prose against the volume of reference and design. The balance is the main weakness.
+
+**Rules that apply on top of "Working rules" below**
+
+- Do not push. The author pushes from GitHub Desktop. Every repo stays private.
+- Never look for credentials or tokens. A Gmail address and password were pasted into an earlier session: do not use or store them.
+- Do not invent canon. Mark new material `[PROPOSAL]` or add it to `meta/OPEN.md` and ask.
+- Commit messages end with `Co-Authored-By: Claude Code <noreply@anthropic.com>`.
+- Report plainly: what was done, what failed, what was skipped.
+
+**Opening prompt for a new session** (start it in the `ICS-Writing` folder; paste as is)
+
+```text
+You are joining a long-running worldbuilding project: "ICS: Interplanetary Corporate Solutions", a first-person narrative game in the style of BioShock. The player is a human employee inside the ICS Earth Branch, a corporate facility shaped like a second moon above Earth. ICS is an alien-run planetary labor company. The warmth is real and so is the cage. The horror is that you cannot point to the moment it goes wrong, because it was always this.
+
+You are working on the WRITING only: canon, story and design. The only code is the lookup tooling in tools/. Do not touch ../ICS-Models or ../ICS-_-RiggedSphere.
+
+READ FIRST, in this order. Read fully, do not skim:
+1. README.md: layout, the repository map, and the precedence rule (canon/ beats story/, story/ beats design/).
+2. meta/HANDOFF_CARTOGRAPHER.md: the section "Update 2026-11-07: read this first", then the rest as history. Older paths and numbers in it are stale.
+3. meta/LOOKUP.md: how to find anything fast.
+4. meta/STYLE_GUIDE.md and meta/CANON_DECISIONS.md: voice, and rulings already made. Do not re-litigate them.
+5. meta/OPEN.md and meta/TODO.md: open questions, [PROPOSAL] files and TODOs.
+6. Generated lookups, to search rather than read end to end: meta/ENTITIES.md, FACTS.md, TIMELINE.md, THREADS.md, ACCESS.md, INDEX.md, LINKS.md.
+7. Examples of the standard: canon/documents/2.32 and canon/characters/EOD.md.
+reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md is generated, read-only and 2.5 MB: search it, never read it whole.
+
+HOW THE FOLDER WORKS, THE RULES AND THE OPEN ITEMS are in the HANDOFF section named above. Follow them exactly. In short: nine private repos share one tree; rebuild and check by hand with python3 tools/ics.py build and check (0 new problems); preserve each file's line endings; never push; never look for credentials; do not invent canon.
+
+START by reading. Then reply with (a) a five-line summary of the project in your own words, (b) anything in the files that contradicts what the HANDOFF says, and (c) which open item you would take first and why. Do not change any file until I answer.
+```
+
+---
+
 *The brief for the agent who maps the path the player walks. Verified against the files. It merges and replaces the earlier briefs from other agents, including the "Draftsman" brief, which is out of date (see "Earlier briefs, reconciled" below).*
 
 ---
@@ -28,7 +80,7 @@ The world is built. The documents exist, the lore is established, the horror is 
 
 Start with [`README.md`](../README.md), which indexes everything.
 
-- **Canon:** the individual files in `canon/documents/` (2.1–2.51) are the source of truth for lore. The master reference in the top-level `reference/` folder (outside `writing/`) is a read-only snapshot of everything; it replaced the old WORLD and ICS - Rigged Sphere compiled files, which were retired. Edit the individual files, never the snapshot. Regenerate it with `python writing-map/build_master.py`. Material that existed only in the old compiled files (the Game Overview, an earlier Doc 2.32, recovered variants) is kept in the file appendix_a_recovered in the top-level `reference/` folder.
+- **Canon:** the individual files in `canon/documents/` (2.1–2.51) are the source of truth for lore. The master reference in the top-level `reference/` folder (outside `writing/`) is a read-only snapshot of everything; it replaced the old WORLD and ICS - Rigged Sphere compiled files, which were retired. Edit the individual files, never the snapshot. Regenerate it with `python3 tools/ics.py build`. Material that existed only in the old compiled files (the Game Overview, an earlier Doc 2.32, recovered variants) is kept in the file appendix_a_recovered in the top-level `reference/` folder.
 - **Human forces (new):** Earth's two strongest formations are Doc 2.47 (the Harrow, ground special operations) and Doc 2.48 (Gyrfalcon Wing, strategic air defence), each with an Insignia section, plus `canon/internal-communications/ptkw/B-25` (PTKW monitoring order) and the five-event Deployment 287 series: C-18 (the request, Day 21 — the Branch cannot place EOD for the ten days), C-19 (the update, Day 22 — Blue Harrow, Sudbury, Day 16, the primary record with Reiner's transcript; it follows C-18 directly and was split out of it), C-20 (Gyrfalcon flight, Day 18 — no casualties, Solberg's cockpit recording), C-21 (open water air engagement, Day 21 — HAWK patrol spots EOD on the surface, Gyrfalcon Wing scrambles, one pilot breaks formation and his face is pressed flat against his own canopy by an open hand, seven engage for 36 minutes; Captain Eirik Aronsen (Gyrfalcon Seven) is flown by hand by the contact, ordered to eject by his father, and killed in the sea when his parachute is cut; eight dead total, seven aircraft land and one is lost at sea), C-22 (Hallvik tower, Day 21 — EOD speaks plainly to Colonel Aronsen), and C-23 (Deployment 287 master summary, Day 28 — the Branch Manager's through-line across all four events, Board requests the file directly). The sealed sunset pair follows it: C-24 (Day 29, the Research Team asks the Earth Branch Manager to sunset EOD, with the Journey Completion Directorate and the public statement) and C-25 (Day 30, the Manager's reply, which negotiates, agrees to comply, and prepares Level 7 as EOD's farewell floor for Day 38). Both are sealed above Doc 2.49; see open ruling 26. A second chain explains how EOD first reached the staff and how a scan of his profile page reached an asset's desk: C-26 (the Manager's kept thread from Labor Source #312, Cycle 292 Q2), A-28 (Lior and Chidi, Day 4), B-27 (the Floor Liaison's rude reply, Day 5), B-28 (K-7, the Manager's warning and the forwarded manual, Day 5 to 6), A-29 (the redacted evidence chat, Day 31, redacted Day 33), with B-26 (the Day 32 incident, ruling 27) at the centre; see open ruling 28. The messages can be read together in Hearth (inside ICS-OS, spec in `design/HEARTH.md` and `design/ICS_OS.md`, rulings 29 and 31). The `canon/characters/Colonel Leif Aronsen.md` and `canon/characters/Captain Eirik Aronsen.md` files give Gyrfalcon Wing's commander and his son (Gyrfalcon Seven, call sign Tern). All of it is **[PROPOSAL]** and pending the user's approval.
 - **Story and design:** [`story/STORY.md`](../story/STORY.md), [`design/DESIGN.md`](../design/DESIGN.md), `canon/characters/`, `canon/facility/`, `story/scene-notes/`.
 - **Mechanics:** [`design/PROGRESSION.md`](../design/PROGRESSION.md), [`design/INVENTORY.md`](../design/INVENTORY.md), [`design/VERBS.md`](../design/VERBS.md), [`design/STEALTH_DETECTION.md`](../design/STEALTH_DETECTION.md), [`design/ENEMY_AI.md`](../design/ENEMY_AI.md), [`design/TOOL_TUNING.md`](../design/TOOL_TUNING.md), [`design/HEALTH_SURVIVAL.md`](../design/HEALTH_SURVIVAL.md).
@@ -150,15 +202,15 @@ Two other handoffs exist in the author's notes: a "Draftsman" brief, and a summa
 
 - Tag anything new as **[PROPOSAL]**. Tag canon as **Canon** and name the source.
 - Follow the house format: `# ICS: Interplanetary Corporate Solutions`, then `## Title`, an italic intro, `---` separators, and a closing `*→ See: …*` list. Cross-reference paths must be real. Filenames use em-dashes.
-- Some files (`canon/characters/EOD.md`, `canon/characters/Narrative Arc - Phases 0 through 6.md` and a few others) contain mojibake (`â€”` for `—`, `â†’` for `→`) and CRLF line endings. Preserve both. Edit those files with a scratch Python script that matches the mojibake exactly. `canon/documents/*.md` and `canon/internal-communications/*` are CRLF too, but the normal edit tools handle them.
+- **Encoding and line endings.** The mojibake (`â€”` for the em dash and similar) was repaired in 16 files on 2026-11-07 with `tools/fix_encoding.py`; do not re-introduce it and do not hand-repair it. Line endings are mixed: `canon/documents/*.md`, `canon/internal-communications/*` and several others are CRLF, many files are LF. Preserve whichever a file already has (read and write with `newline=""` or as bytes). Python standard library only; use scratch `.py` files, run them once, delete them.
 - Python standard library only. Use scratch `.py` files, run them once, and delete them straight away. This is Windows PowerShell, so avoid inline `python -c`.
 - **ICS-OS build and test notes.** `python ICS-OS/build_os.py` needs the map database (`python writing-map/build_map.py` first). A new document in `canon/documents/` is left out of the drive until it has a line in the `DOCS` table in `build_os.py`, and the build does not warn. To test the page headlessly, copy `ics-os.html` to a scratch file, inject `<script>sessionStorage.setItem("icsos", JSON.stringify({role:"director"}));</script>` before the main script to skip boot and sign-in, append a test script before the closing body tag, and run Edge with `--headless=new --disable-gpu --dump-dom --virtual-time-budget=5000` (Edge is at `C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe`). Run one Edge at a time and `taskkill /F /IM msedge.exe` afterwards. Delete every scratch file. In PowerShell a backtick in a regex string is an escape character and silently drops, so for anything with backticks write a scratch Python file instead. `Remove-Item` with a wildcard can fail in non-interactive mode; use `Get-ChildItem | ForEach-Object { Remove-Item -LiteralPath ... }`. A `__pycache__` folder appears in ICS-OS after a build; delete it before finishing.
 - **Never issue parallel edits to the same file.** Two parallel edits to one file overwrite each other. Edit one file at a time, in sequence. Never re-run an insertion script.
 - **Scripted edits (lessons from the C-26 chain).** In PowerShell, a single `@(@(old,new))` pair is flattened into a flat array of two strings, so `$pr[0]` becomes one character and the replacement silently does nothing. Pass a single pair as `@(,@(old,new))` and make the helper throw on a pattern shorter than ten characters. Check that every replacement actually landed with a grep for a phrase from the new text. Three files (B-26, A-29, B-28) once came back with corrupted text (letters replaced by "o", a dropped first letter) after a scripted edit. The cause is unknown. They were restored from the master reference, which is built from the files before each edit, and re-edited. After any scripted edit, grep for a few corruption markers, and keep the master reference as the restore point until the next rebuild. the map treats any backticked `*.md` name as a path, so write retired or nonexistent names as plain text. The `doc-count` canon rule checks "All N in-world documents (2.1–2.N)" against the files on disk. If you add a document, update the count in `README.md`, `design/PRODUCTION_SCOPE.md`, `build_master.py` and `build_map.py`.
-- **After every batch of changes, rebuild:**
-  1. `python writing-map/build_map.py`
-  2. `python writing-map/build_master.py`
-- **Current baseline (last rebuild):** 249 files, 51 documents, 93 messages, **0 broken refs, 0 canon violations, 3 name issues, 28 undated messages, 2 orphans.** The 2 orphans are trailers 1 and 3. `canon/enemies/README.md` and `canon/weapons/README.md` are not linked from anywhere else and count as non-orphans only because this file names them, so keep these two names here. The master reference builds 248 files. Do not make any of these numbers worse, and link every new file from `README.md` so it isn't an orphan.
+- **After every batch of changes, rebuild and check** (`writing-map/` no longer exists; see the 2026-11-07 section at the top):
+  1. `python3 tools/ics.py build` (regenerates `meta/*` and the master reference)
+  2. `python3 tools/ics.py check` (must report 0 new problems)
+- **Current baseline (2026-11-07):** 272 files indexed, 51 documents, 16 mail threads, 57 timed events, 25 open sections; checker 0 new problems and 38 known (accepted in `tools/check_baseline.json`). The numbers in the next sentences of older notes (249 files, 93 messages, 2 orphans) are historical. Do not make the checker result worse, and link every new file from `README.md`.
 - `notes.tx` at the repo root is covered by `design/DESIGN.md` and `story/scene-notes/Elevator.md`. The two empty files that used to sit beside it (`README.md`, `design/STEALTH_DETECTION.md`) were deleted. Do not recreate them: the real files live in `writing/`.
 
 ---
