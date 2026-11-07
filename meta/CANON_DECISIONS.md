@@ -74,3 +74,11 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - **"Inflatable Crowd Solutions" is never the title.** It stays a PTKW-level reading (Doc 2.02) and the graffiti in B-30.
 - **Not checked:** collisions with existing products named ICS. Web search returns 403; the author should search before the title is final.
 - **Open:** whether the Unity `productName` (was `ICS-Game`; that project was deleted) should change; a colon is unsafe in build paths, so a build name would be "ICS Interplanetary Corporate Solutions" or "ICS".
+
+## EOD character file rewrite, 2026-11-07 [PROPOSAL]
+
+- **`canon/characters/EOD.md` rewritten.** Heading is now the full-designation bracket form used by C-24 and C-25. After the full name once, the file uses `EOD [Envoy of Devotion]` formally and EOD or "he" elsewhere. Older names stay inside the bracket (Doc 2.29).
+- **"Every book on earth" passage removed from the character file** (the author found it cringy). The idea it carried, the collector, is kept from Doc 2.41. Still present in Doc 2.15 (line 56), Doc 2.41 (line 96) and `design/DESIGN.md` (lines 313, 820); not edited, awaiting the author's ruling. Doc 2.23 line 164 is about the Board, not EOD, and is a different sentence.
+- **Deployment count:** nine before Earth, Earth the tenth (Doc 2.41, C-24). The old file said "deployed nine times". C-26 and Doc 2.51 call #312 the ninth deployment, which agrees. Only #038 (Docs 2.24, 2.25) and #312 (Docs 2.22, 2.27) are described anywhere; deployments 2 to 8 are listed as "not on file".
+- **Source contradictions, kept and flagged in the file:** Doc 2.24 says all ~400 #038 assets were transitioned, Doc 2.25 says the 40 Tier 8 leaders were and 360 dispersed (file follows 2.25); Day 21 weapons totals are 44 AIM-120D in C-23 and 42 in C-21's control-log line.
+- **New sections:** "How successful it was, until the Captain smiled" (scoring by event), the two fights told with actions, words, reasons and results, "The Branch Manager, and 'friend'" (C-26, C-25), and "The sunsetting" (C-24, C-25). The last two draw on sealed files; the Directorate/Level 7 plan is shown as an open decision, since no Research Team reply is on file.
