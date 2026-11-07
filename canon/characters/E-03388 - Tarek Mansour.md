@@ -1,5 +1,5 @@
-#### E-03388 â€” Tarek Mansour
-*Cleaning Supervisor, Levels 1â€“4 | Tier 3 | 7 years at Branch*
+#### E-03388 — Tarek Mansour
+*Cleaning Supervisor, Levels 1–4 | Tier 3 | 7 years at Branch*
 
 A big man with a small notebook. Tarek is from Alexandria, Egypt. He came to ICS because his brother came first and said it was real. His brother's name was Khalid. Khalid worked Level 5 Infrastructure for three years. He was transitioned in Cycle 298 at 34 years old — Tarek was told he "completed his ICS journey." Tarek keeps a list of six things he knows. He does not know his brother is in the network.
 
@@ -9,8 +9,8 @@ When EOD arrives, Tarek is on Level 2, near the main corridor. He sees what happ
 
 After the Branch Director's speech, Tarek is the person who stands up in the cafeteria and reads Rania's last note out loud. He does not plan to. He just has it in his pocket, as he has had it every day since he found it, and when the speech ends, the note is the only thing he knows how to answer it with.
 
-*â†’ See: Document 2.36 (Floor Plans & Maintenance Notes), Note 4 â€” Tarek's list of six things he knows.*
-*â†’ See: Section 6, EOD's Arrival â€” Tarek witnesses the first public action.*
+*→ See: Document 2.36 (Floor Plans & Maintenance Notes), Note 4 — Tarek's list of six things he knows.*
+*→ See: Section 6, EOD's Arrival — Tarek witnesses the first public action.*
 
 ---
 

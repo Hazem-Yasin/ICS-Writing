@@ -1,7 +1,7 @@
-#### E-04788 â€” Sera Vasquez / "The One Who Reports Everything"
+#### E-04788 — Sera Vasquez / "The One Who Reports Everything"
 *Human Resources & Wellness | Tier 3 | 4 years at Branch*
 
-Sera submits more Peer Wellness Reports than any other asset in the facility â€” 34 in four years, the highest individual count on record. She receives the Community Care Commendation every cycle. She keeps a framed copy in her quarters.
+Sera submits more Peer Wellness Reports than any other asset in the facility — 34 in four years, the highest individual count on record. She receives the Community Care Commendation every cycle. She keeps a framed copy in her quarters.
 
 She is not a bad person. This is important. Sera genuinely believes the PWRP is a care system. She genuinely worries about colleagues who eat alone, who spend too long at the window, who ask questions they shouldn't. She genuinely thinks she is helping.
 
@@ -15,7 +15,7 @@ The week after the Branch Director's speech, the PWRP terminal on Level 3 is sti
 
 She does not submit anything again.
 
-*â†’ See: Document 2.30 (Workplace Conduct Policy), Part Three â€” the PWRP programme she believes in.*
+*→ See: Document 2.30 (Workplace Conduct Policy), Part Three — the PWRP programme she believes in.*
 
 ---
 

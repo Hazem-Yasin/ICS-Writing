@@ -1,4 +1,4 @@
-### 4.3 Trailer 3 â€” "The Contract"
+### 4.3 Trailer 3 — "The Contract"
 *No warmth. No sell. Just what is.*
 *This is the trailer that runs after people already know what the game is.*
 *Tone: forensic. The camera observes. It does not editorialize.*
@@ -12,13 +12,13 @@
 
 ---
 
-**[FADE IN â€” VERY SLOWLY: Deep space. Stars. Still.]**
+**[FADE IN — VERY SLOWLY: Deep space. Stars. Still.]**
 
-*Then: Earth. Small. Blue. The night side facing us â€” city lights scattered across the dark like something alive.*
+*Then: Earth. Small. Blue. The night side facing us — city lights scattered across the dark like something alive.*
 
 *It is not moving. It hangs there, patient, the way things hang that don't know they're being watched.*
 
-*From the upper right of frame, something enters. It moves the way an extremely large thing moves when it is not in a hurry â€” with the quiet authority of mass. Grey. Smooth. Geometric. Too many windows for a natural body.*
+*From the upper right of frame, something enters. It moves the way an extremely large thing moves when it is not in a hurry — with the quiet authority of mass. Grey. Smooth. Geometric. Too many windows for a natural body.*
 
 *It settles into position above the Earth.*
 
@@ -26,7 +26,7 @@
 
 ---
 
-**[CUT TO â€” no music, no sound at all: A document. White paper. The camera moves across it slowly â€” a steady, unbroken pull, left to right â€” too slow to read everything, fast enough to feel the weight of how much text there is.]*
+**[CUT TO — no music, no sound at all: A document. White paper. The camera moves across it slowly — a steady, unbroken pull, left to right — too slow to read everything, fast enough to feel the weight of how much text there is.]*
 
 *One line holds in the center of frame long enough to read:*
 
@@ -36,8 +36,8 @@
 
 *At the bottom of the page:*
 
-> **ICS Transit Waiver â€” Form ICS-T7**
-> **Appendix C â€” Schedule D**
+> **ICS Transit Waiver — Form ICS-T7**
+> **Appendix C — Schedule D**
 > **Page 1 of 94**
 
 *The page does not end. The camera does.*
@@ -54,7 +54,7 @@
 
 ---
 
-**[CUT TO: An alien manager's office. He is at his desk. The camera is outside the glass partition â€” we see him through it, slightly distorted.]*
+**[CUT TO: An alien manager's office. He is at his desk. The camera is outside the glass partition — we see him through it, slightly distorted.]*
 
 *He is holding a printed list. Names. Asset numbers beside each one.*
 
@@ -70,15 +70,15 @@
 
 ---
 
-**[CUT TO: The Earth View Window â€” Level 3. A woman stands at the glass with a cup of coffee. She is looking at Earth. She comes here every morning before her shift. This is known.]*
+**[CUT TO: The Earth View Window — Level 3. A woman stands at the glass with a cup of coffee. She is looking at Earth. She comes here every morning before her shift. This is known.]*
 
 *The Earth fills the window. The light from it is the only warm thing in this shot.*
 
-*In the glass â€” faint, because the light is against her â€” her reflection. And behind her reflection: the corridor. And in the corridor: a door opening.*
+*In the glass — faint, because the light is against her — her reflection. And behind her reflection: the corridor. And in the corridor: a door opening.*
 
 *Something steps through the door.*
 
-*It is tall. It moves differently from the other figures we have seen â€” not wrong, exactly, but with the economy of something that has never needed to perform normalcy for an audience.*
+*It is tall. It moves differently from the other figures we have seen — not wrong, exactly, but with the economy of something that has never needed to perform normalcy for an audience.*
 
 *The woman does not hear it.*
 
@@ -88,20 +88,20 @@
 
 ---
 
-**[CUT TO: A wall â€” somewhere below the main floors. Not a finished wall. A maintenance wall, concrete, with pipes running along it.]*
+**[CUT TO: A wall — somewhere below the main floors. Not a finished wall. A maintenance wall, concrete, with pipes running along it.]*
 
-*Someone has written on the concrete. Scraped, not drawn â€” the letters are deep, done with something hard, done with intention, done by someone who wanted this to last:*
+*Someone has written on the concrete. Scraped, not drawn — the letters are deep, done with something hard, done with intention, done by someone who wanted this to last:*
 
 > *IT DOES NOT NEED YOU TO BE AFRAID.*
 > *IT NEEDS YOU TO BE CONTENT.*
 
 *The camera holds on this for a long time.*
 
-*Below the last word â€” placed there after, over the period, precisely â€” a small ICS sticker. AIDEN's face. Smiling.*
+*Below the last word — placed there after, over the period, precisely — a small ICS sticker. AIDEN's face. Smiling.*
 
 ---
 
-**[CUT TO: A data terminal â€” PTKW access, not the public-facing system. A galaxy map fills the screen. Dozens of markers. Most are green. Some are amber. Three are a flat, textureless grey, with no label beside them â€” not even a labor source number. Just the grey dot, and empty space where the name would be.]*
+**[CUT TO: A data terminal — PTKW access, not the public-facing system. A galaxy map fills the screen. Dozens of markers. Most are green. Some are amber. Three are a flat, textureless grey, with no label beside them — not even a labor source number. Just the grey dot, and empty space where the name would be.]*
 
 *A hand reaches into frame and touches one of the grey dots.*
 
@@ -111,13 +111,13 @@
 
 ---
 
-**[CUT TO: Earth. From inside the facility. The window frame divides it â€” horizon visible at the bottom, curved edge of atmosphere at the top, deep black above.]*
+**[CUT TO: Earth. From inside the facility. The window frame divides it — horizon visible at the bottom, curved edge of atmosphere at the top, deep black above.]*
 
 *City lights still on. Somewhere down there, people are going to work. People are making breakfast. People are having the kind of morning they will not remember specifically but that will make up, in aggregate, most of their lives.*
 
 *White text appears over the image. No music. No sound at all now.*
 
-> **LABOR SOURCE DOSSIER â€” #349**
+> **LABOR SOURCE DOSSIER — #349**
 > **DESIGNATION: EARTH**
 > **CLASSIFICATION: HIGH-VALUE STAGE 2 LABOR SOURCE**
 > **CURRENT STAGE: 2 OF 5**
@@ -133,7 +133,7 @@
 
 *A further pause.*
 
-*Then â€” smaller, at the bottom, as if appended later:*
+*Then — smaller, at the bottom, as if appended later:*
 
 > **STAGE 5 PRECEDENTS: 3 confirmed. ~200 billion nodes integrated. Operational.*
 
@@ -143,15 +143,15 @@
 
 *Silence.*
 
-*Then â€” from somewhere beneath the floor, muffled but present â€” the sound of a door closing. A heavy door. Something designed to seal.*
+*Then — from somewhere beneath the floor, muffled but present — the sound of a door closing. A heavy door. Something designed to seal.*
 
 *Then nothing.*
 
 ---
 
-**[TITLE CARD â€” white text on black. No animation. No sound. No logo.]*
+**[TITLE CARD — white text on black. No animation. No sound. No logo.]*
 
-> **ICS â€” RIGGED SPHERE**
+> **ICS — RIGGED SPHERE**
 
 *The title stays.*
 

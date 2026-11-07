@@ -1,4 +1,4 @@
-#### E-01899 â€” [First Name: Darius] / "The View"
+#### E-01899 — [First Name: Darius] / "The View"
 *Communications Division | Tier 2 | 2 years at Branch*
 
 Darius is from a small town. He goes to the Earth View Window every morning before his shift. He has done this every single day for two years. He was in the Real Stories #3 advertisement. He said he doesn't regret it. He meant it.
@@ -13,8 +13,8 @@ He survives. He is not harmed. But he sees it happen. He is standing there looki
 
 He does not go to the window again after that day.
 
-*â†’ See: Document 2.37 (Advertisement Archive), Real Stories #3.*
-*â†’ See: Document 2.4 (Broadcast Channel) â€” the Ambient Update at 06:00 describes Earth's position for Darius's daily visit.*
+*→ See: Document 2.37 (Advertisement Archive), Real Stories #3.*
+*→ See: Document 2.4 (Broadcast Channel) — the Ambient Update at 06:00 describes Earth's position for Darius's daily visit.*
 
 ---
 
