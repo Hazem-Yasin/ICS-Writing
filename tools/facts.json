@@ -1,0 +1,13 @@
+{
+  "_help": "Each fact: name, patterns (regexes, first capture group = the value), note. FACTS.md lists every value found with file:line and marks facts whose values differ. Different values are often different things (a salvo vs a total), so read the context before calling it a contradiction.",
+  "facts": [
+    {"name": "AIM-120D missiles", "patterns": ["(\\d+)\\s+AIM-120D", "([Tt]wenty|[Tt]hirty|[Ff]orty|[Ff]ifty)[- ]?\\w*\\s+AIM-120D"], "note": "44 total (C-23) vs 42 (C-21 control log 03:03-03:39) vs a 20-missile salvo at 03:05."},
+    {"name": "Cannon rounds", "patterns": ["(\\d,\\d{3})\\s+rounds"]},
+    {"name": "Sudbury dead", "patterns": ["([Ss]ixteen|[Tt]hirteen|16|13)\\s+(?:human beings|dead)"], "note": "Tip said thirteen, there were sixteen (C-19). Both are in the text on purpose."},
+    {"name": "EOD deployment ordinal", "patterns": ["\\b(eighth|ninth|tenth)\\s+(?:active\\s+|operational\\s+)?deployment", "\\b(eight|nine)\\s+(?:previous|earlier|prior)\\s+(?:operational\\s+)?deployments", "deployed\\s+(nine|ten)\\s+times"], "note": "Earth is the tenth (Doc 2.41, C-24); #312 is the ninth (C-26, Doc 2.51)."},
+    {"name": "Labor Source #038 assets", "patterns": ["(?<![#\\d,.-])(\\d{3})\\s+assets", "(\\d{2})\\s+Tier 8"], "note": "Doc 2.24 says all ~400 transitioned, Doc 2.25 says the 40 Tier 8 leaders."},
+    {"name": "Branch population", "patterns": ["(\\d{2},\\d{3})\\s+(?:people|assets|colleagues|employees|residents)"]},
+    {"name": "Resistance index (percent)", "expect_variety": true, "patterns": ["[Rr]esistance [Ii]ndex[^.\\n]{0,40}?(\\d+(?:\\.\\d+)?)\\s?%"]},
+    {"name": "Level 7 repair days", "patterns": ["([Tt]hirty-one|31)\\s+days", "([Nn]ineteen|19)\\s+(?:of them\\s+)?(?:for|days)"]}
+  ]
+}
