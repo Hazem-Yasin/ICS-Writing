@@ -10,7 +10,7 @@
 | [Earth Branch Manager](#earth-branch-manager) | character | 36 | 155 | 170 |
 | [Branch Director](#branch-director) | character | 109 | 451 | 460 |
 | [Brant](#brant) | character | 29 | 58 | 79 |
-| [K-7](#k-7) | character | 66 | 246 | 270 |
+| [K-7](#k-7) | character | 66 | 246 | 273 |
 | [Kai](#kai) | character | 36 | 185 | 206 |
 | [Tarek](#tarek) | character | 84 | 396 | 420 |
 | [Yaw](#yaw) | character | 19 | 55 | 67 |
@@ -30,10 +30,10 @@
 | [Labor Source #038](#labor-source-038) | place | 12 | 47 | 47 |
 | [Sovereign Projection](#sovereign-projection) | concept | 17 | 57 | 57 |
 | [The Smile Study (Doc 2.49)](#the-smile-study-doc-249) | document | 14 | 63 | 66 |
-| [Human Psychology Report (Doc 2.18)](#human-psychology-report-doc-218) | document | 57 | 198 | 191 |
-| [PTKW](#ptkw) | organisation | 236 | 1502 | 1449 |
-| [EIMU](#eimu) | system | 131 | 582 | 584 |
-| [CCN](#ccn) | system | 97 | 338 | 336 |
+| [Human Psychology Report (Doc 2.18)](#human-psychology-report-doc-218) | document | 57 | 198 | 201 |
+| [PTKW](#ptkw) | organisation | 237 | 1505 | 1529 |
+| [EIMU](#eimu) | system | 131 | 582 | 591 |
+| [CCN](#ccn) | system | 97 | 338 | 341 |
 | [SMAC](#smac) | system | 4 | 10 | 13 |
 | [Milgram](#milgram) | concept | 14 | 32 | 32 |
 | [CRD-7](#crd-7) | equipment | 26 | 113 | 116 |
@@ -1110,7 +1110,7 @@ Aliases found: `Document 2.18` ×77, `Human Psychology Report` ×72, `Doc 2.18` 
 
 *organisation*
 
-Aliases found: `PTKW` ×1502
+Aliases found: `PTKW` ×1505
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -1259,6 +1259,7 @@ Aliases found: `PTKW` ×1502
 | 3 | [CRD-7R — Compliance Reversal](<../canon/weapons/modifications/CRD-7R — Compliance Reversal.md>) CRD-7R — Compliance Reversal | — | PTKW×3 |
 | 3 | [Ignition-Canister](<../canon/weapons/modifications/Ignition-Canister.md>) Ignition Canister | — | PTKW×3 |
 | 3 | [ENVIRONMENTAL_STORYTELLING](<../design/ENVIRONMENTAL_STORYTELLING.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×3 |
+| 3 | [LOGO](<../design/LOGO.md>) The ICS Earth Branch Mark: Construction and Use | — | PTKW×3 |
 | 3 | [TOOL_TUNING](<../design/TOOL_TUNING.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×3 |
 | 3 | [Stairwell B](<../story/scene-notes/Stairwell B.md>) Scene Notes — Stairwell B | — | PTKW×3 |
 | 3 | [1.13](<../story/scenes/1.13 - K-7, Level 5, Forty Minutes.md>) 1.13 — K-7, Level 5, Forty Minutes | — | PTKW×3 |

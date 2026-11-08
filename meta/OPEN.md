@@ -6,10 +6,10 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 | What | Count |
 |---|---|
-| Open-question sections | 26 (about 156 listed items) |
+| Open-question sections | 27 (about 162 listed items) |
 | Inline TODO / TBD / “to be decided” lines | 7 |
 | Unchecked items in `meta/TODO.md` | 7 |
-| Files carrying [PROPOSAL] material not yet ruled canon | 120 |
+| Files carrying [PROPOSAL] material not yet ruled canon | 121 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
@@ -268,6 +268,17 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 `design/JOBS_AND_CAREER.md` line 79
 
 Whether the player's early flags land on **named characters** (Hana, Omar, Tarek) or only on **anonymous cases** is the author's call. Named is stronger and more cruel. Anonymous is safer and needs no new text. See ruling 32.
+
+### The ICS Earth Branch Mark: Construction and Use — “8. Open questions”
+
+`design/LOGO.md` line 121
+
+- Is the wordmark acceptable as drawn, or should a real rounded face (for example a geometric rounded sans) replace it for the final art?
+- Should the tip ever touch the ring in the final art, or does the 5-unit gap stay? The gap keeps the hook deniable; touching would read as a closed loop at once.
+- The one-colour mark looks like a target. Is that a problem (the mark is a "community") or a gift (the player will read it as one)?
+- Minimum size: is a plain blue circle below 24 px acceptable as the "Earth Branch mark", or does the game need a separate favicon?
+- Does the Board layer need a tell at all? Doc 2.32 says the Board version "has no distribution record". The mark may need to stay identical on every layer.
+- Is the **reversed** version (ring in beige, arc gold) enough, or should the white mono version be the only reversed form?
 
 ### ICS: Interplanetary Corporate Solutions — “9. Open questions”
 
@@ -609,6 +620,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions
 - [JOBS_AND_CAREER](<../design/JOBS_AND_CAREER.md>) ICS: Interplanetary Corporate Solutions
 - [LEVEL_BEAT_SHEETS](<../design/LEVEL_BEAT_SHEETS.md>) ICS: Interplanetary Corporate Solutions
+- [LOGO](<../design/LOGO.md>) The ICS Earth Branch Mark: Construction and Use
 - [PLAN_SYSTEM](<../design/PLAN_SYSTEM.md>) ICS: Interplanetary Corporate Solutions
 - [PLAYER_GUIDANCE](<../design/PLAYER_GUIDANCE.md>) ICS: Interplanetary Corporate Solutions
 - [PRODUCTION_SCOPE](<../design/PRODUCTION_SCOPE.md>) ICS: Interplanetary Corporate Solutions

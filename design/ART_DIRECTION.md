@@ -36,7 +36,7 @@ All from Document 2.32 (`canon/documents/2.32 — Brand Identity The Logo.md`). 
 |---|---|
 | **ICS Deep Blue** | #1A2E52 — the circle |
 | **ICS Warm Gold** | #C9A84C — the arc |
-| **Mark** | An ouroboros; a circle with an arc. No serpent in the Earth Branch tool markings (`canon/weapons/compliance/CRD-7 — Compliance Restraint Device.md`: "the ouroboros mark, no serpent"). |
+| **Mark** | An ouroboros; a circle with an arc. No serpent in the Earth Branch tool markings (`canon/weapons/compliance/CRD-7 — Compliance Restraint Device.md`: "the ouroboros mark, no serpent"). Drawn and specified in `design/LOGO.md`; files in `design/brand/`. |
 | **Wordmark** | Clean, rounded sans-serif. No sharp angles. |
 | **Tagline** | *"Because You're Worth the Investment."* |
 | **Mascots** | AIDEN (yellow-orange, round), SOL (orange and gold, sun-ray head), CLEO (soft purple, clipboard), VELO (blue, mid-stride). `canon/documents/2.31 — Mascot Family AIDEN SOL CLEO VELO.md` |
