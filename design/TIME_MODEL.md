@@ -100,6 +100,7 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 15 | 22:10 | Branch Director's Leadership Reflection Plan **[PROPOSAL]** | `canon/internal-communications/branch-director/C-29` |
 | 16 | 00:20 | EOD's off-facility demonstration (Blue Harrow Team of the Harrow, Sudbury; Doc 2.47) **[PROPOSAL]** | `canon/internal-communications/branch-director/C-19` |
 | 17 | — | Sera at the PWRP terminal | `design/NPC_COMPANIONS.md` |
+| 17 | 07:48 / 09:05 / 11:30 | Noor Haddad (E-03274) writes three questions to the Floor Liaison; the Liaison and K-12 agree to escalate; the Liaison sends the approved reply **[PROPOSAL]** | `canon/internal-communications/employee/A-38`, `canon/internal-communications/ptkw/B-37` |
 | 18 | 03:09 | Gyrfalcon Wing incident (a four-aircraft flight; Doc 2.48): a pilot's radio contact with an unidentified presence, no casualties **[PROPOSAL]** | `canon/internal-communications/branch-director/C-20` |
 | 19 | 22:10 | Idris Kamau's Settling-In extension is on record; he thanks Kai for the tea **[PROPOSAL]** | `canon/internal-communications/employee/A-33` |
 | 20 | 21:10 | Host government issues the Wing its first standing weapons release **[PROPOSAL]** | `canon/internal-communications/branch-director/C-21` |

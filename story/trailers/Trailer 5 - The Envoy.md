@@ -80,6 +80,17 @@
 > **EXECUTIONER OF DESPAIR**
 > *Same letters. Different meaning.*
 
+**[HOLD on the bar in the lower left: PTKW ACCESS. The letters of PTKW light gold, one at a time, and rewrite in the same way. [PROPOSAL]]**
+
+> **P**RIVILEGED → **P**UNISH
+> **T**ECHNOLOGY → **W**HO **T**HINK
+> **K**EY → **K**ILL
+> **W**ORKFORCE → **W**HO **W**ONDER
+
+> *"Questions? Any colleague with a grey card will be glad to help."*
+
+*[The narrator's voice does not change. A small card appears with it: **ASK A COLLEAGUE**. Behind it, out of focus, a woman at a work desk looks at a leaflet beside a lift, and reads it to the bottom.]*
+
 **[CUT TO: A manager's office. A glass partition goes from clear to frost, slowly, as a figure passes it. We see only the shape. The manager inside does not look up. He stays very still.]**
 
 **[CUT TO: A work-floor door. Behind it, a voice is calling out a name we cannot hear. A pod of employees looks up as one.]**

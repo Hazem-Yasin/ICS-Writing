@@ -65,6 +65,12 @@
 
 > *"Come grow with us."*
 
+*[A small card fades in under the logo, in the same warm sans-serif. [PROPOSAL]]*
+
+> **Questions? Any colleague with a grey card will be glad to help.**
+
+*[It is the kindest line in the spot. Nothing in it is untrue.]*
+
 ---
 
 **[CUT TO: A group of employees — diverse, relaxed, genuinely at ease — at a long table in the cafeteria. One of them is telling a story. The others are laughing. A small AIDEN plush sits at the end of the table, facing the camera. Its expression does not change.]*

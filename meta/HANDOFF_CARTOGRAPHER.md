@@ -4,6 +4,22 @@
 
 > **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` and `ICS-OS/` were deleted with the Godot project and the map is to be remade, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) (the sibling `ICS-Game` Unity project was deleted; 3D work now lives in the sibling `ICS-Models` repo); the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
 
+### Update 2026-11-08 (later): PTKW as the Branch's HR — the open door
+
+*Everything here is `[PROPOSAL]`. Nothing is committed or pushed. Logged in `meta/CANON_DECISIONS.md` ("PTKW as the Branch's HR: the open door").*
+
+**The idea.** The humans ICS fears most are the settled ones who begin to wonder. That is why every asset is told to ask the nearest PTKW colleague, who is "always equipped to answer you" (Docs 2.03, 2.04). The instruction is the detector. PTKW therefore works as the Branch's HR: warm on the front, a net underneath. The mechanism was already half in canon (Doc 2.21 §3 "pressure release valve and early warning system"; Doc 2.18 §2.9 comfortable humans resist enslavement). The new work states it.
+
+**Created (LF).** Doc 2.62 Floor Liaison Guide (Global leaflet *Ask a Colleague*; PTKW ladder Answer, Redirect, Log, Escalate, Support Step; the two-officer rule; the Comfortable Inquiry; Board appendix reading Think and Wonder). A-38 (Noor Haddad, E-03274, three questions, Day 17 07:48). B-37 (the Floor Liaison and K-12 agree to escalate; K-12 explains, in order, what happens to her: Soft Ceiling on the day, Step 1 within 14 days, Step 2 asks who she told, the friend on Level 2 gets a Step 1, then a Care Action Plan built not to be completed; then the warm approved reply). Design-team memo 13 (Akar, The Open Door).
+
+**Edited.** Docs 2.02, 2.04, 2.18, 2.20, 2.21, 2.29 (CRLF, edited as bytes); the K-7 file; `PTKW-Security-Division.md`; `PLAYER_GUIDANCE.md`; `PLAN_SYSTEM.md`; `TIME_MODEL.md`; Trailer 2 (split file is CRLF; compiled copy is LF), Trailer 5, `trailers.md`; indexes and counts (62 documents, 2.1–2.62, in `README.md`, `PRODUCTION_SCOPE.md`, `build_master.py`).
+
+**Corrections made while writing.** Doc 2.10 (the Curiosity Policy) exists; earlier notes said the text did not. Doc 2.21 has no PTKW division heading (Division 5 is Communications), so the edit is in §3. Memo 03 does not contain the line first attributed to it; the quotation is Doc 2.18 §2.9.
+
+**Open:** K-12 on the Floor Liaison rota; whether the Liaison of B-27 (rude) and B-37 (warm) is one person; all-PTKW versus Floor Liaison only.
+
+---
+
 ### Update 2026-11-08: the Plan System (layered classification) — read with the update below
 
 *Source of truth for this work: `design/PLAN_SYSTEM.md`. Everything here is `[PROPOSAL]`. Nothing is committed or pushed.*

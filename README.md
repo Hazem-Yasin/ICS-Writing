@@ -32,7 +32,7 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 
 | File | Contents |
 |---|---|
-| `canon/documents/` | **The canon.** All 61 in-world documents (2.1–2.61), one file each, including the Glossary (2.29). The source of truth for lore, access tiers, and cross-references. The two old compiled files (WORLD and ICS - Rigged Sphere) were retired; their unique text lives in the master reference below. |
+| `canon/documents/` | **The canon.** All 62 in-world documents (2.1–2.62), one file each, including the Glossary (2.29). The source of truth for lore, access tiers, and cross-references. The two old compiled files (WORLD and ICS - Rigged Sphere) were retired; their unique text lives in the master reference below. |
 | `reference/` | **Master reference (generated snapshot).** One large read-only file with the writing files verbatim, plus Appendix A (Game Overview, the earlier Doc 2.32 version, recovered variants). It duplicates the other files and will drift; don't edit it. The script that regenerated it was in the retired writing map. |
 | [`design/DESIGN.md`](design/DESIGN.md) | **The blueprint.** Characters, narrative arc (Phases 0–6), scene notes, and Document 2.41 (EOD's perspective). This is where the game lives. |
 | [`story/STORY.md`](story/STORY.md) | **The story itself.** Six scenes written as experienced narrative: the interrogation, what happened in the atrium on Day 21, the Level 0 descent and Section 7, Tarek standing up, Maren Voss in the final hours, and the ending. |
@@ -124,12 +124,14 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 | `canon/internal-communications/employee/A-35 — Tarek Notebook Cakes.md` | Day 41: Tarek's notebook, cakes in the Floor B bins. **[PROPOSAL]** |
 | `canon/internal-communications/employee/A-36 — Hana to Sera Which Day.md` | Day 41: Hana asks Sera which day. **[PROPOSAL]** |
 | `canon/internal-communications/employee/A-37 — Sera Unsent Hana Desk.md` | Day 58: Sera's unsent note about Hana's desk. **[PROPOSAL]** |
+| `canon/internal-communications/employee/A-38 — Noor to the Floor Liaison Three Questions.md` | Day 17: a comfortable asset writes three polite questions to the Floor Liaison. **[PROPOSAL]** |
 | `canon/internal-communications/ptkw/B-31 — K7 to K12 Floor B and the Ten Per Cent.md` | Day 5: K-7 to K-12 on Floor B and the ten per cent. **[PROPOSAL]** |
 | `canon/internal-communications/ptkw/B-32 — TOR9 on a Pre-Filled Results Page.md` | Day 41: TOR-9 on a pre-filled Results page. **[PROPOSAL]** |
 | `canon/internal-communications/ptkw/B-33 — Facilitator to Femi Floor Too Good.md` | Day 6: Facilitator to Femi, Floor B is too good. **[PROPOSAL]** |
 | `canon/internal-communications/ptkw/B-34 — K12 Belonging Pulse Item 3 and What Comes After.md` | Day 14: K-12 on Belonging Pulse item 3. **[PROPOSAL]** |
 | `canon/internal-communications/ptkw/B-35 — PTKW Staff Care Outcomes Summary.md` | Day 26: PTKW Q4 Care Outcomes summary. **[PROPOSAL]** |
 | `canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md` | Day 41: the Oversight instruction on Perception Alignment and its withdrawal. **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md` | Day 17: the Floor Liaison and K-12 agree to escalate Noor's questions, and K-12 explains what happens to her. **[PROPOSAL]** |
 | `canon/internal-communications/branch-director/C-27 — Director to HQ Calibration Round and Tier Velocity.md` | Day 7: Director to HQ on the calibration round and Tier Velocity. **[PROPOSAL]** |
 | `canon/internal-communications/branch-director/C-28 — HQ to Director Routing E-02210 Voluntary Transition.md` | Day 8: HQ routes E-02210's Voluntary Transition. **[PROPOSAL]** |
 | `canon/internal-communications/branch-director/C-29 — Director Leadership Reflection Plan.md` | Day 15: the Director's Leadership Reflection Plan. **[PROPOSAL]** |
@@ -137,6 +139,7 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 | `canon/internal-communications/design-team/10 — Akar — The Completion Rate.md` | The Completion Rate. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md` | The wording on the Growth Plan form. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/12 — Ohm — The Ten Per Cent and the Resistance Index.md` | The ten per cent and the Resistance Index. **[PROPOSAL]** |
+| `canon/internal-communications/design-team/13 — Akar — The Open Door.md` | The open door as a detector: why assets are told to ask a PTKW colleague. **[PROPOSAL]** |
 
 ### Human Forces (Earth's strongest formations)
 
@@ -157,6 +160,7 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 | `canon/documents/2.59 — Manager Evaluation Rubric.md` | **Branch Director access.** How managers are scored on their placement of Support Needed. **[PROPOSAL]** |
 | `canon/documents/2.60 — Perception Alignment Protocol.md` | **Above Branch Director access.** The protocol that adjusts a person's memory of dates and conversations. **[PROPOSAL]** |
 | `canon/documents/2.61 — ICS Wellness Assessment Form ICS-WA4.md` | **Staff and PTKW layers.** The assessment form whose Results page is printed before the assessment is held. **[PROPOSAL]** |
+| `canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md` | **Global, PTKW and Board layers.** The leaflet *Ask a Colleague*, the Floor Liaison's ladder and two-officer rule, and why the invitation to ask is a detector for comfortable colleagues. **[PROPOSAL]** |
 | `canon/characters/Colonel Leif Aronsen.md` | **The Wing's commander.** History, the night his wife died, the rules he keeps with his son, and Day 21 in the tower cab. Evidence only; the player never meets him. **[PROPOSAL]** |
 | `canon/characters/Captain Eirik Aronsen.md` | **The commander's son,** call sign Tern, Gyrfalcon Seven. History, the apron, the kitchen timer, and what the game does and does not know about his last transmissions, including his message to humans. **[PROPOSAL]** |
 | `canon/characters/K-7 - PTKW Monitoring and Analysis Team Leader.md` | **The PTKW analyst who notices.** Profile built only from what he does in B-01, B-05, B-10, B-22 and B-28; his workstation is the second-largest mail source in the game. Five open rulings (pronouns, Level 5 or 8, device name, password, rank). **[PROPOSAL]** |

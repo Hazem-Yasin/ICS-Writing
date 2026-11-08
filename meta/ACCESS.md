@@ -9,10 +9,10 @@ The access level of each file is read from its header (Status / Classification /
 | Section | Employee | Global | PTKW | Branch Director | Above Director | Board | Sealed | — |
 |---|---|---|---|---|---|---|---|---|
 | `canon/characters` | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 14 |
-| `canon/documents` | 0 | 2 | 24 | 1 | 3 | 12 | 1 | 18 |
+| `canon/documents` | 0 | 3 | 24 | 1 | 3 | 12 | 1 | 18 |
 | `canon/enemies` | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | `canon/facility` | 0 | 0 | 4 | 0 | 0 | 0 | 1 | 8 |
-| `canon/internal-communications` | 37 | 1 | 39 | 12 | 2 | 4 | 5 | 17 |
+| `canon/internal-communications` | 38 | 1 | 41 | 12 | 2 | 4 | 5 | 17 |
 | `canon/weapons` | 0 | 6 | 1 | 0 | 0 | 0 | 0 | 16 |
 
 ## Who can know about each thing
@@ -47,10 +47,10 @@ For each tracked entity, how many files at each level mention it. A thing that a
 | Labor Source #038 |  |  | 3 |  |  | 2 |  | 3 |
 | Sovereign Projection |  |  | 3 |  |  | 7 | 4 | 1 |
 | The Smile Study (Doc 2.49) |  |  |  |  |  |  | 5 | 3 |
-| Human Psychology Report (Doc 2.18) | 1 | 1 | 17 | 2 |  | 9 | 3 | 14 |
-| PTKW | 10 | 8 | 71 | 9 | 4 | 11 | 6 | 56 |
-| EIMU | 6 | 4 | 33 |  | 1 | 10 | 5 | 33 |
-| CCN | 21 | 3 | 11 | 4 |  | 2 |  | 21 |
+| Human Psychology Report (Doc 2.18) | 2 | 2 | 18 | 2 |  | 9 | 3 | 14 |
+| PTKW | 11 | 9 | 73 | 9 | 4 | 11 | 6 | 57 |
+| EIMU | 6 | 5 | 34 |  | 1 | 10 | 5 | 33 |
+| CCN | 22 | 4 | 12 | 4 |  | 2 |  | 21 |
 | SMAC |  |  | 2 |  |  |  | 2 |  |
 | Milgram |  |  | 3 |  |  | 3 | 2 | 3 |
 | CRD-7 |  | 1 | 4 | 1 |  | 1 |  | 5 |

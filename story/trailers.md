@@ -205,6 +205,12 @@ HARVEST ELIGIBILITY: CYCLE 312 — PENDING REVIEW
 
 > *"Come grow with us."*
 
+*[A small card fades in under the logo, in the same warm sans-serif. [PROPOSAL]]*
+
+> **Questions? Any colleague with a grey card will be glad to help.**
+
+*[It is the kindest line in the spot. Nothing in it is untrue.]*
+
 ---
 
 **[CUT TO: A group of employees — diverse, relaxed, genuinely at ease — at a long table in the cafeteria. One of them is telling a story. The others are laughing. A small AIDEN plush sits at the end of the table, facing the camera. Its expression does not change.]*
@@ -555,6 +561,17 @@ HARVEST ELIGIBILITY: CYCLE 312 — PENDING REVIEW
 > **EXECUTIONER OF DESPAIR**
 > *Same letters. Different meaning.*
 
+**[HOLD on the bar in the lower left: PTKW ACCESS. The letters of PTKW light gold, one at a time, and rewrite in the same way. [PROPOSAL]]**
+
+> **P**RIVILEGED → **P**UNISH
+> **T**ECHNOLOGY → **W**HO **T**HINK
+> **K**EY → **K**ILL
+> **W**ORKFORCE → **W**HO **W**ONDER
+
+> *"Questions? Any colleague with a grey card will be glad to help."*
+
+*[The narrator's voice does not change. A small card appears with it: **ASK A COLLEAGUE**. Behind it, out of focus, a woman at a work desk looks at a leaflet beside a lift, and reads it to the bottom.]*
+
 **[CUT TO: A manager's office. A glass partition goes from clear to frost, slowly, as a figure passes it. We see only the shape. The manager inside does not look up. He stays very still.]**
 
 **[CUT TO: A work-floor door. Behind it, a voice is calling out a name we cannot hear. A pod of employees looks up as one.]**
@@ -688,6 +705,7 @@ HARVEST ELIGIBILITY: CYCLE 312 — PENDING REVIEW
 4. **Ten days.** `canon/documents/2.15 — EOD Profile.md` says he hides for ten days and surfaces on Day 11. `design/TIME_MODEL.md` has him on the floor Days 4–10 and absent Days 11–20. The trailer shows only a tally of ten marks, so it does not choose.
 5. **Where does this run?** As an in-world ICS spot (like Trailer 2), or as a marketing trailer that uses the same register? The close is written to work either way.
 6. **[PROPOSAL] A Plan beat for a future trailer.** A two-shot in Room 3: two cups that match, a plant, a paper pad, a clock. A voice (Sera's, off-camera) says "This isn't a warning." Cut to the Wellness Hub bar at 80%. No title card. It would sit best in an in-world ICS spot (like Trailer 2) and not in this one. See `story/scene-notes/The Review Room.md` and `design/PLAN_SYSTEM.md`.
+7. **[PROPOSAL] The grey card.** Trailer 2 now ends on the card *Questions? Any colleague with a grey card will be glad to help.* and Trailer 5 Movement II rewrites PTKW (Privileged Technology Access, Key Main Workforce) into *Punish who Think, Kill who Wonder* beside it. Both are the same beat at two access tiers. If only one survives, keep Trailer 2: it is the one where the line is kind. See `canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md`.
 
 ---
 

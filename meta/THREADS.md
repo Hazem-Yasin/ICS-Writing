@@ -4,7 +4,7 @@
 
 Messages grouped into conversations. A thread is found when files share a subject once Re:/Fwd: are removed, or share a tag in the subject (Deployment Order 287, E-03615, ICS-IR3-…). Anything the subjects do not reveal is listed by hand in `tools/threads.json`. A file holding several messages (B-28, C-26) counts as a thread by itself. Order is by id, which is not always date order: check the Date column.
 
-**17 threads. 84 messages stand alone** (see `meta/INDEX.md`).
+**18 threads. 85 messages stand alone** (see `meta/INDEX.md`).
 
 ## the canteen thing
 
@@ -41,6 +41,19 @@ Messages grouped into conversations. A thread is found when files share a subjec
 | [C-26](<../canon/internal-communications/branch-director/C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md>) | Cycle 292 Q2 — Day 4, 14:20 | Branch Manager, Labor Source #312 → Interplanetary HQ | Unregistered person on the Branch — no badge, no tier, no record — re… | PTKW |
 | [C-26](<../canon/internal-communications/branch-director/C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md>) | Cycle 292 Q2 — Day 4, 17:05 | Interplanetary HQ → Branch Manager, Labor Source #312 | RE: Unregistered person on the Branch | PTKW |
 | [C-26](<../canon/internal-communications/branch-director/C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md>) | Cycle 292 Q2 — Day 4, 18:10 | ICS Interplanetary Research Division → Branch Manager, Labor Source #312 | EOD (Executioner of Despair) — Operational Handling & Integration Pro… | PTKW |
+
+## A few questions, if that's all right
+
+*2 files, 6 messages. matched by subject or tag.*
+
+| File | Date | From → To | Subject | Access |
+|---|---|---|---|---|
+| [A-38](<../canon/internal-communications/employee/A-38 — Noor to the Floor Liaison Three Questions.md>) | Cycle 300 Q4, Day 17, 07:48 | E-03274 → PTKW Floor Liaison, Level 3 | A few questions, if that's all right | Employee |
+| [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 09:05 | PTKW Floor Liaison, Level 3 → K-12 | Second signature — E-03274, Comfortable Inquiry | PTKW |
+| [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 09:40 | K-12 → PTKW Floor Liaison, Level 3 | Re: Second signature — E-03274, Comfortable Inquiry | PTKW |
+| [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 10:15 | PTKW Floor Liaison, Level 3 → K-12 | Re: Re: Second signature — E-03274, Comfortable Inquiry | PTKW |
+| [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 10:52 | K-12 → PTKW Floor Liaison, Level 3 | Re: Re: Re: Second signature — E-03274, Comfortable Inquiry | PTKW |
+| [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 11:30 | PTKW Floor Liaison, Level 3 → E-03274 | Re: A few questions, if that's all right | PTKW |
 
 ## the Kofi email — look at the last paragraph
 
@@ -192,6 +205,7 @@ Counts of messages by sender and recipient (the To line only).
 | 2 | T. Vance, Senior Environmental Design,… | BES Working Group |
 | 2 | Dr. Selin Akar | Behavioral Analytics Division |
 | 2 | BES Architect Ohm | Lead Designer Akar |
+| 2 | Dr. Akar, Lead Designer, Behavioral Env… | BES Working Group |
 | 2 | E-03019 | E-02208 |
 | 2 | E-03019 | Level 4 Data Processing) |
 | 2 | E-03388 | inside the back cover of his personal n… |
@@ -203,4 +217,3 @@ Counts of messages by sender and recipient (the To line only).
 | 2 | PTKW Duty Officer, Level 5 | K-7 |
 | 2 | PTKW Duty Officer, Level 5 | TOR-9 |
 | 2 | K-7 | Earth Branch Manager |
-| 1 | Branch Director, ICS Earth Branch | Regional Sector Lead |

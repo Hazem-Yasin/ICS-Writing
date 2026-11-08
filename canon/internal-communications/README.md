@@ -25,7 +25,8 @@ canon/internal-communications/
 │   ├── 09 — Ohm — The Remembering Room.md
 │   ├── 10 — Akar — The Completion Rate.md
 │   ├── 11 — Vance — The Wording on the Growth Plan Form.md
-│   └── 12 — Ohm — The Ten Per Cent and the Resistance Index.md
+│   ├── 12 — Ohm — The Ten Per Cent and the Resistance Index.md
+│   └── 13 — Akar — The Open Door.md
 │
 ├── employee/                          ← messages between human employees
 │   ├── A-00 — Unknown Employee to Dad (unsent).md
@@ -62,7 +63,8 @@ canon/internal-communications/
 │   ├── A-34 — Omar Belonging Pulse Drafts.md
 │   ├── A-35 — Tarek Notebook Cakes.md
 │   ├── A-36 — Hana to Sera Which Day.md
-│   └── A-37 — Sera Unsent Hana Desk.md
+│   ├── A-37 — Sera Unsent Hana Desk.md
+│   └── A-38 — Noor to the Floor Liaison Three Questions.md
 │
 ├── ptkw/                              ← PTKW and ICS alien staff internal
 │   ├── B-01 — K7 EIMU Anomaly Flag.md
@@ -100,7 +102,8 @@ canon/internal-communications/
 │   ├── B-33 — Facilitator to Femi Floor Too Good.md
 │   ├── B-34 — K12 Belonging Pulse Item 3 and What Comes After.md
 │   ├── B-35 — PTKW Staff Care Outcomes Summary.md
-│   └── B-36 — Oversight Perception Alignment Instruction and Withdrawal.md
+│   ├── B-36 — Oversight Perception Alignment Instruction and Withdrawal.md
+│   └── B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md
 │
 └── branch-director/                   ← Branch Director and HQ correspondence
     ├── C-01 — Director to Brant Cluster Flag.md

@@ -6,10 +6,10 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 | What | Count |
 |---|---|
-| Open-question sections | 26 (about 154 listed items) |
+| Open-question sections | 26 (about 156 listed items) |
 | Inline TODO / TBD / “to be decided” lines | 7 |
 | Unchecked items in `meta/TODO.md` | 7 |
-| Files carrying [PROPOSAL] material not yet ruled canon | 110 |
+| Files carrying [PROPOSAL] material not yet ruled canon | 120 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
@@ -27,7 +27,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “Open rulings (ask the user; don't guess)”
 
-`meta/HANDOFF_CARTOGRAPHER.md` line 490
+`meta/HANDOFF_CARTOGRAPHER.md` line 506
 
 **Still open — needs the author's call:**
 - Phase 6 real-time length: `design/TIME_MODEL.md` proposes 88 minutes at 15×.
@@ -279,11 +279,12 @@ Whether the player's early flags land on **named characters** (Hana, Omar, Tarek
 - Should the player read Doc 2.60 directly, or only see its effects in A-37 and B-36?
 - How far does K-12 get in B-34, and does Sera reach Step 3 on screen?
 - What is the Tier 1 places number, and what is the printer-tray device in Doc 2.52?
+- Open-door questions (Doc 2.62, B-37): is K-12 on the Floor Liaison rota, or should the second officer be a Level 3 or Level 4 Liaison? Is the "ask any grey card" instruction in Docs 2.03, 2.04 and 2.20 for all PTKW or for the Floor Liaison only? Does the player ever read A-38 and B-37 as a pair?
 See also the Plan System section in `meta/CANON_DECISIONS.md`.
 
 ### ICS: Interplanetary Corporate Solutions — “Open questions”
 
-`design/PLAYER_GUIDANCE.md` line 95
+`design/PLAYER_GUIDANCE.md` line 97
 
 - **Is the "lamp lights the document" nudge acceptable?** It is a diegetic hint but still a hint. Without it, Phase 3 players may stall.
 - **Phase 2 guidance.** The Phase 2 tutorial is "situational" (`design/TUTORIAL.md`). It needs at least one reliable first pointer to Junction A.
@@ -350,7 +351,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 
 ### ICS: Interplanetary Corporate Solutions — “8. Open questions”
 
-`design/TIME_MODEL.md` line 272
+`design/TIME_MODEL.md` line 273
 
 - Is the Phase 2/3 ruling in §1.3 acceptable, or should `design/DESIGN.md` be relabeled "Phase 2: Days 4–10, Phase 3: Days 11–20" with Phase 2's cold state described as a lingering effect?
 - Do the 88 real minutes for Phase 6 feel right, or should the player get the choice at the start of Phase 6 (like a pacing setting under `design/DIFFICULTY_ACCESSIBILITY.md`)?
@@ -452,7 +453,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 
 ### ICS: Interplanetary Corporate Solutions — “Open questions”
 
-`story/trailers.md` line 683
+`story/trailers.md` line 700
 
 - **Does the real name ever pay off?** This trailer promises one and shows nothing. Options: never; a post-release epilogue; Level 0. Canon says the Board does not hold his pre-configuration records, so any reveal has to come from somewhere the Board cannot reach.
 - **Is the "eleven minutes" connected to the name?** The sweep log hints it. This script does not say. It is the strongest unforced link the lore offers, and it would tie his origin to the pre-ICS material on Level 0. That is a canon decision.
@@ -460,6 +461,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 - **Ten days.** `canon/documents/2.15 — EOD Profile.md` says he hides for ten days and surfaces on Day 11. `design/TIME_MODEL.md` has him on the floor Days 4–10 and absent Days 11–20. The trailer shows only a tally of ten marks, so it does not choose.
 - **Where does this run?** As an in-world ICS spot (like Trailer 2), or as a marketing trailer that uses the same register? The close is written to work either way.
 - **[PROPOSAL] A Plan beat for a future trailer.** A two-shot in Room 3: two cups that match, a plant, a paper pad, a clock. A voice (Sera's, off-camera) says "This isn't a warning." Cut to the Wellness Hub bar at 80%. No title card. It would sit best in an in-world ICS spot (like Trailer 2) and not in this one. See `story/scene-notes/The Review Room.md` and `design/PLAN_SYSTEM.md`.
+- **[PROPOSAL] The grey card.** Trailer 2 now ends on the card *Questions? Any colleague with a grey card will be glad to help.* and Trailer 5 Movement II rewrites PTKW (Privileged Technology Access, Key Main Workforce) into *Punish who Think, Kill who Wonder* beside it. Both are the same beat at two access tiers. If only one survives, keep Trailer 2: it is the one where the line is kind. See `canon/documents/2.62 —…
 *→ See: `canon/characters/EOD.md` — profile.*
 *→ See: `canon/documents/2.15 — EOD Profile.md` — the card.*
 *→ See: `canon/documents/2.41 — EIMU Deep Assessment EOD.md` — what the Board knows.*
@@ -469,7 +471,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 
 ### 4.6 Trailer 5 — "The Envoy" — “Open questions”
 
-`story/trailers/Trailer 5 - The Envoy.md` line 208
+`story/trailers/Trailer 5 - The Envoy.md` line 219
 
 - **Does the real name ever pay off?** This trailer promises one and shows nothing. Options: never; a post-release epilogue; Level 0. Canon says the Board does not hold his pre-configuration records, so any reveal has to come from somewhere the Board cannot reach.
 - **Is the "eleven minutes" connected to the name?** The sweep log hints it. This script does not say. It is the strongest unforced link the lore offers, and it would tie his origin to the pre-ICS material on Level 0. That is a canon decision.
@@ -507,7 +509,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 48 | - 1.10: Kai can open his quarters terminal during confinement (STORY.md "Before It Begins" puts the folder there). design/DESIGN.md Phase 1 says the confined p… |
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 64 | - Mentions of "Inflatable Crowd Solutions" (TODO B3), each in a file whose access line allows it: |
 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 5 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, systems in… |
-| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 109 | 5. meta/OPEN.md and meta/TODO.md: open questions, PROPOSAL files and TODOs. |
+| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 125 | 5. meta/OPEN.md and meta/TODO.md: open questions, PROPOSAL files and TODOs. |
 | [1.1 - Labor Source 312, Day Four](<../story/scenes/1.1 - Labor Source 312, Day Four.md>) | 19 | I did not wave. Nobody noticed. I want that understood as an accident, not as courage. I was the one person in the building who had not yet decided what his fa… |
 
 ## Files carrying [PROPOSAL] material
@@ -521,7 +523,11 @@ These contain new material that stays proposal until the author rules. Listed so
 - [E-05682 - The Variable (Player)](<../canon/characters/E-05682 - The Variable (Player).md>) THE PLAYER CHARACTER
 - [EOD](<../canon/characters/EOD.md>) EOD Executioner of Despair (Subjugator, The Willbreaker, Harmony; pub…
 - [K-7 - PTKW Monitoring and Analysis Team Leader](<../canon/characters/K-7 - PTKW Monitoring and Analysis Team Leader.md>) K-7 — PTKW Monitoring & Analysis Team Leader / "The One Who Notices"
+- [2.02](<../canon/documents/2.02 — Internal Acronym Reference.md>) 2.2 Internal Acronym Reference — HIGHLY CLASSIFIED / PTKW ACCESS ONLY
+- [2.04](<../canon/documents/2.04 — Lookup for the Second Moon Video Script.md>) 2.4 Lookup for the Second Moon — Video Script Template
+- [2.18](<../canon/documents/2.18 — Human Psychology Report.md>) 2.18 Behavioral & Social Study — Labor Source #349 (Earth): Human Psy…
 - [2.20](<../canon/documents/2.20 — Employee Handbook.md>) 2.20 ICS Earth Branch — Employee Handbook
+- [2.21](<../canon/documents/2.21 — Organizational Charter.md>) 2.21 ICS Earth Branch — Organizational Charter
 - [2.26](<../canon/documents/2.26 — Job Catalogue.md>) 2.26 ICS Earth Branch — Job Catalogue
 - [2.29](<../canon/documents/2.29 — Acronym and Terminology Glossary.md>) 5. ICS Acronym & Terminology Glossary
 - [2.30](<../canon/documents/2.30 — Workplace Conduct and Facility Use Policy.md>) 2.30 ICS Earth Branch — Workplace Conduct & Facility Use Policy
@@ -543,7 +549,9 @@ These contain new material that stays proposal until the author rules. Listed so
 - [2.59](<../canon/documents/2.59 — Manager Evaluation Rubric.md>) 2.59 Manager Evaluation Rubric — Care Outcomes
 - [2.60](<../canon/documents/2.60 — Perception Alignment Protocol.md>) 2.60 Perception Alignment Protocol
 - [2.61](<../canon/documents/2.61 — ICS Wellness Assessment Form ICS-WA4.md>) 2.61 ICS Wellness Assessment — Form ICS-WA4 (Results)
+- [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions
 - [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) Category 4 — HQ Rapid Response Assets
+- [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division
 - [Level 2](<../canon/facility/Level 2.md>) Level 2 — Administration & Human Resources
 - [C-18](<../canon/internal-communications/branch-director/C-18 — EOD Research Team - Deployment 287 Field Report Update Request.md>) Deployment Order 287 — EOD, Labor Source #349 — request for findings…
 - [C-19](<../canon/internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md>) RE: Deployment Order 287 — update: where EOD was on Day 16, and the B…
@@ -562,6 +570,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [10 — Akar — The Completion Rate](<../canon/internal-communications/design-team/10 — Akar — The Completion Rate.md>) The completion rate
 - [11 — Vance — The Wording on the Growth Plan Form](<../canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md>) The wording on the Growth Plan form
 - [12 — Ohm — The Ten Per Cent and the Resistance Index](<../canon/internal-communications/design-team/12 — Ohm — The Ten Per Cent and the Resistance Index.md>) The ten per cent and the resistance index
+- [13 — Akar — The Open Door](<../canon/internal-communications/design-team/13 — Akar — The Open Door.md>) The open door
 - [A-28](<../canon/internal-communications/employee/A-28 — Lior and Chidi The Man Without a Badge.md>) the man in the corridor
 - [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) chat, redacted read it once
 - [A-30](<../canon/internal-communications/employee/A-30 — Femi to Hana New Chapter.md>) new chapter
@@ -572,6 +581,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [A-35](<../canon/internal-communications/employee/A-35 — Tarek Notebook Cakes.md>) Cake count, Level 3 Floor B
 - [A-36](<../canon/internal-communications/employee/A-36 — Hana to Sera Which Day.md>) quick question about the closing conversation
 - [A-37](<../canon/internal-communications/employee/A-37 — Sera Unsent Hana Desk.md>) no subject
+- [A-38](<../canon/internal-communications/employee/A-38 — Noor to the Floor Liaison Three Questions.md>) A few questions, if that's all right
 - [B-25](<../canon/internal-communications/ptkw/B-25 — HQ Host Force Monitoring Instruction.md>) Host force monitoring — two named formations — Earth Branch, standing…
 - [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) Incident Report ICS-IR3 — E-03615 — restricted designation spoken alo…
 - [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) as sent Question about the man in the corridor
@@ -584,6 +594,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [B-34](<../canon/internal-communications/ptkw/B-34 — K12 Belonging Pulse Item 3 and What Comes After.md>) Belonging Pulse — Item 3 and what comes after
 - [B-35](<../canon/internal-communications/ptkw/B-35 — PTKW Staff Care Outcomes Summary.md>) PTKW staff — Q4 Care Outcomes summary
 - [B-36](<../canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md>) Perception Alignment — E-02209 — instruction and withdrawal
+- [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) Second signature — E-03274, Comfortable Inquiry
 - [ART_DIRECTION](<../design/ART_DIRECTION.md>) ICS: Interplanetary Corporate Solutions
 - [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS
 - [DEVICES](<../design/DEVICES.md>) Devices and addresses: where the mail lives, and how it is reached
@@ -622,5 +633,6 @@ These contain new material that stays proposal until the author rules. Listed so
 - [1.8 - Kai, Work Floor C, The Shift](<../story/scenes/1.8 - Kai, Work Floor C, The Shift.md>) 1.8 — Kai, Work Floor C, The Shift
 - [1.9 - Kai, The Atrium, Day Twenty-One](<../story/scenes/1.9 - Kai, The Atrium, Day Twenty-One.md>) 1.9 — Kai, The Atrium, Day Twenty-One
 - [trailers](<../story/trailers.md>) ICS: Interplanetary Corporate Solutions
+- [Trailer 2 - The Offer](<../story/trailers/Trailer 2 - The Offer.md>) 4.2 Trailer 2 — "The Offer"
 - [Trailer 5 - The Envoy](<../story/trailers/Trailer 5 - The Envoy.md>) 4.6 Trailer 5 — "The Envoy"
 - [Trailer 6 - The File](<../story/trailers/Trailer 6 - The File.md>) 4.7 Trailer 6 — "The File"

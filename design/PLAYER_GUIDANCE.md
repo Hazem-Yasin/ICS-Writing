@@ -76,6 +76,8 @@
 
 The facility can say *"Access Denied"* but never *"you should go to…"* — except the people.
 
+**The grey card [PROPOSAL].** One person will always say "ask me": any PTKW colleague, and the Floor Liaison (leaflet *Ask a Colleague*, Document 2.62). They are the only people in the building who will answer a question for free. Asking raises the hidden Plan value (`design/PLAN_SYSTEM.md` §6) and gets the player a warm, true-sounding, useless reply. This is a guidance source that costs something, so the player is never told it is a trap.
+
 ---
 
 ## 6. When the player is lost

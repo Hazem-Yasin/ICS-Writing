@@ -100,3 +100,17 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - **Tier 1 places number** in Doc 2.54/2.56 and **the printer-tray device** in Doc 2.52 are placeholders.
 - **Hana's Day 41 vs Day 42.** The board says 41; Hana recalls 42 (A-36, B-36). Intended: that is Perception Alignment.
 - **Sera's two true sentences** in the Review Room ("I was asked to have it. I don't know everything behind that.") are the author's to confirm.
+
+## PTKW as the Branch's HR: the open door, 2026-11-08 [PROPOSAL]
+
+*Source: the author's brief. The humans ICS fears most are the settled ones who start asking questions. That is why assets are always told to ask the nearest PTKW employee, who is "always equipped to answer you". PTKW therefore works as the company's HR. Handled in Doc 2.62.*
+
+- **New:** Doc 2.62 (leaflet *Ask a Colleague*, Floor Liaison Guide EB-PTKW-11, Board appendix); A-38 (Noor Haddad, E-03274, three questions); B-37 (the Floor Liaison and K-12 agree to escalate, and K-12 explains what happens to her); design-team 13 (Akar, The Open Door). Day 17.
+- **Edits (each carries a `[PROPOSAL]` note):** Docs 2.02 (operational reading of the two verbs), 2.04 (PTKW annotation), 2.18 (new term Comfortable Inquiry), 2.20 (Curiosity Culture points to the grey card), 2.21 (PTKW-Cleared Staff names the Floor Liaison Office), 2.29 (PTKW term, new term Comfortable Inquiry); K-7 character file (K-12 row); `canon/enemies/PTKW-Security-Division.md`; `design/PLAYER_GUIDANCE.md`, `design/PLAN_SYSTEM.md` (Plan meter row, open question 7); `story/trailers/Trailer 2`, `Trailer 5` and `story/trailers.md` (grey-card card, PTKW acronym rewrite, open item 7).
+- **Existing canon this was found in, not invented:** Doc 2.03 ("hand over to the nearest employee with PTKW access card"), Doc 2.04 ("please don't hesitate to reach out"), Doc 2.21 §3 ("pressure release valve and early warning system"), Doc 2.10 (the Curiosity Policy, which existed after all), Doc 2.18 §2.9 (comfortable humans resist enslavement).
+- **Is the instruction to ask for all PTKW, or for the Floor Liaison only?** Docs 2.03/2.04 say any PTKW card; Doc 2.62 makes the Floor Liaison the desk. Both are kept.
+- **K-12 on the Floor Liaison rota.** B-31 and B-34 place K-12 on Level 5. B-37 has K-12 as the second signature. Plausible, or use a Level 3 or Level 4 Liaison?
+- **The Liaison's tone.** B-27's Liaison is rude; B-37's is warm. Explained by the Guide's third rule (be warm). Confirm that this is intended and not two different people.
+- **Noor Haddad (E-03274)** is a new placeholder asset. Name and number were checked against the canon; free.
+- **Doc 2.62 Board appendix reads Think and Wonder as two stages** (private, then spoken). A reading, not a ruling.
+- **Game numbers:** Stability Index above 0.8 for a Comfortable; "any two questions within 14 days"; the Plan meter +6 and +10.

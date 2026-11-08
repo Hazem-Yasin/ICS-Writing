@@ -9,6 +9,8 @@ The PTKW Security Division is the facility's internal enforcement layer. They ar
 
 For eleven cycles, they have never had to do much. The compliance architecture did the work. Their job has been: escort reclassified assets to the transition point without incident, respond to the occasional wellness crisis, and monitor access points. K-7, K-12, TOR-9, VAH-3 — these are the analysts who process what the security division acts on. The security division itself runs on the operational orders those analysts generate.
 
+PTKW also has a face the assets are told to approach. The Floor Liaison Office receives colleague questions on every floor (Document 2.62), is warm, and works like the Branch's HR. It is not part of the security division. Its function is to tell the division which colleagues have begun to wonder. *[PROPOSAL]*
+
 The facility's security staff are not soldiers. They are compliance officers who happen to be authorized to carry CRD-7 units and AMB-3 batons. Their training is in de-escalation, physical restraint, and the use of the compliance toolkit. They know how the BES works. They know what the olfactory primers do. They were trained on the assumption that the behavioral environment would have done most of the work before they ever got involved.
 
 When the behavioral environment collapses in Phase 5, the security division is operating in conditions they were not trained for.

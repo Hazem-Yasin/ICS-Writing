@@ -4,15 +4,15 @@
 
 | Entity | Kind | Files | Mentions | In snapshot |
 |---|---|---|---|---|
-| [EOD](#eod) | character | 121 | 1205 | 1260 |
+| [EOD](#eod) | character | 121 | 1205 | 1261 |
 | [ARM-27](#arm-27) | equipment | 26 | 127 | 134 |
-| [EOD Research Team](#eod-research-team) | organisation | 34 | 157 | 180 |
+| [EOD Research Team](#eod-research-team) | organisation | 34 | 157 | 181 |
 | [Earth Branch Manager](#earth-branch-manager) | character | 36 | 155 | 170 |
-| [Branch Director](#branch-director) | character | 109 | 451 | 458 |
+| [Branch Director](#branch-director) | character | 109 | 451 | 460 |
 | [Brant](#brant) | character | 29 | 58 | 79 |
-| [K-7](#k-7) | character | 66 | 243 | 270 |
-| [Kai](#kai) | character | 36 | 185 | 205 |
-| [Tarek](#tarek) | character | 84 | 396 | 419 |
+| [K-7](#k-7) | character | 66 | 246 | 270 |
+| [Kai](#kai) | character | 36 | 185 | 206 |
+| [Tarek](#tarek) | character | 84 | 396 | 420 |
 | [Yaw](#yaw) | character | 19 | 55 | 67 |
 | [Leif Aronsen](#leif-aronsen) | character | 12 | 35 | 38 |
 | [Eirik Aronsen](#eirik-aronsen) | character | 15 | 149 | 152 |
@@ -24,20 +24,20 @@
 | [Deployment Order 287](#deployment-order-287) | event | 16 | 42 | 60 |
 | [Sudbury](#sudbury) | place | 14 | 57 | 57 |
 | [Hallvik](#hallvik) | place | 16 | 49 | 52 |
-| [Journey Completion Directorate](#journey-completion-directorate) | organisation | 13 | 65 | 63 |
+| [Journey Completion Directorate](#journey-completion-directorate) | organisation | 13 | 65 | 65 |
 | [Teshvar Consortium](#teshvar-consortium) | organisation | 4 | 11 | 11 |
 | [Labor Source #312](#labor-source-312) | place | 18 | 64 | 64 |
 | [Labor Source #038](#labor-source-038) | place | 12 | 47 | 47 |
 | [Sovereign Projection](#sovereign-projection) | concept | 17 | 57 | 57 |
 | [The Smile Study (Doc 2.49)](#the-smile-study-doc-249) | document | 14 | 63 | 66 |
-| [Human Psychology Report (Doc 2.18)](#human-psychology-report-doc-218) | document | 53 | 188 | 191 |
-| [PTKW](#ptkw) | organisation | 231 | 1425 | 1446 |
-| [EIMU](#eimu) | system | 129 | 575 | 583 |
-| [CCN](#ccn) | system | 94 | 333 | 336 |
+| [Human Psychology Report (Doc 2.18)](#human-psychology-report-doc-218) | document | 57 | 198 | 191 |
+| [PTKW](#ptkw) | organisation | 236 | 1502 | 1449 |
+| [EIMU](#eimu) | system | 131 | 582 | 584 |
+| [CCN](#ccn) | system | 97 | 338 | 336 |
 | [SMAC](#smac) | system | 4 | 10 | 13 |
 | [Milgram](#milgram) | concept | 14 | 32 | 32 |
 | [CRD-7](#crd-7) | equipment | 26 | 113 | 116 |
-| [Resistance index](#resistance-index) | concept | 54 | 123 | 131 |
+| [Resistance index](#resistance-index) | concept | 54 | 123 | 132 |
 
 ## EOD
 
@@ -452,17 +452,17 @@ Aliases found: `Brant` ×58
 
 *character*
 
-Aliases found: `K-7` ×235, `K7` ×8
+Aliases found: `K-7` ×238, `K7` ×8
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
 | 15 | [B-28](<../canon/internal-communications/ptkw/B-28 — K-7 Asks the Earth Branch Manager About EOD and Forwards His Answer to All PTKW.md>) The unbadged figure — K-7's request to the Earth Branch Mana | PTKW | K-7×15 |
 | 12 | [DEVICES](<../design/DEVICES.md>) Devices and addresses: where the mail lives, and how it is r | — | K-7×12 |
 | 10 | [README](<../README.md>) ICS: Interplanetary Corporate Solutions | — | K-7×9, K7×1 |
+| 10 | [K-7 - PTKW Monitoring and Analysis Team Leader](<../canon/characters/K-7 - PTKW Monitoring and Analysis Team Leader.md>) K-7 — PTKW Monitoring & Analysis Team Leader / "The One Who  | — | K-7×10 |
 | 10 | [STEALTH_DETECTION](<../design/STEALTH_DETECTION.md>) ICS: Interplanetary Corporate Solutions | — | K-7×10 |
-| 9 | [K-7 - PTKW Monitoring and Analysis Team Leader](<../canon/characters/K-7 - PTKW Monitoring and Analysis Team Leader.md>) K-7 — PTKW Monitoring & Analysis Team Leader / "The One Who  | — | K-7×9 |
+| 9 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | K-7×9 |
 | 8 | [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) as sent Question about the man in the corridor | — | K-7×8 |
-| 8 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | K-7×8 |
 | 8 | [TODO](<../meta/TODO.md>) Todo | — | K-7×8 |
 | 7 | [README](<../canon/internal-communications/README.md>) Internal Communications Archive | PTKW | K7×6, K-7×1 |
 | 6 | [Arrangement-Class](<../canon/enemies/Arrangement-Class.md>) Category 3 — The Arrangement Class | PTKW | K-7×6 |
@@ -470,12 +470,12 @@ Aliases found: `K-7` ×235, `K7` ×8
 | 6 | [B-14](<../canon/internal-communications/ptkw/B-14 — Intercept Thread — Darius Appendix Line.md>) FWD: Darius draft — the appendix line | — | K-7×6 |
 | 6 | [B-21](<../canon/internal-communications/ptkw/B-21 — Intercept Thread — Marcus Phase 5 Message.md>) FWD: Marcus's message — note the EIMU during composition | — | K-7×6 |
 | 6 | [B-34](<../canon/internal-communications/ptkw/B-34 — K12 Belonging Pulse Item 3 and What Comes After.md>) Belonging Pulse — Item 3 and what comes after | PTKW | K-7×6 |
+| 6 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) Canon Decisions | — | K-7×6 |
 | 6 | [1.13](<../story/scenes/1.13 - K-7, Level 5, Forty Minutes.md>) 1.13 — K-7, Level 5, Forty Minutes | — | K-7×6 |
 | 5 | [B-12](<../canon/internal-communications/ptkw/B-12 — Intercept Thread — Tarek Wall Message.md>) FWD: Tarek's supply closet message — for the record | — | K-7×5 |
 | 5 | [B-13](<../canon/internal-communications/ptkw/B-13 — Intercept Thread — James Note to Himself.md>) FWD: the James note — the one about M | — | K-7×5 |
 | 5 | [B-18](<../canon/internal-communications/ptkw/B-18 — Intercept Thread — Yaw Reads the CLEO Broadcast.md>) re: the announcement | — | K-7×5 |
 | 5 | [B-19](<../canon/internal-communications/ptkw/B-19 — Intercept Thread — Sera to Kai Canister Info.md>) no subject — CCN direct message | — | K-7×5 |
-| 5 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) Canon Decisions | — | K-7×5 |
 | 4 | [B-11](<../canon/internal-communications/ptkw/B-11 — Intercept Thread — Yaw Kofi Email.md>) FWD: the Kofi email — look at the last paragraph | — | K-7×4 |
 | 4 | [B-31](<../canon/internal-communications/ptkw/B-31 — K7 to K12 Floor B and the Ten Per Cent.md>) Floor B and the ten per cent | PTKW | K-7×4 |
 | 4 | [B-36](<../canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md>) Perception Alignment — E-02209 — instruction and withdrawal | PTKW | K-7×4 |
@@ -1044,11 +1044,11 @@ Aliases found: `Document 2.49` ×21, `Doc 2.49` ×21, `Study of Eirik's Smile` �
 
 *document*
 
-Aliases found: `Document 2.18` ×73, `Human Psychology Report` ×70, `Doc 2.18` ×31, `RES-BSS-349` ×14
+Aliases found: `Document 2.18` ×77, `Human Psychology Report` ×72, `Doc 2.18` ×35, `RES-BSS-349` ×14
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
-| 23 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | Doc 2.18×23 |
+| 25 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | Doc 2.18×25 |
 | 16 | [2.32](<../canon/documents/2.32 — Brand Identity The Logo.md>) 2.32 ICS Brand Identity — The Logo: Design Document & Origin | PTKW | Document 2.18×12, Human Psychology Report×3, RES-BSS-349×1 |
 | 15 | [2.29](<../canon/documents/2.29 — Acronym and Terminology Glossary.md>) 5. ICS Acronym & Terminology Glossary | Board | Human Psychology Report×8, Document 2.18×7 |
 | 10 | [C-23](<../canon/internal-communications/branch-director/C-23 — EOD Research Team - Deployment 287 Field Report Update - Master Summary.md>) Deployment Order 287 — EOD, Labor Source #349 — field report | Sealed | Document 2.18×6, Human Psychology Report×2, RES-BSS-349×1, Doc 2.18×1 |
@@ -1065,8 +1065,10 @@ Aliases found: `Document 2.18` ×73, `Human Psychology Report` ×70, `Doc 2.18` 
 | 3 | [2.47](<../canon/documents/2.47 — Host Force Assessment The Harrow.md>) 2.47 Host Force Assessment — Ground Special Operations: The  | PTKW | Human Psychology Report×2, Document 2.18×1 |
 | 3 | [2.48](<../canon/documents/2.48 — Host Force Assessment Gyrfalcon Wing.md>) 2.48 Host Force Assessment — Strategic Air Superiority: Gyrf | PTKW | Document 2.18×2, Human Psychology Report×1 |
 | 3 | [2.50](<../canon/documents/2.50 — ICS Nomenclature Note.md>) 2.50 ICS Nomenclature Note — What the Name Says, and Who Is  | Board | Document 2.18×2, Human Psychology Report×1 |
+| 3 | [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions | Global | Document 2.18×2, Human Psychology Report×1 |
 | 3 | [Level 2](<../canon/facility/Level 2.md>) Level 2 — Administration & Human Resources | — | Human Psychology Report×2, Document 2.18×1 |
 | 3 | [Overview](<../canon/facility/Overview.md>) The ICS Earth Branch — Facility Overview | — | Human Psychology Report×2, Document 2.18×1 |
+| 3 | [13 — Akar — The Open Door](<../canon/internal-communications/design-team/13 — Akar — The Open Door.md>) The open door | PTKW | Document 2.18×1, Human Psychology Report×1, Doc 2.18×1 |
 | 2 | [README](<../README.md>) ICS: Interplanetary Corporate Solutions | — | Doc 2.18×2 |
 | 2 | [2.15](<../canon/documents/2.15 — EOD Profile.md>) 2.15 EOD Profile — Executioner of Despair | Board | Document 2.18×2 |
 | 2 | [2.18](<../canon/documents/2.18 — Human Psychology Report.md>) 2.18 Behavioral & Social Study — Labor Source #349 (Earth):  | PTKW | Human Psychology Report×1, RES-BSS-349×1 |
@@ -1097,23 +1099,25 @@ Aliases found: `Document 2.18` ×73, `Human Psychology Report` ×70, `Doc 2.18` 
 | 1 | [TV_SCREENS](<../canon/facility/TV_SCREENS.md>) ICS Earth Branch — Facility Screen Network | PTKW | Human Psychology Report×1 |
 | 1 | [C-16](<../canon/internal-communications/branch-director/C-16 — HQ Omega-1 Pre-Deployment Briefing.md>) BINDING DIRECTIVE — Omega-1 Pre-Deployment Briefing — Eyes O | Branch Director | Human Psychology Report×1 |
 | 1 | [A-27](<../canon/internal-communications/employee/A-27.md>) I looked it up | Employee | Human Psychology Report×1 |
+| 1 | [A-38](<../canon/internal-communications/employee/A-38 — Noor to the Floor Liaison Three Questions.md>) A few questions, if that's all right | Employee | Document 2.18×1 |
 | 1 | [EOD_ENCOUNTERS](<../design/EOD_ENCOUNTERS.md>) ICS: Interplanetary Corporate Solutions | — | Document 2.18×1 |
 | 1 | [TIME_MODEL](<../design/TIME_MODEL.md>) ICS: Interplanetary Corporate Solutions | — | Doc 2.18×1 |
 | 1 | [TUTORIAL](<../design/TUTORIAL.md>) ICS: Interplanetary Corporate Solutions | — | Document 2.18×1 |
+| 1 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) Canon Decisions | — | Doc 2.18×1 |
 | 1 | [TODO](<../meta/TODO.md>) Todo | — | Doc 2.18×1 |
 
 ## PTKW
 
 *organisation*
 
-Aliases found: `PTKW` ×1425
+Aliases found: `PTKW` ×1502
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
-| 90 | [2.29](<../canon/documents/2.29 — Acronym and Terminology Glossary.md>) 5. ICS Acronym & Terminology Glossary | Board | PTKW×90 |
-| 70 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×70 |
-| 36 | [README](<../README.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×36 |
-| 29 | [2.21](<../canon/documents/2.21 — Organizational Charter.md>) 2.21 ICS Earth Branch — Organizational Charter | PTKW | PTKW×29 |
+| 93 | [2.29](<../canon/documents/2.29 — Acronym and Terminology Glossary.md>) 5. ICS Acronym & Terminology Glossary | Board | PTKW×93 |
+| 78 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×78 |
+| 38 | [README](<../README.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×38 |
+| 30 | [2.21](<../canon/documents/2.21 — Organizational Charter.md>) 2.21 ICS Earth Branch — Organizational Charter | PTKW | PTKW×30 |
 | 27 | [DESIGN](<../design/DESIGN.md>) ICS: Interplanetary Corporate Solutions | Board | PTKW×27 |
 | 27 | [HEARTH](<../design/HEARTH.md>) ICS: Interplanetary Corporate Solutions | Global | PTKW×27 |
 | 27 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | PTKW×27 |
@@ -1123,12 +1127,15 @@ Aliases found: `PTKW` ×1425
 | 24 | [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) Incident Report ICS-IR3 — E-03615 — restricted designation s | PTKW | PTKW×24 |
 | 22 | [2.40](<../canon/documents/2.40 — Asset Register and Termination Log.md>) 2.40 ICS Earth Branch — Asset Register & Termination Log | PTKW | PTKW×22 |
 | 22 | [Level 5](<../canon/facility/Level 5.md>) Level 5 — Operations Division | PTKW | PTKW×22 |
+| 20 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) Canon Decisions | — | PTKW×20 |
 | 18 | [B-28](<../canon/internal-communications/ptkw/B-28 — K-7 Asks the Earth Branch Manager About EOD and Forwards His Answer to All PTKW.md>) The unbadged figure — K-7's request to the Earth Branch Mana | PTKW | PTKW×18 |
 | 17 | [2.25](<../canon/documents/2.25 — Planetary Case Files.md>) 2.25 Planetary Case Files: Compliance, Resistance, and Conse | PTKW | PTKW×17 |
 | 17 | [B-17](<../canon/internal-communications/ptkw/B-17 — PTKW Circular Equipment Modification.md>) PTKW Circular 300-Q3-14 — Unauthorized Equipment Modificatio | PTKW | PTKW×17 |
 | 17 | [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS | — | PTKW×17 |
 | 16 | [B-30](<../canon/internal-communications/ptkw/B-30 — Incident Report ICS-IR3 - PTKW Designation of ICS Written on a Wall.md>) Incident Report ICS-IR3 — Level 3 main corridor — the PTKW e | PTKW | PTKW×16 |
 | 15 | [K-7 - PTKW Monitoring and Analysis Team Leader](<../canon/characters/K-7 - PTKW Monitoring and Analysis Team Leader.md>) K-7 — PTKW Monitoring & Analysis Team Leader / "The One Who  | — | PTKW×15 |
+| 15 | [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions | Global | PTKW×15 |
+| 15 | [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) Second signature — E-03274, Comfortable Inquiry | PTKW | PTKW×15 |
 | 15 | [PROGRESSION](<../design/PROGRESSION.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×15 |
 | 14 | [2.46](<../canon/documents/2.46 — Employee Badge Technical Specification.md>) 2.46 — ICS Earth Branch — Employee Badge Technical Specifica | PTKW | PTKW×14 |
 | 13 | [2.24](<../canon/documents/2.24 — 300 Years of Changing Lives.md>) 2.24 ICS — 300 Years of Changing Lives | — | PTKW×13 |
@@ -1142,25 +1149,27 @@ Aliases found: `PTKW` ×1425
 | 10 | [Arrangement-Class](<../canon/enemies/Arrangement-Class.md>) Category 3 — The Arrangement Class | PTKW | PTKW×10 |
 | 10 | [TV_SCREENS](<../canon/facility/TV_SCREENS.md>) ICS Earth Branch — Facility Screen Network | PTKW | PTKW×10 |
 | 10 | [README](<../canon/internal-communications/README.md>) Internal Communications Archive | PTKW | PTKW×10 |
+| 10 | [PLAN_SYSTEM](<../design/PLAN_SYSTEM.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×10 |
 | 10 | [EXTENDED](<../story/EXTENDED.md>) ICS: Interplanetary Corporate Solutions | PTKW | PTKW×10 |
+| 10 | [trailers](<../story/trailers.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×10 |
+| 9 | [2.18](<../canon/documents/2.18 — Human Psychology Report.md>) 2.18 Behavioral & Social Study — Labor Source #349 (Earth):  | PTKW | PTKW×9 |
+| 9 | [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division | — | PTKW×9 |
 | 9 | [Levels 8-10](<../canon/facility/Levels 8-10.md>) Levels 8–10 — PTKW Operations / Infrastructure Systems | PTKW | PTKW×9 |
 | 9 | [Overview](<../canon/facility/Overview.md>) The ICS Earth Branch — Facility Overview | — | PTKW×9 |
 | 9 | [ENEMY_AI](<../design/ENEMY_AI.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×9 |
 | 9 | [GATING_BACKTRACKING](<../design/GATING_BACKTRACKING.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×9 |
-| 9 | [PLAN_SYSTEM](<../design/PLAN_SYSTEM.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×9 |
 | 9 | [TIME_MODEL](<../design/TIME_MODEL.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×9 |
-| 8 | [2.18](<../canon/documents/2.18 — Human Psychology Report.md>) 2.18 Behavioral & Social Study — Labor Source #349 (Earth):  | PTKW | PTKW×8 |
+| 8 | [2.02](<../canon/documents/2.02 — Internal Acronym Reference.md>) 2.2 Internal Acronym Reference — HIGHLY CLASSIFIED / PTKW AC | PTKW | PTKW×8 |
 | 8 | [2.32](<../canon/documents/2.32 — Brand Identity The Logo.md>) 2.32 ICS Brand Identity — The Logo: Design Document & Origin | PTKW | PTKW×8 |
 | 8 | [2.33](<../canon/documents/2.33 — New Employee Onboarding Packet.md>) 2.33 ICS Earth Branch — New Employee Onboarding Packet | — | PTKW×8 |
 | 8 | [2.35](<../canon/documents/2.35 — Branch Directors Private Journal.md>) 2.35 Branch Director's Private Journal | — | PTKW×8 |
 | 8 | [2.53](<../canon/documents/2.53 — Support Steps Manual.md>) 2.53 Support Steps Manual — Wellness Coordinators and PTKW A | PTKW | PTKW×8 |
-| 8 | [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division | — | PTKW×8 |
 | 8 | [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) chat, redacted read it once | PTKW | PTKW×8 |
 | 8 | [DEVICES](<../design/DEVICES.md>) Devices and addresses: where the mail lives, and how it is r | — | PTKW×8 |
 | 8 | [TENSION_CURVE](<../design/TENSION_CURVE.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×8 |
-| 8 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) Canon Decisions | — | PTKW×8 |
 | 8 | [TODO](<../meta/TODO.md>) Todo | — | PTKW×8 |
 | 8 | [Phase 6 Final 22 Hours](<../story/scene-notes/Phase 6 Final 22 Hours.md>) Design Notes — Phase 6: The Final 22 Hours | — | PTKW×8 |
+| 8 | [Trailer 5 - The Envoy](<../story/trailers/Trailer 5 - The Envoy.md>) 4.6 Trailer 5 — "The Envoy" | Board | PTKW×8 |
 | 7 | [E-05682 - The Variable (Player)](<../canon/characters/E-05682 - The Variable (Player).md>) THE PLAYER CHARACTER | — | PTKW×7 |
 | 7 | [2.22](<../canon/documents/2.22 — Interplanetary Operations Manual.md>) 2.22 ICS Interplanetary Operations Manual — Earth Sector | PTKW | PTKW×7 |
 | 7 | [2.27](<../canon/documents/2.27 — Labor Source Profiles.md>) 2.27 ICS Labor Source Profiles — Selected Planetary Dossiers | PTKW | PTKW×7 |
@@ -1176,8 +1185,6 @@ Aliases found: `PTKW` ×1425
 | 7 | [EOD_ENCOUNTERS](<../design/EOD_ENCOUNTERS.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×7 |
 | 7 | [TUTORIAL](<../design/TUTORIAL.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×7 |
 | 7 | [VERBS](<../design/VERBS.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×7 |
-| 7 | [trailers](<../story/trailers.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×7 |
-| 6 | [2.02](<../canon/documents/2.02 — Internal Acronym Reference.md>) 2.2 Internal Acronym Reference — HIGHLY CLASSIFIED / PTKW AC | PTKW | PTKW×6 |
 | 6 | [2.36](<../canon/documents/2.36 — Floor Plans and Maintenance Notes.md>) 2.36 ICS Earth Branch — Floor Plans & Maintenance Records | Global | PTKW×6 |
 | 6 | [2.39](<../canon/documents/2.39 — Yusras Resistance Document.md>) 7.2 — Document 2.39: Yusra's Resistance Document | — | PTKW×6 |
 | 6 | [2.45](<../canon/documents/2.45 — SOLCRED Internal Commerce Programme.md>) 2.45 — ICS Earth Branch — Internal Commerce Guide & SOLCRED  | Board | PTKW×6 |
@@ -1191,8 +1198,8 @@ Aliases found: `PTKW` ×1425
 | 6 | [PTKW-Baton — Asset Management Baton](<../canon/weapons/compliance/PTKW-Baton — Asset Management Baton.md>) PTKW-Baton — Asset Management Baton | Global | PTKW×6 |
 | 6 | [appendix_a_recovered](<../reference/appendix_a_recovered.md>) APPENDIX A - TEXT RECOVERED FROM THE RETIRED FILES | Board | PTKW×6 |
 | 6 | [Level 0](<../story/scene-notes/Level 0.md>) 8.1 Level 0 — What Is Down There | PTKW | PTKW×6 |
-| 6 | [Trailer 5 - The Envoy](<../story/trailers/Trailer 5 - The Envoy.md>) 4.6 Trailer 5 — "The Envoy" | Board | PTKW×6 |
 | 5 | [EOD](<../canon/characters/EOD.md>) EOD Executioner of Despair (Subjugator, The Willbreaker, Har | — | PTKW×5 |
+| 5 | [2.04](<../canon/documents/2.04 — Lookup for the Second Moon Video Script.md>) 2.4 Lookup for the Second Moon — Video Script Template | PTKW | PTKW×5 |
 | 5 | [Level 2](<../canon/facility/Level 2.md>) Level 2 — Administration & Human Resources | — | PTKW×5 |
 | 5 | [C-11](<../canon/internal-communications/branch-director/C-11 — Director to HQ Flagged Communications Q3.md>) Flagged Communications Summary — Cycle 300 Q3 — Selected Ite | Branch Director | PTKW×5 |
 | 5 | [C-23](<../canon/internal-communications/branch-director/C-23 — EOD Research Team - Deployment 287 Field Report Update - Master Summary.md>) Deployment Order 287 — EOD, Labor Source #349 — field report | Sealed | PTKW×5 |
@@ -1236,6 +1243,7 @@ Aliases found: `PTKW` ×1425
 | 3 | [C-05](<../canon/internal-communications/branch-director/C-05 — Level 9 Transition Batch Note.md>) Transition batch processing — Cycle 300 Q4 | PTKW | PTKW×3 |
 | 3 | [C-12](<../canon/internal-communications/branch-director/C-12 — HQ Response Directives Q3.md>) Re: Flagged Communications Summary — Cycle 300 Q3 — HQ Respo | Branch Director | PTKW×3 |
 | 3 | [C-16](<../canon/internal-communications/branch-director/C-16 — HQ Omega-1 Pre-Deployment Briefing.md>) BINDING DIRECTIVE — Omega-1 Pre-Deployment Briefing — Eyes O | Branch Director | PTKW×3 |
+| 3 | [13 — Akar — The Open Door](<../canon/internal-communications/design-team/13 — Akar — The Open Door.md>) The open door | PTKW | PTKW×3 |
 | 3 | [A-36](<../canon/internal-communications/employee/A-36 — Hana to Sera Which Day.md>) quick question about the closing conversation | Employee | PTKW×3 |
 | 3 | [B-01](<../canon/internal-communications/ptkw/B-01 — K7 EIMU Anomaly Flag.md>) EIMU anomaly — Asset E-01899, repeated | PTKW | PTKW×3 |
 | 3 | [B-05](<../canon/internal-communications/ptkw/B-05 — K7 to K12 Monday Calendar.md>) RE: RE: RE: the thing with the calendar | PTKW | PTKW×3 |
@@ -1256,11 +1264,11 @@ Aliases found: `PTKW` ×1425
 | 3 | [1.13](<../story/scenes/1.13 - K-7, Level 5, Forty Minutes.md>) 1.13 — K-7, Level 5, Forty Minutes | — | PTKW×3 |
 | 2 | [E-04788 - Sera Vasquez](<../canon/characters/E-04788 - Sera Vasquez.md>) E-04788 — Sera Vasquez / "The One Who Reports Everything" | PTKW | PTKW×2 |
 | 2 | [E-05091 - Omar Khalil](<../canon/characters/E-05091 - Omar Khalil.md>) E-05091 — Omar Khalil / "The Researcher" | — | PTKW×2 |
-| 2 | [2.04](<../canon/documents/2.04 — Lookup for the Second Moon Video Script.md>) 2.4 Lookup for the Second Moon — Video Script Template | PTKW | PTKW×2 |
 | 2 | [2.07](<../canon/documents/2.07 — Interplanetary Transit Waiver ICS-T7.md>) 2.7 Interplanetary Transit Waiver — Form ICS-T7 | — | PTKW×2 |
 | 2 | [2.09](<../canon/documents/2.09 — Branch Manager Memo Q4 Harvest Targets.md>) 2.9 Branch Manager Memo — Q4 Harvest Targets | PTKW | PTKW×2 |
 | 2 | [2.14](<../canon/documents/2.14 — Planetary Disciplinary Protocol.md>) 2.14 Planetary Disciplinary Protocol — Rogue Labor Source Re | Board | PTKW×2 |
 | 2 | [2.15](<../canon/documents/2.15 — EOD Profile.md>) 2.15 EOD Profile — Executioner of Despair | Board | PTKW×2 |
+| 2 | [2.20](<../canon/documents/2.20 — Employee Handbook.md>) 2.20 ICS Earth Branch — Employee Handbook | — | PTKW×2 |
 | 2 | [2.48](<../canon/documents/2.48 — Host Force Assessment Gyrfalcon Wing.md>) 2.48 Host Force Assessment — Strategic Air Superiority: Gyrf | PTKW | PTKW×2 |
 | 2 | [2.52](<../canon/documents/2.52 — Personal Growth Plan Form ICS-PG1.md>) 2.52 Personal Growth Plan — Form ICS-PG1 | Above Director | PTKW×2 |
 | 2 | [2.55](<../canon/documents/2.55 — Belonging Pulse Survey and Analysis.md>) 2.55 Belonging Pulse — Survey and Analysis Summary | Above Director | PTKW×2 |
@@ -1278,6 +1286,7 @@ Aliases found: `PTKW` ×1425
 | 2 | [09 — Ohm — The Remembering Room](<../canon/internal-communications/design-team/09 — Ohm — The Remembering Room.md>) The problem with the Remembering Room | PTKW | PTKW×2 |
 | 2 | [A-21](<../canon/internal-communications/employee/A-21 — Yaw to Sera SOLCRED Question.md>) SOLCRED question | Employee | PTKW×2 |
 | 2 | [A-28](<../canon/internal-communications/employee/A-28 — Lior and Chidi The Man Without a Badge.md>) the man in the corridor | Employee | PTKW×2 |
+| 2 | [A-38](<../canon/internal-communications/employee/A-38 — Noor to the Floor Liaison Three Questions.md>) A few questions, if that's all right | Employee | PTKW×2 |
 | 2 | [B-11](<../canon/internal-communications/ptkw/B-11 — Intercept Thread — Yaw Kofi Email.md>) FWD: the Kofi email — look at the last paragraph | — | PTKW×2 |
 | 2 | [B-12](<../canon/internal-communications/ptkw/B-12 — Intercept Thread — Tarek Wall Message.md>) FWD: Tarek's supply closet message — for the record | — | PTKW×2 |
 | 2 | [B-13](<../canon/internal-communications/ptkw/B-13 — Intercept Thread — James Note to Himself.md>) FWD: the James note — the one about M | — | PTKW×2 |
@@ -1296,6 +1305,7 @@ Aliases found: `PTKW` ×1425
 | 2 | [DIFFICULTY_ACCESSIBILITY](<../design/DIFFICULTY_ACCESSIBILITY.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×2 |
 | 2 | [HEALTH_SURVIVAL](<../design/HEALTH_SURVIVAL.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×2 |
 | 2 | [JOBS_AND_CAREER](<../design/JOBS_AND_CAREER.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×2 |
+| 2 | [PLAYER_GUIDANCE](<../design/PLAYER_GUIDANCE.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×2 |
 | 2 | [1.1 - Labor Source 312, Day Four](<../story/scenes/1.1 - Labor Source 312, Day Four.md>) 1.1 — Labor Source #312, Cycle 292, Day Four | — | PTKW×2 |
 | 2 | [Trailer 4 - The Archive](<../story/trailers/Trailer 4 - The Archive.md>) 4.4 Trailer 4 — "The Archive" | — | PTKW×2 |
 | 1 | [Branch Director](<../canon/characters/Branch Director.md>) REDACTED — The Branch Director | — | PTKW×1 |
@@ -1329,7 +1339,6 @@ Aliases found: `PTKW` ×1425
 | 1 | [Rania-Hatch-Kit](<../canon/weapons/found/Rania-Hatch-Kit.md>) Rania's Hatch Kit | — | PTKW×1 |
 | 1 | [CRD-7X — Extended Burst](<../canon/weapons/modifications/CRD-7X — Extended Burst.md>) CRD-7X — Extended Burst | — | PTKW×1 |
 | 1 | [ART_DIRECTION](<../design/ART_DIRECTION.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×1 |
-| 1 | [PLAYER_GUIDANCE](<../design/PLAYER_GUIDANCE.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×1 |
 | 1 | [PRODUCTION_SCOPE](<../design/PRODUCTION_SCOPE.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×1 |
 | 1 | [UI_MENUS](<../design/UI_MENUS.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×1 |
 | 1 | [Earth View Window](<../story/scene-notes/Earth View Window.md>) Scene Notes — Earth View Window | — | PTKW×1 |
@@ -1346,7 +1355,7 @@ Aliases found: `PTKW` ×1425
 
 *system*
 
-Aliases found: `EIMU` ×575
+Aliases found: `EIMU` ×582
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -1364,10 +1373,10 @@ Aliases found: `EIMU` ×575
 | 13 | [TUTORIAL](<../design/TUTORIAL.md>) ICS: Interplanetary Corporate Solutions | — | EIMU×13 |
 | 11 | [INVENTORY](<../design/INVENTORY.md>) ICS: Interplanetary Corporate Solutions | — | EIMU×11 |
 | 11 | [VERBS](<../design/VERBS.md>) ICS: Interplanetary Corporate Solutions | — | EIMU×11 |
+| 9 | [2.18](<../canon/documents/2.18 — Human Psychology Report.md>) 2.18 Behavioral & Social Study — Labor Source #349 (Earth):  | PTKW | EIMU×9 |
 | 9 | [2.45](<../canon/documents/2.45 — SOLCRED Internal Commerce Programme.md>) 2.45 — ICS Earth Branch — Internal Commerce Guide & SOLCRED  | Board | EIMU×9 |
 | 9 | [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS | — | EIMU×9 |
 | 9 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | EIMU×9 |
-| 8 | [2.18](<../canon/documents/2.18 — Human Psychology Report.md>) 2.18 Behavioral & Social Study — Labor Source #349 (Earth):  | PTKW | EIMU×8 |
 | 8 | [2.21](<../canon/documents/2.21 — Organizational Charter.md>) 2.21 ICS Earth Branch — Organizational Charter | PTKW | EIMU×8 |
 | 8 | [2.25](<../canon/documents/2.25 — Planetary Case Files.md>) 2.25 Planetary Case Files: Compliance, Resistance, and Conse | PTKW | EIMU×8 |
 | 8 | [Level 1](<../canon/facility/Level 1.md>) Level 1 — Arrival & Transit | — | EIMU×8 |
@@ -1392,6 +1401,7 @@ Aliases found: `EIMU` ×575
 | 4 | [2.22](<../canon/documents/2.22 — Interplanetary Operations Manual.md>) 2.22 ICS Interplanetary Operations Manual — Earth Sector | PTKW | EIMU×4 |
 | 4 | [2.33](<../canon/documents/2.33 — New Employee Onboarding Packet.md>) 2.33 ICS Earth Branch — New Employee Onboarding Packet | — | EIMU×4 |
 | 4 | [2.37](<../canon/documents/2.37 — In-World Advertisement Archive.md>) 2.37 ICS Earth Branch — In-World Advertisement Archive | — | EIMU×4 |
+| 4 | [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions | Global | EIMU×4 |
 | 4 | [Level 4](<../canon/facility/Level 4.md>) Level 4 — Wellness / Cafeteria / Break Room | — | EIMU×4 |
 | 4 | [TV_SCREENS](<../canon/facility/TV_SCREENS.md>) ICS Earth Branch — Facility Screen Network | PTKW | EIMU×4 |
 | 4 | [05 — Castile — Restroom Design Rationale](<../canon/internal-communications/design-team/05 — Castile — Restroom Design Rationale.md>) Restroom and service area design rationale | — | EIMU×4 |
@@ -1420,6 +1430,7 @@ Aliases found: `EIMU` ×575
 | 2 | [2.44](<../canon/documents/2.44 — Labor Source Response Framework.md>) 2.44 — ICS Labor Source Response Framework — Asset Class Des | Board | EIMU×2 |
 | 2 | [2.49](<../canon/documents/2.49 — The Smile Study.md>) 2.49 The Study of Eirik's Smile | Sealed | EIMU×2 |
 | 2 | [06 — Akar — Year 1 Review](<../canon/internal-communications/design-team/06 — Akar — Year 1 Review.md>) Post-opening Year 1 review — what is working and what is not | PTKW | EIMU×2 |
+| 2 | [13 — Akar — The Open Door](<../canon/internal-communications/design-team/13 — Akar — The Open Door.md>) The open door | PTKW | EIMU×2 |
 | 2 | [B-05](<../canon/internal-communications/ptkw/B-05 — K7 to K12 Monday Calendar.md>) RE: RE: RE: the thing with the calendar | PTKW | EIMU×2 |
 | 2 | [B-10](<../canon/internal-communications/ptkw/B-10 — K12 to K7 The Reader.md>) the one who reads at 23:00 | PTKW | EIMU×2 |
 | 2 | [B-14](<../canon/internal-communications/ptkw/B-14 — Intercept Thread — Darius Appendix Line.md>) FWD: Darius draft — the appendix line | — | EIMU×2 |
@@ -1484,7 +1495,7 @@ Aliases found: `EIMU` ×575
 
 *system*
 
-Aliases found: `CCN` ×333
+Aliases found: `CCN` ×338
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -1508,11 +1519,11 @@ Aliases found: `CCN` ×333
 | 6 | [STORY](<../story/STORY.md>) ICS: Interplanetary Corporate Solutions | — | CCN×6 |
 | 5 | [E-05682 - The Variable (Player)](<../canon/characters/E-05682 - The Variable (Player).md>) THE PLAYER CHARACTER | — | CCN×5 |
 | 5 | [VERBS](<../design/VERBS.md>) ICS: Interplanetary Corporate Solutions | — | CCN×5 |
+| 4 | [2.20](<../canon/documents/2.20 — Employee Handbook.md>) 2.20 ICS Earth Branch — Employee Handbook | — | CCN×4 |
 | 4 | [2.21](<../canon/documents/2.21 — Organizational Charter.md>) 2.21 ICS Earth Branch — Organizational Charter | PTKW | CCN×4 |
 | 4 | [2.24](<../canon/documents/2.24 — 300 Years of Changing Lives.md>) 2.24 ICS — 300 Years of Changing Lives | — | CCN×4 |
 | 4 | [B-13](<../canon/internal-communications/ptkw/B-13 — Intercept Thread — James Note to Himself.md>) FWD: the James note — the one about M | — | CCN×4 |
 | 3 | [Narrative Arc - Phases 0 through 6](<../canon/characters/Narrative Arc - Phases 0 through 6.md>) THE NARRATIVE ARC | — | CCN×3 |
-| 3 | [2.20](<../canon/documents/2.20 — Employee Handbook.md>) 2.20 ICS Earth Branch — Employee Handbook | — | CCN×3 |
 | 3 | [2.25](<../canon/documents/2.25 — Planetary Case Files.md>) 2.25 Planetary Case Files: Compliance, Resistance, and Conse | PTKW | CCN×3 |
 | 3 | [2.40](<../canon/documents/2.40 — Asset Register and Termination Log.md>) 2.40 ICS Earth Branch — Asset Register & Termination Log | PTKW | CCN×3 |
 | 3 | [A-30](<../canon/internal-communications/employee/A-30 — Femi to Hana New Chapter.md>) new chapter | Employee | CCN×3 |
@@ -1542,6 +1553,7 @@ Aliases found: `CCN` ×333
 | 2 | [A-33](<../canon/internal-communications/employee/A-33 — Idris to Kai Thank You for the Tea.md>) thank you for the tea | Employee | CCN×2 |
 | 2 | [A-36](<../canon/internal-communications/employee/A-36 — Hana to Sera Which Day.md>) quick question about the closing conversation | Employee | CCN×2 |
 | 2 | [A-37](<../canon/internal-communications/employee/A-37 — Sera Unsent Hana Desk.md>) no subject | Employee | CCN×2 |
+| 2 | [A-38](<../canon/internal-communications/employee/A-38 — Noor to the Floor Liaison Three Questions.md>) A few questions, if that's all right | Employee | CCN×2 |
 | 2 | [B-16](<../canon/internal-communications/ptkw/B-16 — All-Staff Broadcast Equipment Warning.md>) A Friendly Reminder About Facility Equipment and Your Safety | Global | CCN×2 |
 | 2 | [B-19](<../canon/internal-communications/ptkw/B-19 — Intercept Thread — Sera to Kai Canister Info.md>) no subject — CCN direct message | — | CCN×2 |
 | 2 | [JOBS_AND_CAREER](<../design/JOBS_AND_CAREER.md>) ICS: Interplanetary Corporate Solutions | — | CCN×2 |
@@ -1555,6 +1567,7 @@ Aliases found: `CCN` ×333
 | 1 | [2.22](<../canon/documents/2.22 — Interplanetary Operations Manual.md>) 2.22 ICS Interplanetary Operations Manual — Earth Sector | PTKW | CCN×1 |
 | 1 | [2.34](<../canon/documents/2.34 — Facility Broadcast Channel and Music Programme.md>) 2.34 ICS Earth Branch — Facility Broadcast Channel | — | CCN×1 |
 | 1 | [2.37](<../canon/documents/2.37 — In-World Advertisement Archive.md>) 2.37 ICS Earth Branch — In-World Advertisement Archive | — | CCN×1 |
+| 1 | [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions | Global | CCN×1 |
 | 1 | [True-Believers](<../canon/enemies/True-Believers.md>) Category 2 — The True Believers | — | CCN×1 |
 | 1 | [Level 0](<../canon/facility/Level 0.md>) Level 0 — The Infrastructure Corridor | — | CCN×1 |
 | 1 | [Level 1](<../canon/facility/Level 1.md>) Level 1 — Arrival & Transit | — | CCN×1 |
@@ -1574,6 +1587,7 @@ Aliases found: `CCN` ×333
 | 1 | [B-24](<../canon/internal-communications/ptkw/B-24 — PTKW Engineering Badge Deactivation Urgent.md>) URGENT — Badge Deactivation Backlog — Phase 5 Security Asses | PTKW | CCN×1 |
 | 1 | [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) Incident Report ICS-IR3 — E-03615 — restricted designation s | PTKW | CCN×1 |
 | 1 | [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) as sent Question about the man in the corridor | — | CCN×1 |
+| 1 | [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) Second signature — E-03274, Comfortable Inquiry | PTKW | CCN×1 |
 | 1 | [README](<../canon/weapons/README.md>) ICS: Interplanetary Corporate Solutions | PTKW | CCN×1 |
 | 1 | [DISCOVERY_SEQUENCE](<../design/DISCOVERY_SEQUENCE.md>) ICS: Interplanetary Corporate Solutions | — | CCN×1 |
 | 1 | [PLAYER_GUIDANCE](<../design/PLAYER_GUIDANCE.md>) ICS: Interplanetary Corporate Solutions | — | CCN×1 |

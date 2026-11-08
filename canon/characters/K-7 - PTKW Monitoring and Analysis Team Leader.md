@@ -28,6 +28,7 @@
 | PTKW Commercial Operations Lead, Level 6 | Receives his SOLCRED flag (B-22). |
 | Earth Branch Manager | Writes to him as to a colleague; K-7 treats him as the one person who might answer honestly. The Manager forwards him the manual and tells him not to share it. |
 | Floor Liaison | He has told the Floor Liaison PTKW "has not been informed." That was true. He has nothing to give her. |
+| K-12 | The second signature. When a Floor Liaison escalates a colleague's question, K-12 is the officer who is asked to agree, and who tells her honestly what the escalation does (B-37). K-7 has the same doubt and has not said so. |
 | EOD | Has never met him. Reads about him on Day 5 and does the arithmetic on Day 6: "He is among us for seven days. Today is the sixth." |
 
 **In the game.** The player never meets K-7. They find his desk, his workstation and his sentences. His workstation is the second-largest mail source on the Branch, after the Earth Branch Manager's. The player reaches it late, behind PTKW clearance, and finds a man who has been watching them: B-10 is a message about E-05682 by name.

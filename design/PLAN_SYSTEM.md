@@ -148,5 +148,6 @@ At 30 the player receives a Step 1 (a Conversation, a short scripted scene). At 
 4. Should the player read Doc 2.60 directly, or only see its effects in A-37 and B-36?
 5. How far does K-12 get in B-34, and does Sera reach Step 3 on screen?
 6. What is the Tier 1 places number, and what is the printer-tray device in Doc 2.52?
+7. Open-door questions (Doc 2.62, B-37): is K-12 on the Floor Liaison rota, or should the second officer be a Level 3 or Level 4 Liaison? Is the "ask any grey card" instruction in Docs 2.03, 2.04 and 2.20 for all PTKW or for the Floor Liaison only? Does the player ever read A-38 and B-37 as a pair?
 
 See also the Plan System section in `meta/CANON_DECISIONS.md`.
