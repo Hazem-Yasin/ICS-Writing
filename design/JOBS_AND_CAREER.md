@@ -132,6 +132,14 @@ For a behavioral-data role, a visibly progressing analyst is not asking the forb
 - **Progress is camouflage.** Promotion on paper is how ICS keeps the player comfortable.
 - **Stall is the warning.** A Tier 2 that does not move is the Soft Ceiling. The player should never see it named.
 
+### Tier Velocity and the Support Steps — [PROPOSAL]
+
+The Soft Ceiling has a published face (Doc 2.56, Tier Velocity Standard) and a hidden one (a Velocity Stall flag that opens Support Step 1). Role families that "tend to stay at Tier 3" are the families with the highest share of Support Needed placements (Doc 2.54), because the review point passes more often for them than the rationed places do.
+
+- **Wellness Coordinators** (Sera, Amara) are scored on the *continuation* of support relationships (Doc 2.53 §7), not on closure. They are the process's believers.
+- **Managers** are scored on the Care Outcomes rubric (Doc 2.59). They are told a different set of numbers.
+- The player cannot see any of it. They can see a colleague's desk is clear on a Monday.
+
 ---
 
 ## 5. What a rung pays besides access — [PROPOSAL]

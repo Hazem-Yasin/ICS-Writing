@@ -90,6 +90,18 @@ These states are not gates. They are gradients. A player who hits most Witness f
 | `SERA_PHASE5_INFO` | Player received CCN gap and Tier 4 badge info from Sera (requires `SERA_YUSRA`) | Player navigates Phase 5 without Sera's intelligence |
 | `DAYO_NEUTRALIZED` | Player used the K-7 review revelation to neutralize Dayo's reporting | Dayo's Phase 5 reports continue; higher CCN score at Phase 6 start |
 
+### Plan flags (Phases 1–5) — [PROPOSAL]
+
+| Flag | Set by | Default if missed |
+|---|---|---|
+| `PLAN_HANA_SEEN` | Player found the five sheets of ICS-PG1 (Doc 2.52) or A-36 | Hana's Day 58 is a clear desk and a coffee description; the player feels the absence without the cause |
+| `PLAN_FEMI_CAKE` | Player noticed the corner piece for Hana (A-35, Floor B bin) | The Voluntary Transition reads as a farewell and not as a cut |
+| `PLAN_ALIGNMENT_PROVED` | Player held both A-36 and B-36 (the Day 41 message and the order that was withdrawn) | The player remembers the dates differently from the record and cannot say why |
+| `PLAN_KAI_STEP1` | Plan meter reached 30 (A-31) | The Review Room scene is skipped |
+| `PLAN_SERA_STEP` | Player saw A-37 | Sera's walk-away at the PWRP terminal reads as grief only |
+
+*These flags feed the Witness and Alone states; none gates a story tool.*
+
 ---
 
 ## Ending State Determination

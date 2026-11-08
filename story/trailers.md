@@ -687,6 +687,7 @@ HARVEST ELIGIBILITY: CYCLE 312 — PENDING REVIEW
 3. **Planetary arrival against Branch arrival.** `canon/documents/2.17 — ARM-27 Deployment Sequence Earth.md` has a public broadcast and a dawn flyover. `canon/characters/EOD.md` says "there is no broadcast" and puts him on a Level 2 corridor. Movement I uses the first and Movement II the second. If both are canon, that works: the planet is told, and the Branch is not.
 4. **Ten days.** `canon/documents/2.15 — EOD Profile.md` says he hides for ten days and surfaces on Day 11. `design/TIME_MODEL.md` has him on the floor Days 4–10 and absent Days 11–20. The trailer shows only a tally of ten marks, so it does not choose.
 5. **Where does this run?** As an in-world ICS spot (like Trailer 2), or as a marketing trailer that uses the same register? The close is written to work either way.
+6. **[PROPOSAL] A Plan beat for a future trailer.** A two-shot in Room 3: two cups that match, a plant, a paper pad, a clock. A voice (Sera's, off-camera) says "This isn't a warning." Cut to the Wellness Hub bar at 80%. No title card. It would sit best in an in-world ICS spot (like Trailer 2) and not in this one. See `story/scene-notes/The Review Room.md` and `design/PLAN_SYSTEM.md`.
 
 ---
 

@@ -4,7 +4,7 @@
 
 Messages grouped into conversations. A thread is found when files share a subject once Re:/Fwd: are removed, or share a tag in the subject (Deployment Order 287, E-03615, ICS-IR3-…). Anything the subjects do not reveal is listed by hand in `tools/threads.json`. A file holding several messages (B-28, C-26) counts as a thread by itself. Order is by id, which is not always date order: check the Date column.
 
-**16 threads. 65 messages stand alone** (see `meta/INDEX.md`).
+**17 threads. 84 messages stand alone** (see `meta/INDEX.md`).
 
 ## the canteen thing
 
@@ -124,6 +124,15 @@ Messages grouped into conversations. A thread is found when files share a subjec
 | [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) | Cycle 300 Q4 — Day 32, 19:05 | PTKW Duty Officer, Level 5 → K-7; TOR-9 | Incident Report ICS-IR3 — E-03615 — restricted designation spoken alo… | PTKW |
 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | Cycle 300 Q4 — Day 34, 18:20 | PTKW Investigation Team, Level 5 → K-7; TOR-9 | Investigation file ICS-IR3-300Q4-032 — E-03615 — result of the source… | PTKW |
 
+## ICS-WA4 for E-02209 — Results page printed before the assessment
+
+*2 files, 2 messages. matched by subject or tag.*
+
+| File | Date | From → To | Subject | Access |
+|---|---|---|---|---|
+| [B-32](<../canon/internal-communications/ptkw/B-32 — TOR9 on a Pre-Filled Results Page.md>) | Cycle 300 Q4, Day 41, 08:30 | TOR-9 → PTKW Senior Conduct Officer | ICS-WA4 for E-02209 — Results page printed before the assessment | PTKW |
+| [B-36](<../canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md>) | Cycle 300 Q4, Day 41, 13:50 / 14:30 / 1… | PTKW Division — Oversight Unit, Level 5 → E-04788's Coordinator desk | Perception Alignment — E-02209 — instruction and withdrawal | PTKW |
+
 ## your question about the coffee machine
 
 *2 files, 2 messages. matched by subject or tag.*
@@ -170,28 +179,28 @@ Counts of messages by sender and recipient (the To line only).
 
 | Messages | From | To |
 |---|---|---|
-| 6 | Earth Branch Operations | ICS Interplanetary Research Division |
-| 5 | K-7 | K-12 |
-| 5 | K-12 | K-7 |
+| 7 | Earth Branch Operations | ICS Interplanetary Research Division |
+| 6 | K-7 | K-12 |
+| 6 | K-12 | K-7 |
+| 4 | Branch Director Maren Voss, ICS Earth B… | ICS Cluster Representative Brant / HQ O… |
 | 4 | K-7 | TOR-9 |
-| 3 | Branch Director Maren Voss, ICS Earth B… | ICS Cluster Representative Brant / HQ O… |
+| 3 | ICS Cluster Representative Brant / HQ O… | Branch Director Maren Voss |
+| 3 | ICS Cluster Representative Brant / HQ O… | ICS Earth Branch |
 | 3 | K-7 | VAH-3 |
-| 2 | ICS Cluster Representative Brant / HQ O… | Branch Director Maren Voss |
-| 2 | ICS Cluster Representative Brant / HQ O… | ICS Earth Branch |
 | 2 | ICS Interplanetary Research Division | Earth Branch Operations |
+| 2 | T. Vance, Senior Environmental Design,… | Dr. Akar |
+| 2 | T. Vance, Senior Environmental Design,… | BES Working Group |
 | 2 | Dr. Selin Akar | Behavioral Analytics Division |
+| 2 | BES Architect Ohm | Lead Designer Akar |
 | 2 | E-03019 | E-02208 |
 | 2 | E-03019 | Level 4 Data Processing) |
+| 2 | E-03388 | inside the back cover of his personal n… |
 | 2 | PTKW Oversight Unit, Interplanetary HQ | PTKW Senior Operations |
 | 2 | PTKW Oversight Unit, Interplanetary HQ | Earth Branch Level 5 |
 | 2 | TOR-9 | K-7 |
 | 2 | TOR-9 | VAH-3 |
+| 2 | TOR-9 | PTKW Senior Conduct Officer |
 | 2 | PTKW Duty Officer, Level 5 | K-7 |
 | 2 | PTKW Duty Officer, Level 5 | TOR-9 |
 | 2 | K-7 | Earth Branch Manager |
 | 1 | Branch Director, ICS Earth Branch | Regional Sector Lead |
-| 1 | Branch Director, ICS Earth Branch | Milky Way Division — K. Brant |
-| 1 | Regional Sector Lead K. Brant, Milky Wa… | Branch Director |
-| 1 | Regional Sector Lead K. Brant, Milky Wa… | ICS Earth Branch |
-| 1 | Branch Director, ICS Earth Branch | Regional Sector Lead K. Brant |
-| 1 | Interplanetary HQ, Board Communication… | Branch Director |

@@ -257,6 +257,18 @@ The cafeteria does not empty on schedule.
 
 ---
 
+### Interlude — The Review Room *(optional beat, [PROPOSAL])*
+
+*Phase 5, Day 30 (the Thursday after A-31). Level 2, Room 3. See `story/scene-notes/The Review Room.md`.*
+
+Sera has asked for twenty minutes. The tea is the good tea. The clock on the wall is two minutes fast, which Kai has noticed and decided not to mind.
+
+She tells him it is not a warning. She tells him before he has sat down, and she is telling the truth, and so is the pad she writes one line on and does not hide. He answers three questions. He leaves a little lighter than he came.
+
+It is the kindest conversation of the week. That is the only thing about it that he can later be sure of.
+
+---
+
 ## V. The Branch Director, Hours Before
 
 *Phase 6, Day 61. 10:04 Branch Time. The Branch Director's office, Level 2.*

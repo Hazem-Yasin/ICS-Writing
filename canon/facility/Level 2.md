@@ -42,6 +42,7 @@ The HR & Wellness suite occupies the south quadrant. It is the most deliberately
 The suite has:
 - A reception desk, staffed 08:00–22:00. The staff are trained in what the HR handbook calls "active listening posture." The PTKW training document calls it "compliance maintenance interaction protocol."
 - Four private meeting rooms, 3 meters × 4 meters each, soundproofed. These rooms are used for wellness conversations, performance reviews, and certain other conversations that require privacy. The rooms have EIMU monitoring. The monitoring is not disclosed to employees in the meeting room context — the general "facility EIMU monitoring" notice in the employee handbook covers it, but most employees do not connect that notice to the meeting rooms specifically.
+- **Room 3** is the room in which Wellness Assessments are held. It has a round table, a plant, a window onto the atrium and a clock that is two minutes fast. [PROPOSAL] The clock is a BES choice: a person who thinks they are late stops arguing. It is the room in which Hana Park is given her Results page (Document 2.61).
 - The Wellness Hub: a larger room, approximately 8 meters × 6 meters, with low seating, indirect lighting, and a tea/coffee station. Open 08:00–22:00. The Wellness Hub is the room Yusra references in Document 2.39 — *"the system uses your concern for your colleagues as a monitoring tool."* It is also, genuinely, a place where employees in distress can sit and be quiet and drink something warm. Both things are true.
 
 **The PWRP terminals** are in a dedicated alcove off the main HR waiting area: three terminals, side by side, with low privacy screens between them. The screens are designed to make the act of submitting a report feel semi-private without fully obscuring it — a BES choice: full privacy would make the act feel clandestine, which would reduce submission rates; full visibility would feel performative. The semi-private screen produces submission as a social act that is witnessed but not observed.
@@ -144,3 +145,5 @@ This is not a flaw in the design. This is the design.
 
 *→ See: canon/internal-communications/design-team/06 — Akar — Year 1 Review.md, Communication 06 — the Year 1 post-opening analysis of the social reporting dynamic.*
 *→ See: Document 2.18 (Human Psychology Report), Sections 3.1, 3.2, 3.4 — Milgram, Asch, Goffman.*
+
+*[PROPOSAL] Edit. Added Room 3 to the HR & Wellness list. The four-room count, the soundproofing and the undisclosed EIMU monitoring are the author's.*

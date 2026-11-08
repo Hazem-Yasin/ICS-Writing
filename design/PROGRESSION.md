@@ -60,6 +60,13 @@ In the game's early phases, the player advances through tiers the same way every
 - New capabilities: Tier 1 badge allows access to document archives that contain PTKW-proximate files. This is the access tier that produces the document query patterns K-12 has been watching the player use.
 - Notes: The Tier 1 badge advancement happens through the normal ICS process in Phase 0-1. The player can request it through the tier review system. It is granted — the player's performance record is strong. This is the only progression advancement the game gives the player as a reward for being good at their ICS job. Every advancement after this is taken, not given.
 
+### The hidden Plan meter — [PROPOSAL]
+*Kai's "probationary Tier 1" (`design/DISCOVERY_SEQUENCE.md`) is a Settling-In Period (Doc 2.57). The full table is in `design/PLAN_SYSTEM.md` §6.*
+- A value from 0 to 100, never shown as a number. Leaving the desk, reading out of scope and being seen with a colleague on a Step raise it.
+- At 30 the player receives a Step 1 Conversation (A-31). At 60, a Step 2. Step 3 is not reached in normal play: the Phase 5 events pre-empt it.
+- Advancement is reported to the player as good news (the Tier 1 notice above). The Plan meter and the tier review run side by side and do not appear to touch.
+- The meter's job is to make Plan documents feel addressed to the player, and to make the Review Room scene (`story/scene-notes/The Review Room.md`) arrive on schedule.
+
 ---
 
 ## The Non-Standard Badges — Acquired Progression (Phases 3–6)

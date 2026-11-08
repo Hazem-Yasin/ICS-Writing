@@ -22,7 +22,10 @@ canon/internal-communications/
 │   ├── 06 — Akar — Year 1 Review.md
 │   ├── 07 — Brant — Board Observation Forwarded.md
 │   ├── 08 — Unknown — Unsent Draft.md
-│   └── 09 — Ohm — The Remembering Room.md
+│   ├── 09 — Ohm — The Remembering Room.md
+│   ├── 10 — Akar — The Completion Rate.md
+│   ├── 11 — Vance — The Wording on the Growth Plan Form.md
+│   └── 12 — Ohm — The Ten Per Cent and the Resistance Index.md
 │
 ├── employee/                          ← messages between human employees
 │   ├── A-00 — Unknown Employee to Dad (unsent).md
@@ -51,7 +54,15 @@ canon/internal-communications/
 │   ├── A-23 — Marcus to Priya Phase 5.md
 │   ├── A-24 — Darius to Sera Badge Anomaly.md
 │   ├── A-28 — Lior and Chidi The Man Without a Badge.md
-│   └── A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md
+│   ├── A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md
+│   ├── A-30 — Femi to Hana New Chapter.md
+│   ├── A-31 — Sera to Kai A Quick Conversation.md
+│   ├── A-32 — Marcus Draft Fourteen.md
+│   ├── A-33 — Idris to Kai Thank You for the Tea.md
+│   ├── A-34 — Omar Belonging Pulse Drafts.md
+│   ├── A-35 — Tarek Notebook Cakes.md
+│   ├── A-36 — Hana to Sera Which Day.md
+│   └── A-37 — Sera Unsent Hana Desk.md
 │
 ├── ptkw/                              ← PTKW and ICS alien staff internal
 │   ├── B-01 — K7 EIMU Anomaly Flag.md
@@ -83,7 +94,13 @@ canon/internal-communications/
 │   ├── B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md
 │   ├── B-28 — K-7 Asks the Earth Branch Manager About EOD and Forwards His Answer to All PTKW.md
 │   ├── B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md
-│   └── B-30 — Incident Report ICS-IR3 - PTKW Designation of ICS Written on a Wall.md
+│   ├── B-30 — Incident Report ICS-IR3 - PTKW Designation of ICS Written on a Wall.md
+│   ├── B-31 — K7 to K12 Floor B and the Ten Per Cent.md
+│   ├── B-32 — TOR9 on a Pre-Filled Results Page.md
+│   ├── B-33 — Facilitator to Femi Floor Too Good.md
+│   ├── B-34 — K12 Belonging Pulse Item 3 and What Comes After.md
+│   ├── B-35 — PTKW Staff Care Outcomes Summary.md
+│   └── B-36 — Oversight Perception Alignment Instruction and Withdrawal.md
 │
 └── branch-director/                   ← Branch Director and HQ correspondence
     ├── C-01 — Director to Brant Cluster Flag.md
@@ -111,7 +128,11 @@ canon/internal-communications/
     ├── C-23 — EOD Research Team - Deployment 287 Field Report Update - Master Summary.md
     ├── C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md
     ├── C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting.md
-    └── C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md
+    ├── C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md
+    ├── C-27 — Director to HQ Calibration Round and Tier Velocity.md
+    ├── C-28 — HQ to Director Routing E-02210 Voluntary Transition.md
+    ├── C-29 — Director Leadership Reflection Plan.md
+    └── C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md
 ```
 
 ---

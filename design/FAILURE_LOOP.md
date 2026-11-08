@@ -112,6 +112,8 @@ The reclassification document uses the player's real asset number (E-05682) and 
 
 **[PROPOSAL]** After the third reclassification screen of a playthrough, the wording varies slightly: the *date* changes to whatever Branch Time was at capture. The player begins to read it as a log of their own attempts. The building has a record of every one.
 
+**[PROPOSAL] The plan wording.** For a capture in Phases 1–3 the reclassification document may carry a Step 3 language variant: *"This is not a warning. It is an opportunity."* The wording follows Doc 2.30 §3.7 and the Support Steps (Doc 2.53). It appears once per playthrough, at the third failure, and not again. The cold wording (Doc 2.08) remains the default.
+
 ---
 
 ## Open questions

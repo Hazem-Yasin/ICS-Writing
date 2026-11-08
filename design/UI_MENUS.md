@@ -61,6 +61,8 @@ Raising the badge is a verb ("Badge", `design/VERBS.md`). It is the one in-ficti
 | **Diagnostic** | The four-ring readout (signal strength, nearest node, stress, K-7 pulse) | **Canon** once the Diagnostic Accessory is found |
 | **Settings** | Accessibility, controls, audio | **[PROPOSAL]** |
 
+**The "My Growth" tab — [PROPOSAL].** A seventh tab, shown only after the first Step 1 message (A-31). It displays three goals, a goal-attainment bar that stops at 80%, and the next conversation date. The bar and the date are the Branch's. The tab never shows a Step number, and the date is occasionally one day out from the date the player noted. It is the only menu that lies, and it does so in the voice of the Wellness Hub. (Doc 2.52 and Doc 2.60.)
+
 **Open question:** whether the pause (see Part 5) opens the badge or a separate screen.
 
 ### Badge display by tier

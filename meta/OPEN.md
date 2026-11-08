@@ -6,10 +6,10 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 | What | Count |
 |---|---|
-| Open-question sections | 25 (about 147 listed items) |
+| Open-question sections | 26 (about 154 listed items) |
 | Inline TODO / TBD / “to be decided” lines | 7 |
 | Unchecked items in `meta/TODO.md` | 7 |
-| Files carrying [PROPOSAL] material not yet ruled canon | 63 |
+| Files carrying [PROPOSAL] material not yet ruled canon | 110 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
@@ -27,7 +27,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “Open rulings (ask the user; don't guess)”
 
-`meta/HANDOFF_CARTOGRAPHER.md` line 428
+`meta/HANDOFF_CARTOGRAPHER.md` line 490
 
 **Still open — needs the author's call:**
 - Phase 6 real-time length: `design/TIME_MODEL.md` proposes 88 minutes at 15×.
@@ -186,7 +186,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “Open questions”
 
-`design/FAILURE_LOOP.md` line 117
+`design/FAILURE_LOOP.md` line 119
 
 - **Failure count persistence.** Should *Previous attempts* survive a quit-to-menu? **[PROPOSAL]** yes within a session; reset on a new load.
 - **Phase 6 reload and the 22-hour clock.** Canon says the clock is restored from the save. Does a failure still cost the player *real* time, as `design/SAVE_SYSTEM.md` implies? **[PROPOSAL]** yes: real time spent is the cost; the in-fiction clock does not advance.
@@ -269,6 +269,18 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 Whether the player's early flags land on **named characters** (Hana, Omar, Tarek) or only on **anonymous cases** is the author's call. Named is stronger and more cruel. Anonymous is safer and needs no new text. See ruling 32.
 
+### ICS: Interplanetary Corporate Solutions — “9. Open questions”
+
+`design/PLAN_SYSTEM.md` line 143
+
+- Is the Femi of A-07 the "Ms. Adeyemi" of A-28, and is she Floor B's manager?
+- Should Step 5 share the name "Journey Completion" with the C-24 Directorate?
+- Is a hidden quota (Docs 2.54 and 2.59) compatible with Doc 2.20's "managers support advancement"?
+- Should the player read Doc 2.60 directly, or only see its effects in A-37 and B-36?
+- How far does K-12 get in B-34, and does Sera reach Step 3 on screen?
+- What is the Tier 1 places number, and what is the printer-tray device in Doc 2.52?
+See also the Plan System section in `meta/CANON_DECISIONS.md`.
+
 ### ICS: Interplanetary Corporate Solutions — “Open questions”
 
 `design/PLAYER_GUIDANCE.md` line 95
@@ -338,7 +350,7 @@ Whether the player's early flags land on **named characters** (Hana, Omar, Tarek
 
 ### ICS: Interplanetary Corporate Solutions — “8. Open questions”
 
-`design/TIME_MODEL.md` line 251
+`design/TIME_MODEL.md` line 272
 
 - Is the Phase 2/3 ruling in §1.3 acceptable, or should `design/DESIGN.md` be relabeled "Phase 2: Days 4–10, Phase 3: Days 11–20" with Phase 2's cold state described as a lingering effect?
 - Do the 88 real minutes for Phase 6 feel right, or should the player get the choice at the start of Phase 6 (like a pacing setting under `design/DIFFICULTY_ACCESSIBILITY.md`)?
@@ -376,7 +388,7 @@ Whether the player's early flags land on **named characters** (Hana, Omar, Tarek
 
 ### ICS: Interplanetary Corporate Solutions — “Open questions”
 
-`design/UI_MENUS.md` line 158
+`design/UI_MENUS.md` line 160
 
 - **Does the pause open the badge or a separate screen?** The principle says the badge is the interface; the pause is the exception.
 - **Controller layout.** None defined.
@@ -447,6 +459,7 @@ Whether the player's early flags land on **named characters** (Hana, Omar, Tarek
 - **Planetary arrival against Branch arrival.** `canon/documents/2.17 — ARM-27 Deployment Sequence Earth.md` has a public broadcast and a dawn flyover. `canon/characters/EOD.md` says "there is no broadcast" and puts him on a Level 2 corridor. Movement I uses the first and Movement II the second. If both are canon, that works: the planet is told, and the Branch is not.
 - **Ten days.** `canon/documents/2.15 — EOD Profile.md` says he hides for ten days and surfaces on Day 11. `design/TIME_MODEL.md` has him on the floor Days 4–10 and absent Days 11–20. The trailer shows only a tally of ten marks, so it does not choose.
 - **Where does this run?** As an in-world ICS spot (like Trailer 2), or as a marketing trailer that uses the same register? The close is written to work either way.
+- **[PROPOSAL] A Plan beat for a future trailer.** A two-shot in Room 3: two cups that match, a plant, a paper pad, a clock. A voice (Sera's, off-camera) says "This isn't a warning." Cut to the Wellness Hub bar at 80%. No title card. It would sit best in an in-world ICS spot (like Trailer 2) and not in this one. See `story/scene-notes/The Review Room.md` and `design/PLAN_SYSTEM.md`.
 *→ See: `canon/characters/EOD.md` — profile.*
 *→ See: `canon/documents/2.15 — EOD Profile.md` — the card.*
 *→ See: `canon/documents/2.41 — EIMU Deep Assessment EOD.md` — what the Board knows.*
@@ -494,7 +507,7 @@ Whether the player's early flags land on **named characters** (Hana, Omar, Tarek
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 48 | - 1.10: Kai can open his quarters terminal during confinement (STORY.md "Before It Begins" puts the folder there). design/DESIGN.md Phase 1 says the confined p… |
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 64 | - Mentions of "Inflatable Crowd Solutions" (TODO B3), each in a file whose access line allows it: |
 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 5 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, systems in… |
-| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 47 | 5. meta/OPEN.md and meta/TODO.md: open questions, PROPOSAL files and TODOs. |
+| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 109 | 5. meta/OPEN.md and meta/TODO.md: open questions, PROPOSAL files and TODOs. |
 | [1.1 - Labor Source 312, Day Four](<../story/scenes/1.1 - Labor Source 312, Day Four.md>) | 19 | I did not wave. Nobody noticed. I want that understood as an accident, not as courage. I was the one person in the building who had not yet decided what his fa… |
 
 ## Files carrying [PROPOSAL] material
@@ -503,14 +516,35 @@ These contain new material that stays proposal until the author rules. Listed so
 
 - [Captain Eirik Aronsen](<../canon/characters/Captain Eirik Aronsen.md>) NO ASSET NUMBER — Captain Eirik Aronsen / "Tern" (Gyrfalcon Seven)
 - [Colonel Leif Aronsen](<../canon/characters/Colonel Leif Aronsen.md>) NO ASSET NUMBER — Colonel Leif Aronsen / "The Commander"
+- [E-02847 - Marcus](<../canon/characters/E-02847 - Marcus.md>) E-02847 — First Name: Marcus / "The True Believer"
+- [E-04788 - Sera Vasquez](<../canon/characters/E-04788 - Sera Vasquez.md>) E-04788 — Sera Vasquez / "The One Who Reports Everything"
+- [E-05682 - The Variable (Player)](<../canon/characters/E-05682 - The Variable (Player).md>) THE PLAYER CHARACTER
 - [EOD](<../canon/characters/EOD.md>) EOD Executioner of Despair (Subjugator, The Willbreaker, Harmony; pub…
 - [K-7 - PTKW Monitoring and Analysis Team Leader](<../canon/characters/K-7 - PTKW Monitoring and Analysis Team Leader.md>) K-7 — PTKW Monitoring & Analysis Team Leader / "The One Who Notices"
+- [2.20](<../canon/documents/2.20 — Employee Handbook.md>) 2.20 ICS Earth Branch — Employee Handbook
+- [2.26](<../canon/documents/2.26 — Job Catalogue.md>) 2.26 ICS Earth Branch — Job Catalogue
+- [2.29](<../canon/documents/2.29 — Acronym and Terminology Glossary.md>) 5. ICS Acronym & Terminology Glossary
+- [2.30](<../canon/documents/2.30 — Workplace Conduct and Facility Use Policy.md>) 2.30 ICS Earth Branch — Workplace Conduct & Facility Use Policy
+- [2.33](<../canon/documents/2.33 — New Employee Onboarding Packet.md>) 2.33 ICS Earth Branch — New Employee Onboarding Packet
+- [2.40](<../canon/documents/2.40 — Asset Register and Termination Log.md>) 2.40 ICS Earth Branch — Asset Register & Termination Log
+- [2.45](<../canon/documents/2.45 — SOLCRED Internal Commerce Programme.md>) 2.45 — ICS Earth Branch — Internal Commerce Guide & SOLCRED Programme
 - [2.47](<../canon/documents/2.47 — Host Force Assessment The Harrow.md>) 2.47 Host Force Assessment — Ground Special Operations: The Harrow
 - [2.48](<../canon/documents/2.48 — Host Force Assessment Gyrfalcon Wing.md>) 2.48 Host Force Assessment — Strategic Air Superiority: Gyrfalcon Wing
 - [2.49](<../canon/documents/2.49 — The Smile Study.md>) 2.49 The Study of Eirik's Smile
 - [2.50](<../canon/documents/2.50 — ICS Nomenclature Note.md>) 2.50 ICS Nomenclature Note — What the Name Says, and Who Is Told
 - [2.51](<../canon/documents/2.51 — Enforcement Asset Executive Handling Protocol.md>) 2.51 Enforcement Asset Executive Handling Protocol — EOD Deployment B…
+- [2.52](<../canon/documents/2.52 — Personal Growth Plan Form ICS-PG1.md>) 2.52 Personal Growth Plan — Form ICS-PG1
+- [2.53](<../canon/documents/2.53 — Support Steps Manual.md>) 2.53 Support Steps Manual — Wellness Coordinators and PTKW Analysts
+- [2.54](<../canon/documents/2.54 — Contribution Distribution Guidance for Managers.md>) 2.54 Contribution Distribution — Guidance for Managers
+- [2.55](<../canon/documents/2.55 — Belonging Pulse Survey and Analysis.md>) 2.55 Belonging Pulse — Survey and Analysis Summary
+- [2.56](<../canon/documents/2.56 — Tier Velocity Standard.md>) 2.56 Tier Velocity Standard
+- [2.57](<../canon/documents/2.57 — Settling-In Period Guidance for Line Managers.md>) 2.57 Settling-In Period — Guidance for Line Managers
+- [2.58](<../canon/documents/2.58 — Voluntary Transition Pathway.md>) 2.58 Voluntary Transition Pathway
+- [2.59](<../canon/documents/2.59 — Manager Evaluation Rubric.md>) 2.59 Manager Evaluation Rubric — Care Outcomes
+- [2.60](<../canon/documents/2.60 — Perception Alignment Protocol.md>) 2.60 Perception Alignment Protocol
+- [2.61](<../canon/documents/2.61 — ICS Wellness Assessment Form ICS-WA4.md>) 2.61 ICS Wellness Assessment — Form ICS-WA4 (Results)
 - [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) Category 4 — HQ Rapid Response Assets
+- [Level 2](<../canon/facility/Level 2.md>) Level 2 — Administration & Human Resources
 - [C-18](<../canon/internal-communications/branch-director/C-18 — EOD Research Team - Deployment 287 Field Report Update Request.md>) Deployment Order 287 — EOD, Labor Source #349 — request for findings…
 - [C-19](<../canon/internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md>) RE: Deployment Order 287 — update: where EOD was on Day 16, and the B…
 - [C-20](<../canon/internal-communications/branch-director/C-20 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Wing - Incident Report.md>) RE: Deployment Order 287 — Gyrfalcon Wing report received
@@ -520,20 +554,42 @@ These contain new material that stays proposal until the author rules. Listed so
 - [C-24](<../canon/internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md>) The Discussion of EOD Sunsetting
 - [C-25](<../canon/internal-communications/branch-director/C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting.md>) RE: The Discussion of EOD Sunsetting
 - [C-26](<../canon/internal-communications/branch-director/C-26 — Earth Branch Manager - EOD First Arrival at Labor Source 312 - Cycle 292 Thread.md>) The first arrival of EOD — the Manager's question, the HQ reply, and…
+- [C-27](<../canon/internal-communications/branch-director/C-27 — Director to HQ Calibration Round and Tier Velocity.md>) Q4 Calibration Round and the Tier Velocity Standard — request for a h…
+- [C-28](<../canon/internal-communications/branch-director/C-28 — HQ to Director Routing E-02210 Voluntary Transition.md>) Routing — Voluntary Transition — E-02210 — disposition basis HQ
+- [C-29](<../canon/internal-communications/branch-director/C-29 — Director Leadership Reflection Plan.md>) Leadership Reflection Plan
+- [C-30](<../canon/internal-communications/branch-director/C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md>) Does the Support Steps process have a Step 5 for him
 - [01 — Akar — Design Philosophy](<../canon/internal-communications/design-team/01 — Akar — Design Philosophy.md>) Preliminary Design Philosophy — Earth Branch Facility
+- [10 — Akar — The Completion Rate](<../canon/internal-communications/design-team/10 — Akar — The Completion Rate.md>) The completion rate
+- [11 — Vance — The Wording on the Growth Plan Form](<../canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md>) The wording on the Growth Plan form
+- [12 — Ohm — The Ten Per Cent and the Resistance Index](<../canon/internal-communications/design-team/12 — Ohm — The Ten Per Cent and the Resistance Index.md>) The ten per cent and the resistance index
 - [A-28](<../canon/internal-communications/employee/A-28 — Lior and Chidi The Man Without a Badge.md>) the man in the corridor
 - [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) chat, redacted read it once
+- [A-30](<../canon/internal-communications/employee/A-30 — Femi to Hana New Chapter.md>) new chapter
+- [A-31](<../canon/internal-communications/employee/A-31 — Sera to Kai A Quick Conversation.md>) A quick conversation, if you have twenty minutes
+- [A-32](<../canon/internal-communications/employee/A-32 — Marcus Draft Fourteen.md>) fourteen
+- [A-33](<../canon/internal-communications/employee/A-33 — Idris to Kai Thank You for the Tea.md>) thank you for the tea
+- [A-34](<../canon/internal-communications/employee/A-34 — Omar Belonging Pulse Drafts.md>) draft 1 of 6
+- [A-35](<../canon/internal-communications/employee/A-35 — Tarek Notebook Cakes.md>) Cake count, Level 3 Floor B
+- [A-36](<../canon/internal-communications/employee/A-36 — Hana to Sera Which Day.md>) quick question about the closing conversation
+- [A-37](<../canon/internal-communications/employee/A-37 — Sera Unsent Hana Desk.md>) no subject
 - [B-25](<../canon/internal-communications/ptkw/B-25 — HQ Host Force Monitoring Instruction.md>) Host force monitoring — two named formations — Earth Branch, standing…
 - [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) Incident Report ICS-IR3 — E-03615 — restricted designation spoken alo…
 - [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) as sent Question about the man in the corridor
 - [B-28](<../canon/internal-communications/ptkw/B-28 — K-7 Asks the Earth Branch Manager About EOD and Forwards His Answer to All PTKW.md>) The unbadged figure — K-7's request to the Earth Branch Manager, the…
 - [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) Investigation file ICS-IR3-300Q4-032 — E-03615 — result of the source…
 - [B-30](<../canon/internal-communications/ptkw/B-30 — Incident Report ICS-IR3 - PTKW Designation of ICS Written on a Wall.md>) Incident Report ICS-IR3 — Level 3 main corridor — the PTKW expansion…
+- [B-31](<../canon/internal-communications/ptkw/B-31 — K7 to K12 Floor B and the Ten Per Cent.md>) Floor B and the ten per cent
+- [B-32](<../canon/internal-communications/ptkw/B-32 — TOR9 on a Pre-Filled Results Page.md>) ICS-WA4 for E-02209 — Results page printed before the assessment
+- [B-33](<../canon/internal-communications/ptkw/B-33 — Facilitator to Femi Floor Too Good.md>) Re: Floor B Calibration — a further conversation
+- [B-34](<../canon/internal-communications/ptkw/B-34 — K12 Belonging Pulse Item 3 and What Comes After.md>) Belonging Pulse — Item 3 and what comes after
+- [B-35](<../canon/internal-communications/ptkw/B-35 — PTKW Staff Care Outcomes Summary.md>) PTKW staff — Q4 Care Outcomes summary
+- [B-36](<../canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md>) Perception Alignment — E-02209 — instruction and withdrawal
 - [ART_DIRECTION](<../design/ART_DIRECTION.md>) ICS: Interplanetary Corporate Solutions
 - [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS
 - [DEVICES](<../design/DEVICES.md>) Devices and addresses: where the mail lives, and how it is reached
 - [DIFFICULTY_ACCESSIBILITY](<../design/DIFFICULTY_ACCESSIBILITY.md>) ICS: Interplanetary Corporate Solutions
 - [DISCOVERY_SEQUENCE](<../design/DISCOVERY_SEQUENCE.md>) ICS: Interplanetary Corporate Solutions
+- [ENDINGS](<../design/ENDINGS.md>) ICS: Interplanetary Corporate Solutions
 - [ENVIRONMENTAL_STORYTELLING](<../design/ENVIRONMENTAL_STORYTELLING.md>) ICS: Interplanetary Corporate Solutions
 - [EOD_ENCOUNTERS](<../design/EOD_ENCOUNTERS.md>) ICS: Interplanetary Corporate Solutions
 - [FAILURE_LOOP](<../design/FAILURE_LOOP.md>) ICS: Interplanetary Corporate Solutions
@@ -542,8 +598,10 @@ These contain new material that stays proposal until the author rules. Listed so
 - [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions
 - [JOBS_AND_CAREER](<../design/JOBS_AND_CAREER.md>) ICS: Interplanetary Corporate Solutions
 - [LEVEL_BEAT_SHEETS](<../design/LEVEL_BEAT_SHEETS.md>) ICS: Interplanetary Corporate Solutions
+- [PLAN_SYSTEM](<../design/PLAN_SYSTEM.md>) ICS: Interplanetary Corporate Solutions
 - [PLAYER_GUIDANCE](<../design/PLAYER_GUIDANCE.md>) ICS: Interplanetary Corporate Solutions
 - [PRODUCTION_SCOPE](<../design/PRODUCTION_SCOPE.md>) ICS: Interplanetary Corporate Solutions
+- [PROGRESSION](<../design/PROGRESSION.md>) ICS: Interplanetary Corporate Solutions
 - [SOLCRED_ECONOMY](<../design/SOLCRED_ECONOMY.md>) ICS: Interplanetary Corporate Solutions
 - [SOLUTION_MATRIX](<../design/SOLUTION_MATRIX.md>) ICS: Interplanetary Corporate Solutions
 - [TENSION_CURVE](<../design/TENSION_CURVE.md>) ICS: Interplanetary Corporate Solutions
@@ -551,6 +609,8 @@ These contain new material that stays proposal until the author rules. Listed so
 - [TOOL_TUNING](<../design/TOOL_TUNING.md>) ICS: Interplanetary Corporate Solutions
 - [UI_MENUS](<../design/UI_MENUS.md>) ICS: Interplanetary Corporate Solutions
 - [VERBS](<../design/VERBS.md>) ICS: Interplanetary Corporate Solutions
+- [STORY](<../story/STORY.md>) ICS: Interplanetary Corporate Solutions
+- [The Review Room](<../story/scene-notes/The Review Room.md>) Scene Notes — The Review Room
 - [1.1 - Labor Source 312, Day Four](<../story/scenes/1.1 - Labor Source 312, Day Four.md>) 1.1 — Labor Source #312, Cycle 292, Day Four
 - [1.10](<../story/scenes/1.10 - Kai, The Folder, Day Three.md>) 1.10 — Kai, The Folder, Day Three
 - [1.11](<../story/scenes/1.11 - The Director, The Desk, Entry 37.md>) 1.11 — The Director, The Desk, Entry 37

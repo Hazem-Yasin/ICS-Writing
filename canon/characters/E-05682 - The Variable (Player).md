@@ -113,3 +113,8 @@ The game does not offer a happy ending. It offers a *true* one.
 
 ---
 
+**The Plan meter** [PROPOSAL]
+
+Kai is on the Settling-In clock. Nobody calls it that. Each time Kai leaves the desk, reads out of scope, or is seen with someone on a Step, the Branch writes a line they cannot read. At 30 they get a warm message from Sera (A-31). The game never shows the number. *→ See: design/PLAN_SYSTEM.md §6.*
+
+---

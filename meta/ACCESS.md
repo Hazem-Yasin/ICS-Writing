@@ -9,10 +9,10 @@ The access level of each file is read from its header (Status / Classification /
 | Section | Employee | Global | PTKW | Branch Director | Above Director | Board | Sealed | — |
 |---|---|---|---|---|---|---|---|---|
 | `canon/characters` | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 14 |
-| `canon/documents` | 0 | 2 | 17 | 1 | 0 | 12 | 1 | 18 |
+| `canon/documents` | 0 | 2 | 24 | 1 | 3 | 12 | 1 | 18 |
 | `canon/enemies` | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | `canon/facility` | 0 | 0 | 4 | 0 | 0 | 0 | 1 | 8 |
-| `canon/internal-communications` | 29 | 1 | 31 | 10 | 2 | 4 | 4 | 15 |
+| `canon/internal-communications` | 37 | 1 | 39 | 12 | 2 | 4 | 5 | 17 |
 | `canon/weapons` | 0 | 6 | 1 | 0 | 0 | 0 | 0 | 16 |
 
 ## Who can know about each thing
@@ -21,15 +21,15 @@ For each tracked entity, how many files at each level mention it. A thing that a
 
 | Entity | Employee | Global | PTKW | Branch Director | Above Director | Board | Sealed | — |
 |---|---|---|---|---|---|---|---|---|
-| EOD | 1 | 2 | 23 | 4 |  | 13 | 5 | 28 |
+| EOD | 1 | 2 | 24 | 4 | 2 | 13 | 6 | 28 |
 | ARM-27 |  |  | 4 |  |  | 9 | 3 | 3 |
-| EOD Research Team |  |  | 5 | 1 |  | 4 | 5 | 3 |
-| Earth Branch Manager |  |  | 9 | 1 |  | 5 | 5 | 4 |
-| Branch Director | 2 | 4 | 16 | 12 |  | 11 |  | 28 |
-| Brant |  |  | 5 | 9 |  | 2 |  | 4 |
-| K-7 | 5 | 2 | 15 | 5 |  | 1 |  | 12 |
-| Kai | 3 | 2 | 1 | 1 |  |  |  | 2 |
-| Tarek | 8 | 3 | 7 | 3 |  | 2 | 1 | 23 |
+| EOD Research Team |  |  | 9 | 1 | 2 | 4 | 6 | 3 |
+| Earth Branch Manager |  |  | 9 | 1 |  | 5 | 6 | 4 |
+| Branch Director | 2 | 4 | 17 | 14 |  | 11 |  | 29 |
+| Brant |  |  | 6 | 11 |  | 2 |  | 5 |
+| K-7 | 6 | 2 | 20 | 5 |  | 1 |  | 12 |
+| Kai | 5 | 2 | 2 | 1 |  |  |  | 3 |
+| Tarek | 11 | 3 | 7 | 3 |  | 2 | 1 | 23 |
 | Yaw | 3 |  | 2 | 3 |  |  |  | 3 |
 | Leif Aronsen |  |  | 1 |  |  | 1 | 3 | 3 |
 | Eirik Aronsen |  |  | 1 |  |  | 1 | 5 | 3 |
@@ -41,20 +41,20 @@ For each tracked entity, how many files at each level mention it. A thing that a
 | Deployment Order 287 |  |  | 2 |  |  | 7 | 2 | 1 |
 | Sudbury |  |  | 2 |  |  | 4 | 2 | 1 |
 | Hallvik |  |  | 2 |  |  | 3 | 3 | 3 |
-| Journey Completion Directorate |  |  | 1 |  | 1 |  | 2 | 1 |
+| Journey Completion Directorate |  |  | 3 |  | 1 |  | 3 | 1 |
 | Teshvar Consortium |  |  |  |  |  |  | 2 | 1 |
 | Labor Source #312 |  |  | 6 | 1 |  |  | 1 | 1 |
 | Labor Source #038 |  |  | 3 |  |  | 2 |  | 3 |
 | Sovereign Projection |  |  | 3 |  |  | 7 | 4 | 1 |
 | The Smile Study (Doc 2.49) |  |  |  |  |  |  | 5 | 3 |
 | Human Psychology Report (Doc 2.18) | 1 | 1 | 17 | 2 |  | 9 | 3 | 14 |
-| PTKW | 8 | 8 | 56 | 9 | 2 | 11 | 6 | 56 |
-| EIMU | 5 | 4 | 31 |  |  | 10 | 5 | 33 |
-| CCN | 14 | 3 | 11 | 4 |  | 2 |  | 21 |
+| PTKW | 10 | 8 | 71 | 9 | 4 | 11 | 6 | 56 |
+| EIMU | 6 | 4 | 33 |  | 1 | 10 | 5 | 33 |
+| CCN | 21 | 3 | 11 | 4 |  | 2 |  | 21 |
 | SMAC |  |  | 2 |  |  |  | 2 |  |
 | Milgram |  |  | 3 |  |  | 3 | 2 | 3 |
 | CRD-7 |  | 1 | 4 | 1 |  | 1 |  | 5 |
-| Resistance index |  | 1 | 18 | 3 | 2 | 9 | 2 | 11 |
+| Resistance index |  | 1 | 19 | 3 | 2 | 9 | 2 | 11 |
 
 ## Restricted names found below their level
 
@@ -95,7 +95,7 @@ None below the level.
 | [2.22](<../canon/documents/2.22 — Interplanetary Operations Manual.md>) | PTKW | 2 | line 149: - New recruit compensation uplift (+15% for first 90 days only; does not affect Schedule D) |
 | [2.25](<../canon/documents/2.25 — Planetary Case Files.md>) | PTKW | 2 | line 28: #094 reached Stage 4 (85% hire rate) in Cycle 214 — 53 cycles from first contact, the second-fastest Stage 4… |
 | [2.27](<../canon/documents/2.27 — Labor Source Profiles.md>) | PTKW | 5 | line 23: #001 produced extraordinary philosophical and ethical output. A species that experiences consequences collect… |
-| [2.40](<../canon/documents/2.40 — Asset Register and Termination Log.md>) | PTKW | 1 | line 88: Disposal method, all terminated E- series assets: Transition Event. The asset's generative output — cognitive… |
+| [2.40](<../canon/documents/2.40 — Asset Register and Termination Log.md>) | PTKW | 1 | line 94: Disposal method, all terminated E- series assets: Transition Event. The asset's generative output — cognitive… |
 | [2.43](<../canon/documents/2.43 — Stage 2 to 3 Transition.md>) | PTKW | 1 | line 51: - Materials processing and extraction — Several Earth nations have entered joint operations agreements with I… |
 | [Level 5](<../canon/facility/Level 5.md>) | PTKW | 2 | line 100: The CCN intercept team knows that they are reviewing employee communications for compliance flags. They do no… |
 | [Level 7](<../canon/facility/Level 7.md>) | PTKW | 4 | line 41: A departure request form is available at the transit scheduling desk reception. It is a real form. It is ICS-… |
@@ -106,7 +106,7 @@ No level stated, mentions it: [2.07](<../canon/documents/2.07 — Interplanetary
 
 ## In-world files that state no level
 
-60 files. Some are deliberately unclassified (Doc 2.39 says it has no level). The rest could be given one.
+62 files. Some are deliberately unclassified (Doc 2.39 says it has no level). The rest could be given one.
 
 - [2.01](<../canon/documents/2.01 — Labor Source ID 349 Earth Profile.md>) 2.1 Labor Source ID #349 — Earth Profile
 - [2.05](<../canon/documents/2.05 — Outsource the Stars Year 300 Ad.md>) 2.5 Outsource the Stars — Year 300 Celebration Ad
@@ -140,10 +140,12 @@ No level stated, mentions it: [2.07](<../canon/documents/2.07 — Interplanetary
 - [C-03](<../canon/internal-communications/branch-director/C-03 — Director to Brant After the Speech.md>) After the speech
 - [C-07](<../canon/internal-communications/branch-director/C-07 — HQ Directive Space Oddity Removal.md>) Directive EB-300-Q2-014 — Music Programme adjustment
 - [C-08](<../canon/internal-communications/branch-director/C-08 — Branch Director Private Notes.md>) no subject — personal notes found between pages of the operational log
+- [C-29](<../canon/internal-communications/branch-director/C-29 — Director Leadership Reflection Plan.md>) Leadership Reflection Plan
 - [01 — Akar — Design Philosophy](<../canon/internal-communications/design-team/01 — Akar — Design Philosophy.md>) Preliminary Design Philosophy — Earth Branch Facility
 - [02 — Vance — Arrival Corridor Brief](<../canon/internal-communications/design-team/02 — Vance — Arrival Corridor Brief.md>) RE: Level 1 arrival corridor — temperature and material brief
 - [03 — Akar — Default Mode Threat](<../canon/internal-communications/design-team/03 — Akar — Default Mode Threat.md>) The Default Mode Threat — design implications for social and leisure…
 - [05 — Castile — Restroom Design Rationale](<../canon/internal-communications/design-team/05 — Castile — Restroom Design Rationale.md>) Restroom and service area design rationale
+- [11 — Vance — The Wording on the Growth Plan Form](<../canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md>) The wording on the Growth Plan form
 - [B-11](<../canon/internal-communications/ptkw/B-11 — Intercept Thread — Yaw Kofi Email.md>) FWD: the Kofi email — look at the last paragraph
 - [B-12](<../canon/internal-communications/ptkw/B-12 — Intercept Thread — Tarek Wall Message.md>) FWD: Tarek's supply closet message — for the record
 - [B-13](<../canon/internal-communications/ptkw/B-13 — Intercept Thread — James Note to Himself.md>) FWD: the James note — the one about M

@@ -19,3 +19,10 @@ She does not submit anything again.
 
 ---
 
+**Under the Support Steps** [PROPOSAL]
+
+Sera is the Coordinator on Hana Park's plan (Document 2.52). She believes in it, which is why she was chosen: her trust index is 0.88. She writes the Check-In notes in her own words and signs a Results page that was printed before the meeting (Document 2.61). After Day 29 she is on a Step herself. She does not attend her Step 2.
+
+*→ See: A-31 — Sera to Kai. A-36 — Hana to Sera. A-37 — Sera, unsent, the night of Hana's Journey Completion.*
+
+---

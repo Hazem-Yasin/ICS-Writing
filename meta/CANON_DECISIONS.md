@@ -82,3 +82,21 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - **Deployment count:** nine before Earth, Earth the tenth (Doc 2.41, C-24). The old file said "deployed nine times". C-26 and Doc 2.51 call #312 the ninth deployment, which agrees. Only #038 (Docs 2.24, 2.25) and #312 (Docs 2.22, 2.27) are described anywhere; deployments 2 to 8 are listed as "not on file".
 - **Source contradictions, kept and flagged in the file:** Doc 2.24 says all ~400 #038 assets were transitioned, Doc 2.25 says the 40 Tier 8 leaders were and 360 dispersed (file follows 2.25); Day 21 weapons totals are 44 AIM-120D in C-23 and 42 in C-21's control-log line.
 - **New sections:** "How successful it was, until the Captain smiled" (scoring by event), the two fights told with actions, words, reasons and results, "The Branch Manager, and 'friend'" (C-26, C-25), and "The sunsetting" (C-24, C-25). The last two draw on sealed files; the Directorate/Level 7 plan is shown as an open decision, since no Research Team reply is on file.
+
+## Plan System, 2026-11-08 [PROPOSAL]
+
+*Source: `design/PLAN_SYSTEM.md`. The central lie is layered classification: the Step 5 outcome (Schedule D transition, called "Journey Completion") is set first; the Personal Growth Plan, probation or Support Step is the cover story; the real reason sits at a higher access tier.*
+
+- **New:** Docs 2.52-2.61; messages A-30 to A-37, B-31 to B-36, C-27 to C-30, design-team 10 to 12; `story/scene-notes/The Review Room.md`. Edits to Docs 2.20, 2.26, 2.29, 2.30 (new section 3.8), 2.33, 2.40 and 2.45, Level 2 Room 3, three character files and six design files; each carries its own `[PROPOSAL]` note.
+- **Femi Adeyemi** (E-02210) in A-07 and **"Ms. Adeyemi"** in A-28 are read as one person, Floor B's manager. Confirm.
+- **Journey Completion.** Step 5 shares its name with the C-24 Directorate on purpose (completing journeys is what the Directorate does). Confirm or rename.
+- **Doc 2.20 vs Docs 2.54 and 2.59.** 2.20 says managers advocate for advancement. The Contribution Distribution (ten per cent placed as Support Needed) and the Manager Evaluation Rubric are hidden from managers and PTKW-level. Both can be true to a manager; confirm that this is intended.
+- **Doc 2.30 "nothing on the record"** is true only for Steps 1 and 2. The PG1 (Doc 2.52) begins at Step 3.
+- **Probation.** Doc 2.20 gives none; Doc 2.57 adds a Settling-In period with an extension (Idris Kamau, E-05706, a new character).
+- **Doc 2.45** "three operational functions" already lists more; it now lists five with the Completion Credit.
+- **Doc 2.06 vs Doc 2.55.** The weekly check-in and the quarterly Belonging Pulse are two instruments.
+- **Whether the player reads Doc 2.60 (Perception Alignment Protocol)** or sees it only through A-37 and B-36.
+- **How far K-12 gets in B-34**, and **whether Sera reaches Step 3 on screen.** Both are held short.
+- **Tier 1 places number** in Doc 2.54/2.56 and **the printer-tray device** in Doc 2.52 are placeholders.
+- **Hana's Day 41 vs Day 42.** The board says 41; Hana recalls 42 (A-36, B-36). Intended: that is Perception Alignment.
+- **Sera's two true sentences** in the Review Room ("I was asked to have it. I don't know everything behind that.") are the author's to confirm.

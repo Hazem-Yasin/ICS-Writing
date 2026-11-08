@@ -20,3 +20,10 @@ His harvest readiness assessment, which has been at 67% since the video was made
 
 ---
 
+**Under the Calibration Round** [PROPOSAL]
+
+Marcus runs a team of 22. Twice a year the Round asks him to place a tenth of it in the bottom band (Document 2.54). He has never done it, and the form will not let him leave the box empty. He lists the fourteen he has the longest history with, and then he stops. His readiness is at 67% because the Round has not yet got what it wants from him. It will not have it from him in a number. It will have it as a sentence in a draft he cannot send.
+
+*→ See: A-32 — Marcus, Draft Fourteen. Document 2.54 — the target. Document 2.25, Case File #201 — the method.*
+
+---

@@ -4,6 +4,68 @@
 
 > **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` and `ICS-OS/` were deleted with the Godot project and the map is to be remade, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) (the sibling `ICS-Game` Unity project was deleted; 3D work now lives in the sibling `ICS-Models` repo); the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
 
+### Update 2026-11-08: the Plan System (layered classification) — read with the update below
+
+*Source of truth for this work: `design/PLAN_SYSTEM.md`. Everything here is `[PROPOSAL]`. Nothing is committed or pushed.*
+
+**The logic in one paragraph.** The author asked for real HR practice (PIP, action plan, progressive discipline, stack ranking, up-or-out, probation, engagement survey, gaslighting, constructive dismissal, quiet firing, employee monitoring) with *layered information classification as the central lie*. A human asset is already decided for Schedule D (called "Journey Completion"). The probation, PIP or "Personal Growth Plan" is only the cover story. The real reason sits at a higher access tier and is cruel but profitable: the worked case is Hana Park (E-02209), heartbroken after her manager Femi Adeyemi (E-02210) takes a Voluntary Transition; her grief raises her value as a harvest node, so the plan exists to keep her grieving and to stop her recovering. A plan that was completed would end the grief, so the plan is built not to be completable (goal-attainment capped at 80%).
+
+**The one rule.** The outcome is decided before the process. The file is made to support it afterwards (Evidence Alignment).
+
+**The five layers: what each can read**
+
+| Layer | Sees | Where it lives |
+|---|---|---|
+| Staff | A warm form, leaflet or conversation. No one says "plan", "PIP" or "dismissal" | The staff face of Docs 2.52, 2.55, 2.56, 2.57 (card), 2.58 (leaflet), 2.61; A-30 to A-37 |
+| PTKW | Support Steps 1-5 as a care procedure; reclassification wording; the ten per cent | Docs 2.53, 2.54 (Sections 4-6), 2.59 (full table), and the PTKW reverse or back of 2.52, 2.55, 2.56, 2.57, 2.58, 2.61; B-31 to B-36 |
+| Branch Director | Calibration, Tier Velocity, HQ routing | The Branch Director layer of Doc 2.52; C-27, C-28 |
+| Research Team (above Director) | Perception Alignment; the outcome field; whether EOD has a Step 5 | Doc 2.60 (ABOVE BRANCH DIRECTOR); C-30 (sealed, two readers) |
+| Board | What Step 5 is for (Schedule D, the harvest) | The Board layer of Docs 2.52, 2.54, 2.59, 2.61; C-29 (the Board read it on Day 16) |
+
+Most documents carry several layers on one sheet, each marked with its own `*[Access: ...]*` line, so the checker reads the highest level found.
+
+**Real concept → ICS name**
+
+| Real concept | ICS instrument |
+|---|---|
+| PIP / action plan | Personal Growth Plan, form ICS-PG1 (Doc 2.52) |
+| Progressive discipline | Support Steps 1–5 (Doc 2.53); Step 5 = "Journey Completion" |
+| Stack ranking | Contribution Distribution; Support Needed = 10% (Doc 2.54) |
+| Up-or-out | Tier Velocity Standard and the Soft Ceiling (Doc 2.56) |
+| Probation | Settling-In Period (Doc 2.57) |
+| Engagement survey | Belonging Pulse (Doc 2.55) |
+| Gaslighting | Perception Alignment (Doc 2.60) |
+| Constructive dismissal / quiet firing | Voluntary Transition Pathway (Doc 2.58); quiet reclassification (Doc 2.08) |
+| Employee monitoring | EIMU in soundproofed Room 3 (Level 2); WA4 Wellness Assessment (Doc 2.61) |
+
+**Hana timeline (used consistently):** Day 6 HQ outcome field set to COMPLETE (B-33) · Day 8 Contact 1 · Day 9 Femi's goodbye (A-30) · Day 10 Femi's Voluntary Transition · Day 11 Contact 2 · Day 12 PG1 issued · Day 36 WA4 Results page printed, pre-filled · Day 40 WA4 assessment · Day 41 closing conversation (board says 41, Hana recalls 42: A-36, B-36) · Day 58 Journey Completion (A-37). Kai: Step 1 scheduled Day 24 (A-31), conversation Day 30 (Review Room). Sera: Step 1 Day 29, Step 2 Day 43 not attended.
+
+**Created (LF)**
+- Design: `design/PLAN_SYSTEM.md`.
+- Documents: 2.52 Personal Growth Plan Form ICS-PG1 · 2.53 Support Steps Manual · 2.54 Contribution Distribution Guidance for Managers · 2.55 Belonging Pulse Survey and Analysis · 2.56 Tier Velocity Standard · 2.57 Settling-In Period Guidance for Line Managers · 2.58 Voluntary Transition Pathway · 2.59 Manager Evaluation Rubric · 2.60 Perception Alignment Protocol · 2.61 ICS Wellness Assessment Form ICS-WA4.
+- Employee messages: A-30 to A-37 (Femi, Sera, Marcus, Idris, Omar, Tarek, Hana, Sera unsent).
+- PTKW messages: B-31 to B-36.
+- Branch-director messages: C-27 to C-30.
+- Design-team memos: 10 (Akar, The Completion Rate), 11 (Vance, The Wording on the Growth Plan Form), 12 (Ohm, The Ten Per Cent and the Resistance Index).
+- Story: `story/scene-notes/The Review Room.md`.
+
+**Edited (each carries a `[PROPOSAL]` note or row)**
+- Canon documents: 2.20, 2.26, 2.29 (new terms "Support Steps / Personal Growth Plan" and "Belonging Pulse"), 2.30 (new §3.8), 2.33 (new Item 7), 2.40 (rows E-02209 and E-02210), 2.45 (new item 5, Completion Credit).
+- Facility: `canon/facility/Level 2.md` (Room 3). Characters: Marcus (E-02847), Sera (E-04788), The Variable (E-05682).
+- Design: `PROGRESSION.md` (hidden Plan meter), `JOBS_AND_CAREER.md` (Tier Velocity), `ENDINGS.md` (Plan flags), `UI_MENUS.md` (My Growth tab), `FAILURE_LOOP.md` (plan wording), `TIME_MODEL.md` (§1.5 rows for Days 4–58), `PRODUCTION_SCOPE.md` (61 documents).
+- Story: `STORY.md` (Interlude, The Review Room, before §V), `trailers.md` (open item 6).
+- Indexes and tooling: `README.md` (count now 61 documents, 2.1–2.61; every new file linked), `canon/internal-communications/README.md` (tree), `tools/build_master.py` (Part 2 label 2.01–2.61), `meta/CANON_DECISIONS.md` ("Plan System, 2026-11-08"). `meta/OPEN.md` is generated; the open questions live in `design/PLAN_SYSTEM.md` §9 and are collected by `build`.
+
+**Canon this touches, and how each was kept** (full table: `design/PLAN_SYSTEM.md` §8). Doc 2.30 §3.6–3.7 ("nothing on the record", "not a warning") holds for Steps 1–2 only; the PG1 begins at Step 3. Doc 2.20 managers-advocate stays true to a manager because the quota and rubric are hidden. Doc 2.21 Soft Ceiling: the Velocity Standard is the pretext. Doc 2.08: Tier 4 is a demotion, changes without announcement (tier direction unchanged: Tier 3 new, Tier 1 senior). Doc 2.25 Case File #201 is the model of a review that advances readiness. Step 5's name is the C-24 Directorate's on purpose.
+
+**New open rulings** (also in `meta/CANON_DECISIONS.md`): Femi of A-07 = "Ms. Adeyemi" of A-28? · Step 5 sharing the Directorate's name · hidden quota against Doc 2.20 · probation added in Doc 2.57 (Idris Kamau, E-05706, new character) · Doc 2.45 "three operational functions" now lists five · Doc 2.06 weekly check-in against the quarterly Pulse · does the player read Doc 2.60 or only A-37 and B-36 · how far K-12 gets in B-34 · whether Sera reaches Step 3 on screen · Tier 1 places number · the printer-tray device in Doc 2.52 · Sera's two true sentences in the Review Room.
+
+**Validation:** `python tools/ics.py build` → 305 files, 17 threads, 83 timed events; `python tools/ics.py check` → 0 new problems, 38 already known (the first run found one new mail-header problem in A-35, which was fixed by adding Subject and Date lines).
+
+**Notes for the next session.** The `ICS-OS/` folder is deleted and its map is to be remade: nothing in this work depends on it, and the My Growth tab (`design/UI_MENUS.md`) is a design note only. Line endings: new files are LF (normalised by `.gitattributes`); `README.md`, `canon/internal-communications/README.md` and this file are CRLF and were edited as bytes. Do not hand-edit the generated `meta/` files.
+
+---
+
 ### Update 2026-11-07: read this first
 
 *This section is newer than everything below it. Where it disagrees with an older note, this section governs.*

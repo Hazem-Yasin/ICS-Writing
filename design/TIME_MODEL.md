@@ -80,17 +80,28 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 3 | night | EOD enters via Level 7 → 10 → Board elevator | `canon/facility/Levels 11-14.md` |
 | 4 | morning | First appearance, Level 2 corridor | `canon/characters/EOD.md` |
 | 4 | 19:12 | Lior and Chidi talk about the man in the corridor with no badge **[PROPOSAL]** | `canon/internal-communications/employee/A-28` |
+| 4 | 20:15–20:52 | Omar drafts his Belonging Pulse answers **[PROPOSAL]** | `canon/internal-communications/employee/A-34` |
 | 5 | 08:55 / 09:42 / 10:05 / 12:10 | Lior's query to the Floor Liaison and the rude reply; K-7 asks the Manager, who writes to all PTKW to tread carefully **[PROPOSAL]** | `canon/internal-communications/ptkw/B-27`, `canon/internal-communications/ptkw/B-28` |
+| 5 | 16:20 | K-7 to K-12: Floor B and the ten per cent **[PROPOSAL]** | `canon/internal-communications/ptkw/B-31` |
 | 6 | 06:00 | Darius sees the reflection | `story/scene-notes/Earth View Window.md` |
 | 6 | 06:50 / 07:31 | The Manager forwards the old manual, minus its page, to K-7; K-7 sends it to all PTKW **[PROPOSAL]** | `canon/internal-communications/ptkw/B-28` |
+| 6 | 10:15 | Facilitator to Femi: Floor B is too good; the HQ outcome field for Hana Park (E-02209) is set to COMPLETE **[PROPOSAL]** | `canon/internal-communications/ptkw/B-33` |
+| 7 | 08:45 / 17:55 | Director to HQ on the calibration round and Tier Velocity; Marcus's fourteenth draft **[PROPOSAL]** | `canon/internal-communications/branch-director/C-27`, `canon/internal-communications/employee/A-32` |
 | 7–10 | — | Omar arc; AIDEN scene on Day 9 | `design/NPC_COMPANIONS.md` |
 | 8 | — | Marcus speaks to a PTKW officer | `design/DESIGN.md` |
+| 8 | 09:30 | HQ routes E-02210's Voluntary Transition to the Director **[PROPOSAL]** | `canon/internal-communications/branch-director/C-28` |
+| 9 | 21:40 | Femi writes to Hana (A-30), a goodbye **[PROPOSAL]** | `canon/internal-communications/employee/A-30` |
+| 10 | — | Femi Adeyemi (E-02210) takes the Voluntary Transition **[PROPOSAL]** | `design/PLAN_SYSTEM.md` |
 | 10 | end | EOD withdraws | derived (§1.3) |
+| 11–12 | — | Hana's second contact; Personal Growth Plan form ICS-PG1 issued on Day 12 **[PROPOSAL]** | `canon/documents/2.52` |
 | 14, 16, 18 | 18:30 | Tarek at the Level 4 break-room corner table | `design/NPC_COMPANIONS.md` |
+| 14 | 23:05 | K-12 on Belonging Pulse item 3 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-34` |
 | 15 | 23:00 | Stairwell B scene; return up Rania's hatch at 04:00 | `story/STORY.md` §II |
+| 15 | 22:10 | Branch Director's Leadership Reflection Plan **[PROPOSAL]** | `canon/internal-communications/branch-director/C-29` |
 | 16 | 00:20 | EOD's off-facility demonstration (Blue Harrow Team of the Harrow, Sudbury; Doc 2.47) **[PROPOSAL]** | `canon/internal-communications/branch-director/C-19` |
 | 17 | — | Sera at the PWRP terminal | `design/NPC_COMPANIONS.md` |
 | 18 | 03:09 | Gyrfalcon Wing incident (a four-aircraft flight; Doc 2.48): a pilot's radio contact with an unidentified presence, no casualties **[PROPOSAL]** | `canon/internal-communications/branch-director/C-20` |
+| 19 | 22:10 | Idris Kamau's Settling-In extension is on record; he thanks Kai for the tea **[PROPOSAL]** | `canon/internal-communications/employee/A-33` |
 | 20 | 21:10 | Host government issues the Wing its first standing weapons release **[PROPOSAL]** | `canon/internal-communications/branch-director/C-21` |
 | 21 | 02:44–03:41 | Open water off the coast: both alert flights (eight aircraft) engage EOD and ARM-27; 44 AIM-120D, 14 AIM-9X and ~2,200 rounds fired; no hits; eight pilots dead (Gyrfalcon Three at 03:03, Gyrfalcon Seven / Captain Eirik Aronsen at 03:34, the rest on the net by 03:41); seven aircraft landed, one of them empty; no wounds on file for six **[PROPOSAL]** | `canon/internal-communications/branch-director/C-21` |
 | 21 | 03:51–03:59 | Hallvik tower: EOD enters the cab, speaks plainly to Colonel Aronsen ("downsizing", "branch sunsetting") **[PROPOSAL]** | `canon/internal-communications/branch-director/C-22` |
@@ -100,21 +111,31 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 21 | 23:00 | Branch Director writes the speech | `design/DESIGN.md` |
 | 22 | 02:15 | Branch Manager's update: Sudbury, Day 16, with the survivor's transcript; Research Team replies 06:10 **[PROPOSAL]** | `canon/internal-communications/branch-director/C-19` |
 | 22 | 08:00 | Speech; Tarek stands | `design/DESIGN.md`, `canon/facility/Level 2.md` |
+| 24 | 09:12 | Sera schedules Kai's Step 1 **[PROPOSAL]** | `canon/internal-communications/employee/A-31` |
 | 24 | 11:05 | Branch Manager's Gyrfalcon Wing report; Research Team replies **[PROPOSAL]** | `canon/internal-communications/branch-director/C-20` |
 | 26 | 09:30 | Branch Manager's open water combat report; Research Team replies 14:15 **[PROPOSAL]** | `canon/internal-communications/branch-director/C-21` |
 | 26 | 11:20 | Branch Manager's Hallvik tower report; Research Team replies 14:15 **[PROPOSAL]** | `canon/internal-communications/branch-director/C-22` |
+| 26 | 11:00 | PTKW Care Outcomes summary for Q4 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-35` |
 | 28 | 14:00 | Branch Manager's Deployment 287 master summary; Research Team replies 19:15 **[PROPOSAL]** | `canon/internal-communications/branch-director/C-23` |
 | 28 | 18:50 | Research Team opens Doc 2.49, the sealed Study of Eirik's Smile (readers: Research Team, Earth Branch Manager, EOD; PTKW given a false account in Doc 2.18 Section 2.11). The debrief of EOD falls between Day 21, 16:20 and this time **[PROPOSAL]** | `canon/documents/2.49` |
 | 29 | 07:30 | Research Team to the Earth Branch Manager: the discussion of EOD sunsetting. Two readers; EOD excluded **[PROPOSAL]** | `canon/internal-communications/branch-director/C-24` |
+| 29 | — | Sera receives her own Step 1 **[PROPOSAL]** | `design/PLAN_SYSTEM.md` |
 | 30 | 06:15 | Earth Branch Manager's reply to C-24: argues for holding the order, prepares Level 7 as EOD's farewell floor, asks that EOD be told the attackers are real **[PROPOSAL]** | `canon/internal-communications/branch-director/C-25` |
+| 30 | — | Kai's Step 1 conversation with Sera, the Thursday after A-31 (Review Room) **[PROPOSAL]** | `story/scene-notes/The Review Room.md` |
 | 31 | — | Darius back at the window; Phase 5 Day 10 | `A-23`, `design/NPC_COMPANIONS.md` |
 | 31 | 21:05 | Chidi and Ruth, two assets, discuss the sheet they each read once and do not have; redacted on Day 33 **[PROPOSAL]** | `canon/internal-communications/employee/A-29` |
 | 32 | 16:47 | A human asset is heard saying "[Subjugator]" at his desk; a scan of the Doc 2.15 designation block is found in his drawer; PTKW Level 5 files the incident report at 19:05 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-26` |
 | 33 | 11:20 | PTKW investigation team redacts the Day 31 chat as evidence, with a cover note **[PROPOSAL]** | `canon/internal-communications/employee/A-29` |
+| 33 | 07:10 | Earth Branch Manager and Research Team: does EOD have a Step 5 **[PROPOSAL]** | `canon/internal-communications/branch-director/C-30` |
 | 34 | 18:20 | Investigation result for B-26: the page was cut by the Research Division; the source is not found; Oversight Unit direction **[PROPOSAL]** | `canon/internal-communications/ptkw/B-29` |
 | 35 | 23:50 → 36, 05:40 | "INFLATABLE CROWD SOLUTIONS" written on the Level 3 corridor wall; found by a night cleaner at 05:40; removed 06:48; report filed 14:30 on Day 36 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-30` |
+| 36 | — | Hana's WA4 Results page is printed, pre-filled **[PROPOSAL]** | `canon/documents/2.61` |
 | 37 | — | Tarek tries the Level 5 door | `design/NPC_COMPANIONS.md` |
+| 40 | — | Hana's Wellness Assessment (ICS-WA4) **[PROPOSAL]** | `canon/documents/2.61` |
+| 41 | 08:30 / 13:50 / 14:05 / 14:30 / 14:44 | Hana's closing conversation; TOR-9 on the pre-filled Results page; Hana asks Sera which day; the Oversight instruction on Perception Alignment and its withdrawal; Tarek's last notebook page **[PROPOSAL]** | `canon/internal-communications/ptkw/B-32`, `canon/internal-communications/employee/A-36`, `canon/internal-communications/ptkw/B-36`, `canon/internal-communications/employee/A-35` |
+| 43 | — | Sera's own Step 2 conversation, not attended **[PROPOSAL]** | `design/PLAN_SYSTEM.md` |
 | 44 | — | The cascade becomes self-sustaining | `design/DESIGN.md` |
+| 58 | 21:30 | Sera drafts a note about Hana's desk and does not send it; Hana's Journey Completion **[PROPOSAL]** | `canon/internal-communications/employee/A-37` |
 | 61 | 09:47 | Category Omega threshold crossed | `story/STORY.md` §V |
 | 61 | 10:00 | Branch Director notified | `story/STORY.md`, `story/scene-notes/Phase 6 Final 22 Hours.md` |
 | 61 | 14:00 | Release (logged as Event Code 7-C) | `story/scene-notes/Phase 6 Final 22 Hours.md` |
