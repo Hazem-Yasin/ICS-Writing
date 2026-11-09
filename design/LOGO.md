@@ -32,7 +32,7 @@
 | `ics-mark-small.svg` / `.png` (256 px) | Heavier strokes for **48 px and below**. |
 | `ics-lockup-horizontal.svg` / `.png`, `…-reversed.svg` | Mark and wordmark, side by side. Default for documents and screens. |
 | `ics-lockup-stacked.svg` / `.png` | Mark over wordmark. For badges and narrow spaces. |
-| `ics-emblem.svg` / `.png` (1600 px) | **The detailed seal.** See §2a. For certificates, plaques, the Welcome Screen, the ICS-OS About box, trailer title cards, large wall signage. |
+| `ics-emblem.svg` / `.png` (1600 px) | **The detailed seal.** See §2a. For certificates, plaques, the Welcome Screen, the ICS-OS About box, trailer title cards, large wall signage. **Redrawn 2026-11-08:** no ring and no arc; the Earth sits in the middle (see §2a). |
 | `ics-emblem-mono.svg` / `.png` | The seal in one colour: rubber stamp, embossing, fax. |
 | `ics-ring-only.svg` | The plain blue circle. See §6. |
 | `ics-arc-only.svg` | **Diagnostic.** Not a brand mark. Used for the fishhook reading in tests. |

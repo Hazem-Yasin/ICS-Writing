@@ -16,7 +16,7 @@ The name follows the Doc 2.32 and Doc 2.20 rule that every ICS surface sounds li
 - **PTKW name:** Hearth, with the CCN (Care & Connection Network) filter behind it. PTKW read it as the inbox of the intercept (Doc 2.21: CCN filters every message before delivery, and Protocol 7 holds flagged ones indefinitely).
 - **Tagline on the welcome screen:** *Because you're worth the investment.* (Doc 2.32's tagline, unchanged.)
 
-Alternatives if you do not like it: **Concord**, **Courier**, **Tether**. Changing it is one constant (SYSTEM_NAME in build_mail.py, in the ICS-OS folder) plus this document.
+Alternatives if you do not like it: **Concord**, **Courier**, **Tether**. Changing it is one constant (SYSTEM_NAME in build_mail.py, in the ICS-OS repo) plus this document.
 
 ### 2. What it is, in the fiction **[PROPOSAL]**
 
@@ -30,7 +30,7 @@ Hearth is the Branch's internal messaging system. Every ICS person on the Earth 
 | Design Team (series D) | The pre-opening archive, Cycles 287 to 299. |
 | Drafts | A message the sender never sent. Hearth keeps the draft. This is why the unsent letters in `employee/` exist at all. |
 
-The floor does not see this view. The viewer in `writing-map/` opens on a sign-in screen (section 7). Signed in as **All emails** it is the **author's master view**: it shows all of it at once, including what no single character could see. The in-game UI would show only the tier the player has reached. That is a later decision (see open rulings).
+The floor does not see this view. The viewer in the ICS-OS repo opens on a sign-in screen (section 7). Signed in as **All emails** it is the **author's master view**: it shows all of it at once, including what no single character could see. The in-game UI would show only the tier the player has reached. That is a later decision (see open rulings).
 
 ### 3. The look **[PROPOSAL]**
 
@@ -81,19 +81,16 @@ Hearth is a generated file. It is never edited by hand.
 canon/internal-communications/**/*.md   (the messages: the only source)
         │
         ▼
-python writing-map/build_map.py          (rebuilds writing_map.db, then calls ↓)
-        │
+python build_os.py  →  build_mail.py     (run in the ICS-OS repo, which sits next to
+        │                                 this one; reads each file for headers and body)
         ▼
-ICS-OS/build_os.py  →  build_mail.py     (reads messages and msg_dates from the DB,
-        │                                 re-reads each file for headers and body)
-        ▼
-ICS-OS/ics-os.html                       (one offline page; open it in a browser)
+ics-os.html                              (one offline page; open it in a browser)
 ```
 
-- **Automatic.** `build_map.py` calls build_os.py at the end of every run, so the git hook (`install_hook.py`), the watcher (`watch.py`) and the VS Code tasks described in the writing-map folder's README keep Hearth current. Tick **Auto-reload** in the Hearth window to follow the watcher (All files view only).
-- **Manual.** `python ICS-OS/build_os.py` rebuilds ICS-OS, Hearth included.
+The builder, the map and the page now live in their own repository, `Hazem-Yasin/ICS-OS` (see `ICS_OS.md` section 9). This repo holds the writing only. **[PROPOSAL]**
+
+- **Manual.** `python build_os.py` in the ICS-OS repo rebuilds ICS-OS, Hearth included. `python writing-map/build_map.py` there rebuilds the map and then the OS. There is no database dependency and no hook in this repo.
 - **A new message appears by itself** when its file is in `canon/internal-communications/` and has the house header (From, To, Subject, Date, Status). A new series letter needs one line in build_mail.py (SERIES).
-- **If the build fails,** the map still builds, and `build_map.py` prints a warning.
 
 **What the file header drives:**
 
@@ -192,8 +189,8 @@ EOD Research Team, Design Team, All access and All emails go beyond the five rol
 ---
 
 *→ See: design/ICS_OS.md — the operating system Hearth now runs in, the Director's retained copies, the Cloud Drive and Folio.*
-*→ See: the ICS-OS folder — build_mail.py (the message builder), os.js and os.css (the page).*
-*→ See: the README in the writing-map folder — the map, the watcher and the git hook that keep it current.*
+*→ See: the ICS-OS repo - build_mail.py (the message builder), os.js and os.css (the page).*
+*→ See: the README in the ICS-OS repo's writing-map folder - the map and the watcher.*
 *→ See: `canon/internal-communications/README.md` — the message index Hearth reads.*
 *→ See: Document 2.32 (Brand Identity — The Logo) — the colours, the mark and the tagline.*
 *→ See: Document 2.21 (Organizational Charter) — the Care & Connection Network and Protocol 7.*

@@ -298,12 +298,12 @@
 | [FAILURE_LOOP](<../design/FAILURE_LOOP.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 1440 | Failure in this game is a document. The player is never told "you died." They are told what the system has done with them: a status updated, an asset … |
 | [GATING_BACKTRACKING](<../design/GATING_BACKTRACKING.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 1599 | The game is a single building. The player can walk to almost anywhere they have a reason to. Gates are not walls; they are credentials, clocks and peo… |
 | [HEALTH_SURVIVAL](<../design/HEALTH_SURVIVAL.md>) | ICS: Interplanetary Corporate Solutions | — |  | 1688 | This document covers how the player takes damage, survives, and heals in ICS: Interplanetary Corporate Solutions. The system must be consistent with w… |
-| [HEARTH](<../design/HEARTH.md>) | ICS: Interplanetary Corporate Solutions | Global | proposal | 2869 | The in-world name, the design and the build notes for the messaging viewer. Hearth is both a piece of the game's fiction (the system the staff and PTK… |
-| [ICS_OS](<../design/ICS_OS.md>) | ICS: Interplanetary Corporate Solutions | PTKW | proposal | 2935 | The in-world operating system of the Earth Branch personal device and terminals, and the working page that shows it. ICS-OS boots, signs the player in… |
+| [HEARTH](<../design/HEARTH.md>) | ICS: Interplanetary Corporate Solutions | Global | proposal | 2851 | The in-world name, the design and the build notes for the messaging viewer. Hearth is both a piece of the game's fiction (the system the staff and PTK… |
+| [ICS_OS](<../design/ICS_OS.md>) | ICS: Interplanetary Corporate Solutions | PTKW | proposal | 3009 | The in-world operating system of the Earth Branch personal device and terminals, and the working page that shows it. ICS-OS boots, signs the player in… |
 | [INVENTORY](<../design/INVENTORY.md>) | ICS: Interplanetary Corporate Solutions | — |  | 1801 | The player's inventory is not a bag. It is a collection of things they have decided to carry through a facility that was not designed for them to be c… |
 | [JOBS_AND_CAREER](<../design/JOBS_AND_CAREER.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 1892 | What the player's job actually is, whether there is more than one, and how the ladder works. Everything marked Canon is already established and cited.… |
 | [LEVEL_BEAT_SHEETS](<../design/LEVEL_BEAT_SHEETS.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 12145 | A level file says what a place is. A beat sheet says what happens in it, in what order, and what the player is meant to feel when they leave. The faci… |
-| [LOGO](<../design/LOGO.md>) | The ICS Earth Branch Mark: Construction and Use | — | proposal | 1669 | Everything here is PROPOSAL except what is quoted from Document 2.32, which is canon. Source of truth for the canon: canon/documents/2.32 — Brand Iden… |
+| [LOGO](<../design/LOGO.md>) | The ICS Earth Branch Mark: Construction and Use | — | proposal | 1684 | Everything here is PROPOSAL except what is quoted from Document 2.32, which is canon. Source of truth for the canon: canon/documents/2.32 — Brand Iden… |
 | [NPC_COMPANIONS](<../design/NPC_COMPANIONS.md>) | ICS: Interplanetary Corporate Solutions | — |  | 5834 | This document covers how the three principal NPCs behave as dynamic characters in the game — not as quest-givers, not as followers, but as people the … |
 | [PLAN_SYSTEM](<../design/PLAN_SYSTEM.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 2199 | PROPOSAL The logic behind Documents 2.52–2.61 and the messages A-30 to A-37, B-31 to B-36, C-27 to C-30 and design-team 10 to 12. Every real-world HR … |
 | [PLAYER_GUIDANCE](<../design/PLAYER_GUIDANCE.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 1243 | The game has no quest marker, no task log and no glowing path. In Phase 6 that is canon: "no objective marker, no task log." This sheet decides how th… |
@@ -325,15 +325,15 @@
 | ID / name | Title | Access | Flags | Words | Summary |
 |---|---|---|---|---|---|
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | Canon Decisions | — | proposal | 2987 | For the author to rule on. Nothing here has been applied to canon. Defaults marked PROPOSAL are what the new scenes assumed, so a different ruling may… |
-| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | ICS: Interplanetary Corporate Solutions | — | proposal, encoding damage | 20170 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, sy… |
+| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | ICS: Interplanetary Corporate Solutions | — | proposal, encoding damage | 20216 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, sy… |
 | [STYLE_GUIDE](<../meta/STYLE_GUIDE.md>) | Style Guide | — | proposal | 441 | PROPOSAL One page. Drawn from story/STORY.md and the scenes in story/scenes/. The author may overrule any line. |
-| [TODO](<../meta/TODO.md>) | Todo | — | proposal | 1295 | Working list. Items from the author's brainstorm (pasted 2026-11-06) are marked brainstorm. Anything that adds canon is a PROPOSAL until the author ru… |
+| [TODO](<../meta/TODO.md>) | Todo | — | proposal | 1304 | Working list. Items from the author's brainstorm (pasted 2026-11-06) are marked brainstorm. Anything that adds canon is a PROPOSAL until the author ru… |
 
 ## reference
 
 | ID / name | Title | Access | Flags | Words | Summary |
 |---|---|---|---|---|---|
-| [ICS_Rigged_Sphere_MASTER_REFERENCE](<../reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md>) | Q2 compliance index — note on anomalous cluster | Sealed | proposal, encoding damage, snapshot | 456242 | One file holding everything written about the game. It replaces WORLD.md and ICS - Rigged Sphere.md, both of which were retired after a line-by-line c… |
+| [ICS_Rigged_Sphere_MASTER_REFERENCE](<../reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md>) | Q2 compliance index — note on anomalous cluster | Sealed | proposal, encoding damage, snapshot | 456433 | One file holding everything written about the game. It replaces WORLD.md and ICS - Rigged Sphere.md, both of which were retired after a line-by-line c… |
 | [appendix_a_recovered](<../reference/appendix_a_recovered.md>) | APPENDIX A - TEXT RECOVERED FROM THE RETIRED FILES | Board |  | 3840 | These passages existed only in WORLD.md and ICS - Rigged Sphere.md when those two files were retired. They are kept here verbatim (taken from the comp… |
 
 ## story

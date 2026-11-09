@@ -40,13 +40,13 @@ The Godot project was deleted and this repo holds writing only. The brainstorm n
 - [x] **C1. Choose the engine** (Godot or Unity) and where the game repo lives (separate from this one).
 - [x] **C2. Branch Manager office vertical slice:** walk, sit, use the terminal, enter "smiling-man", read mail. Tests the Hearth/ICS-OS design against a real screen.
 - [x] **C3. Multi-computer test room** using the device map from B8.
-- [x] **C4. Rebuild the mail viewer** from the canon files. The old build script lived in the deleted `ICS-OS/` and `writing-map/` folders. See D1.
+- [x] **C4. Rebuild the mail viewer** from the canon files. The builder now lives in the separate `ICS-OS` repo (2026-11-08). See D1.
 
 ## D. Carried over (earlier lists)
 
-- [ ] **D1. Remake the writing map** (and its update script), deferred by the author. The brainstorm assumes the map keeps the email system up to date; today nothing does.
+- [x] **D1. Remake the writing map.** Recovered into the `ICS-OS` repo as `writing-map/` and ported to this layout (2026-11-08). It is manual (no hook here), so the writing repo stays writing only.
 - [ ] **D2. Repo description and licence** (deferred).
-- [ ] **D3. Stale paths in `meta/HANDOFF_CARTOGRAPHER.md`** body (`writing/`, `writing-map/`, `ICS-OS/`, old baseline counts).
+- [ ] **D3. Stale paths in `meta/HANDOFF_CARTOGRAPHER.md`** body (`writing/`, old baseline counts; the `writing-map/` and `ICS-OS/` folders now live in the ICS-OS repo).
 - [ ] **D4. Rulings 1–11 in `meta/CANON_DECISIONS.md`**, plus Omar's tenure (3 vs 5 years), the Wellness Hub level, and whether Kai's quarters terminal can send anything.
 - [ ] **D5. Verify real-world claims** (Doc 2.18 Milgram, Doc 2.38 Perimeter, Barrett 2000, handoff Section E) once web tools work (`/login`).
 - [ ] **D6. Push approval** for the local commits (`ce482f3`, `6ddee4c`) and later work. Not given.

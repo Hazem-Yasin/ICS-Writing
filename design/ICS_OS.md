@@ -69,7 +69,7 @@ A file manager over the documents the signed-in account may open. A folder tree 
 | Brand and Communications | 2.31, 2.32, 2.34, 2.37 |
 | Outside the ICS System | 2.35, 2.39, 2.42 |
 
-A new document needs one line in the `DOCS` table in build_os.py (its tier and its folder). Until it has one it is left out of the drive, and the build does not say so; check the document count at sign-in.
+A new document needs one line in the `DOCS` table in build_os.py (its tier and its folder). Until it has one it is left out of the drive; the build now prints a warning naming it. Documents 2.52 to 2.62 mark their sheets with `*[Access: X]*` lines instead of the older marker patterns, so they use a `LAYERS` entry of `{"access": True, "default": …}`. Their closing `*[PROPOSAL]*` note is not shown in the document; the All files view shows it as "Writer's notes". **[PROPOSAL]**
 
 **No local save.** The drive has no Save, Save as, Download, Copy to this device, Print or Upload. Where a right-click menu would offer them, they are shown greyed out with the tip *Disabled by ICS Cloud policy*. Ctrl+S and Ctrl+P open a notice: *Files in ICS Cloud are kept in ICS Cloud only… so that every employee reads the current version.* Text in a document cannot be selected or copied, and the browser's print command prints a single line saying the file cannot be printed. (The All files view is exempt from the copy block, because it is the author's.) The *Last synced* time on every file is the file's modified time at the last build, so a document the author edits shows its new time on the next map run.
 
@@ -128,26 +128,23 @@ Other accounts see none of this. Staff and PTKW do not know the copies exist.
 
 ### 9. How it is built
 
+**Where it lives (2026-11-08 [PROPOSAL]).** ICS-OS is its own repository, `Hazem-Yasin/ICS-OS`, a sibling folder of this repo and not a folder inside it. It is linked to Vercel (project "ics.os"). It no longer needs the writing map or any database.
+
 ```
-canon/documents/*.md                    (documents: the only source)
+canon/documents/2.*.md                  (documents: the only source)
 canon/internal-communications/**/*.md   (messages: the only source)
         │
         ▼
-python writing-map/build_map.py           (rebuilds writing_map.db, then calls ↓)
-        │
+python build_os.py                        (run in the ICS-OS repo; reads this repo
+        │                                  directly, ../ICS-Writing or $ICS_WRITING)
         ▼
-ICS-OS/build_os.py                        (messages via build_mail.py, documents,
-        │                                  clearance tables, retained-copy data)
-        ▼
-ICS-OS/ics-os.html                        (one offline page; open it in a browser)
+ics-os.html                               (one offline page; open it in a browser)
 ```
 
 The page is assembled from os_template.html, os.css and os.js, which build_os.py inlines. Edit those, never the generated page.
 
-- **Automatic.** build_map.py calls build_os.py at the end of every run, so the git hook, the watcher and the VS Code tasks described in the writing-map folder's README keep ICS-OS current.
-- **Manual.** `python ICS-OS/build_os.py` rebuilds ICS-OS alone.
-- **If it fails,** the map still builds and prints a warning.
-- **Python standard library only.** Needs the map database to exist, so run the map once first.
+- **Manual only.** Rebuild with `python build_os.py` in the ICS-OS repo after the writing changes, then commit and push there. `tools/ics.py build` in this repo does not rebuild it. The old writing map (graph, timeline, canon rules, history) was recovered into the same repo as `writing-map/`; `python writing-map/build_map.py` rebuilds it and the OS together.
+- **Python standard library only.** No database. Build 2026-11-08: 119 messages, 62 documents.
 - **Checked.** The page was run in a headless browser for six accounts: boot, sign-in, desktop, opening each app, window minimise, maximise and close, the drive listing the right number of documents per account, the clearance gate on a Board document, the redaction blocks in the glossary (42 for a standard employee, 21 for PTKW, none for All access), Ctrl+S refused, and sign-out.
 
 ### 10. Limits **[PROPOSAL]**
@@ -178,8 +175,8 @@ The page is assembled from os_template.html, os.css and os.js, which build_os.py
 *Everything above that is not in the brief in section 1 is a proposal. The author's content is the brief, the canon documents and the messages; the operating system around them is mine.*
 
 *→ See: design/HEARTH.md — Hearth, now the mail app inside ICS-OS.*
-*→ See: the ICS-OS folder — build_os.py, build_mail.py, os_template.html, os.css and os.js.*
-*→ See: the README in the writing-map folder — the map, the watcher and the git hook that keep ICS-OS current.*
+*→ See: the ICS-OS repo - build_os.py, build_mail.py, os_template.html, os.css and os.js.*
+*→ See: the README in the ICS-OS repo's writing-map folder - the map and the watcher.*
 *→ See: Document 2.32 (Brand Identity — The Logo) — the colours, the mark and the tagline.*
 *→ See: Document 2.21 (Organizational Charter) — the Director's visibility, the CCN and the 30-day rule.*
 *→ See: Document 2.30 (Workplace Conduct and Facility Use Policy) — all personal-device communications pass through the relay.*

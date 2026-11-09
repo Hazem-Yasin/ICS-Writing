@@ -8,16 +8,15 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 |---|---|
 | Open-question sections | 27 (about 162 listed items) |
 | Inline TODO / TBD / “to be decided” lines | 7 |
-| Unchecked items in `meta/TODO.md` | 7 |
+| Unchecked items in `meta/TODO.md` | 6 |
 | Files carrying [PROPOSAL] material not yet ruled canon | 121 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
 **D. Carried over (earlier lists)**
 
-- D1. Remake the writing map (and its update script), deferred by the author. The brainstorm assumes the map keeps the email system up to date; today nothing does. *(line 47)*
 - D2. Repo description and licence (deferred). *(line 48)*
-- D3. Stale paths in `meta/HANDOFF_CARTOGRAPHER.md` body (`writing/`, `writing-map/`, `ICS-OS/`, old baseline counts). *(line 49)*
+- D3. Stale paths in `meta/HANDOFF_CARTOGRAPHER.md` body (`writing/`, old baseline counts; the `writing-map/` and `ICS-OS/` folders now live in the ICS-OS repo). *(line 49)*
 - D4. Rulings 1–11 in `meta/CANON_DECISIONS.md`, plus Omar's tenure (3 vs 5 years), the Wellness Hub level, and whether Kai's quarters terminal can send anything. *(line 50)*
 - D5. Verify real-world claims (Doc 2.18 Milgram, Doc 2.38 Perimeter, Barrett 2000, handoff Section E) once web tools work (`/login`). *(line 51)*
 - D6. Push approval for the local commits (`ce482f3`, `6ddee4c`) and later work. Not given. *(line 52)*
@@ -218,7 +217,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “9. Open rulings **[PROPOSAL]**”
 
-`design/HEARTH.md` line 179
+`design/HEARTH.md` line 176
 
 - **Name.** Hearth, or another (Concord, Courier, Tether)?
 - **Public and PTKW names.** Is the PTKW reading ("the CCN filter behind it") right, or should the CCN have its own name in the interface?
@@ -231,8 +230,8 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 - **The Research Team's reach.** It sees the series C files that name it (C-26) and the sealed files that list it (C-21, C-23, C-24, C-25). It does not see the Board files. Confirm.
 - **The extra roles.** Keep EOD Research Team and Design Team as sign-ins, or reduce the screen to the five you named plus All access?
 *→ See: design/ICS_OS.md — the operating system Hearth now runs in, the Director's retained copies, the Cloud Drive and Folio.*
-*→ See: the ICS-OS folder — build_mail.py (the message builder), os.js and os.css (the page).*
-*→ See: the README in the writing-map folder — the map, the watcher and the git hook that keep it current.*
+*→ See: the ICS-OS repo - build_mail.py (the message builder), os.js and os.css (the page).*
+*→ See: the README in the ICS-OS repo's writing-map folder - the map and the watcher.*
 *→ See: `canon/internal-communications/README.md` — the message index Hearth reads.*
 *→ See: Document 2.32 (Brand Identity — The Logo) — the colours, the mark and the tagline.*
 *→ See: Document 2.21 (Organizational Charter) — the Care & Connection Network and Protocol 7.*
@@ -241,7 +240,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “11. Open rulings **[PROPOSAL]**”
 
-`design/ICS_OS.md` line 163
+`design/ICS_OS.md` line 160
 
 - **Names.** ICS-OS, ICS Cloud Drive and Folio, or others?
 - **Staff and PTKW mail on the Director's machine.** I kept the Director able to read all Staff and PTKW mail except B-02 and B-25, as Hearth already did, and made it strange. Is that the right amount of strange?
@@ -255,8 +254,8 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 - **Mascots.** AIDEN, SOL, CLEO and VELO (Doc 2.31) could appear as a boot greeter or a help window. I left them out.
 *Everything above that is not in the brief in section 1 is a proposal. The author's content is the brief, the canon documents and the messages; the operating system around them is mine.*
 *→ See: design/HEARTH.md — Hearth, now the mail app inside ICS-OS.*
-*→ See: the ICS-OS folder — build_os.py, build_mail.py, os_template.html, os.css and os.js.*
-*→ See: the README in the writing-map folder — the map, the watcher and the git hook that keep ICS-OS current.*
+*→ See: the ICS-OS repo - build_os.py, build_mail.py, os_template.html, os.css and os.js.*
+*→ See: the README in the ICS-OS repo's writing-map folder - the map and the watcher.*
 *→ See: Document 2.32 (Brand Identity — The Logo) — the colours, the mark and the tagline.*
 *→ See: Document 2.21 (Organizational Charter) — the Director's visibility, the CCN and the 30-day rule.*
 *→ See: Document 2.30 (Workplace Conduct and Facility Use Policy) — all personal-device communications pass through the relay.*

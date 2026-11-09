@@ -380,11 +380,64 @@ def guilloche(r, amp, n, phase, col, w=0.8, op=0.22, steps=900):
     return '<polyline points="%s" fill="none" stroke="%s" stroke-width="%g" opacity="%g"/>' % (" ".join(pts), col, w, op)
 
 
+LAND = os.path.join(ROOT, "tools", "earth_land_110m.json")  # Natural Earth 110m land, public domain
+GLOBE_LON, GLOBE_LAT = 15.0, 18.0  # Africa and Europe face the viewer (Accra, Kai's home, is on the near side)
+
+
+def globe_land(cx, cy, r, lon0=GLOBE_LON, lat0=GLOBE_LAT):
+    """Land as one SVG path in orthographic projection. Points on the far side are pushed to the
+    limb so every polygon stays closed; the caller clips to the globe circle."""
+    import json
+    with open(LAND, encoding="utf-8") as f:
+        feats = json.load(f)["features"]
+    l0, p0 = math.radians(lon0), math.radians(lat0)
+    d = []
+    for ft in feats:
+        g = ft["geometry"]
+        polys = [g["coordinates"]] if g["type"] == "Polygon" else g["coordinates"]
+        for poly in polys:
+            for ring in poly:
+                pts, vis = [], False
+                for lon, lat in ring:
+                    la, lo = math.radians(lat), math.radians(lon) - l0
+                    x = math.cos(la) * math.sin(lo)
+                    y = math.cos(p0) * math.sin(la) - math.sin(p0) * math.cos(la) * math.cos(lo)
+                    z = math.sin(p0) * math.sin(la) + math.cos(p0) * math.cos(la) * math.cos(lo)
+                    if z >= 0:
+                        vis = True
+                    else:
+                        n = math.hypot(x, y) or 1.0
+                        x, y = x / n, y / n
+                    pts.append((cx + r * x, cy - r * y))
+                if vis:
+                    d.append("M" + "L".join("%.2f %.2f" % q for q in pts) + "Z")
+    return "".join(d)
+
+
+def title_ics(cx, cy, h, fill, halo, sw, halo_w):
+    """ICS across the middle, in the monoline glyphs, with a halo so it reads over land and sea."""
+    u = h / 100.0
+    gap = 16 * u
+    ws = [GLYPHS[c][1] * u for c in "ICS"]
+    x = cx - (sum(ws) + 2 * gap) / 2
+    out = []
+    for width, col in ((halo_w, halo), (sw, fill)):
+        out.append('<g fill="none" stroke="%s" stroke-width="%g" stroke-linecap="round" stroke-linejoin="round">' % (col, width))
+        xx = x
+        for c, w in zip("ICS", ws):
+            out.append('<path transform="translate(%.2f %.2f) scale(%.4f)" d="%s"/>' % (
+                xx, cy - h / 2, u, GLYPHS[c][0]))
+            xx += w + gap
+        out.append("</g>")
+    return "".join(out)
+
+
 def emblem(uid, mono=False):
     blue, gold, paper = BLUE, GOLD, PAPER
     o = []
     H, R_MID = 20, 172
-    top_txt, bot_txt = "ICS EARTH BRANCH", "BECAUSE YOU'RE WORTH THE INVESTMENT"
+    top_txt, bot_txt = "INTERPLANETARY CORPORATE", "SOLUTIONS"
+    GR = 112  # globe radius
 
     if not mono:
         o.append('<circle cx="200" cy="200" r="195" fill="none" stroke="%s" stroke-width="2.5"/>' % gold)
@@ -399,8 +452,8 @@ def emblem(uid, mono=False):
         o.append('<circle cx="200" cy="200" r="153" fill="none" stroke="%s" stroke-width="1.6"/>' % blue)
         txt_col, ink, tick_col = blue, blue, blue
 
-    t1, span_t = glyph_run(top_txt, 270, R_MID, H, 22, True, txt_col)
-    t2, span_b = glyph_run(bot_txt, 90, R_MID, H, 22, False, txt_col)
+    t1, span_t = glyph_run(top_txt, 270, R_MID, H, 8, True, txt_col, sw=9)
+    t2, span_b = glyph_run(bot_txt, 90, R_MID, H, 40, False, txt_col, sw=9)
     o += [t1, t2]
 
     # separators in the two gaps between the runs
@@ -411,10 +464,10 @@ def emblem(uid, mono=False):
             o.append('<circle cx="%.2f" cy="%.2f" r="%g" fill="%s"/>' % (
                 C + R_MID * math.cos(ang), C + R_MID * math.sin(ang), rad, ink if mono else gold))
 
-    # 349 ticks: 348 Labor Sources before Earth, and Earth. The last one, longer, sits where the arc ends.
+    # 349 ticks: 348 Labor Sources before Earth, and Earth. The last, longer, sits at the base under the globe.
     n = 349
     for i in range(n):
-        th = math.radians(110 + (i - (n - 1)) * 360.0 / n)
+        th = math.radians(90 + (i - (n - 1)) * 360.0 / n)
         last = i == n - 1
         r1, r2 = (136, 150) if last else (141, 148)
         col = (ink if mono else gold) if last else tick_col
@@ -422,24 +475,27 @@ def emblem(uid, mono=False):
             C + r1 * math.cos(th), C + r1 * math.sin(th), C + r2 * math.cos(th), C + r2 * math.sin(th),
             col, 1.6 if last else 0.7))
 
-    # guilloche, banknote style: each band is a family of thin curves r = mid + amp*sin(n*t + phase)
-    # with the phases spread evenly over one period, so the curves interleave into woven lace.
+    # a banknote weave in the ring between the globe and the ticks
     if not mono:
         def band(mid, amp, n, count, col, w, op):
             for k in range(count):
                 o.append(guilloche(mid, amp, n, 2 * math.pi * k / (n * count) * n, col, w=w, op=op, steps=1600))
-        band(125, 11, 40, 14, blue, 0.35, 0.40)     # outside the arc, under the ticks
-        band(125, 11, 40, 5, gold, 0.5, 0.55)       # a few gold threads in the same weave
-        band(86, 9, 30, 12, blue, 0.35, 0.34)       # between the arc and the ring
-        band(86, 9, 30, 4, gold, 0.5, 0.50)
-        band(30, 22, 11, 10, blue, 0.4, 0.40)       # the rosette inside the ring
-        band(30, 22, 11, 3, gold, 0.5, 0.60)
+        band(128, 5, 48, 10, blue, 0.35, 0.40)
+        band(128, 5, 48, 4, gold, 0.5, 0.55)
 
-    # the mark, scaled into the field
-    s = STD
-    ring_col, arc_col = (blue, blue) if mono else (blue, gold)
-    _, body = mark(uid, s, ring_col, arc_col)
-    o.append('<g transform="translate(200 200) scale(0.62) translate(-200 -200)">%s</g>' % body)
+    # the globe: Earth in orthographic projection, then the title across its middle
+    clip = "gl" + uid
+    o.append('<defs><clipPath id="%s"><circle cx="200" cy="200" r="%g"/></clipPath></defs>' % (clip, GR))
+    land = globe_land(200, 200, GR)
+    if not mono:
+        o.append('<circle cx="200" cy="200" r="%g" fill="%s"/>' % (GR, blue))
+        o.append('<path clip-path="url(#%s)" d="%s" fill="%s" stroke="%s" stroke-width="0.8" stroke-linejoin="round"/>' % (clip, land, paper, paper))
+        o.append('<circle cx="200" cy="200" r="%g" fill="none" stroke="%s" stroke-width="3"/>' % (GR + 2, gold))
+        o.append(title_ics(200, 200, 62, gold, blue, 13, 27))
+    else:
+        o.append('<circle cx="200" cy="200" r="%g" fill="none" stroke="%s" stroke-width="3"/>' % (GR, blue))
+        o.append('<path clip-path="url(#%s)" d="%s" fill="%s"/>' % (clip, land, blue))
+        o.append(title_ics(200, 200, 62, blue, "#ffffff", 13, 27))
     return (0, 0, 400, 400), "".join(o)
 
 

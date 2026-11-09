@@ -2,7 +2,7 @@
 
 ## Handoff: Archivist → Cartographer
 
-> **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` and `ICS-OS/` were deleted with the Godot project and the map is to be remade, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) (the sibling `ICS-Game` Unity project was deleted; 3D work now lives in the sibling `ICS-Models` repo); the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
+> **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` was deleted with the Godot project and the map is to be remade. `ICS-OS/` was restored on 2026-11-08 as its own repo, `Hazem-Yasin/ICS-OS`, a sibling folder (see `design/ICS_OS.md` section 9): it builds straight from `canon/` with `python build_os.py`, no database, 119 messages and 62 documents. For `writing-map/`, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) (the sibling `ICS-Game` Unity project was deleted; 3D work now lives in the sibling `ICS-Models` repo); the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
 
 ### Update 2026-11-08 (later): PTKW as the Branch's HR — the open door
 
@@ -78,7 +78,7 @@ Most documents carry several layers on one sheet, each marked with its own `*[Ac
 
 **Validation:** `python tools/ics.py build` → 305 files, 17 threads, 83 timed events; `python tools/ics.py check` → 0 new problems, 38 already known (the first run found one new mail-header problem in A-35, which was fixed by adding Subject and Date lines).
 
-**Notes for the next session.** The `ICS-OS/` folder is deleted and its map is to be remade: nothing in this work depends on it, and the My Growth tab (`design/UI_MENUS.md`) is a design note only. Line endings: new files are LF (normalised by `.gitattributes`); `README.md`, `canon/internal-communications/README.md` and this file are CRLF and were edited as bytes. Do not hand-edit the generated `meta/` files.
+**Notes for the next session.** The `writing-map/` folder is deleted and its map is to be remade; `ICS-OS` now lives in its own sibling repo and does not need the map. Nothing in this work depends on either, and the My Growth tab (`design/UI_MENUS.md`) is a design note only. Line endings: new files are LF (normalised by `.gitattributes`); `README.md`, `canon/internal-communications/README.md` and this file are CRLF and were edited as bytes. Do not hand-edit the generated `meta/` files.
 
 ---
 
