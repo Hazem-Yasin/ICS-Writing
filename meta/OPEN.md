@@ -9,7 +9,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 | Open-question sections | 27 (about 162 listed items) |
 | Inline TODO / TBD / “to be decided” lines | 7 |
 | Unchecked items in `meta/TODO.md` | 6 |
-| Files carrying [PROPOSAL] material not yet ruled canon | 121 |
+| Files carrying [PROPOSAL] material not yet ruled canon | 136 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
@@ -576,6 +576,10 @@ These contain new material that stays proposal until the author rules. Listed so
 - [C-28](<../canon/internal-communications/branch-director/C-28 — HQ to Director Routing E-02210 Voluntary Transition.md>) Routing — Voluntary Transition — E-02210 — disposition basis HQ
 - [C-29](<../canon/internal-communications/branch-director/C-29 — Director Leadership Reflection Plan.md>) Leadership Reflection Plan
 - [C-30](<../canon/internal-communications/branch-director/C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md>) Does the Support Steps process have a Step 5 for him
+- [C-31](<../canon/internal-communications/branch-director/C-31 — Earth Branch Manager to HQ The Window Corridor Conflict.md>) Level 4 window corridor: a conflict between assets, and a request for…
+- [C-32](<../canon/internal-communications/branch-director/C-32 — HQ to Earth Branch Manager On Scarcity and Attribution.md>) Re: Level 4 window corridor: a conflict between assets, and a request…
+- [C-33](<../canon/internal-communications/branch-director/C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md>) Level 4 window corridor: stage 4, request to authorise
+- [C-34](<../canon/internal-communications/branch-director/C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md>) Re: Level 4 window corridor: stage 4, request to authorise
 - [01 — Akar — Design Philosophy](<../canon/internal-communications/design-team/01 — Akar — Design Philosophy.md>) Preliminary Design Philosophy — Earth Branch Facility
 - [10 — Akar — The Completion Rate](<../canon/internal-communications/design-team/10 — Akar — The Completion Rate.md>) The completion rate
 - [11 — Vance — The Wording on the Growth Plan Form](<../canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md>) The wording on the Growth Plan form
@@ -592,6 +596,10 @@ These contain new material that stays proposal until the author rules. Listed so
 - [A-36](<../canon/internal-communications/employee/A-36 — Hana to Sera Which Day.md>) quick question about the closing conversation
 - [A-37](<../canon/internal-communications/employee/A-37 — Sera Unsent Hana Desk.md>) no subject
 - [A-38](<../canon/internal-communications/employee/A-38 — Noor to the Floor Liaison Three Questions.md>) A few questions, if that's all right
+- [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) RE: the window seat
+- [A-40](<../canon/internal-communications/employee/A-40 — Dev to Priya The Seats Are Here.md>) RE: RE: RE: RE: RE: RE: RE: the window seat
+- [A-41](<../canon/internal-communications/employee/A-41 — Priya to Dev I Went to the Liaison.md>) RE: RE: RE: RE: RE: RE: RE: RE: the window seat
+- [A-42](<../canon/internal-communications/employee/A-42 — Dev Unsent The Crumbs Were Not His.md>) RE: RE: RE: RE: RE: RE: RE: RE: RE: the window seat
 - [B-25](<../canon/internal-communications/ptkw/B-25 — HQ Host Force Monitoring Instruction.md>) Host force monitoring — two named formations — Earth Branch, standing…
 - [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) Incident Report ICS-IR3 — E-03615 — restricted designation spoken alo…
 - [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) as sent Question about the man in the corridor
@@ -605,6 +613,13 @@ These contain new material that stays proposal until the author rules. Listed so
 - [B-35](<../canon/internal-communications/ptkw/B-35 — PTKW Staff Care Outcomes Summary.md>) PTKW staff — Q4 Care Outcomes summary
 - [B-36](<../canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md>) Perception Alignment — E-02209 — instruction and withdrawal
 - [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) Second signature — E-03274, Comfortable Inquiry
+- [B-38](<../canon/internal-communications/ptkw/B-38 — All-Staff Broadcast Three New Seats at the Window.md>) You Asked. We Listened. Three New Seats at the Earth View Window
+- [B-39](<../canon/internal-communications/ptkw/B-39 — Manager to K-7 Fourteen Days at the Window.md>) Level 4 window corridor — fourteen days of observation
+- [B-40](<../canon/internal-communications/ptkw/B-40 — K-7 Fourteen-Day Window Report.md>) Level 4 window corridor — fourteen-day observation report
+- [B-41](<../canon/internal-communications/ptkw/B-41 — Manager to K-7 Four Closures.md>) Re: Level 4 window corridor — fourteen-day observation report
+- [B-42](<../canon/internal-communications/ptkw/B-42 — K-7 to Manager Four Closures Done.md>) Re: Level 4 window corridor — fourteen-day observation report
+- [B-43](<../canon/internal-communications/ptkw/B-43 — Mateus Held Note to His Sister.md>) Dinner
+- [B-44](<../canon/internal-communications/ptkw/B-44 — All-Staff Broadcast The Window Corridor Will Close.md>) An Important Update About the Earth View Window
 - [ART_DIRECTION](<../design/ART_DIRECTION.md>) ICS: Interplanetary Corporate Solutions
 - [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS
 - [DEVICES](<../design/DEVICES.md>) Devices and addresses: where the mail lives, and how it is reached

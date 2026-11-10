@@ -9,7 +9,7 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [0](#day-0) | 0 | 2 | 18 |
 | [1](#day-1) | 0 | 11 | 4 |
 | [2](#day-2) | 0 | 2 | 2 |
-| [3](#day-3) | 1 | 3 | 10 |
+| [3](#day-3) | 1 | 4 | 10 |
 | [4](#day-4) | 2 | 14 | 16 |
 | [5](#day-5) | 8 | 3 | 4 |
 | [6](#day-6) | 5 | 17 | 6 |
@@ -76,7 +76,7 @@ No time given: A-19, 1.4 - Sera, The Check-In
 |---|---|---|---|
 | 22:20 | [1.10](<../story/scenes/1.10 - Kai, The Folder, Day Three.md>) | 3 | Phase 1, Day 3, 22:20 Branch Time. Kai Osei's quarters. Kai's point of view. After the interrogation (story/STORY.md §I); before |
 
-No time given: EOD, Levels 11-14, C-25
+No time given: EOD, Levels 11-14, C-25, B-40
 
 ## Day 4
 

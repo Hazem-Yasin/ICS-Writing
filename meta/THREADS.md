@@ -4,7 +4,39 @@
 
 Messages grouped into conversations. A thread is found when files share a subject once Re:/Fwd: are removed, or share a tag in the subject (Deployment Order 287, E-03615, ICS-IR3-…). Anything the subjects do not reveal is listed by hand in `tools/threads.json`. A file holding several messages (B-28, C-26) counts as a thread by itself. Order is by id, which is not always date order: check the Date column.
 
-**18 threads. 85 messages stand alone** (see `meta/INDEX.md`).
+**19 threads. 84 messages stand alone** (see `meta/INDEX.md`).
+
+## The window corridor: the fight over the bench, HQ's plan, the closures, the closing
+
+*16 files, 25 messages. listed by hand in tools/threads.json.*
+
+| File | Date | From → To | Subject | Access |
+|---|---|---|---|---|
+| [A-08](<../canon/internal-communications/employee/A-08 — Dev to Priya Window Seat.md>) | — | E-03901 → E-03902 | RE: RE: RE: RE: RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 07:20 | E-04688 → E-03019 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 07:41 | E-03019 → E-04688; E-02208; E-04407 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 08:02 | E-04407 → E-03019; E-04688; E-02208 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 08:10 | E-02208 → E-04407; E-03019; E-04688 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 08:44 | E-04688 → E-02208; E-04407; E-03019 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 09:15 | E-04407 → E-03019; E-04688; E-02208 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 09:40 | E-03019 → E-04407; E-04688; E-02208 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 09:44 | E-04407 → E-03019; E-04688; E-02208 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 10:02 | E-04688 → E-04407; E-03019; E-02208 | RE: the window seat | Employee |
+| [A-39](<../canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md>) | Tue 10:30 | E-02208 → E-04407; E-04688; E-03019 | RE: the window seat | Employee |
+| [A-40](<../canon/internal-communications/employee/A-40 — Dev to Priya The Seats Are Here.md>) | Cycle 300 Q3 — Week 5, Monday, 13:48 | E-02208 → E-03019 | RE: RE: RE: RE: RE: RE: RE: the window seat | Employee |
+| [A-41](<../canon/internal-communications/employee/A-41 — Priya to Dev I Went to the Liaison.md>) | Cycle 300 Q3 — Week 9, Wednesday, 21:12 | E-03019 → E-02208 | RE: RE: RE: RE: RE: RE: RE: RE: the window seat | Employee |
+| [A-42](<../canon/internal-communications/employee/A-42 — Dev Unsent The Crumbs Were Not His.md>) | Cycle 300 Q3 — Week 9, Thursday, 06:48 | E-02208 → E-03019 | RE: RE: RE: RE: RE: RE: RE: RE: RE: the window seat | Employee |
+| [B-38](<../canon/internal-communications/ptkw/B-38 — All-Staff Broadcast Three New Seats at the Window.md>) | Cycle 300 Q3 — Week 4, Thursday, 08:00 | ICS Earth Branch — People & Culture Div… → All Staff — All Tiers | You Asked. We Listened. Three New Seats at the Earth View Window | Global |
+| [B-39](<../canon/internal-communications/ptkw/B-39 — Manager to K-7 Fourteen Days at the Window.md>) | Cycle 300 Q3 — Week 4, Tuesday, 17:40 | Earth Branch Manager → K-7 | Level 4 window corridor — fourteen days of observation | PTKW |
+| [B-40](<../canon/internal-communications/ptkw/B-40 — K-7 Fourteen-Day Window Report.md>) | Cycle 300 Q3 — Week 6, Friday, 16:15 | K-7 → Earth Branch Manager | Level 4 window corridor — fourteen-day observation report | PTKW |
+| [B-41](<../canon/internal-communications/ptkw/B-41 — Manager to K-7 Four Closures.md>) | Cycle 300 Q3 — Week 7, Monday, 07:05 | Earth Branch Manager → K-7 | Re: Level 4 window corridor — fourteen-day observation report | PTKW |
+| [B-42](<../canon/internal-communications/ptkw/B-42 — K-7 to Manager Four Closures Done.md>) | Cycle 300 Q3 — Week 9, Thursday, 19:30 | K-7 → Earth Branch Manager | Re: Level 4 window corridor — fourteen-day observation report | PTKW |
+| [B-43](<../canon/internal-communications/ptkw/B-43 — Mateus Held Note to His Sister.md>) | Cycle 300 Q3 — Week 9, Wednesday, 22:40 | E-04317 → his sister — external address, Earth si… | Dinner | PTKW |
+| [B-44](<../canon/internal-communications/ptkw/B-44 — All-Staff Broadcast The Window Corridor Will Close.md>) | Cycle 300 Q3 — Week 10, Tuesday, 08:00 | ICS Earth Branch — People & Culture Div… → All Staff — All Tiers | An Important Update About the Earth View Window | Global |
+| [C-31](<../canon/internal-communications/branch-director/C-31 — Earth Branch Manager to HQ The Window Corridor Conflict.md>) | Cycle 300 Q3 — Week 4, Tuesday, 11:10 | Earth Branch Manager → ICS Cluster Representative Brant / HQ O… | Level 4 window corridor: a conflict between assets, and a request for… | Branch Director |
+| [C-32](<../canon/internal-communications/branch-director/C-32 — HQ to Earth Branch Manager On Scarcity and Attribution.md>) | Cycle 300 Q3 — Week 4, Tuesday, 15:25 | ICS Cluster Representative Brant / HQ O… → Earth Branch Manager | Re: Level 4 window corridor: a conflict between assets, and a request… | Branch Director |
+| [C-33](<../canon/internal-communications/branch-director/C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md>) | Cycle 300 Q3 — Week 10, Monday, 09:20 | Earth Branch Manager → ICS Cluster Representative Brant / HQ O… | Level 4 window corridor: stage 4, request to authorise | Branch Director |
+| [C-34](<../canon/internal-communications/branch-director/C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md>) | Cycle 300 Q3 — Week 10, Monday, 14:05 | ICS Cluster Representative Brant / HQ O… → Earth Branch Manager | Re: Level 4 window corridor: stage 4, request to authorise | Branch Director |
 
 ## the canteen thing
 
@@ -195,25 +227,25 @@ Counts of messages by sender and recipient (the To line only).
 | 7 | Earth Branch Operations | ICS Interplanetary Research Division |
 | 6 | K-7 | K-12 |
 | 6 | K-12 | K-7 |
+| 5 | E-03019 | E-02208 |
 | 4 | Branch Director Maren Voss, ICS Earth B… | ICS Cluster Representative Brant / HQ O… |
+| 4 | E-02208 | E-03019 |
 | 4 | K-7 | TOR-9 |
+| 4 | K-7 | Earth Branch Manager |
 | 3 | ICS Cluster Representative Brant / HQ O… | Branch Director Maren Voss |
 | 3 | ICS Cluster Representative Brant / HQ O… | ICS Earth Branch |
+| 3 | E-03019 | Level 4 Data Processing) |
+| 3 | E-04688 | E-03019 |
+| 3 | E-04688 | Level 4 Data Processing) |
+| 3 | E-04688 | E-02208 |
+| 3 | E-04688 | E-04407 |
+| 3 | E-04407 | E-03019 |
+| 3 | E-04407 | E-04688 |
+| 3 | E-04407 | E-02208 |
 | 3 | K-7 | VAH-3 |
+| 3 | ICS Earth Branch — People & Culture Div… | All Staff — All Tiers |
+| 3 | Earth Branch Manager | K-7 |
+| 3 | Earth Branch Manager | Monitoring & Analysis) |
 | 2 | ICS Interplanetary Research Division | Earth Branch Operations |
-| 2 | T. Vance, Senior Environmental Design,… | Dr. Akar |
-| 2 | T. Vance, Senior Environmental Design,… | BES Working Group |
-| 2 | Dr. Selin Akar | Behavioral Analytics Division |
-| 2 | BES Architect Ohm | Lead Designer Akar |
-| 2 | Dr. Akar, Lead Designer, Behavioral Env… | BES Working Group |
-| 2 | E-03019 | E-02208 |
-| 2 | E-03019 | Level 4 Data Processing) |
-| 2 | E-03388 | inside the back cover of his personal n… |
-| 2 | PTKW Oversight Unit, Interplanetary HQ | PTKW Senior Operations |
-| 2 | PTKW Oversight Unit, Interplanetary HQ | Earth Branch Level 5 |
-| 2 | TOR-9 | K-7 |
-| 2 | TOR-9 | VAH-3 |
-| 2 | TOR-9 | PTKW Senior Conduct Officer |
-| 2 | PTKW Duty Officer, Level 5 | K-7 |
-| 2 | PTKW Duty Officer, Level 5 | TOR-9 |
-| 2 | K-7 | Earth Branch Manager |
+| 2 | Earth Branch Manager | ICS Cluster Representative Brant / HQ O… |
+| 2 | ICS Cluster Representative Brant / HQ O… | Earth Branch Manager |

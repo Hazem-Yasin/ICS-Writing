@@ -137,6 +137,21 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 | `canon/internal-communications/branch-director/C-28 — HQ to Director Routing E-02210 Voluntary Transition.md` | Day 8: HQ routes E-02210's Voluntary Transition. **[PROPOSAL]** |
 | `canon/internal-communications/branch-director/C-29 — Director Leadership Reflection Plan.md` | Day 15: the Director's Leadership Reflection Plan. **[PROPOSAL]** |
 | `canon/internal-communications/branch-director/C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md` | Day 33: Earth Branch Manager and Research Team, does EOD have a Step 5. **[PROPOSAL]** |
+| `canon/internal-communications/employee/A-39 — Level 4 Thread Whose Turn at the Window.md` | **Newest.** The window-seat chain (Cycle 300 Q3, Weeks 4 to 10, before the game days): four assets fight over the single bench at the Earth View Window. **[PROPOSAL]** |
+| `canon/internal-communications/branch-director/C-31 — Earth Branch Manager to HQ The Window Corridor Conflict.md` | The Manager forwards A-39 to HQ and asks for guidance; he would like to give them somewhere to sit. **[PROPOSAL]** |
+| `canon/internal-communications/branch-director/C-32 — HQ to Earth Branch Manager On Scarcity and Attribution.md` | HQ's four-stage plan: add three seats, observe for fourteen days, make each person's ritual the cause of damage, close. Cites Doc 2.18 §2.1 and §3.2. **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-38 — All-Staff Broadcast Three New Seats at the Window.md` | People & Culture announces the three tilt seats. Every sentence true. **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-39 — Manager to K-7 Fourteen Days at the Window.md` | The Manager orders a fourteen-day behavioural log of the corridor. **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-40 — K-7 Fourteen-Day Window Report.md` | K-7's report: six regular users and their rituals (a man who eats standing at 12:20 so his family at dinner sees him eat; a woman who sleeps at 13:00 in the tilt seat). **[PROPOSAL]** |
+| `canon/internal-communications/employee/A-40 — Dev to Priya The Seats Are Here.md` | The calm fortnight, from Dev's side. **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-41 — Manager to K-7 Four Closures.md` | The written order: crumbs on the standing man's spot twice, the tilt seat loosened twice, and nobody named. **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-42 — K-7 to Manager Four Closures Done.md` | K-7's execution report and what the corridor did with it. **[PROPOSAL]** |
+| `canon/internal-communications/employee/A-41 — Priya to Dev I Went to the Liaison.md` | Priya blames the two users and asks the Floor Liaison to move one. **[PROPOSAL]** |
+| `canon/internal-communications/employee/A-42 — Dev Unsent The Crumbs Were Not His.md` | Dev works out the crumbs cannot be his and does not send it (unsent draft). **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-43 — Mateus Held Note to His Sister.md` | The man's held note to his sister, read by K-7 and not forwarded. **[PROPOSAL]** |
+| `canon/internal-communications/branch-director/C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md` | The Manager asks to close the corridor, and for a date a quarter away. **[PROPOSAL]** |
+| `canon/internal-communications/branch-director/C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md` | HQ authorises, keeps the quarter-long date as a ninety-day dread (Doc 2.18 §2.1), and cuts the Manager's last sentence from the record. **[PROPOSAL]** |
+| `canon/internal-communications/ptkw/B-44 — All-Staff Broadcast The Window Corridor Will Close.md` | People & Culture announces the permanent closure, effective Cycle 301 Q1, citing misuse. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/10 — Akar — The Completion Rate.md` | The Completion Rate. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md` | The wording on the Growth Plan form. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/12 — Ohm — The Ten Per Cent and the Resistance Index.md` | The ten per cent and the Resistance Index. **[PROPOSAL]** |

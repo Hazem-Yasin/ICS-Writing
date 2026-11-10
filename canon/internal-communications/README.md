@@ -64,7 +64,11 @@ canon/internal-communications/
 │   ├── A-35 — Tarek Notebook Cakes.md
 │   ├── A-36 — Hana to Sera Which Day.md
 │   ├── A-37 — Sera Unsent Hana Desk.md
-│   └── A-38 — Noor to the Floor Liaison Three Questions.md
+│   ├── A-38 — Noor to the Floor Liaison Three Questions.md
+│   ├── A-39 — Level 4 Thread Whose Turn at the Window.md
+│   ├── A-40 — Dev to Priya The Seats Are Here.md
+│   ├── A-41 — Priya to Dev I Went to the Liaison.md
+│   └── A-42 — Dev Unsent The Crumbs Were Not His.md
 │
 ├── ptkw/                              ← PTKW and ICS alien staff internal
 │   ├── B-01 — K7 EIMU Anomaly Flag.md
@@ -103,7 +107,14 @@ canon/internal-communications/
 │   ├── B-34 — K12 Belonging Pulse Item 3 and What Comes After.md
 │   ├── B-35 — PTKW Staff Care Outcomes Summary.md
 │   ├── B-36 — Oversight Perception Alignment Instruction and Withdrawal.md
-│   └── B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md
+│   ├── B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md
+│   ├── B-38 — All-Staff Broadcast Three New Seats at the Window.md
+│   ├── B-39 — Manager to K-7 Fourteen Days at the Window.md
+│   ├── B-40 — K-7 Fourteen-Day Window Report.md
+│   ├── B-41 — Manager to K-7 Four Closures.md
+│   ├── B-42 — K-7 to Manager Four Closures Done.md
+│   ├── B-43 — Mateus Held Note to His Sister.md
+│   └── B-44 — All-Staff Broadcast The Window Corridor Will Close.md
 │
 └── branch-director/                   ← Branch Director and HQ correspondence
     ├── C-01 — Director to Brant Cluster Flag.md
@@ -135,7 +146,11 @@ canon/internal-communications/
     ├── C-27 — Director to HQ Calibration Round and Tier Velocity.md
     ├── C-28 — HQ to Director Routing E-02210 Voluntary Transition.md
     ├── C-29 — Director Leadership Reflection Plan.md
-    └── C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md
+    ├── C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md
+    ├── C-31 — Earth Branch Manager to HQ The Window Corridor Conflict.md
+    ├── C-32 — HQ to Earth Branch Manager On Scarcity and Attribution.md
+    ├── C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md
+    └── C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md
 ```
 
 ---

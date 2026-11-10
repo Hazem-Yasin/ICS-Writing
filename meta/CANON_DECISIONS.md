@@ -114,3 +114,21 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - **Noor Haddad (E-03274)** is a new placeholder asset. Name and number were checked against the canon; free.
 - **Doc 2.62 Board appendix reads Think and Wonder as two stages** (private, then spoken). A reading, not a ruling.
 - **Game numbers:** Stability Index above 0.8 for a Comfortable; "any two questions within 14 days"; the Plan meter +6 and +10.
+
+## The window corridor is closed by design: seats, crumbs, closure, 2026-11-09 [PROPOSAL]
+
+*Source: the author's brief. One bench at the Earth View Window; the staff fight over it; the Earth Branch Manager forwards the thread to HQ; HQ answers from the study of human psychology; the Manager sounds like a man fixing the problem, adds seats that are not enough, has PTKW watch, then has PTKW sabotage the room so that one named human seems to be the cause each time, and closes it permanently for "misuse".*
+
+- **New:** A-39 to A-42, B-38 to B-44, C-31 to C-34 (15 messages). Set in Cycle 300 Q3, Weeks 4 to 10, before the game's Q4 days, so no game day shows the corridor mid-sabotage.
+- **The mechanism (C-32):** relief (three tilt seats), observation (14 days), attribution (each ritual made the cause of damage), closure. Doc 2.18 §2.1 (loss aversion, endowment, loss anticipation) and §3.2 (social proof); Ross 1977 and Sherif 1954 are HQ's own additions and are not in Doc 2.18.
+- **The two humans framed:** E-04317 Mateus Ferreira (eats standing at 12:20 so that his family at dinner sees him eat; crumbs set on his spot) and E-03852 Zarina Ospanova (sleeps at 13:00 in the tilt seat; seat loosened twice). Both are new placeholder assets; names and numbers were checked against the repository and are free. Hyun-woo Baek E-04407, Adaeze Okonkwo E-04688 and Mateus's sister Ana are also new.
+- **Closure date.** The permanent closure takes effect on the first day of Cycle 301 Q1, after the game's horizon. `story/scene-notes/Earth View Window.md` and the Level 4 beat sheet keep the window and the bench in use throughout Q4, and the Q4 Darius thread (B-01, B-07, B-24, C-08, A-24) is untouched. HQ keeps the date as a ninety-day dread (C-34).
+- **Priya and Dev.** The chain follows A-17 (E-03019 and E-02208, Level 4 Data Processing). A-08 still gives Level 6 and E-03901 / E-03902; that contradiction is not resolved here (see below).
+- **Sincerity.** B-38 and B-39 are written so that the Manager means them. B-41 is where he signs the order anyway. That is the intended horror, and not a contradiction.
+- **Open: A-08.** A-08 says Level 6 Research, Anand and E-03901 / E-03902; A-17, A-20, A-23 and this chain say Level 4 Data Processing, Sharma and E-02208 / E-03019. Which is right? A-08 would need a header change for this chain to follow it.
+- **Open: one seat or a bench.** The scene notes call it a single bolted bench; A-08 reads as a personal seat. This chain treats it as the bench, as the brief asks, and A-08's "four years" claim stays as Priya's habit.
+- **Open: Facilities.** Tarek's crew does the cleaning and repairs without being told why. Whether Tarek (A-13, A-35) would suspect is left for the author. B-41 forbids anyone saying a name.
+- **Open: C-34 cuts a sentence from the thread record.** The sentence is the Manager's "They are not the ones who broke it." Does the Cartographer want the player to find the original (in C-33) or only the cut version?
+- **Open: tiers.** The chain gives no tier changes. Whether E-04317 or E-03852 are demoted by the Plan System is not set.
+- **Added references:** "Item OBS-3" (the tilt seat) and the 22:00 corridor sheet (A-42) are placeholders of mine.
+
