@@ -109,7 +109,14 @@ Layers are read by pattern. If a document changes the wording of its marker line
 
 ### 7a. Timeline **[PROPOSAL]**
 
-A viewer for story tracks, built on the Drive's two-pane layout. The left pane lists the tracks (EOD, Plan System, Darius and the window, Noor Haddad, SOLCRED, Tarek and the cleaners, PTKW intercepts, HQ and the Director, CRD-7). The right pane lists the entries of the chosen track, grouped by day and weekday (Day 0 is a Tuesday; `design/TIME_MODEL.md` 1.1), with the time, a one-line note and links that open the message in Hearth or the document in Folio. Q3 mail is grouped by its own Week and weekday; undated items sit in their own group.
+A viewer for story tracks, built on the Drive's two-pane layout.
+
+- **Left pane: a drop-down tree.** Each track (EOD, Plan System, Darius and the window, Noor Haddad, SOLCRED, Tarek and the cleaners, PTKW intercepts, HQ and the Director, CRD-7) opens on click to its sub tree: the entries in order, under day headings, each with its time and the message or document it points to.
+- **Right pane: the large view.** Choosing a track shows its entries grouped by day and weekday (Day 0 is a Tuesday; `design/TIME_MODEL.md` 1.1). Choosing a mail entry, in the tree or in the list, opens the message in this pane, the same page Hearth shows, with **Previous** and **Next** along the track (also the arrow keys, `j` and `k`) and **List** to go back. Documents open in Folio. Connected messages inside a message open in the same pane.
+- **All tracks.** A button in the toolbar lists every track with all of its entries in the large pane; clicking an entry opens it.
+- **Search.** The box in the toolbar (`/` focuses it) searches the entries of every track the account can open: the note, the day heading, and the message's code, subject, sender and text, or the document's number and title. Results are grouped by track. Entries that are withheld from the account are not searched, so a search cannot show what a placeholder hides.
+
+Q3 mail is grouped by its own Week and weekday; undated items sit in their own group.
 
 The source is `tools/timeline.json` in this repo, edited by hand; the OS build reads it, takes any date not given there from the message's own header, and reports a warning for any reference that does not exist. Where a message was sent on a different day from the event it describes (the Sudbury, Gyrfalcon and combat reports), the entry sits on the event day and says *message dated Day N*. Entries the account cannot open show as *Access restricted* rows; scene links and entries with no reference are shown only to the All files account, because scenes are not in the OS.
 
