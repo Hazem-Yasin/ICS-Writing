@@ -129,9 +129,12 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 33 | 11:20 | PTKW investigation team redacts the Day 31 chat as evidence, with a cover note **[PROPOSAL]** | `canon/internal-communications/employee/A-29` |
 | 33 | 07:10 | Earth Branch Manager and Research Team: does EOD have a Step 5 **[PROPOSAL]** | `canon/internal-communications/branch-director/C-30` |
 | 34 | 18:20 | Investigation result for B-26: the page was cut by the Research Division; the source is not found; Oversight Unit direction **[PROPOSAL]** | `canon/internal-communications/ptkw/B-29` |
+| 34 | 07:05 / 07:40 / 11:50 | The Manager finds EOD's pencil sheet on his desk on Level 13 and transcribes it (Doc 2.63); counts triggers a, b and c of C-24; gives the second decision the same day; the Team grants the PTKW message and the floor **[PROPOSAL]** | `canon/documents/2.63`, `canon/internal-communications/branch-director/C-35` |
+| 35 | 02:00 | Team's confirmation issues; Level 7 closes under the recertification pretext (three days to Day 38, 02:00) **[PROPOSAL]** | `canon/internal-communications/branch-director/C-35`, `C-25` |
 | 35 | 23:50 → 36, 05:40 | "INFLATABLE CROWD SOLUTIONS" written on the Level 3 corridor wall; found by a night cleaner at 05:40; removed 06:48; report filed 14:30 on Day 36 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-30` |
 | 36 | — | Hana's WA4 Results page is printed, pre-filled **[PROPOSAL]** | `canon/documents/2.61` |
 | 37 | — | Tarek tries the Level 5 door | `design/NPC_COMPANIONS.md` |
+| 38 | 01:40 / 02:00 → ~02:15 | Level 7 sealed from the north face at 01:40; the Manager's PTKW message to EOD at 01:52; the fourteen enter by the south seal at 02:00; EOD falls, carves a smile, takes the stance and breathes; the Manager says "The Branch holds. ICS thanks you." The scene stops before the end **[PROPOSAL]** | `story/scenes/1.14 - The Earth Branch Manager, Level 7, Day Thirty-Eight.md` |
 | 40 | — | Hana's Wellness Assessment (ICS-WA4) **[PROPOSAL]** | `canon/documents/2.61` |
 | 41 | 08:30 / 13:50 / 14:05 / 14:30 / 14:44 | Hana's closing conversation; TOR-9 on the pre-filled Results page; Hana asks Sera which day; the Oversight instruction on Perception Alignment and its withdrawal; Tarek's last notebook page **[PROPOSAL]** | `canon/internal-communications/ptkw/B-32`, `canon/internal-communications/employee/A-36`, `canon/internal-communications/ptkw/B-36`, `canon/internal-communications/employee/A-35` |
 | 43 | — | Sera's own Step 2 conversation, not attended **[PROPOSAL]** | `design/PLAN_SYSTEM.md` |

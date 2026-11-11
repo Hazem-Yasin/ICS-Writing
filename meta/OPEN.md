@@ -7,9 +7,9 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 | What | Count |
 |---|---|
 | Open-question sections | 27 (about 162 listed items) |
-| Inline TODO / TBD / “to be decided” lines | 7 |
+| Inline TODO / TBD / “to be decided” lines | 8 |
 | Unchecked items in `meta/TODO.md` | 6 |
-| Files carrying [PROPOSAL] material not yet ruled canon | 136 |
+| Files carrying [PROPOSAL] material not yet ruled canon | 139 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
@@ -361,7 +361,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 
 ### ICS: Interplanetary Corporate Solutions — “8. Open questions”
 
-`design/TIME_MODEL.md` line 273
+`design/TIME_MODEL.md` line 276
 
 - Is the Phase 2/3 ruling in §1.3 acceptable, or should `design/DESIGN.md` be relabeled "Phase 2: Days 4–10, Phase 3: Days 11–20" with Phase 2's cold state described as a lingering effect?
 - Do the 88 real minutes for Phase 6 feel right, or should the player get the choice at the start of Phase 6 (like a pacing setting under `design/DIFFICULTY_ACCESSIBILITY.md`)?
@@ -515,6 +515,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 | File | Line | Text |
 |---|---|---|
 | [2.33](<../canon/documents/2.33 — New Employee Onboarding Packet.md>) | 99 | Note: Stairwell C is closed between Levels 4 and 5 for scheduled maintenance. Estimated reopening: (to be confirmed). Use Stairwell A. |
+| [2.63](<../canon/documents/2.63 — The Study of Martyrdom.md>) | 56 | PROPOSAL New material, written to the author's brief. The Study of Martyrdom, the idea that EOD made it himself and wrote it by hand on paper so that he cannot… |
 | [C-19](<../canon/internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md>) | 93 | You humans are a strange kind of asset. You demand fear in order to be ruled, and the stronger the better. You fear what you do not understand, and you let it… |
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 48 | - 1.10: Kai can open his quarters terminal during confinement (STORY.md "Before It Begins" puts the folder there). design/DESIGN.md Phase 1 says the confined p… |
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 64 | - Mentions of "Inflatable Crowd Solutions" (TODO B3), each in a file whose access line allows it: |
@@ -560,6 +561,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [2.60](<../canon/documents/2.60 — Perception Alignment Protocol.md>) 2.60 Perception Alignment Protocol
 - [2.61](<../canon/documents/2.61 — ICS Wellness Assessment Form ICS-WA4.md>) 2.61 ICS Wellness Assessment — Form ICS-WA4 (Results)
 - [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions
+- [2.63](<../canon/documents/2.63 — The Study of Martyrdom.md>) 2.63 The Study of Martyrdom
 - [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) Category 4 — HQ Rapid Response Assets
 - [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division
 - [Level 2](<../canon/facility/Level 2.md>) Level 2 — Administration & Human Resources
@@ -580,6 +582,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [C-32](<../canon/internal-communications/branch-director/C-32 — HQ to Earth Branch Manager On Scarcity and Attribution.md>) Re: Level 4 window corridor: a conflict between assets, and a request…
 - [C-33](<../canon/internal-communications/branch-director/C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md>) Level 4 window corridor: stage 4, request to authorise
 - [C-34](<../canon/internal-communications/branch-director/C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md>) Re: Level 4 window corridor: stage 4, request to authorise
+- [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) The sheet in his quarters, and the second decision
 - [01 — Akar — Design Philosophy](<../canon/internal-communications/design-team/01 — Akar — Design Philosophy.md>) Preliminary Design Philosophy — Earth Branch Facility
 - [10 — Akar — The Completion Rate](<../canon/internal-communications/design-team/10 — Akar — The Completion Rate.md>) The completion rate
 - [11 — Vance — The Wording on the Growth Plan Form](<../canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md>) The wording on the Growth Plan form
@@ -653,6 +656,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [1.11](<../story/scenes/1.11 - The Director, The Desk, Entry 37.md>) 1.11 — The Director, The Desk, Entry 37
 - [1.12](<../story/scenes/1.12 - Level 3, Monday, A Fresh Start.md>) 1.12 — Level 3, Monday, A Fresh Start
 - [1.13](<../story/scenes/1.13 - K-7, Level 5, Forty Minutes.md>) 1.13 — K-7, Level 5, Forty Minutes
+- [1.14](<../story/scenes/1.14 - The Earth Branch Manager, Level 7, Day Thirty-Eight.md>) 1.14 — The Earth Branch Manager, Level 7, Day Thirty-Eight
 - [1.2 - Earth, Day Four, First Sight](<../story/scenes/1.2 - Earth, Day Four, First Sight.md>) 1.2 — Earth, Day Four, First Sight
 - [1.4 - Sera, The Check-In](<../story/scenes/1.4 - Sera, The Check-In.md>) 1.4 — Sera, The Check-In
 - [1.7 - James, Real Stories, Cycle 292](<../story/scenes/1.7 - James, Real Stories, Cycle 292.md>) 1.7 — James, Real Stories, Cycle 292

@@ -56,7 +56,7 @@ He said two things on purpose, at 03:33:53 and 03:33:57, and one thing not on pu
 
 The Research Division opened a sealed study on him (Document 2.49, "The Study of Eirik's Smile"). It is readable only by the EOD Research Team, the Earth Branch Manager and EOD. PTKW are told a different account. He is the only human the Division has studied by name, and the first crack the Division has recorded in the entire system.
 
-**Why was he smiling?** EOD told the Research Team that Eirik smiled while he was held and taken to the sea, looking at him. It is the only account of the smile. No camera held Eirik's face after the parachute was cut, and the pathologist reports no finding on expression. The game does not answer the question and does not show the face. The Research Team is asking it in 2.49, and so is the player.
+**Why was he smiling?** EOD told the Research Team that Eirik smiled while he was held and taken to the sea, looking at him. It is the only account of the smile. No camera held Eirik's face after the parachute was cut, and the pathologist reports no finding on expression. The game does not answer the question and does not show the face. The Research Team is asking it in 2.49, and so is the player. EOD's own reading of it, in pencil, is Document 2.63 (sealed); whether the player ever sees it is an open ruling (`meta/CANON_DECISIONS.md`).
 
 ---
 

@@ -28,7 +28,7 @@
 | Four endings | Four end states from one save | **Canon** — `design/ENDINGS.md` |
 | Ten inventory slots | A small, simple inventory system | **Canon** — `design/INVENTORY.md` |
 | One manual save, plus autosave | A simple save system | **Canon** — `design/SAVE_SYSTEM.md` |
-| 62 documents, hundreds of messages | A large in-engine text corpus | **Canon** — `canon/documents/`, `canon/internal-communications/` |
+| 63 documents, hundreds of messages | A large in-engine text corpus | **Canon** — `canon/documents/`, `canon/internal-communications/` |
 | No combat as a primary system | No combat animation, damage or ballistics | **Canon** — `canon/weapons/OVERVIEW.md` |
 | EOD cannot be beaten | One scripted threat, not a boss AI | **Canon** |
 | Omega-1: structured sweeps, full-spectrum detection | One patrol AI with a stronger perception model | **Canon** — `design/ENEMY_AI.md` |

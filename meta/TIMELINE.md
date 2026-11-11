@@ -9,7 +9,7 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [0](#day-0) | 0 | 2 | 18 |
 | [1](#day-1) | 0 | 11 | 4 |
 | [2](#day-2) | 0 | 2 | 2 |
-| [3](#day-3) | 1 | 4 | 10 |
+| [3](#day-3) | 1 | 5 | 10 |
 | [4](#day-4) | 2 | 14 | 16 |
 | [5](#day-5) | 8 | 3 | 4 |
 | [6](#day-6) | 5 | 17 | 6 |
@@ -27,22 +27,22 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [18](#day-18) | 3 | 38 | 2 |
 | [19](#day-19) | 2 | 0 | 0 |
 | [20](#day-20) | 2 | 5 | 3 |
-| [21](#day-21) | 6 | 76 | 39 |
-| [22](#day-22) | 2 | 13 | 22 |
+| [21](#day-21) | 6 | 77 | 39 |
+| [22](#day-22) | 2 | 14 | 22 |
 | [23](#day-23) | 0 | 2 | 0 |
 | [24](#day-24) | 3 | 5 | 0 |
 | [26](#day-26) | 4 | 7 | 0 |
 | [27](#day-27) | 0 | 1 | 0 |
 | [28](#day-28) | 3 | 7 | 0 |
-| [29](#day-29) | 1 | 6 | 1 |
+| [29](#day-29) | 1 | 7 | 1 |
 | [30](#day-30) | 1 | 4 | 0 |
 | [31](#day-31) | 5 | 4 | 5 |
 | [32](#day-32) | 2 | 5 | 2 |
-| [33](#day-33) | 6 | 3 | 1 |
-| [34](#day-34) | 2 | 1 | 0 |
-| [35](#day-35) | 0 | 9 | 0 |
+| [33](#day-33) | 6 | 4 | 1 |
+| [34](#day-34) | 8 | 1 | 0 |
+| [35](#day-35) | 1 | 13 | 0 |
 | [36](#day-36) | 2 | 8 | 1 |
-| [38](#day-38) | 2 | 2 | 2 |
+| [38](#day-38) | 5 | 2 | 3 |
 | [39](#day-39) | 0 | 1 | 0 |
 | [40](#day-40) | 0 | 9 | 1 |
 | [41](#day-41) | 7 | 14 | 1 |
@@ -76,7 +76,7 @@ No time given: A-19, 1.4 - Sera, The Check-In
 |---|---|---|---|
 | 22:20 | [1.10](<../story/scenes/1.10 - Kai, The Folder, Day Three.md>) | 3 | Phase 1, Day 3, 22:20 Branch Time. Kai Osei's quarters. Kai's point of view. After the interrogation (story/STORY.md §I); before |
 
-No time given: EOD, Levels 11-14, C-25, B-40
+No time given: EOD, Levels 11-14, C-25, B-40, 1.14
 
 ## Day 4
 
@@ -237,7 +237,7 @@ No time given: EOD, C-21 ×2, C-22 ×2
 | 21:40 | [C-18](<../canon/internal-communications/branch-director/C-18 — EOD Research Team - Deployment 287 Field Report Update Request.md>) | 20 | REPLY — Earth Branch Operations to EOD Research Team, sent Day 21, 21:40 |
 | 21:40 | [C-19](<../canon/internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md>) | 12 | This is an update to my reply of Day 21, 21:40 (C-18), in which I reported that the Branch had no record of where EOD went after he landed on Earth. |
 
-No time given: Captain Eirik Aronsen ×2, Colonel Leif Aronsen ×3, EOD ×9, Narrative Arc - Phases 0 through 6 ×3, 2.17, 2.18 ×3, 2.41, 2.48 ×2, 2.49 ×3, 2.51, PTKW-Security-Division, TV_SCREENS ×2, C-18 ×4, C-19 ×5, C-20 ×2, C-21 ×6, C-22 ×9, C-23 ×7, C-24 ×5, C-25 ×2, B-28, STORY ×3, 1.9 - Kai, The Atrium, Day Twenty-One
+No time given: Captain Eirik Aronsen ×2, Colonel Leif Aronsen ×3, EOD ×9, Narrative Arc - Phases 0 through 6 ×3, 2.17, 2.18 ×3, 2.41, 2.48 ×2, 2.49 ×3, 2.51, PTKW-Security-Division, TV_SCREENS ×2, C-18 ×4, C-19 ×5, C-20 ×2, C-21 ×6, C-22 ×9, C-23 ×7, C-24 ×5, C-25 ×2, B-28, STORY ×3, 1.14, 1.9 - Kai, The Atrium, Day Twenty-One
 
 ## Day 22
 
@@ -246,7 +246,7 @@ No time given: Captain Eirik Aronsen ×2, Colonel Leif Aronsen ×3, EOD ×9, Nar
 | 02:15 | [C-19](<../canon/internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md>) | 4 | mail sent: RE: Deployment Order 287 — update: where EOD was on Day 16, and the Blue Harrow survivor interview |
 | 06:10 | [C-19](<../canon/internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md>) | 125 | REPLY — EOD Research Team to Earth Branch Operations, sent Day 22, 06:10 |
 
-No time given: EOD ×2, 2.47 ×3, C-03, C-19 ×2, C-20 ×2, C-25, EXTENDED, STORY
+No time given: EOD ×2, 2.47 ×3, C-03, C-19 ×2, C-20 ×2, C-25, C-35, EXTENDED, STORY
 
 ## Day 23
 
@@ -293,7 +293,7 @@ No time given: EOD, 2.15, 2.18 ×2, C-21 ×2, C-24
 |---|---|---|---|
 | 07:30 | [C-24](<../canon/internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md>) | 4 | mail sent: The Discussion of EOD Sunsetting |
 
-No time given: E-04788 - Sera Vasquez, EOD, 2.61, C-24, A-37 ×2
+No time given: E-04788 - Sera Vasquez, EOD, 2.61, C-24, C-35, A-37 ×2
 
 ## Day 30
 
@@ -335,12 +335,18 @@ No time given: A-29, B-28, B-29, B-30 ×2
 | 12:30 | [C-30](<../canon/internal-communications/branch-director/C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md>) | 29 | Reply — Day 33, 12:30 |
 | 14:00 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 32 | E-03615 was interviewed formally on Day 33 at 14:00. He was asked who gave him the sheet. He gave no answer. He was asked whether he wished to say anything. He a |
 
-No time given: 2.61 ×2, B-29
+No time given: 2.61 ×2, C-35, B-29
 
 ## Day 34
 
 | Time | File | Line | What it says |
 |---|---|---|---|
+| 07:05 | [2.63](<../canon/documents/2.63 — The Study of Martyrdom.md>) | 3 | t in the Research Division's archive index. It was found on Day 34, 07:05, face up on the desk in EOD's quarters on Level 13, under nothing. The filing sheet lists two r… |
+| 07:05 | [2.63](<../canon/documents/2.63 — The Study of Martyrdom.md>) | 7 | Received Cycle 300 Q4, Day 34, 07:05 / Transcribed by the Earth Branch Manager, 07:40 |
+| 07:05 | [2.63](<../canon/documents/2.63 — The Study of Martyrdom.md>) | 56 | n/facility/Levels 11-14.md) and who found it (the Manager, Day 34, 07:05); the pencil, the paper and the Team's six findings. Open rulings: (1) canon/characters/Captain… |
+| 07:05 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 78 | ain reason alongside the others. Proposed: the dates (found Day 34, 07:05, in his quarters on Level 13; transcribed 07:40; the Team's reply 11:50); the second absence of… |
+| 07:40 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 4 | mail sent: The sheet in his quarters, and the second decision |
+| 11:50 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 62 | Reply — Day 34, 11:50 |
 | 18:20 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 5 | mail sent: Investigation file ICS-IR3-300Q4-032 — E-03615 — result of the source inquiry (status: open) |
 | 18:20 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 89 | sender (the Investigation Team that signed A-29); the date (Day 34, 18:20, after the Day 33 redaction and before the Day 35 review); the finding that the cropping matche… |
 
@@ -348,7 +354,11 @@ No time given: B-30
 
 ## Day 35
 
-No time given: EOD ×2, C-24 ×2, C-25 ×2, B-29, B-30 ×2
+| Time | File | Line | What it says |
+|---|---|---|---|
+| 02:00 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 68 | 1. The confirmation will issue on Day 35, 02:00. Level 7 closes at that hour. The hour of the engagement is Day 38, 02:00. The Directorate has been told. |
+
+No time given: EOD ×2, C-24 ×2, C-25 ×2, C-35 ×4, B-29, B-30 ×2
 
 ## Day 36
 
@@ -363,8 +373,11 @@ No time given: 2.61, A-37 ×3, B-30 ×2, B-32 ×2
 
 | Time | File | Line | What it says |
 |---|---|---|---|
+| 01:40 | [1.14](<../story/scenes/1.14 - The Earth Branch Manager, Level 7, Day Thirty-Eight.md>) | 3 | Cycle 300 Q4, Day 38, 01:40 to about 02:15 Branch Time. PROPOSAL The Earth Branch Manager, first person past, written into his own file |
 | 02:00 | [EOD](<../canon/characters/EOD.md>) | 134 | ix items of the Team's section 5: Level 7, the whole floor; Day 38 at 02:00; a floor-wide pressure-seal recertification as the pretext; no asset losses planned; thirty-o… |
 | 02:00 | [C-25](<../canon/internal-communications/branch-director/C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting.md>) | 66 | 2. The hour and the pretext. Day 38, 02:00 Branch Time, after the Day 35 review and not before it. Level 7 is closed from the hour of the Team's confirm |
+| 02:00 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 43 | of C-25 stand as I set them out: Level 7, the whole floor; Day 38, 02:00; the recertification pretext; no asset losses; thirty-one days to repair, nineteen of them for t… |
+| 02:00 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 68 | Level 7 closes at that hour. The hour of the engagement is Day 38, 02:00. The Directorate has been told. |
 
 No time given: A-29, B-30
 

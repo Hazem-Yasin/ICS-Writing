@@ -12,7 +12,7 @@ canon/      What is true in the world. Source of truth for lore.
   internal-communications/   (A employee, B PTKW, C Branch Director, D design team)
 story/      What the player experiences, written as prose.
   STORY.md  EXTENDED.md  trailers.md
-  scenes/ (new scenes, 1.1-1.13)  scene-notes/  trailers/
+  scenes/ (new scenes, 1.1-1.14)  scene-notes/  trailers/
 design/     How the game works: systems, pacing, production. Mostly [PROPOSAL].
 meta/       How we work: STYLE_GUIDE, CANON_DECISIONS, HANDOFF_CARTOGRAPHER.
 reference/  Generated snapshot of the whole corpus. Read-only.
@@ -32,11 +32,11 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 
 | File | Contents |
 |---|---|
-| `canon/documents/` | **The canon.** All 62 in-world documents (2.1–2.62), one file each, including the Glossary (2.29). The source of truth for lore, access tiers, and cross-references. The two old compiled files (WORLD and ICS - Rigged Sphere) were retired; their unique text lives in the master reference below. |
+| `canon/documents/` | **The canon.** All 63 in-world documents (2.1–2.63), one file each, including the Glossary (2.29). The source of truth for lore, access tiers, and cross-references. The two old compiled files (WORLD and ICS - Rigged Sphere) were retired; their unique text lives in the master reference below. |
 | `reference/` | **Master reference (generated snapshot).** One large read-only file with the writing files verbatim, plus Appendix A (Game Overview, the earlier Doc 2.32 version, recovered variants). It duplicates the other files and will drift; don't edit it. The script that regenerated it was in the retired writing map. |
 | [`design/DESIGN.md`](design/DESIGN.md) | **The blueprint.** Characters, narrative arc (Phases 0–6), scene notes, and Document 2.41 (EOD's perspective). This is where the game lives. |
 | [`story/STORY.md`](story/STORY.md) | **The story itself.** Six scenes written as experienced narrative: the interrogation, what happened in the atrium on Day 21, the Level 0 descent and Section 7, Tarek standing up, Maren Voss in the final hours, and the ending. |
-| [`story/scenes/`](story/scenes/) | **New scenes.** Thirteen short scenes that sit in the gaps of the canon: EOD at Labor Source #312 and on Earth, Omar, Sera, Tarek, Yusra, James, Kai's shift, the atrium and the folder, the Director's Entry 37, a Monday coffee queue, and K-7's forty minutes. All [PROPOSAL]. |
+| [`story/scenes/`](story/scenes/) | **New scenes.** Fourteen short scenes that sit in the gaps of the canon: EOD at Labor Source #312 and on Earth, Omar, Sera, Tarek, Yusra, James, Kai's shift, the atrium and the folder, the Director's Entry 37, a Monday coffee queue, K-7's forty minutes, and the Manager on Level 7 on Day 38. All [PROPOSAL]. |
 | [`meta/STYLE_GUIDE.md`](meta/STYLE_GUIDE.md) | **One-page style guide.** Voice, motifs to keep, tics to retire, canon rules for scenes. |
 | [`meta/CANON_DECISIONS.md`](meta/CANON_DECISIONS.md) | **Rulings for the author.** The real contradictions with proposed defaults, and a triage of the [PROPOSAL] material. |
 | [`story/scene-notes/The Review Room.md`](story/scene-notes/The Review Room.md) | **Scene note.** The Step 1 conversation in Level 2 Room 3: a good tea, a clock two minutes fast, and a fact the player can only see from outside. **[PROPOSAL]** |
@@ -152,6 +152,7 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 | `canon/internal-communications/branch-director/C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md` | The Manager asks to close the corridor, and for a date a quarter away. **[PROPOSAL]** |
 | `canon/internal-communications/branch-director/C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md` | HQ authorises, keeps the quarter-long date as a ninety-day dread (Doc 2.18 §2.1), and cuts the Manager's last sentence from the record. **[PROPOSAL]** |
 | `canon/internal-communications/ptkw/B-44 — All-Staff Broadcast The Window Corridor Will Close.md` | People & Culture announces the permanent closure, effective Cycle 301 Q1, citing misuse. **[PROPOSAL]** |
+| `canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md` | **Newest.** Day 34: the Manager finds the sheet (Doc 2.63), counts three of the five triggers in C-24, and gives the second decision the same day without argument. The Team grants the message and the floor, and files the sheet as 2.63. Sealed, as C-24/25/30. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/10 — Akar — The Completion Rate.md` | The Completion Rate. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md` | The wording on the Growth Plan form. **[PROPOSAL]** |
 | `canon/internal-communications/design-team/12 — Ohm — The Ten Per Cent and the Resistance Index.md` | The ten per cent and the Resistance Index. **[PROPOSAL]** |
@@ -177,6 +178,7 @@ This is one git repository. Every file keeps its path, so links and the lookup t
 | `canon/documents/2.60 — Perception Alignment Protocol.md` | **Above Branch Director access.** The protocol that adjusts a person's memory of dates and conversations. **[PROPOSAL]** |
 | `canon/documents/2.61 — ICS Wellness Assessment Form ICS-WA4.md` | **Staff and PTKW layers.** The assessment form whose Results page is printed before the assessment is held. **[PROPOSAL]** |
 | `canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md` | **Global, PTKW and Board layers.** The leaflet *Ask a Colleague*, the Floor Liaison's ladder and two-officer rule, and why the invitation to ask is a detector for comfortable colleagues. **[PROPOSAL]** |
+| `canon/documents/2.63 — The Study of Martyrdom.md` | **Sealed.** One leaf of ruled paper, written in pencil, left face up on the desk in EOD's quarters on Day 34: his own account of the study of martyrdom he made on a second absence, with the martial-arts hall, the word's Greek root (*witness*), and his reading of the smile. Two readers: the Research Team and the Earth Branch Manager. **[PROPOSAL]** |
 | `canon/characters/Colonel Leif Aronsen.md` | **The Wing's commander.** History, the night his wife died, the rules he keeps with his son, and Day 21 in the tower cab. Evidence only; the player never meets him. **[PROPOSAL]** |
 | `canon/characters/Captain Eirik Aronsen.md` | **The commander's son,** call sign Tern, Gyrfalcon Seven. History, the apron, the kitchen timer, and what the game does and does not know about his last transmissions, including his message to humans. **[PROPOSAL]** |
 | `canon/characters/K-7 - PTKW Monitoring and Analysis Team Leader.md` | **The PTKW analyst who notices.** Profile built only from what he does in B-01, B-05, B-10, B-22 and B-28; his workstation is the second-largest mail source in the game. Five open rulings (pronouns, Level 5 or 8, device name, password, rank). **[PROPOSAL]** |

@@ -132,3 +132,17 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - **Open: tiers.** The chain gives no tier changes. Whether E-04317 or E-03852 are demoted by the Plan System is not set.
 - **Added references:** "Item OBS-3" (the tilt seat) and the 22:00 corridor sheet (A-42) are placeholders of mine.
 
+## EOD's study of martyrdom, the sheet, and the last stand, 2026-11-11 [PROPOSAL]
+
+*Source: the author's brief. On a second trip to Earth after his defeat, EOD studied martyrdom, including how martial artists accept the lethality of a fight and proceed, and understood why Captain Aronsen smiled. He wrote it by hand on paper so that he could not be traced. The note is what triggers the sunsetting. On Level 7 he falls, understands that he has lost, gets up with a broken face, carves a smile into it, takes a stance the Directorate does not know and breathes in it, and the breath means struggle.*
+
+- **New:** Doc 2.63 (The Study of Martyrdom, the sheet and the Team's six findings); C-35 (Day 34: the Manager finds the sheet, counts triggers a, b and c, gives the second decision; the Team grants the message and the floor); scene 1.14 (Level 7, Day 38).
+- **Edits:** `canon/characters/EOD.md` (the sunsetting section no longer says the decision is open; the Captain's file now points to 2.63); `design/TIME_MODEL.md` (Days 34, 35, 38); `README.md`, `canon/internal-communications/README.md`, `design/PRODUCTION_SCOPE.md`, `tools/build_master.py` (63 documents, 2.1-2.63; scenes 1.1-1.14); `tools/threads.json` (new thread).
+- **The sheet is a trigger.** C-24 lists five triggers. The sheet meets (a) the sentence in paraphrase, (b) a state of his own ("amazed") and (c) the smile. It does not meet (d). The Team's reply does not say whether a sheet counts as saying something "to anyone, on any channel". The Manager reads it as a channel and does not argue.
+- **The second absence (Days 22 to 28).** Nothing in canon places him between the 14:30 return on Day 21 and the log that C-24 starts on Day 29. C-35 uses that gap as the second trip to Earth. C-23 and C-24 do not mention it.
+- **Open: the Captain's file.** `Captain Eirik Aronsen.md` says "the game does not answer the question and does not show the face". 2.63 gives EOD's reading in his own words. Is the player ever shown the sheet? It is sealed with a two-reader list, as 2.49.
+- **Open: EOD's face.** No file says whether it is made or grown. Scene 1.14 has it break like something made, and says the Manager knew for eight cycles. `EOD.md` says only that he looks human enough.
+- **Open: does he breathe.** Scene 1.14 has him breathe on purpose, in the rhythm of the straining breath on Gyrfalcon Seven's net in C-21. Whether he breathes at other times is not stated.
+- **Open: the martial-arts hall.** 2.63 names no art, no country and no teacher. Does the author want a named one?
+- **Open: the Directorate stands off.** 1.14 has the fourteen hold for nine seconds while he is down and while he takes the stance. Nothing in C-24 describes their doctrine.
+- **Open: where it ends.** 1.14 stops before the end. EOD.md and Doc 2.40 say he is not entered as having completed his journey.

@@ -18,9 +18,9 @@ You (or Claude) want to know something. Start here, then open the file named.
 
 ## Current numbers
 
-- 325 files indexed; 2031 links between them.
-- 19 mail threads; 89 timed events on the timeline.
-- 27 open-question sections, 7 inline markers, 6 unchecked to-do items.
+- 328 files indexed; 2071 links between them.
+- 19 mail threads; 99 timed events on the timeline.
+- 27 open-question sections, 8 inline markers, 6 unchecked to-do items.
 - 4 tracked facts have more than one value (see FACTS.md).
 - Canon checker: 0 new problem(s), 38 already known.
 

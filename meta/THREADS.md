@@ -4,7 +4,7 @@
 
 Messages grouped into conversations. A thread is found when files share a subject once Re:/Fwd: are removed, or share a tag in the subject (Deployment Order 287, E-03615, ICS-IR3-…). Anything the subjects do not reveal is listed by hand in `tools/threads.json`. A file holding several messages (B-28, C-26) counts as a thread by itself. Order is by id, which is not always date order: check the Date column.
 
-**19 threads. 84 messages stand alone** (see `meta/INDEX.md`).
+**19 threads. 83 messages stand alone** (see `meta/INDEX.md`).
 
 ## The window corridor: the fight over the bench, HQ's plan, the closures, the closing
 
@@ -209,14 +209,16 @@ Messages grouped into conversations. A thread is found when files share a subjec
 | [C-22](<../canon/internal-communications/branch-director/C-22 — EOD Research Team - Deployment 287 Field Report Update - Team Gyrfalcon Senior Officer - Hallvik Tower Conversation Report.md>) | Cycle 300 Q4 — Day 26, 11:20 | Earth Branch Operations → ICS Interplanetary Research Division | RE: Deployment Order 287 — Hallvik tower report | Board |
 | [C-23](<../canon/internal-communications/branch-director/C-23 — EOD Research Team - Deployment 287 Field Report Update - Master Summary.md>) | Cycle 300 Q4 — Day 28, 14:00 | Earth Branch Operations → ICS Interplanetary Research Division | Deployment Order 287 — EOD, Labor Source #349 — field report summary,… | Sealed |
 
-## The Discussion of EOD Sunsetting
+## The EOD sunsetting: the request, the Manager's reply, Step 5, the sheet
 
-*2 files, 2 messages. matched by subject or tag.*
+*4 files, 4 messages. listed by hand in tools/threads.json.*
 
 | File | Date | From → To | Subject | Access |
 |---|---|---|---|---|
 | [C-24](<../canon/internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md>) | Cycle 300 Q4 — Day 29, 07:30 | ICS Interplanetary Research Division → Earth Branch Operations | The Discussion of EOD Sunsetting | Sealed |
 | [C-25](<../canon/internal-communications/branch-director/C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting.md>) | Cycle 300 Q4 — Day 30, 06:15 | Earth Branch Operations → ICS Interplanetary Research Division | RE: The Discussion of EOD Sunsetting | Sealed |
+| [C-30](<../canon/internal-communications/branch-director/C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md>) | Cycle 300 Q4 — Day 33, 07:10 | Earth Branch Operations → ICS Interplanetary Research Division | Does the Support Steps process have a Step 5 for him | Sealed |
+| [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | Cycle 300 Q4 — Day 34, 07:40 | Earth Branch Operations → ICS Interplanetary Research Division | The sheet in his quarters, and the second decision | Sealed |
 
 ## Who writes to whom
 
@@ -224,7 +226,7 @@ Counts of messages by sender and recipient (the To line only).
 
 | Messages | From | To |
 |---|---|---|
-| 7 | Earth Branch Operations | ICS Interplanetary Research Division |
+| 8 | Earth Branch Operations | ICS Interplanetary Research Division |
 | 6 | K-7 | K-12 |
 | 6 | K-12 | K-7 |
 | 5 | E-03019 | E-02208 |
