@@ -1,0 +1,183 @@
+{
+  "_about": "Source for the Timeline app in ICS-OS (build_os.py reads and validates this file). A track is an ordered list of items; the file order is the display order. Item keys: refs (message codes such as C-24, document numbers such as 2.49, or scene:1.14), text (one line, optional), day (event day on the Cycle 300 Q4 calendar, Day 0 = Tuesday; optional), time (HH:MM, optional), when (a group heading that overrides everything else, e.g. Background). Anything not given is taken from the first message in refs: its Day, clock, or Week and weekday. Messages sent on a different day from the event show 'sent Day N' on their chip. An item with no refs, or with scenes only, is shown to the all-files account only. All of this is [PROPOSAL] unless the source file says otherwise.",
+  "tracks": [
+    {
+      "id": "eod",
+      "label": "EOD",
+      "blurb": "From his first arrival to the last stand on Level 7.",
+      "items": [
+        {"when": "Background", "refs": ["2.15", "2.41", "2.51", "B-25"]},
+        {"when": "Cycle 292 \u00b7 Labor Source #312 \u00b7 Day 4", "refs": ["C-26", "scene:1.1"], "text": "The first arrival of EOD, seen from the Manager's earlier posting."},
+        {"day": 4, "refs": ["scene:1.2"], "text": "First appearance, Level 2 corridor."},
+        {"day": 4, "refs": ["A-28"], "text": "Lior and Chidi talk about the man in the corridor with no badge."},
+        {"day": 5, "refs": ["B-27"], "text": "A query to the Floor Liaison about the man in the corridor, and the reply."},
+        {"day": 5, "time": "10:05", "refs": ["B-28"], "text": "K-7 asks the Manager, who writes to all PTKW to tread carefully."},
+        {"day": 6, "time": "06:50", "refs": ["B-28", "scene:1.13"], "text": "The Manager forwards the old manual, minus its page, to K-7; K-7 sends it to all PTKW at 07:31."},
+        {"day": 10, "text": "EOD withdraws (derived; TIME_MODEL 1.3)."},
+        {"day": 16, "time": "00:20", "refs": ["C-19", "2.47"], "text": "The off-facility demonstration: Blue Harrow Team of the Harrow, Sudbury."},
+        {"day": 18, "time": "03:09", "refs": ["C-20", "2.48"], "text": "Gyrfalcon Wing incident: a four-aircraft flight, a radio contact with an unidentified presence, no casualties."},
+        {"day": 21, "time": "02:44", "refs": ["C-21"], "text": "Open water off the coast: both alert flights engage EOD and ARM-27. Eight pilots dead, no hits (to 03:41)."},
+        {"day": 21, "time": "03:51", "refs": ["C-22"], "text": "Hallvik tower: EOD enters the cab and speaks plainly to Colonel Aronsen (to 03:59)."},
+        {"day": 21, "time": "08:17", "refs": ["scene:1.9"], "text": "The atrium act."},
+        {"day": 21, "refs": ["C-18"], "text": "The Research Team requests the field report; the Branch replies at 21:40 that it cannot place him for the ten days."},
+        {"day": 28, "refs": ["C-23"], "text": "The Deployment 287 master summary."},
+        {"day": 28, "time": "18:50", "refs": ["2.49"], "text": "The sealed Study of Eirik's Smile."},
+        {"day": 29, "refs": ["C-24"], "text": "The discussion of EOD sunsetting. Two readers; EOD excluded."},
+        {"day": 30, "refs": ["C-25"], "text": "The Manager argues for holding the order and prepares Level 7 as a farewell floor."},
+        {"day": 31, "refs": ["A-29"], "text": "Chidi and Ruth discuss the sheet they each read once and do not have."},
+        {"day": 32, "time": "16:47", "refs": ["B-26"], "text": "A human asset says \"[Subjugator]\" at his desk; a scan of the Doc 2.15 designation block is found in his drawer. Report filed 19:05."},
+        {"day": 33, "refs": ["C-30"], "text": "Does EOD have a Step 5?"},
+        {"day": 33, "time": "11:20", "refs": ["A-29"], "text": "The PTKW investigation team redacts the Day 31 chat as evidence."},
+        {"day": 34, "time": "07:05", "refs": ["2.63", "C-35"], "text": "The Manager finds EOD's pencil sheet and transcribes it; counts triggers a, b and c of C-24; gives the second decision (07:40). The Team grants the floor (11:50)."},
+        {"day": 34, "refs": ["B-29"], "text": "Result of the B-26 investigation: the page was cut by the Research Division."},
+        {"day": 35, "time": "02:00", "refs": ["C-35"], "text": "The Team's confirmation issues; Level 7 closes under the recertification pretext."},
+        {"day": 35, "time": "23:50", "refs": ["B-30"], "text": "\"INFLATABLE CROWD SOLUTIONS\" is written on the Level 3 corridor wall; found 05:40 on Day 36."},
+        {"day": 38, "time": "01:40", "refs": ["scene:1.14"], "text": "Level 7 sealed. The fourteen enter at 02:00. The scene stops before the end."}
+      ]
+    },
+    {
+      "id": "plan",
+      "label": "Plan System",
+      "blurb": "Hana Park, Femi Adeyemi and the Personal Growth Plan.",
+      "items": [
+        {"when": "Background", "refs": ["A-07", "2.52", "2.53", "2.54", "2.55", "2.56", "2.57", "2.58", "2.59", "2.60"]},
+        {"day": 5, "refs": ["B-31"], "text": "K-7 to K-12: Floor B and the ten per cent."},
+        {"day": 6, "refs": ["B-33"], "text": "Floor B is too good; the HQ outcome field for Hana Park (E-02209) is set to COMPLETE."},
+        {"day": 7, "refs": ["C-27"], "text": "The Director to HQ on the calibration round and Tier Velocity."},
+        {"day": 7, "refs": ["A-32"], "text": "Marcus's fourteenth draft."},
+        {"day": 8, "refs": ["C-28"], "text": "HQ routes E-02210's Voluntary Transition to the Director."},
+        {"day": 9, "refs": ["A-30"], "text": "Femi writes to Hana: a goodbye."},
+        {"day": 10, "text": "Femi Adeyemi (E-02210) takes the Voluntary Transition."},
+        {"day": 12, "refs": ["2.52"], "text": "Personal Growth Plan form ICS-PG1 issued."},
+        {"day": 14, "refs": ["B-34"], "text": "K-12 on Belonging Pulse item 3."},
+        {"day": 15, "refs": ["C-29"], "text": "The Director's Leadership Reflection Plan."},
+        {"day": 24, "refs": ["A-31"], "text": "Sera schedules Kai's Step 1."},
+        {"day": 26, "refs": ["B-35"], "text": "The PTKW Care Outcomes summary for Q4."},
+        {"day": 36, "refs": ["2.61"], "text": "Hana's WA4 Results page is printed, pre-filled."},
+        {"day": 40, "refs": ["2.61"], "text": "Hana's Wellness Assessment (ICS-WA4)."},
+        {"day": 41, "refs": ["B-32"], "text": "Hana's closing conversation; the Results page was printed before the assessment."},
+        {"day": 41, "refs": ["B-36"], "text": "The Oversight instruction on Perception Alignment, and its withdrawal (14:30, 14:44)."},
+        {"day": 41, "refs": ["A-36"], "text": "Hana asks Sera which day."},
+        {"day": 41, "refs": ["A-35"], "text": "Tarek's last notebook page."},
+        {"day": 58, "refs": ["A-37"], "text": "Sera drafts a note about Hana's desk and does not send it."}
+      ]
+    },
+    {
+      "id": "window",
+      "label": "Darius and the window",
+      "blurb": "The Earth View Window on Level 4: the early notes, the corridor, and after.",
+      "items": [
+        {"refs": ["B-01"]},
+        {"refs": ["A-24"]},
+        {"refs": ["A-02"]},
+        {"refs": ["B-14"]},
+        {"refs": ["A-39"]},
+        {"refs": ["C-31"]},
+        {"refs": ["C-32"]},
+        {"refs": ["B-39"]},
+        {"refs": ["B-38"]},
+        {"refs": ["A-40"]},
+        {"refs": ["B-40"]},
+        {"refs": ["B-41"]},
+        {"refs": ["A-41"]},
+        {"refs": ["B-43"]},
+        {"refs": ["A-42"]},
+        {"refs": ["B-42"]},
+        {"refs": ["C-33"]},
+        {"refs": ["C-34"]},
+        {"refs": ["B-44"]},
+        {"day": 6, "time": "06:00", "text": "Darius sees the reflection."},
+        {"refs": ["B-24"]},
+        {"day": 31, "refs": ["A-23"], "text": "Darius is back at the window (Phase 5, Day 10)."},
+        {"when": "Mentions and loose ends", "refs": ["B-07", "C-08", "A-10"]},
+        {"when": "Mentions and loose ends", "refs": ["A-08"], "text": "Off the chain: it names Level 6, Anand and E-03901/E-03902; the corridor chain names Level 4, Sharma and E-02208/E-03019."}
+      ]
+    },
+    {
+      "id": "noor",
+      "label": "Noor Haddad",
+      "blurb": "Three questions to the Floor Liaison.",
+      "items": [
+        {"when": "Background", "refs": ["2.62"]},
+        {"day": 17, "time": "07:48", "refs": ["A-38"], "text": "Noor writes three questions to the Floor Liaison."},
+        {"day": 17, "time": "09:05", "refs": ["B-37"], "text": "The Liaison and K-12 agree to escalate; the approved reply goes out at 11:30."}
+      ]
+    },
+    {
+      "id": "solcred",
+      "label": "SOLCRED",
+      "blurb": "The credit system, from the first question to the pricing directives.",
+      "items": [
+        {"when": "Background", "refs": ["2.45", "2.58"]},
+        {"refs": ["A-21"]},
+        {"refs": ["A-20"]},
+        {"refs": ["B-22"]},
+        {"refs": ["B-23"]},
+        {"refs": ["C-17"]},
+        {"refs": ["A-26"]},
+        {"refs": ["A-23"]},
+        {"when": "Undated", "refs": ["A-22"]}
+      ]
+    },
+    {
+      "id": "tarek",
+      "label": "Tarek and the cleaners",
+      "blurb": "The wall, the notebook, and the people who clean it. Rania's two notes close the track.",
+      "items": [
+        {"refs": ["B-12"]},
+        {"refs": ["B-15"]},
+        {"refs": ["A-26"]},
+        {"day": 18, "time": "18:30", "refs": ["scene:1.5"], "text": "Tarek at the Level 4 break-room corner table."},
+        {"day": 41, "refs": ["A-35"], "text": "Tarek's last notebook page."},
+        {"when": "Undated", "refs": ["A-05", "A-13", "A-18", "A-22"]},
+        {"when": "Rania", "refs": ["A-14", "B-08"]}
+      ]
+    },
+    {
+      "id": "ptkw",
+      "label": "PTKW intercepts",
+      "blurb": "What the Protocol Team picks up.",
+      "items": [
+        {"refs": ["B-12"]},
+        {"refs": ["B-09"]},
+        {"refs": ["B-14"]},
+        {"refs": ["B-20"]},
+        {"refs": ["B-27"]},
+        {"when": "Undated", "refs": ["B-05", "B-06", "B-07", "B-10", "B-11", "B-13", "B-18", "B-19", "B-21"]}
+      ]
+    },
+    {
+      "id": "hq",
+      "label": "HQ and the Director",
+      "blurb": "Brant, the Director and the Board's line.",
+      "items": [
+        {"refs": ["C-06"]},
+        {"refs": ["C-01"]},
+        {"refs": ["C-07"]},
+        {"refs": ["C-02"]},
+        {"refs": ["C-09"]},
+        {"refs": ["C-10"]},
+        {"refs": ["C-11"]},
+        {"refs": ["C-12"]},
+        {"refs": ["C-13"]},
+        {"refs": ["C-14"]},
+        {"refs": ["C-04"]},
+        {"refs": ["C-03"]},
+        {"refs": ["C-05"]},
+        {"when": "Loose ends", "refs": ["C-08", "scene:1.11", "2.35"]}
+      ]
+    },
+    {
+      "id": "crd7",
+      "label": "CRD-7 and the equipment incident",
+      "blurb": "Unauthorised modification, and what came of it.",
+      "items": [
+        {"refs": ["B-17"]},
+        {"refs": ["B-20"]},
+        {"refs": ["B-16"]},
+        {"refs": ["C-15"]},
+        {"when": "Undated", "refs": ["C-16"]}
+      ]
+    }
+  ]
+}

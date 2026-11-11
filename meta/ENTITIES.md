@@ -4,7 +4,7 @@
 
 | Entity | Kind | Files | Mentions | In snapshot |
 |---|---|---|---|---|
-| [EOD](#eod) | character | 124 | 1234 | 1290 |
+| [EOD](#eod) | character | 124 | 1235 | 1290 |
 | [ARM-27](#arm-27) | equipment | 27 | 129 | 136 |
 | [EOD Research Team](#eod-research-team) | organisation | 36 | 165 | 192 |
 | [Earth Branch Manager](#earth-branch-manager) | character | 47 | 189 | 222 |
@@ -12,17 +12,17 @@
 | [Brant](#brant) | character | 33 | 67 | 88 |
 | [K-7](#k-7) | character | 73 | 280 | 319 |
 | [Kai](#kai) | character | 36 | 185 | 206 |
-| [Tarek](#tarek) | character | 87 | 401 | 425 |
+| [Tarek](#tarek) | character | 88 | 402 | 425 |
 | [Yaw](#yaw) | character | 19 | 55 | 67 |
 | [Leif Aronsen](#leif-aronsen) | character | 12 | 35 | 38 |
 | [Eirik Aronsen](#eirik-aronsen) | character | 18 | 157 | 160 |
-| [Gyrfalcon Wing](#gyrfalcon-wing) | organisation | 26 | 211 | 223 |
+| [Gyrfalcon Wing](#gyrfalcon-wing) | organisation | 27 | 212 | 223 |
 | [Blue Harrow Team](#blue-harrow-team) | organisation | 18 | 65 | 71 |
 | [Ingrid Solberg](#ingrid-solberg) | character | 5 | 12 | 12 |
 | [Tomas Reiner](#tomas-reiner) | character | 5 | 10 | 10 |
 | [Anton Kessel](#anton-kessel) | character | 3 | 6 | 6 |
 | [Deployment Order 287](#deployment-order-287) | event | 16 | 42 | 60 |
-| [Sudbury](#sudbury) | place | 14 | 57 | 57 |
+| [Sudbury](#sudbury) | place | 15 | 58 | 57 |
 | [Hallvik](#hallvik) | place | 16 | 49 | 52 |
 | [Journey Completion Directorate](#journey-completion-directorate) | organisation | 15 | 78 | 78 |
 | [Teshvar Consortium](#teshvar-consortium) | organisation | 5 | 13 | 13 |
@@ -31,19 +31,19 @@
 | [Sovereign Projection](#sovereign-projection) | concept | 18 | 59 | 59 |
 | [The Smile Study (Doc 2.49)](#the-smile-study-doc-249) | document | 16 | 71 | 74 |
 | [Human Psychology Report (Doc 2.18)](#human-psychology-report-doc-218) | document | 61 | 214 | 217 |
-| [PTKW](#ptkw) | organisation | 248 | 1537 | 1561 |
+| [PTKW](#ptkw) | organisation | 248 | 1538 | 1561 |
 | [EIMU](#eimu) | system | 132 | 584 | 593 |
 | [CCN](#ccn) | system | 103 | 345 | 348 |
 | [SMAC](#smac) | system | 5 | 11 | 14 |
 | [Milgram](#milgram) | concept | 14 | 32 | 32 |
-| [CRD-7](#crd-7) | equipment | 26 | 113 | 116 |
+| [CRD-7](#crd-7) | equipment | 27 | 114 | 116 |
 | [Resistance index](#resistance-index) | concept | 54 | 123 | 132 |
 
 ## EOD
 
 *character*. Harmony is also an ordinary word; Subjugator is also the ARM-27 equipment codename; 'the Envoy' is also the title of Trailer 5.
 
-Aliases found: `EOD` ×991, `Executioner of Despair` ×64, `Envoy of Devotion` ×50, `Subjugator` ×48 (ambiguous), `Harmony` ×39 (ambiguous), `The Willbreaker` ×38, `the Sudbury entity` ×3, `the Envoy` ×1 (ambiguous)
+Aliases found: `EOD` ×992, `Executioner of Despair` ×64, `Envoy of Devotion` ×50, `Subjugator` ×48 (ambiguous), `Harmony` ×39 (ambiguous), `The Willbreaker` ×38, `the Sudbury entity` ×3, `the Envoy` ×1 (ambiguous)
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -111,6 +111,7 @@ Aliases found: `EOD` ×991, `Executioner of Despair` ×64, `Envoy of Devotion` �
 | 4 | [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division | — | EOD×4 |
 | 4 | [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) chat, redacted read it once | PTKW | EOD×2, Executioner of Despair×1, Envoy of Devotion×1 |
 | 4 | [ACS-9RS — Resonance Shell](<../canon/weapons/modifications/ACS-9RS — Resonance Shell.md>) ACS-9RS — Resonance Shell | — | EOD×4 |
+| 4 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | EOD×4 |
 | 4 | [appendix_a_recovered](<../reference/appendix_a_recovered.md>) APPENDIX A - TEXT RECOVERED FROM THE RETIRED FILES | Board | EOD×4 |
 | 3 | [E-03388 - Tarek Mansour](<../canon/characters/E-03388 - Tarek Mansour.md>) E-03388 — Tarek Mansour | — | EOD×3 |
 | 3 | [E-05682 - The Variable (Player)](<../canon/characters/E-05682 - The Variable (Player).md>) THE PLAYER CHARACTER | — | EOD×3 |
@@ -122,7 +123,6 @@ Aliases found: `EOD` ×991, `Executioner of Despair` ×64, `Envoy of Devotion` �
 | 3 | [DEVICES](<../design/DEVICES.md>) Devices and addresses: where the mail lives, and how it is r | — | EOD×3 |
 | 3 | [ENVIRONMENTAL_STORYTELLING](<../design/ENVIRONMENTAL_STORYTELLING.md>) ICS: Interplanetary Corporate Solutions | — | EOD×3 |
 | 3 | [FAILURE_LOOP](<../design/FAILURE_LOOP.md>) ICS: Interplanetary Corporate Solutions | — | EOD×3 |
-| 3 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | EOD×3 |
 | 3 | [PRODUCTION_SCOPE](<../design/PRODUCTION_SCOPE.md>) ICS: Interplanetary Corporate Solutions | — | EOD×3 |
 | 3 | [VERBS](<../design/VERBS.md>) ICS: Interplanetary Corporate Solutions | — | EOD×3 |
 | 3 | [STYLE_GUIDE](<../meta/STYLE_GUIDE.md>) Style Guide | — | EOD×3 |
@@ -600,7 +600,7 @@ Aliases found: `Kai` ×185
 
 *character*
 
-Aliases found: `Tarek` ×401
+Aliases found: `Tarek` ×402
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -684,6 +684,7 @@ Aliases found: `Tarek` ×401
 | 1 | [README](<../canon/weapons/README.md>) ICS: Interplanetary Corporate Solutions | PTKW | Tarek×1 |
 | 1 | [Rania-Hatch-Kit](<../canon/weapons/found/Rania-Hatch-Kit.md>) Rania's Hatch Kit | — | Tarek×1 |
 | 1 | [BAR-FL — Fragment Launcher](<../canon/weapons/modifications/BAR-FL — Fragment Launcher.md>) BAR-FL — Fragment Launcher | — | Tarek×1 |
+| 1 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | Tarek×1 |
 | 1 | [PRODUCTION_SCOPE](<../design/PRODUCTION_SCOPE.md>) ICS: Interplanetary Corporate Solutions | — | Tarek×1 |
 | 1 | [TOOL_TUNING](<../design/TOOL_TUNING.md>) ICS: Interplanetary Corporate Solutions | — | Tarek×1 |
 | 1 | [appendix_a_recovered](<../reference/appendix_a_recovered.md>) APPENDIX A - TEXT RECOVERED FROM THE RETIRED FILES | Board | Tarek×1 |
@@ -772,7 +773,7 @@ Aliases found: `Eirik` ×66, `Eirik Aronsen` ×33, `Gyrfalcon Seven` ×30, `Capt
 
 *organisation*
 
-Aliases found: `Gyrfalcon` ×141, `Gyrfalcon Wing` ×70
+Aliases found: `Gyrfalcon` ×142, `Gyrfalcon Wing` ×70
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -801,6 +802,7 @@ Aliases found: `Gyrfalcon` ×141, `Gyrfalcon Wing` ×70
 | 1 | [2.41](<../canon/documents/2.41 — EIMU Deep Assessment EOD.md>) Document 2.41 — EIMU Deep Assessment: Designated Asset: EOD | Board | Gyrfalcon Wing×1 |
 | 1 | [2.47](<../canon/documents/2.47 — Host Force Assessment The Harrow.md>) 2.47 Host Force Assessment — Ground Special Operations: The  | PTKW | Gyrfalcon Wing×1 |
 | 1 | [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS | — | Gyrfalcon Wing×1 |
+| 1 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | Gyrfalcon×1 |
 | 1 | [1.14](<../story/scenes/1.14 - The Earth Branch Manager, Level 7, Day Thirty-Eight.md>) 1.14 — The Earth Branch Manager, Level 7, Day Thirty-Eight | — | Gyrfalcon×1 |
 
 ## Blue Harrow Team
@@ -899,7 +901,7 @@ Aliases found: `Deployment 287` ×22, `Deployment Order 287` ×20
 
 *place*
 
-Aliases found: `Sudbury` ×51, `Lindenmere` ×6
+Aliases found: `Sudbury` ×52, `Lindenmere` ×6
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -916,6 +918,7 @@ Aliases found: `Sudbury` ×51, `Lindenmere` ×6
 | 2 | [TIME_MODEL](<../design/TIME_MODEL.md>) ICS: Interplanetary Corporate Solutions | — | Sudbury×2 |
 | 1 | [README](<../README.md>) ICS: Interplanetary Corporate Solutions | — | Sudbury×1 |
 | 1 | [2.49](<../canon/documents/2.49 — The Smile Study.md>) 2.49 The Study of Eirik's Smile | Sealed | Sudbury×1 |
+| 1 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | Sudbury×1 |
 | 1 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) Canon Decisions | — | Sudbury×1 |
 
 ## Hallvik
@@ -1156,7 +1159,7 @@ Aliases found: `Document 2.18` ×84, `Human Psychology Report` ×73, `Doc 2.18` 
 
 *organisation*
 
-Aliases found: `PTKW` ×1537
+Aliases found: `PTKW` ×1538
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -1164,9 +1167,9 @@ Aliases found: `PTKW` ×1537
 | 78 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×78 |
 | 38 | [README](<../README.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×38 |
 | 30 | [2.21](<../canon/documents/2.21 — Organizational Charter.md>) 2.21 ICS Earth Branch — Organizational Charter | PTKW | PTKW×30 |
+| 28 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | PTKW×28 |
 | 27 | [DESIGN](<../design/DESIGN.md>) ICS: Interplanetary Corporate Solutions | Board | PTKW×27 |
 | 27 | [HEARTH](<../design/HEARTH.md>) ICS: Interplanetary Corporate Solutions | Global | PTKW×27 |
-| 27 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | PTKW×27 |
 | 27 | [STEALTH_DETECTION](<../design/STEALTH_DETECTION.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×27 |
 | 26 | [2.31](<../canon/documents/2.31 — Mascot Family AIDEN SOL CLEO VELO.md>) 2.31 The ICS Mascot Family — Character Profiles, Poster Seri | Board | PTKW×26 |
 | 26 | [LEVEL_BEAT_SHEETS](<../design/LEVEL_BEAT_SHEETS.md>) ICS: Interplanetary Corporate Solutions | — | PTKW×26 |
@@ -1703,7 +1706,7 @@ Aliases found: `Milgram` ×32
 
 *equipment*
 
-Aliases found: `CRD-7` ×113
+Aliases found: `CRD-7` ×114
 
 | Mentions | File | Access | Aliases in this file |
 |---|---|---|---|
@@ -1731,6 +1734,7 @@ Aliases found: `CRD-7` ×113
 | 1 | [ART_DIRECTION](<../design/ART_DIRECTION.md>) ICS: Interplanetary Corporate Solutions | — | CRD-7×1 |
 | 1 | [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS | — | CRD-7×1 |
 | 1 | [EOD_ENCOUNTERS](<../design/EOD_ENCOUNTERS.md>) ICS: Interplanetary Corporate Solutions | — | CRD-7×1 |
+| 1 | [ICS_OS](<../design/ICS_OS.md>) ICS: Interplanetary Corporate Solutions | PTKW | CRD-7×1 |
 | 1 | [INVENTORY](<../design/INVENTORY.md>) ICS: Interplanetary Corporate Solutions | — | CRD-7×1 |
 | 1 | [STEALTH_DETECTION](<../design/STEALTH_DETECTION.md>) ICS: Interplanetary Corporate Solutions | — | CRD-7×1 |
 

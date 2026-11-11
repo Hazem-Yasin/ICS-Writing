@@ -2,7 +2,7 @@
 
 ## ICS-OS (version 0.1) — the ICS Earth Branch Operating System
 
-*The in-world operating system of the Earth Branch personal device and terminals, and the working page that shows it. ICS-OS boots, signs the player in, and opens a desktop with three apps: Hearth (internal messages), ICS Cloud Drive (a file manager) and Folio (a document viewer). It is built from the files in `canon/internal-communications/` and `canon/documents/` and rebuilt by every map run. **[PROPOSAL]** The names, the look, the clearance rules and the Director's treatment are mine, pending the author's approval. The author's brief is in section 1.*
+*The in-world operating system of the Earth Branch personal device and terminals, and the working page that shows it. ICS-OS boots, signs the player in, and opens a desktop with four apps: Hearth (internal messages), ICS Cloud Drive (a file manager), Folio (a document viewer) and Timeline (story tracks; section 7a). It is built from the files in `canon/internal-communications/` and `canon/documents/` and rebuilt by every map run. **[PROPOSAL]** The names, the look, the clearance rules and the Director's treatment are mine, pending the author's approval. The author's brief is in section 1.*
 
 ---
 
@@ -33,8 +33,8 @@ For the player, this is the interface of a terminal or a personal device in the 
 
 1. **Boot.** The ICS mark on Deep Blue, the words ICS-OS, version 0.1, a loading bar, and a status line that changes through six steps: Starting ICS-OS 0.1, Reading badge, Connecting to ICS Cloud, Starting the CCN relay, Preparing your desktop, Ready. About four seconds. Any key or a click skips it after the first second.
 2. **Sign-in.** One card per account (section 5). The mailbox picker narrows Hearth to one person, desk or office.
-3. **Desktop.** The ICS mark as wallpaper with the tagline *Because You're Worth the Investment*. Three icons at the left: Hearth, ICS Cloud Drive, Folio. Double-click or Enter opens one.
-4. **Taskbar.** The ICS start button (Hearth, ICS Cloud Drive, Folio, About ICS-OS, Sign out), one button per open window (click to raise, again to minimise), and a tray with the cloud status and the account.
+3. **Desktop.** The ICS mark as wallpaper with the tagline *Because You're Worth the Investment*. Four icons at the left: Hearth, ICS Cloud Drive, Folio, Timeline. Double-click or Enter opens one.
+4. **Taskbar.** The ICS start button (Hearth, ICS Cloud Drive, Folio, Timeline, About ICS-OS, Sign out), one button per open window (click to raise, again to minimise), and a tray with the cloud status and the account.
 5. **Windows.** Drag by the title bar, resize at the corner, minimise, maximise (or double-click the title bar), close. Hearth and ICS Cloud Drive open once; Folio opens one window per document. A narrow window changes layout (Hearth drops to two panes, then one).
 
 The session is remembered for the browser session only. Sign out returns to the sign-in. A reload with a session held goes straight to the desktop.
@@ -107,6 +107,12 @@ A tier reads itself and everything below it. The Branch Director never reads a B
 
 Layers are read by pattern. If a document changes the wording of its marker lines, the layer will not be found and the section will show to everyone at the file's tier. A new layered document needs a pattern in `LAYERS` in build_os.py.
 
+### 7a. Timeline **[PROPOSAL]**
+
+A viewer for story tracks, built on the Drive's two-pane layout. The left pane lists the tracks (EOD, Plan System, Darius and the window, Noor Haddad, SOLCRED, Tarek and the cleaners, PTKW intercepts, HQ and the Director, CRD-7). The right pane lists the entries of the chosen track, grouped by day and weekday (Day 0 is a Tuesday; `design/TIME_MODEL.md` 1.1), with the time, a one-line note and links that open the message in Hearth or the document in Folio. Q3 mail is grouped by its own Week and weekday; undated items sit in their own group.
+
+The source is `tools/timeline.json` in this repo, edited by hand; the OS build reads it, takes any date not given there from the message's own header, and reports a warning for any reference that does not exist. Where a message was sent on a different day from the event it describes (the Sudbury, Gyrfalcon and combat reports), the entry sits on the event day and says *message dated Day N*. Entries the account cannot open show as *Access restricted* rows; scene links and entries with no reference are shown only to the All files account, because scenes are not in the OS.
+
 ### 8. The Branch Director and the retained copies **[PROPOSAL]**
 
 The Director has "full operational visibility" (Doc 2.21, section 3), and PTKW "report directly to the Branch Director on PTKW matters". The Director can therefore read PTKW mail without anyone being wrong. What the Director cannot be told is that the **staff** mail is read as well, and that the **PTKW** mail they were never sent is copied to them. The author asked that this look weird. It should be the kind of weird that a competent system produces without meaning to.
@@ -151,7 +157,7 @@ The page is assembled from os_template.html, os.css and os.js, which build_os.py
 
 - **It is a viewer, not a game build.** The in-game version is the game's to make. This is the reference for how it looks and what it shows.
 - **Sign-in is a view, not a lock.** The page holds every message and every document, including the sections a reader sees as a redaction block. Anyone can open the page source.
-- **No write path.** No app creates, edits or deletes a file. There is no Notes app, no Settings, no Trash. The brief asked for three apps.
+- **No write path.** No app creates, edits or deletes a file. There is no Notes app, no Settings, no Trash. The brief asked for three apps; Timeline is a fourth, added later.
 - **Folder groupings are mine.** The author's documents are numbered, not filed.
 - **The layered documents are read by pattern** (section 7). The thirteen are listed; a fourteenth is not found by itself.
 - **Documents are shown as the map renders them.** Tables, quotes and lists render; images do not exist in the source.

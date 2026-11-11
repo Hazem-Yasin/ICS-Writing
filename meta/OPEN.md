@@ -240,7 +240,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “11. Open rulings **[PROPOSAL]**”
 
-`design/ICS_OS.md` line 160
+`design/ICS_OS.md` line 166
 
 - **Names.** ICS-OS, ICS Cloud Drive and Folio, or others?
 - **Staff and PTKW mail on the Director's machine.** I kept the Director able to read all Staff and PTKW mail except B-02 and B-25, as Hearth already did, and made it strange. Is that the right amount of strange?

@@ -316,7 +316,7 @@
 | [GATING_BACKTRACKING](<../design/GATING_BACKTRACKING.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 1599 | The game is a single building. The player can walk to almost anywhere they have a reason to. Gates are not walls; they are credentials, clocks and peo… |
 | [HEALTH_SURVIVAL](<../design/HEALTH_SURVIVAL.md>) | ICS: Interplanetary Corporate Solutions | — |  | 1688 | This document covers how the player takes damage, survives, and heals in ICS: Interplanetary Corporate Solutions. The system must be consistent with w… |
 | [HEARTH](<../design/HEARTH.md>) | ICS: Interplanetary Corporate Solutions | Global | proposal | 2851 | The in-world name, the design and the build notes for the messaging viewer. Hearth is both a piece of the game's fiction (the system the staff and PTK… |
-| [ICS_OS](<../design/ICS_OS.md>) | ICS: Interplanetary Corporate Solutions | PTKW | proposal | 3009 | The in-world operating system of the Earth Branch personal device and terminals, and the working page that shows it. ICS-OS boots, signs the player in… |
+| [ICS_OS](<../design/ICS_OS.md>) | ICS: Interplanetary Corporate Solutions | PTKW | proposal | 3224 | The in-world operating system of the Earth Branch personal device and terminals, and the working page that shows it. ICS-OS boots, signs the player in… |
 | [INVENTORY](<../design/INVENTORY.md>) | ICS: Interplanetary Corporate Solutions | — |  | 1801 | The player's inventory is not a bag. It is a collection of things they have decided to carry through a facility that was not designed for them to be c… |
 | [JOBS_AND_CAREER](<../design/JOBS_AND_CAREER.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 1892 | What the player's job actually is, whether there is more than one, and how the ladder works. Everything marked Canon is already established and cited.… |
 | [LEVEL_BEAT_SHEETS](<../design/LEVEL_BEAT_SHEETS.md>) | ICS: Interplanetary Corporate Solutions | — | proposal | 12145 | A level file says what a place is. A beat sheet says what happens in it, in what order, and what the player is meant to feel when they leave. The faci… |
@@ -350,7 +350,7 @@
 
 | ID / name | Title | Access | Flags | Words | Summary |
 |---|---|---|---|---|---|
-| [ICS_Rigged_Sphere_MASTER_REFERENCE](<../reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md>) | Q2 compliance index — note on anomalous cluster | Sealed | proposal, encoding damage, snapshot | 470561 | One file holding everything written about the game. It replaces WORLD.md and ICS - Rigged Sphere.md, both of which were retired after a line-by-line c… |
+| [ICS_Rigged_Sphere_MASTER_REFERENCE](<../reference/ICS_Rigged_Sphere_MASTER_REFERENCE.md>) | Q2 compliance index — note on anomalous cluster | Sealed | proposal, encoding damage, snapshot | 470571 | One file holding everything written about the game. It replaces WORLD.md and ICS - Rigged Sphere.md, both of which were retired after a line-by-line c… |
 | [appendix_a_recovered](<../reference/appendix_a_recovered.md>) | APPENDIX A - TEXT RECOVERED FROM THE RETIRED FILES | Board |  | 3840 | These passages existed only in WORLD.md and ICS - Rigged Sphere.md when those two files were retired. They are kept here verbatim (taken from the comp… |
 
 ## story
