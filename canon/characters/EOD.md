@@ -150,6 +150,7 @@ No reply from the Research Team is on file. The decision is open.
 *→ See: Document 2.47 (The Harrow) and Document 2.48 (Gyrfalcon Wing): the two formations he met.*
 *→ See: Document 2.49 (The Study of Eirik's Smile): sealed.*
 *→ See: Document 2.63 (The Study of Martyrdom): sealed. His pencil sheet. And C-35, the Manager's decision.*
+*→ See: Document 2.64 (The Note in the Drawer): his first-days note on the humans. Not an ICS document.*
 *→ See: Document 2.18 (Human Psychology Report), Sections 2.10 and 2.11: Sovereign Projection and the released account that is not true.*
 *→ See: `canon/characters/Captain Eirik Aronsen.md` and `canon/characters/Colonel Leif Aronsen.md`.*
 *→ See: `design/EOD_ENCOUNTERS.md`: how his encounters are staged in the game.*

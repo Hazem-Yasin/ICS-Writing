@@ -9,6 +9,7 @@
         {"when": "Background", "refs": ["2.15", "2.41", "2.51", "B-25"]},
         {"when": "Cycle 292 \u00b7 Labor Source #312 \u00b7 Day 4", "refs": ["C-26", "scene:1.1"], "text": "The first arrival of EOD, seen from the Manager's earlier posting."},
         {"day": 4, "refs": ["scene:1.2"], "text": "First appearance, Level 2 corridor."},
+        {"day": 4, "refs": ["2.64"], "text": "His note in the drawer: the humans, disgusting and interesting at once, and the anger as he passes them. Day inferred."},
         {"day": 4, "refs": ["A-28"], "text": "Lior and Chidi talk about the man in the corridor with no badge."},
         {"day": 5, "refs": ["B-27"], "text": "A query to the Floor Liaison about the man in the corridor, and the reply."},
         {"day": 5, "time": "10:05", "refs": ["B-28"], "text": "K-7 asks the Manager, who writes to all PTKW to tread carefully."},

@@ -146,3 +146,14 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - **Open: the martial-arts hall.** 2.63 names no art, no country and no teacher. Does the author want a named one?
 - **Open: the Directorate stands off.** 1.14 has the fourteen hold for nine seconds while he is down and while he takes the stance. Nothing in C-24 describes their doctrine.
 - **Open: where it ends.** 1.14 stops before the end. EOD.md and Doc 2.40 say he is not entered as having completed his journey.
+
+## EOD's first-days note on the humans, 2026-11-11 [PROPOSAL]
+
+*Source: the author's brief. At his first appearance on Earth EOD writes a personal note in which he speaks of the humans and of his study of them before he met them, says they are disgusting and interesting at the same time, and says that he sometimes walks past humans and looks at them in anger.*
+
+- **New:** Doc 2.64 (The Note in the Drawer). One sheet of Branch stationery, ballpoint, undated; the day is inferred from the Comfort named in its last line (*Cardamom Dawn*, scene 1.2). Registered as a document outside the ICS system (no access level; the all-files account only), as 2.35 and 2.39.
+- **Edits:** `canon/characters/EOD.md` (see-also), `design/TIME_MODEL.md` (Day 4 row), `README.md`, `design/PRODUCTION_SCOPE.md`, `tools/build_master.py` (64 documents, 2.1-2.64), `tools/timeline.json` (EOD track).
+- **Open: anger.** Doc 2.15 gives him no emotional states and `EOD.md` says the profile does not describe what fills the space. The note puts disgust, interest and anger there. C-19 has the Sudbury operators see disgust, "not anger", on Day 16. Does the author want anger canon for him?
+- **Open: C-24 trigger (b).** A state of his own in any word. The note would meet it on Day 4. It is written as unreceived, which keeps 2.63 item 4 (the first document from him that is not an answer) true. If the Team ever finds it, that line fails.
+- **Open: where the player finds it.** The drawer is proposed. C-35 has the Manager enter the quarters for the first time on Day 34 and says nothing of a drawer.
+- **Open: the stationery.** On Day 4 he has no school pad or pencil, so he uses the Branch's paper and a Branch pen. The Team could place this sheet by its stock; it could not place 2.63.

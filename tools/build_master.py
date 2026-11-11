@@ -27,7 +27,7 @@ LAST = ["story/trailers.md"]
 
 PARTS = [
     ("Part 1 - Core documents and game design", "PART 1 - CORE DOCUMENTS AND GAME DESIGN"),
-    ("Part 2 - In-world documents (2.01-2.63)", "PART 2 - IN-WORLD DOCUMENTS (2.01-2.63)"),
+    ("Part 2 - In-world documents (2.01-2.64)", "PART 2 - IN-WORLD DOCUMENTS (2.01-2.64)"),
     ("Part 3 - Characters", "PART 3 - CHARACTERS"),
     ("Part 4 - Facility", "PART 4 - FACILITY"),
     ("Part 5 - Scenes and scene notes", "PART 5 - SCENES AND SCENE NOTES"),

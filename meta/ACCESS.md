@@ -9,7 +9,7 @@ The access level of each file is read from its header (Status / Classification /
 | Section | Employee | Global | PTKW | Branch Director | Above Director | Board | Sealed | — |
 |---|---|---|---|---|---|---|---|---|
 | `canon/characters` | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 14 |
-| `canon/documents` | 0 | 3 | 24 | 1 | 3 | 12 | 2 | 18 |
+| `canon/documents` | 0 | 3 | 24 | 1 | 3 | 12 | 2 | 19 |
 | `canon/enemies` | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | `canon/facility` | 0 | 0 | 4 | 0 | 0 | 0 | 1 | 8 |
 | `canon/internal-communications` | 42 | 3 | 46 | 16 | 2 | 4 | 6 | 17 |
@@ -21,7 +21,7 @@ For each tracked entity, how many files at each level mention it. A thing that a
 
 | Entity | Employee | Global | PTKW | Branch Director | Above Director | Board | Sealed | — |
 |---|---|---|---|---|---|---|---|---|
-| EOD | 1 | 2 | 24 | 4 | 2 | 13 | 8 | 28 |
+| EOD | 1 | 2 | 24 | 4 | 2 | 13 | 8 | 29 |
 | ARM-27 |  |  | 4 |  |  | 9 | 4 | 3 |
 | EOD Research Team |  |  | 9 | 1 | 2 | 4 | 8 | 3 |
 | Earth Branch Manager |  |  | 13 | 5 |  | 5 | 8 | 4 |
@@ -34,7 +34,7 @@ For each tracked entity, how many files at each level mention it. A thing that a
 | Leif Aronsen |  |  | 1 |  |  | 1 | 3 | 3 |
 | Eirik Aronsen |  |  | 1 |  |  | 1 | 7 | 3 |
 | Gyrfalcon Wing |  |  | 4 |  | 1 | 7 | 3 | 4 |
-| Blue Harrow Team |  |  | 4 |  | 1 | 5 | 1 | 2 |
+| Blue Harrow Team |  |  | 4 |  | 1 | 5 | 1 | 3 |
 | Ingrid Solberg |  |  | 1 |  |  | 1 |  | 2 |
 | Tomas Reiner |  |  | 1 |  |  | 1 |  | 2 |
 | Anton Kessel |  |  | 1 |  |  | 1 |  | 1 |
@@ -49,7 +49,7 @@ For each tracked entity, how many files at each level mention it. A thing that a
 | The Smile Study (Doc 2.49) |  |  |  |  |  |  | 7 | 3 |
 | Human Psychology Report (Doc 2.18) | 3 | 2 | 18 | 4 |  | 9 | 4 | 14 |
 | PTKW | 12 | 9 | 78 | 12 | 4 | 11 | 7 | 57 |
-| EIMU | 6 | 5 | 34 |  | 1 | 10 | 6 | 33 |
+| EIMU | 6 | 5 | 34 |  | 1 | 10 | 6 | 34 |
 | CCN | 25 | 6 | 13 | 4 |  | 2 |  | 21 |
 | SMAC |  |  | 2 |  |  |  | 3 |  |
 | Milgram |  |  | 3 |  |  | 3 | 2 | 3 |
@@ -70,7 +70,7 @@ Each rule in `tools/access_rules.json` names a term and the lowest level that sh
 | [ACS-9 — Acoustic Compliance System](<../canon/weapons/compliance/ACS-9 — Acoustic Compliance System.md>) | Global | 2 | line 42: Tier 3 Use: The player discovers, by reading the PTKW manual carefully, that 18 Hz is called "the frequency o… |
 | [CCN-Spoofer — Communications Node Spoofer](<../canon/weapons/compliance/CCN-Spoofer — Communications Node Spoofer.md>) | Global | 2 | line 36: Tier 1 Use: Intercept — the player can pull CCN messages in transit and read them before delivery. This is th… |
 
-No level stated, mentions it: [2.24](<../canon/documents/2.24 — 300 Years of Changing Lives.md>) (2), [2.35](<../canon/documents/2.35 — Branch Directors Private Journal.md>) (2), [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) (5), [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) (3), [True-Believers](<../canon/enemies/True-Believers.md>) (3), [Level 4](<../canon/facility/Level 4.md>) (1), [Levels 11-14](<../canon/facility/Levels 11-14.md>) (5), [Overview](<../canon/facility/Overview.md>) (1), [C-03](<../canon/internal-communications/branch-director/C-03 — Director to Brant After the Speech.md>) (1), [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) (2), [OVERVIEW](<../canon/weapons/OVERVIEW.md>) (6), [Level-0-Device](<../canon/weapons/found/Level-0-Device.md>) (1), [Yusra-Cache](<../canon/weapons/found/Yusra-Cache.md>) (1), [Olfactory-Canister](<../canon/weapons/improvised/Olfactory-Canister.md>) (1), [ACS-9D — Directed Beam](<../canon/weapons/modifications/ACS-9D — Directed Beam.md>) (1), [ACS-9RS — Resonance Shell](<../canon/weapons/modifications/ACS-9RS — Resonance Shell.md>) (3)
+No level stated, mentions it: [2.24](<../canon/documents/2.24 — 300 Years of Changing Lives.md>) (2), [2.35](<../canon/documents/2.35 — Branch Directors Private Journal.md>) (2), [2.64](<../canon/documents/2.64 — The Note in the Drawer.md>) (5), [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) (5), [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) (3), [True-Believers](<../canon/enemies/True-Believers.md>) (3), [Level 4](<../canon/facility/Level 4.md>) (1), [Levels 11-14](<../canon/facility/Levels 11-14.md>) (5), [Overview](<../canon/facility/Overview.md>) (1), [C-03](<../canon/internal-communications/branch-director/C-03 — Director to Brant After the Speech.md>) (1), [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) (2), [OVERVIEW](<../canon/weapons/OVERVIEW.md>) (6), [Level-0-Device](<../canon/weapons/found/Level-0-Device.md>) (1), [Yusra-Cache](<../canon/weapons/found/Yusra-Cache.md>) (1), [Olfactory-Canister](<../canon/weapons/improvised/Olfactory-Canister.md>) (1), [ACS-9D — Directed Beam](<../canon/weapons/modifications/ACS-9D — Directed Beam.md>) (1), [ACS-9RS — Resonance Shell](<../canon/weapons/modifications/ACS-9RS — Resonance Shell.md>) (3)
 
 ### The Smile Study
 
@@ -106,7 +106,7 @@ No level stated, mentions it: [2.07](<../canon/documents/2.07 — Interplanetary
 
 ## In-world files that state no level
 
-62 files. Some are deliberately unclassified (Doc 2.39 says it has no level). The rest could be given one.
+63 files. Some are deliberately unclassified (Doc 2.39 says it has no level). The rest could be given one.
 
 - [2.01](<../canon/documents/2.01 — Labor Source ID 349 Earth Profile.md>) 2.1 Labor Source ID #349 — Earth Profile
 - [2.05](<../canon/documents/2.05 — Outsource the Stars Year 300 Ad.md>) 2.5 Outsource the Stars — Year 300 Celebration Ad
@@ -126,6 +126,7 @@ No level stated, mentions it: [2.07](<../canon/documents/2.07 — Interplanetary
 - [2.37](<../canon/documents/2.37 — In-World Advertisement Archive.md>) 2.37 ICS Earth Branch — In-World Advertisement Archive
 - [2.39](<../canon/documents/2.39 — Yusras Resistance Document.md>) 7.2 — Document 2.39: Yusra's Resistance Document
 - [2.42](<../canon/documents/2.42 — Board Terminal Message.md>) 2.42 — ICS Interplanetary Board Communication: Terminal Transmission
+- [2.64](<../canon/documents/2.64 — The Note in the Drawer.md>) 2.64 The Note in the Drawer
 - [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) Category 4 — HQ Rapid Response Assets
 - [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division
 - [True-Believers](<../canon/enemies/True-Believers.md>) Category 2 — The True Believers

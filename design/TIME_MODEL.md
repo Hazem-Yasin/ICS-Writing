@@ -79,6 +79,7 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 1–3 | every 4 h | PTKW monitoring pass on quarters | `design/TUTORIAL.md` Beat 10 |
 | 3 | night | EOD enters via Level 7 → 10 → Board elevator | `canon/facility/Levels 11-14.md` |
 | 4 | morning | First appearance, Level 2 corridor | `canon/characters/EOD.md` |
+| 4 | — | EOD writes a note on Branch stationery and lays it in the drawer of his quarters on Level 13; he has just walked the Level 2 corridor (Doc 2.64; the day is inferred from the Comfort in its last line) **[PROPOSAL]** | `canon/documents/2.64` |
 | 4 | 19:12 | Lior and Chidi talk about the man in the corridor with no badge **[PROPOSAL]** | `canon/internal-communications/employee/A-28` |
 | 4 | 20:15–20:52 | Omar drafts his Belonging Pulse answers **[PROPOSAL]** | `canon/internal-communications/employee/A-34` |
 | 5 | 08:55 / 09:42 / 10:05 / 12:10 | Lior's query to the Floor Liaison and the rude reply; K-7 asks the Manager, who writes to all PTKW to tread carefully **[PROPOSAL]** | `canon/internal-communications/ptkw/B-27`, `canon/internal-communications/ptkw/B-28` |

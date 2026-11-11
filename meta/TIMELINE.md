@@ -10,7 +10,7 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [1](#day-1) | 0 | 11 | 4 |
 | [2](#day-2) | 0 | 2 | 2 |
 | [3](#day-3) | 1 | 5 | 10 |
-| [4](#day-4) | 2 | 14 | 16 |
+| [4](#day-4) | 2 | 18 | 16 |
 | [5](#day-5) | 8 | 3 | 4 |
 | [6](#day-6) | 5 | 17 | 6 |
 | [7](#day-7) | 3 | 2 | 2 |
@@ -22,7 +22,7 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [13](#day-13) | 0 | 1 | 1 |
 | [14](#day-14) | 2 | 3 | 5 |
 | [15](#day-15) | 2 | 4 | 8 |
-| [16](#day-16) | 1 | 18 | 11 |
+| [16](#day-16) | 1 | 19 | 11 |
 | [17](#day-17) | 6 | 2 | 0 |
 | [18](#day-18) | 3 | 38 | 2 |
 | [19](#day-19) | 2 | 0 | 0 |
@@ -39,7 +39,7 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [31](#day-31) | 5 | 4 | 5 |
 | [32](#day-32) | 2 | 5 | 2 |
 | [33](#day-33) | 6 | 4 | 1 |
-| [34](#day-34) | 8 | 1 | 0 |
+| [34](#day-34) | 8 | 2 | 0 |
 | [35](#day-35) | 1 | 13 | 0 |
 | [36](#day-36) | 2 | 8 | 1 |
 | [38](#day-38) | 5 | 2 | 3 |
@@ -85,7 +85,7 @@ No time given: EOD, Levels 11-14, C-25, B-40, 1.14
 | 19:12 | [A-28](<../canon/internal-communications/employee/A-28 — Lior and Chidi The Man Without a Badge.md>) | 4 | ol 7 pattern match ("no badge", "who is he"). Cycle 300 Q4, Day 4, 19:12 to 19:40 Branch Time. Both E-numbers are placeholders. |
 | 20:15 | [A-34](<../canon/internal-communications/employee/A-34 — Omar Belonging Pulse Drafts.md>) | 4 | mail sent: draft 1 of 6 |
 
-No time given: EOD, Levels 11-14, A-28 ×3, A-29, B-28 ×3, B-33, Earth View Window, 1.2 - Earth, Day Four, First Sight ×2, 1.9 - Kai, The Atrium, Day Twenty-One
+No time given: EOD, 2.64 ×4, Levels 11-14, A-28 ×3, A-29, B-28 ×3, B-33, Earth View Window, 1.2 - Earth, Day Four, First Sight ×2, 1.9 - Kai, The Atrium, Day Twenty-One
 
 ## Day 5
 
@@ -185,7 +185,7 @@ No time given: 2.38, STORY, Stairwell B, Trailer 4 - The Archive
 |---|---|---|---|
 | 00:20 | [C-19](<../canon/internal-communications/branch-director/C-19 — EOD Research Team - Deployment 287 Field Report Update - Team Blue Harrow - Last Survivor Interview.md>) | 14 | e a place and a night. We do not have the ten days. We have Day 16, 00:20, Sudbury. What follows is our reading of it, then the evidence. |
 
-No time given: EOD ×2, Narrative Arc - Phases 0 through 6, 2.15, 2.18 ×2, 2.47, C-18 ×2, C-19 ×3, C-20, C-23 ×2, C-29 ×2, Stairwell B
+No time given: EOD ×2, Narrative Arc - Phases 0 through 6, 2.15, 2.18 ×2, 2.47, 2.64, C-18 ×2, C-19 ×3, C-20, C-23 ×2, C-29 ×2, Stairwell B
 
 ## Day 17
 
@@ -350,7 +350,7 @@ No time given: 2.61 ×2, C-35, B-29
 | 18:20 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 5 | mail sent: Investigation file ICS-IR3-300Q4-032 — E-03615 — result of the source inquiry (status: open) |
 | 18:20 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 89 | sender (the Investigation Team that signed A-29); the date (Day 34, 18:20, after the Day 33 redaction and before the Day 35 review); the finding that the cropping matche… |
 
-No time given: B-30
+No time given: 2.64, B-30
 
 ## Day 35
 

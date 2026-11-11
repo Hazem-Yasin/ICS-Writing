@@ -9,7 +9,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 | Open-question sections | 27 (about 162 listed items) |
 | Inline TODO / TBD / “to be decided” lines | 8 |
 | Unchecked items in `meta/TODO.md` | 6 |
-| Files carrying [PROPOSAL] material not yet ruled canon | 139 |
+| Files carrying [PROPOSAL] material not yet ruled canon | 140 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
@@ -240,7 +240,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “11. Open rulings **[PROPOSAL]**”
 
-`design/ICS_OS.md` line 166
+`design/ICS_OS.md` line 176
 
 - **Names.** ICS-OS, ICS Cloud Drive and Folio, or others?
 - **Staff and PTKW mail on the Director's machine.** I kept the Director able to read all Staff and PTKW mail except B-02 and B-25, as Hearth already did, and made it strange. Is that the right amount of strange?
@@ -361,7 +361,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 
 ### ICS: Interplanetary Corporate Solutions — “8. Open questions”
 
-`design/TIME_MODEL.md` line 276
+`design/TIME_MODEL.md` line 277
 
 - Is the Phase 2/3 ruling in §1.3 acceptable, or should `design/DESIGN.md` be relabeled "Phase 2: Days 4–10, Phase 3: Days 11–20" with Phase 2's cold state described as a lingering effect?
 - Do the 88 real minutes for Phase 6 feel right, or should the player get the choice at the start of Phase 6 (like a pacing setting under `design/DIFFICULTY_ACCESSIBILITY.md`)?
@@ -562,6 +562,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [2.61](<../canon/documents/2.61 — ICS Wellness Assessment Form ICS-WA4.md>) 2.61 ICS Wellness Assessment — Form ICS-WA4 (Results)
 - [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions
 - [2.63](<../canon/documents/2.63 — The Study of Martyrdom.md>) 2.63 The Study of Martyrdom
+- [2.64](<../canon/documents/2.64 — The Note in the Drawer.md>) 2.64 The Note in the Drawer
 - [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) Category 4 — HQ Rapid Response Assets
 - [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division
 - [Level 2](<../canon/facility/Level 2.md>) Level 2 — Administration & Human Resources
