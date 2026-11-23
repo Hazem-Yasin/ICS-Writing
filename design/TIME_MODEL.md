@@ -126,9 +126,11 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 30 | — | Kai's Step 1 conversation with Sera, the Thursday after A-31 (Review Room) **[PROPOSAL]** | `story/scene-notes/The Review Room.md` |
 | 31 | — | Darius back at the window; Phase 5 Day 10 | `A-23`, `design/NPC_COMPANIONS.md` |
 | 31 | 21:05 | Chidi and Ruth, two assets, discuss the sheet they each read once and do not have; redacted on Day 33 **[PROPOSAL]** | `canon/internal-communications/employee/A-29` |
+| 31 | 22:05 | EOD's fourteenth reading of Doc 2.65 in Reading Room 5-R; the attendant notes he did not turn pages after the first four minutes (to 22:50) **[PROPOSAL]** | `canon/documents/2.65` |
 | 32 | 16:47 | A human asset is heard saying "[Subjugator]" at his desk; a scan of the Doc 2.15 designation block is found in his drawer; PTKW Level 5 files the incident report at 19:05 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-26` |
 | 33 | 11:20 | PTKW investigation team redacts the Day 31 chat as evidence, with a cover note **[PROPOSAL]** | `canon/internal-communications/employee/A-29` |
 | 33 | 07:10 | Earth Branch Manager and Research Team: does EOD have a Step 5 **[PROPOSAL]** | `canon/internal-communications/branch-director/C-30` |
+| 33 | 16:00 | The archive prints the circulation record of Doc 2.65 for the Observe log: fourteen readings by Enforcement Asset Support, the last on Day 31, 22:05 to 22:50 **[PROPOSAL]** | `canon/documents/2.65` |
 | 34 | 18:20 | Investigation result for B-26: the page was cut by the Research Division; the source is not found; Oversight Unit direction **[PROPOSAL]** | `canon/internal-communications/ptkw/B-29` |
 | 34 | 07:05 / 07:40 / 11:50 | The Manager finds EOD's pencil sheet on his desk on Level 13 and transcribes it (Doc 2.63); counts triggers a, b and c of C-24; gives the second decision the same day; the Team grants the PTKW message and the floor **[PROPOSAL]** | `canon/documents/2.63`, `canon/internal-communications/branch-director/C-35` |
 | 35 | 02:00 | Team's confirmation issues; Level 7 closes under the recertification pretext (three days to Day 38, 02:00) **[PROPOSAL]** | `canon/internal-communications/branch-director/C-35`, `C-25` |
@@ -136,6 +138,13 @@ So Days 11–14 are **Phase 3 in terms of threat and Phase 2 in terms of atmosph
 | 36 | — | Hana's WA4 Results page is printed, pre-filled **[PROPOSAL]** | `canon/documents/2.61` |
 | 37 | — | Tarek tries the Level 5 door | `design/NPC_COMPANIONS.md` |
 | 38 | 01:40 / 02:00 → ~02:15 | Level 7 sealed from the north face at 01:40; the Manager's PTKW message to EOD at 01:52; the fourteen enter by the south seal at 02:00; EOD falls, carves a smile, takes the stance and breathes; the Manager says "The Branch holds. ICS thanks you." The scene stops before the end **[PROPOSAL]** | `story/scenes/1.14 - The Earth Branch Manager, Level 7, Day Thirty-Eight.md` |
+| 38 | 02:09 / 02:10 / 02:11 | EOD rises; the Directorate reports it is losing the south bay; the Oversight Unit orders every PTKW officer to the Level 7 south seal; the Manager is not told **[PROPOSAL]** | `canon/internal-communications/ptkw/B-45`, `C-37` |
+| 38 | 02:17 → 03:30 | Thirty-three PTKW join; ACS-9 field up at 02:26; EOD down at 02:46 (end recorded 02:51); emplacements stood down 03:00; last officer off Level 7 at 03:30 **[PROPOSAL]** | `canon/internal-communications/ptkw/B-46` |
+| 38 | 02:31 → 03:04 | Lior and Chidi feel the field in their rooms and hope he wins **[PROPOSAL]** | `canon/internal-communications/employee/A-43` |
+| 38 | 03:12 / 03:41 | The Manager asks HQ who sent PTKW; HQ says it did **[PROPOSAL]** | `canon/internal-communications/branch-director/C-36`, `C-37` |
+| 38 | 04:20 → 09:20 | After-action record; K-12 and K-7; OP-7 and VAH-3; TOR-9's entry; SEC-7; the Oversight amendments, withdrawn and erased **[PROPOSAL]** | `canon/internal-communications/ptkw/B-46` to `B-51` |
+| 38 | 12:40 → 20:12 | The statement; the Wellness desk; the atrium; Noor **[PROPOSAL]** | `canon/internal-communications/employee/A-44`, `A-46`, `A-47` |
+| 39 | 05:58 | Tarek and a night cleaner on the marks in the Level 7 coating **[PROPOSAL]** | `canon/internal-communications/employee/A-45` |
 | 40 | — | Hana's Wellness Assessment (ICS-WA4) **[PROPOSAL]** | `canon/documents/2.61` |
 | 41 | 08:30 / 13:50 / 14:05 / 14:30 / 14:44 | Hana's closing conversation; TOR-9 on the pre-filled Results page; Hana asks Sera which day; the Oversight instruction on Perception Alignment and its withdrawal; Tarek's last notebook page **[PROPOSAL]** | `canon/internal-communications/ptkw/B-32`, `canon/internal-communications/employee/A-36`, `canon/internal-communications/ptkw/B-36`, `canon/internal-communications/employee/A-35` |
 | 43 | — | Sera's own Step 2 conversation, not attended **[PROPOSAL]** | `design/PLAN_SYSTEM.md` |

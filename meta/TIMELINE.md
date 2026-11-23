@@ -11,7 +11,7 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [2](#day-2) | 0 | 2 | 2 |
 | [3](#day-3) | 1 | 5 | 10 |
 | [4](#day-4) | 2 | 18 | 16 |
-| [5](#day-5) | 8 | 3 | 4 |
+| [5](#day-5) | 8 | 4 | 4 |
 | [6](#day-6) | 5 | 17 | 6 |
 | [7](#day-7) | 3 | 2 | 2 |
 | [8](#day-8) | 2 | 2 | 5 |
@@ -34,18 +34,18 @@ Every “Day N” in the canon and story files, with the clock time when one fol
 | [26](#day-26) | 4 | 7 | 0 |
 | [27](#day-27) | 0 | 1 | 0 |
 | [28](#day-28) | 3 | 7 | 0 |
-| [29](#day-29) | 1 | 7 | 1 |
+| [29](#day-29) | 1 | 8 | 1 |
 | [30](#day-30) | 1 | 4 | 0 |
-| [31](#day-31) | 5 | 4 | 5 |
-| [32](#day-32) | 2 | 5 | 2 |
-| [33](#day-33) | 6 | 4 | 1 |
-| [34](#day-34) | 8 | 2 | 0 |
+| [31](#day-31) | 6 | 5 | 6 |
+| [32](#day-32) | 2 | 6 | 2 |
+| [33](#day-33) | 7 | 5 | 1 |
+| [34](#day-34) | 8 | 3 | 0 |
 | [35](#day-35) | 1 | 13 | 0 |
 | [36](#day-36) | 2 | 8 | 1 |
-| [38](#day-38) | 5 | 2 | 3 |
-| [39](#day-39) | 0 | 1 | 0 |
+| [38](#day-38) | 21 | 6 | 3 |
+| [39](#day-39) | 1 | 1 | 0 |
 | [40](#day-40) | 0 | 9 | 1 |
-| [41](#day-41) | 7 | 14 | 1 |
+| [41](#day-41) | 7 | 16 | 1 |
 | [42](#day-42) | 0 | 7 | 0 |
 | [43](#day-43) | 0 | 1 | 1 |
 | [44](#day-44) | 0 | 2 | 6 |
@@ -100,7 +100,7 @@ No time given: EOD, 2.64 ×4, Levels 11-14, A-28 ×3, A-29, B-28 ×3, B-33, Eart
 | 12:48 | [B-28](<../canon/internal-communications/ptkw/B-28 — K-7 Asks the Earth Branch Manager About EOD and Forwards His Answer to All PTKW.md>) | 46 | mail sent: The unbadged figure — K-7's request to the Earth Branch Manager, the Manager's warning, and the manual |
 | 16:20 | [B-31](<../canon/internal-communications/ptkw/B-31 — K7 to K12 Floor B and the Ten Per Cent.md>) | 4 | mail sent: Floor B and the ten per cent |
 
-No time given: K-7 - PTKW Monitoring and Analysis Team Leader, B-28, B-29
+No time given: K-7 - PTKW Monitoring and Analysis Team Leader, B-28, B-29, B-50
 
 ## Day 6
 
@@ -293,7 +293,7 @@ No time given: EOD, 2.15, 2.18 ×2, C-21 ×2, C-24
 |---|---|---|---|
 | 07:30 | [C-24](<../canon/internal-communications/branch-director/C-24 — EOD Research Team - The Discussion of EOD Sunsetting.md>) | 4 | mail sent: The Discussion of EOD Sunsetting |
 
-No time given: E-04788 - Sera Vasquez, EOD, 2.61, C-24, C-35, A-37 ×2
+No time given: E-04788 - Sera Vasquez, EOD, 2.61, 2.65, C-24, C-35, A-37 ×2
 
 ## Day 30
 
@@ -312,8 +312,9 @@ No time given: EOD, 2.38, STORY, The Review Room
 | 21:05 | [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) | 5 | mail sent: chat, redacted read it once |
 | 21:05 | [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) | 11 | -03471 (Ruth Calloway, Level 3 Work Floor A). Cycle 300 Q4, Day 31, 21:05 to 21:38 Branch Time. Both E-numbers are placeholders. |
 | 21:05 | [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) | 130 | 71, a new placeholder on Work Floor A); the date and times (Day 31, 21:05 to 21:38, the evening before the incident in B-26); the redaction reasons R1 to R3 and the reda… |
+| 22:05 | [2.65](<../canon/documents/2.65 — Voluntary Aversive Growth.md>) | 89 | Reading Room attendant's desk note for the fourteenth loan (Day 31, 22:05 to 22:50) reads: "Did not turn pages after the first four minutes." |
 
-No time given: C-24, A-23, B-29, Earth View Window
+No time given: 2.65, C-24, A-23, B-29, Earth View Window
 
 ## Day 32
 
@@ -322,7 +323,7 @@ No time given: C-24, A-23, B-29, Earth View Window
 | 16:47 | [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) | 28 | Date of Incident: Cycle 300 Q4 — Day 32, 16:47 Branch Time |
 | 19:05 | [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) | 5 | mail sent: Incident Report ICS-IR3 — E-03615 — restricted designation spoken aloud, document recovered at position, inve… |
 
-No time given: A-29, B-28, B-29, B-30 ×2
+No time given: A-29, A-43, B-28, B-29, B-30 ×2
 
 ## Day 33
 
@@ -334,8 +335,9 @@ No time given: A-29, B-28, B-29, B-30 ×2
 | 11:20 | [A-29](<../canon/internal-communications/employee/A-29 — Chidi and Ruth Read It Once REDACTED EVIDENCE.md>) | 130 | at B-26 puts in scope item 5); the cover note and its date, Day 33, 11:20; the contents of the page as the assets recall it, which follow B-26's block; that the page was… |
 | 12:30 | [C-30](<../canon/internal-communications/branch-director/C-30 — Earth Branch Manager and Research Team Does EOD Have a Step 5.md>) | 29 | Reply — Day 33, 12:30 |
 | 14:00 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 32 | E-03615 was interviewed formally on Day 33 at 14:00. He was asked who gave him the sheet. He gave no answer. He was asked whether he wished to say anything. He a |
+| 16:00 | [2.65](<../canon/documents/2.65 — Voluntary Aversive Growth.md>) | 76 | (Inside the back cover. Printed Cycle 300 Q4, Day 33, 16:00, at the Research Team's request.) |
 
-No time given: 2.61 ×2, C-35, B-29
+No time given: 2.61 ×2, 2.65, C-35, B-29
 
 ## Day 34
 
@@ -350,7 +352,7 @@ No time given: 2.61 ×2, C-35, B-29
 | 18:20 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 5 | mail sent: Investigation file ICS-IR3-300Q4-032 — E-03615 — result of the source inquiry (status: open) |
 | 18:20 | [B-29](<../canon/internal-communications/ptkw/B-29 — Investigation Result ICS-IR3-300Q4-032 - The Source of the Sheet Is Not Found.md>) | 89 | sender (the Investigation Team that signed A-29); the date (Day 34, 18:20, after the Day 33 redaction and before the Day 35 review); the finding that the cropping matche… |
 
-No time given: 2.64, B-30
+No time given: 2.64, 2.65, B-30
 
 ## Day 35
 
@@ -378,10 +380,30 @@ No time given: 2.61, A-37 ×3, B-30 ×2, B-32 ×2
 | 02:00 | [C-25](<../canon/internal-communications/branch-director/C-25 — Earth Branch Manager - Reply to The Discussion of EOD Sunsetting.md>) | 66 | 2. The hour and the pretext. Day 38, 02:00 Branch Time, after the Day 35 review and not before it. Level 7 is closed from the hour of the Team's confirm |
 | 02:00 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 43 | of C-25 stand as I set them out: Level 7, the whole floor; Day 38, 02:00; the recertification pretext; no asset losses; thirty-one days to repair, nineteen of them for t… |
 | 02:00 | [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) | 68 | Level 7 closes at that hour. The hour of the engagement is Day 38, 02:00. The Directorate has been told. |
+| 02:11 | [B-45](<../canon/internal-communications/ptkw/B-45 — HQ Oversight Order All PTKW to the Level 7 South Seal.md>) | 4 | mail sent: Level 7 south seal: report now |
+| 02:31 | [A-43](<../canon/internal-communications/employee/A-43 — Lior and Chidi Did You Feel That.md>) | 4 | mail sent: did you feel that |
+| 03:12 | [C-36](<../canon/internal-communications/branch-director/C-36 — Earth Branch Manager to HQ Who Sent PTKW.md>) | 4 | mail sent: Level 7, south bay: PTKW on the floor |
+| 03:41 | [C-37](<../canon/internal-communications/branch-director/C-37 — HQ to Earth Branch Manager The Order Was Ours.md>) | 4 | mail sent: Re: Level 7, south bay: PTKW on the floor |
+| 04:20 | [B-46](<../canon/internal-communications/ptkw/B-46 — Duty Officer After-Action Record Level 7 South Bay.md>) | 5 | mail sent: After-action record: Level 7 south bay, Day 38 |
+| 04:52 | [B-47](<../canon/internal-communications/ptkw/B-47 — K-12 to K-7 I Was at Emplacement Two.md>) | 4 | mail sent: I was at emplacement two |
+| 05:05 | [B-48](<../canon/internal-communications/ptkw/B-48 — ICS-OP-7 and VAH-3 Four Times and Not Sorry.md>) | 4 | mail sent: chat |
+| 06:15 | [B-49](<../canon/internal-communications/ptkw/B-49 — TOR-9 to Conduct Officer Reclassified.md>) | 4 | mail sent: Re: Entry of asset status, Level 7, Day 38 |
+| 07:10 | [B-50](<../canon/internal-communications/ptkw/B-50 — ICS-SEC-7 to K-7 What I Saw from the North Corridor.md>) | 4 | mail sent: What I saw from the north corridor |
+| 08:30 | [B-51](<../canon/internal-communications/ptkw/B-51 — Oversight Amendments Withdrawal and Erasure of the After-Action Record.md>) | 5 | mail sent: After-action record, Day 38: amendments, withdrawal and erasure |
+| 08:30 | [B-51](<../canon/internal-communications/ptkw/B-51 — Oversight Amendments Withdrawal and Erasure of the After-Action Record.md>) | 10 | Message 1 — Day 38, 08:30 |
+| 09:05 | [B-51](<../canon/internal-communications/ptkw/B-51 — Oversight Amendments Withdrawal and Erasure of the After-Action Record.md>) | 26 | Message 2 — Day 38, 09:05 |
+| 09:12 | [B-51](<../canon/internal-communications/ptkw/B-51 — Oversight Amendments Withdrawal and Erasure of the After-Action Record.md>) | 38 | Message 3 — Day 38, 09:12 |
+| 12:40 | [A-44](<../canon/internal-communications/employee/A-44 — Ruth and Chidi The Statement.md>) | 4 | mail sent: chat the statement |
+| 14:15 | [A-46](<../canon/internal-communications/employee/A-46 — Sera and a Coordinator The Atrium and the Forms.md>) | 4 | mail sent: chat the atrium and the forms |
+| 19:40 | [A-47](<../canon/internal-communications/employee/A-47 — Noor and a Friend I Went to the Atrium.md>) | 4 | mail sent: chat I went to the atrium |
 
-No time given: A-29, B-30
+No time given: A-29, B-30, B-46, B-49, B-51 ×2
 
 ## Day 39
+
+| Time | File | Line | What it says |
+|---|---|---|---|
+| 05:58 | [A-45](<../canon/internal-communications/employee/A-45 — Tarek and E-04118 The Marks on the Floor.md>) | 4 | mail sent: chat what they told you about Seven |
 
 No time given: 2.61
 
@@ -401,7 +423,7 @@ No time given: 2.61 ×5, A-36, A-37, B-32 ×2
 | 14:30 | [B-36](<../canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md>) | 24 | Message 2 — Day 41, 14:30 |
 | 14:44 | [B-36](<../canon/internal-communications/ptkw/B-36 — Oversight Perception Alignment Instruction and Withdrawal.md>) | 36 | Message 3 — Day 41, 14:44 |
 
-No time given: 2.61 ×3, A-35 ×5, A-36 ×2, A-37, B-35 ×2, B-36
+No time given: 2.61 ×3, A-35 ×5, A-36 ×2, A-37, A-45, B-35 ×2, B-36, B-51
 
 ## Day 42
 

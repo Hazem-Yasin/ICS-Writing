@@ -151,6 +151,8 @@ No reply from the Research Team is on file. The decision is open.
 *→ See: Document 2.49 (The Study of Eirik's Smile): sealed.*
 *→ See: Document 2.63 (The Study of Martyrdom): sealed. His pencil sheet. And C-35, the Manager's decision.*
 *→ See: Document 2.64 (The Note in the Drawer): his first-days note on the humans. Not an ICS document.*
+*→ See: Document 2.65 (Voluntary Aversive Growth): the Division's study of humans who choose hardship, and the archive record of his fourteen readings of it. [PROPOSAL]*
+*→ See: B-45 to B-51, C-36, C-37, A-43 to A-47: the last battle as PTKW, HQ and the staff record it. HQ ordered PTKW in. [PROPOSAL]*
 *→ See: Document 2.18 (Human Psychology Report), Sections 2.10 and 2.11: Sovereign Projection and the released account that is not true.*
 *→ See: `canon/characters/Captain Eirik Aronsen.md` and `canon/characters/Colonel Leif Aronsen.md`.*
 *→ See: `design/EOD_ENCOUNTERS.md`: how his encounters are staged in the game.*

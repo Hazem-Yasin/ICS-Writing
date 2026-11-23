@@ -9,10 +9,10 @@ The access level of each file is read from its header (Status / Classification /
 | Section | Employee | Global | PTKW | Branch Director | Above Director | Board | Sealed | — |
 |---|---|---|---|---|---|---|---|---|
 | `canon/characters` | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 14 |
-| `canon/documents` | 0 | 3 | 24 | 1 | 3 | 12 | 2 | 19 |
+| `canon/documents` | 0 | 3 | 25 | 1 | 3 | 12 | 2 | 19 |
 | `canon/enemies` | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | `canon/facility` | 0 | 0 | 4 | 0 | 0 | 0 | 1 | 8 |
-| `canon/internal-communications` | 42 | 3 | 46 | 16 | 2 | 4 | 6 | 17 |
+| `canon/internal-communications` | 47 | 3 | 53 | 18 | 2 | 4 | 6 | 17 |
 | `canon/weapons` | 0 | 6 | 1 | 0 | 0 | 0 | 0 | 16 |
 
 ## Who can know about each thing
@@ -21,15 +21,15 @@ For each tracked entity, how many files at each level mention it. A thing that a
 
 | Entity | Employee | Global | PTKW | Branch Director | Above Director | Board | Sealed | — |
 |---|---|---|---|---|---|---|---|---|
-| EOD | 1 | 2 | 24 | 4 | 2 | 13 | 8 | 29 |
+| EOD | 1 | 2 | 31 | 5 | 2 | 13 | 8 | 29 |
 | ARM-27 |  |  | 4 |  |  | 9 | 4 | 3 |
-| EOD Research Team |  |  | 9 | 1 | 2 | 4 | 8 | 3 |
-| Earth Branch Manager |  |  | 13 | 5 |  | 5 | 8 | 4 |
+| EOD Research Team |  |  | 10 | 1 | 2 | 4 | 8 | 3 |
+| Earth Branch Manager |  |  | 15 | 7 |  | 5 | 8 | 4 |
 | Branch Director | 2 | 4 | 17 | 14 |  | 11 |  | 29 |
-| Brant |  |  | 6 | 15 |  | 2 |  | 5 |
-| K-7 | 7 | 2 | 25 | 6 |  | 1 |  | 12 |
+| Brant |  |  | 6 | 17 |  | 2 |  | 5 |
+| K-7 | 7 | 2 | 29 | 6 |  | 1 |  | 12 |
 | Kai | 5 | 2 | 2 | 1 |  |  |  | 3 |
-| Tarek | 13 | 3 | 8 | 3 |  | 2 | 1 | 23 |
+| Tarek | 15 | 3 | 8 | 3 |  | 2 | 1 | 23 |
 | Yaw | 3 |  | 2 | 3 |  |  |  | 3 |
 | Leif Aronsen |  |  | 1 |  |  | 1 | 3 | 3 |
 | Eirik Aronsen |  |  | 1 |  |  | 1 | 7 | 3 |
@@ -41,19 +41,19 @@ For each tracked entity, how many files at each level mention it. A thing that a
 | Deployment Order 287 |  |  | 2 |  |  | 7 | 2 | 1 |
 | Sudbury |  |  | 2 |  |  | 4 | 2 | 1 |
 | Hallvik |  |  | 2 |  |  | 3 | 3 | 3 |
-| Journey Completion Directorate |  |  | 3 |  | 1 |  | 4 | 1 |
-| Teshvar Consortium |  |  |  |  |  |  | 2 | 1 |
+| Journey Completion Directorate | 1 |  | 5 | 2 | 1 |  | 4 | 1 |
+| Teshvar Consortium |  |  | 1 |  |  |  | 2 | 1 |
 | Labor Source #312 |  |  | 6 | 1 |  |  | 1 | 1 |
 | Labor Source #038 |  |  | 3 |  |  | 2 |  | 3 |
 | Sovereign Projection |  |  | 3 |  |  | 7 | 5 | 1 |
 | The Smile Study (Doc 2.49) |  |  |  |  |  |  | 7 | 3 |
-| Human Psychology Report (Doc 2.18) | 3 | 2 | 18 | 4 |  | 9 | 4 | 14 |
-| PTKW | 12 | 9 | 78 | 12 | 4 | 11 | 7 | 57 |
-| EIMU | 6 | 5 | 34 |  | 1 | 10 | 6 | 34 |
-| CCN | 25 | 6 | 13 | 4 |  | 2 |  | 21 |
+| Human Psychology Report (Doc 2.18) | 3 | 2 | 19 | 4 |  | 9 | 4 | 14 |
+| PTKW | 14 | 9 | 86 | 14 | 4 | 11 | 7 | 57 |
+| EIMU | 6 | 5 | 35 |  | 1 | 10 | 6 | 34 |
+| CCN | 30 | 6 | 13 | 4 |  | 2 |  | 21 |
 | SMAC |  |  | 2 |  |  |  | 3 |  |
 | Milgram |  |  | 3 |  |  | 3 | 2 | 3 |
-| CRD-7 |  | 1 | 4 | 1 |  | 1 |  | 5 |
+| CRD-7 |  | 1 | 8 | 1 |  | 1 |  | 5 |
 | Resistance index |  | 1 | 19 | 3 | 2 | 9 | 2 | 11 |
 
 ## Restricted names found below their level

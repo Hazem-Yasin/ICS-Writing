@@ -68,7 +68,12 @@ canon/internal-communications/
 │   ├── A-39 — Level 4 Thread Whose Turn at the Window.md
 │   ├── A-40 — Dev to Priya The Seats Are Here.md
 │   ├── A-41 — Priya to Dev I Went to the Liaison.md
-│   └── A-42 — Dev Unsent The Crumbs Were Not His.md
+│   ├── A-42 — Dev Unsent The Crumbs Were Not His.md
+│   ├── A-43 — Lior and Chidi Did You Feel That.md
+│   ├── A-44 — Ruth and Chidi The Statement.md
+│   ├── A-45 — Tarek and E-04118 The Marks on the Floor.md
+│   ├── A-46 — Sera and a Coordinator The Atrium and the Forms.md
+│   └── A-47 — Noor and a Friend I Went to the Atrium.md
 │
 ├── ptkw/                              ← PTKW and ICS alien staff internal
 │   ├── B-01 — K7 EIMU Anomaly Flag.md
@@ -114,7 +119,14 @@ canon/internal-communications/
 │   ├── B-41 — Manager to K-7 Four Closures.md
 │   ├── B-42 — K-7 to Manager Four Closures Done.md
 │   ├── B-43 — Mateus Held Note to His Sister.md
-│   └── B-44 — All-Staff Broadcast The Window Corridor Will Close.md
+│   ├── B-44 — All-Staff Broadcast The Window Corridor Will Close.md
+│   ├── B-45 — HQ Oversight Order All PTKW to the Level 7 South Seal.md
+│   ├── B-46 — Duty Officer After-Action Record Level 7 South Bay.md
+│   ├── B-47 — K-12 to K-7 I Was at Emplacement Two.md
+│   ├── B-48 — ICS-OP-7 and VAH-3 Four Times and Not Sorry.md
+│   ├── B-49 — TOR-9 to Conduct Officer Reclassified.md
+│   ├── B-50 — ICS-SEC-7 to K-7 What I Saw from the North Corridor.md
+│   └── B-51 — Oversight Amendments Withdrawal and Erasure of the After-Action Record.md
 │
 └── branch-director/                   ← Branch Director and HQ correspondence
     ├── C-01 — Director to Brant Cluster Flag.md
@@ -151,7 +163,9 @@ canon/internal-communications/
     ├── C-32 — HQ to Earth Branch Manager On Scarcity and Attribution.md
     ├── C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md
     ├── C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md
-    └── C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md
+    ├── C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md
+    ├── C-36 — Earth Branch Manager to HQ Who Sent PTKW.md
+    └── C-37 — HQ to Earth Branch Manager The Order Was Ours.md
 ```
 
 ---

@@ -9,7 +9,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 | Open-question sections | 27 (about 162 listed items) |
 | Inline TODO / TBD / “to be decided” lines | 8 |
 | Unchecked items in `meta/TODO.md` | 6 |
-| Files carrying [PROPOSAL] material not yet ruled canon | 140 |
+| Files carrying [PROPOSAL] material not yet ruled canon | 155 |
 
 ## The author's to-do list (`meta/TODO.md`)
 
@@ -26,7 +26,7 @@ Everything the repo itself marks as undecided or unfinished: sections headed *Op
 
 ### ICS: Interplanetary Corporate Solutions — “Open rulings (ask the user; don't guess)”
 
-`meta/HANDOFF_CARTOGRAPHER.md` line 506
+`meta/HANDOFF_CARTOGRAPHER.md` line 566
 
 **Still open — needs the author's call:**
 - Phase 6 real-time length: `design/TIME_MODEL.md` proposes 88 minutes at 15×.
@@ -361,7 +361,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 
 ### ICS: Interplanetary Corporate Solutions — “8. Open questions”
 
-`design/TIME_MODEL.md` line 277
+`design/TIME_MODEL.md` line 286
 
 - Is the Phase 2/3 ruling in §1.3 acceptable, or should `design/DESIGN.md` be relabeled "Phase 2: Days 4–10, Phase 3: Days 11–20" with Phase 2's cold state described as a lingering effect?
 - Do the 88 real minutes for Phase 6 feel right, or should the player get the choice at the start of Phase 6 (like a pacing setting under `design/DIFFICULTY_ACCESSIBILITY.md`)?
@@ -520,7 +520,7 @@ See also the Plan System section in `meta/CANON_DECISIONS.md`.
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 48 | - 1.10: Kai can open his quarters terminal during confinement (STORY.md "Before It Begins" puts the folder there). design/DESIGN.md Phase 1 says the confined p… |
 | [CANON_DECISIONS](<../meta/CANON_DECISIONS.md>) | 64 | - Mentions of "Inflatable Crowd Solutions" (TODO B3), each in a file whose access line allows it: |
 | [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 5 | Paths note (2026-11-06). The repo was restructured after this brief was written. writing/ is now the repo root. Lore is in canon/, prose in story/, systems in… |
-| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 125 | 5. meta/OPEN.md and meta/TODO.md: open questions, PROPOSAL files and TODOs. |
+| [HANDOFF_CARTOGRAPHER](<../meta/HANDOFF_CARTOGRAPHER.md>) | 185 | 5. meta/OPEN.md and meta/TODO.md: open questions, PROPOSAL files and TODOs. |
 | [1.1 - Labor Source 312, Day Four](<../story/scenes/1.1 - Labor Source 312, Day Four.md>) | 19 | I did not wave. Nobody noticed. I want that understood as an accident, not as courage. I was the one person in the building who had not yet decided what his fa… |
 
 ## Files carrying [PROPOSAL] material
@@ -563,6 +563,7 @@ These contain new material that stays proposal until the author rules. Listed so
 - [2.62](<../canon/documents/2.62 — Floor Liaison Guide Receiving Colleague Questions.md>) 2.62 Floor Liaison Guide — Receiving Colleague Questions
 - [2.63](<../canon/documents/2.63 — The Study of Martyrdom.md>) 2.63 The Study of Martyrdom
 - [2.64](<../canon/documents/2.64 — The Note in the Drawer.md>) 2.64 The Note in the Drawer
+- [2.65](<../canon/documents/2.65 — Voluntary Aversive Growth.md>) 2.65 Voluntary Aversive Growth: Supplement H to RES-BSS-349
 - [HQ-Response-Protocol](<../canon/enemies/HQ-Response-Protocol.md>) Category 4 — HQ Rapid Response Assets
 - [PTKW-Security-Division](<../canon/enemies/PTKW-Security-Division.md>) Category 1 — PTKW Security Division
 - [Level 2](<../canon/facility/Level 2.md>) Level 2 — Administration & Human Resources
@@ -584,6 +585,8 @@ These contain new material that stays proposal until the author rules. Listed so
 - [C-33](<../canon/internal-communications/branch-director/C-33 — Earth Branch Manager to HQ Request to Close the Window Corridor.md>) Level 4 window corridor: stage 4, request to authorise
 - [C-34](<../canon/internal-communications/branch-director/C-34 — HQ to Earth Branch Manager Authorisation and the Ninety Days.md>) Re: Level 4 window corridor: stage 4, request to authorise
 - [C-35](<../canon/internal-communications/branch-director/C-35 — Earth Branch Manager and Research Team The Sheet in His Quarters.md>) The sheet in his quarters, and the second decision
+- [C-36](<../canon/internal-communications/branch-director/C-36 — Earth Branch Manager to HQ Who Sent PTKW.md>) Level 7, south bay: PTKW on the floor
+- [C-37](<../canon/internal-communications/branch-director/C-37 — HQ to Earth Branch Manager The Order Was Ours.md>) Re: Level 7, south bay: PTKW on the floor
 - [01 — Akar — Design Philosophy](<../canon/internal-communications/design-team/01 — Akar — Design Philosophy.md>) Preliminary Design Philosophy — Earth Branch Facility
 - [10 — Akar — The Completion Rate](<../canon/internal-communications/design-team/10 — Akar — The Completion Rate.md>) The completion rate
 - [11 — Vance — The Wording on the Growth Plan Form](<../canon/internal-communications/design-team/11 — Vance — The Wording on the Growth Plan Form.md>) The wording on the Growth Plan form
@@ -604,6 +607,11 @@ These contain new material that stays proposal until the author rules. Listed so
 - [A-40](<../canon/internal-communications/employee/A-40 — Dev to Priya The Seats Are Here.md>) RE: RE: RE: RE: RE: RE: RE: the window seat
 - [A-41](<../canon/internal-communications/employee/A-41 — Priya to Dev I Went to the Liaison.md>) RE: RE: RE: RE: RE: RE: RE: RE: the window seat
 - [A-42](<../canon/internal-communications/employee/A-42 — Dev Unsent The Crumbs Were Not His.md>) RE: RE: RE: RE: RE: RE: RE: RE: RE: the window seat
+- [A-43](<../canon/internal-communications/employee/A-43 — Lior and Chidi Did You Feel That.md>) did you feel that
+- [A-44](<../canon/internal-communications/employee/A-44 — Ruth and Chidi The Statement.md>) chat the statement
+- [A-45](<../canon/internal-communications/employee/A-45 — Tarek and E-04118 The Marks on the Floor.md>) chat what they told you about Seven
+- [A-46](<../canon/internal-communications/employee/A-46 — Sera and a Coordinator The Atrium and the Forms.md>) chat the atrium and the forms
+- [A-47](<../canon/internal-communications/employee/A-47 — Noor and a Friend I Went to the Atrium.md>) chat I went to the atrium
 - [B-25](<../canon/internal-communications/ptkw/B-25 — HQ Host Force Monitoring Instruction.md>) Host force monitoring — two named formations — Earth Branch, standing…
 - [B-26](<../canon/internal-communications/ptkw/B-26 — Incident Report ICS-IR3 - Restricted Designation Heard and Document Recovered.md>) Incident Report ICS-IR3 — E-03615 — restricted designation spoken alo…
 - [B-27](<../canon/internal-communications/ptkw/B-27 — Intercept Thread — Lior Asks the Floor Liaison About the Man Without a Badge.md>) as sent Question about the man in the corridor
@@ -624,6 +632,13 @@ These contain new material that stays proposal until the author rules. Listed so
 - [B-42](<../canon/internal-communications/ptkw/B-42 — K-7 to Manager Four Closures Done.md>) Re: Level 4 window corridor — fourteen-day observation report
 - [B-43](<../canon/internal-communications/ptkw/B-43 — Mateus Held Note to His Sister.md>) Dinner
 - [B-44](<../canon/internal-communications/ptkw/B-44 — All-Staff Broadcast The Window Corridor Will Close.md>) An Important Update About the Earth View Window
+- [B-45](<../canon/internal-communications/ptkw/B-45 — HQ Oversight Order All PTKW to the Level 7 South Seal.md>) Level 7 south seal: report now
+- [B-46](<../canon/internal-communications/ptkw/B-46 — Duty Officer After-Action Record Level 7 South Bay.md>) After-action record: Level 7 south bay, Day 38
+- [B-47](<../canon/internal-communications/ptkw/B-47 — K-12 to K-7 I Was at Emplacement Two.md>) I was at emplacement two
+- [B-48](<../canon/internal-communications/ptkw/B-48 — ICS-OP-7 and VAH-3 Four Times and Not Sorry.md>) chat
+- [B-49](<../canon/internal-communications/ptkw/B-49 — TOR-9 to Conduct Officer Reclassified.md>) Re: Entry of asset status, Level 7, Day 38
+- [B-50](<../canon/internal-communications/ptkw/B-50 — ICS-SEC-7 to K-7 What I Saw from the North Corridor.md>) What I saw from the north corridor
+- [B-51](<../canon/internal-communications/ptkw/B-51 — Oversight Amendments Withdrawal and Erasure of the After-Action Record.md>) After-action record, Day 38: amendments, withdrawal and erasure
 - [ART_DIRECTION](<../design/ART_DIRECTION.md>) ICS: Interplanetary Corporate Solutions
 - [BADGES_AND_UNIFORMS](<../design/BADGES_AND_UNIFORMS.md>) BADGES AND UNIFORMS
 - [DEVICES](<../design/DEVICES.md>) Devices and addresses: where the mail lives, and how it is reached

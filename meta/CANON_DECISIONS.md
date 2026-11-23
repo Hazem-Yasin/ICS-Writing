@@ -157,3 +157,35 @@ Kai Osei is E-05682, "The Variable" (B-19 header, A-06, `story/STORY.md`). The c
 - **Open: C-24 trigger (b).** A state of his own in any word. The note would meet it on Day 4. It is written as unreceived, which keeps 2.63 item 4 (the first document from him that is not an answer) true. If the Team ever finds it, that line fails.
 - **Open: where the player finds it.** The drawer is proposed. C-35 has the Manager enter the quarters for the first time on Day 34 and says nothing of a drawer.
 - **Open: the stationery.** On Day 4 he has no school pad or pencil, so he uses the Branch's paper and a Branch pen. The Team could place this sheet by its stock; it could not place 2.63.
+
+## EOD's last battle: HQ orders PTKW in, 2026-11-11 [PROPOSAL]
+
+*Source: the author's brief. Chats and mail between humans, and between PTKW, about the battle and how it feels. EOD used a human art and fought for a while. He was defeated in the end because the whole PTKW team joined. HQ itself, and not the Branch Manager, gave PTKW the command, because the Directorate was losing after he got up. Some PTKW are worried or glad they killed him; some feel it was wrong.*
+
+- **New:** C-36, C-37 (Manager and HQ); B-45 (the order), B-46 (Duty Officer's record), B-47 to B-50 (K-12/K-7, OP-7/VAH-3, TOR-9, SEC-7), B-51 (Oversight amendments, withdrawn and erased); A-43 to A-47 (staff chats on Day 38 and 39).
+- **Edits:** `README.md`, `canon/internal-communications/README.md`, `design/TIME_MODEL.md` (Days 38 and 39), `tools/threads.json`, `tools/timeline.json` (EOD track).
+- **Open: the cover.** C-24 and C-25 plan an engagement nobody sees, no asset losses and a PTKW that knows nothing. Here thirty-three PTKW fight, six are hurt (C-37), and 33 officers can say what they saw. The statement's "[Number] colleagues were hurt" is now six.
+- **Open: scene 1.14.** It has the Directorate hold for nine seconds, "also waiting". These files have them losing about a minute later. Consistent only if the stance changed the odds.
+- **Open: who gave the order.** The Oversight Unit sends it "by order of HQ" (B-45); Brant says it was under his authority (C-37).
+- **Open: the CRD-7.** B-46 has it fail four times (he is up before the ninety seconds). That is new.
+- **Open: the art.** Still unnamed. B-46 and A-45 reach it by hearsay ("a civilian practice taught to children in halls on Earth"). B-51 has HQ strike the line.
+- **Open: the ACS-9 at distance.** A-43 has staff three floors down feel it as being watched. The file gives no range.
+- **Open: time of death.** B-46 has the end at 02:51. A-43 has the field stop at 03:01. Scene 1.14 ends before either.
+- **Open: SEC-7 at the north door.** 1.14 says the Manager sealed the north face at 01:40, not who held it. B-50 puts SEC-7 there, a witness the cover did not plan.
+- **Open: OP-7 and TOR-9 on the floor.** Both are desk roles (Asset Management; Reclassification). B-46 says only that every officer on shift or called attended.
+- **Open: B-36 and B-51.** The Oversight Unit's pattern (instruction, withdrawal, erasure) appears on Day 38 and again on Day 41. K-7's note in B-36 says he does not know why he keeps them; in B-51 he says he is beginning to.
+
+## What the Division learned about hardship, and what EOD took from it, 2026-11-17 [PROPOSAL]
+
+*Source: the author's brief. Humans study struggle in a different way from ICS (Mishima's Sun and Steel, Goggins's Can't Hurt Me): they grow through pain and learn from it. ICS studied it and wrote it down, but only as a study. EOD understood it differently, and loves what he understood about how humans view pain and struggle.*
+
+- **New:** Doc 2.65 (Voluntary Aversive Growth, Supplement H to RES-BSS-349). PTKW tier, Research and Assessment folder. The Division's finding is three conditions under which load produces growth (chosen; can be stopped and ends; the meaning is the person's own) and a classification of the Branch's own instruments against them (Support Steps, Tier Velocity Standard, the Comforts). Recommendation: "No operational application." Closed Cycle 300 Q1. The archive's circulation record (printed Day 33, 16:00) is EOD's whole part: fourteen readings in Reading Room 5-R, the last on Day 31, 22:05 to 22:50, and the attendant's note "Did not turn pages after the first four minutes."
+- **Edits:** `canon/characters/EOD.md` (see-also), `design/TIME_MODEL.md` (Day 31 and Day 33 rows), `README.md`, `design/PRODUCTION_SCOPE.md`, `tools/build_master.py` (65 documents, 2.1-2.65), `tools/timeline.json` (EOD track), and in `ICS-OS`, `build_os.py` (`DOCS` row 65).
+- **Real sources.** Seneca, Nietzsche, Mishima, Tedeschi and Calhoun, Seery et al., Maier and Seligman, Goggins. Each is summarised in the Division's words. Nothing is quoted, per the handoff's rule on real sources. Mishima's death is stated plainly and without comment. Not checked against the primary texts: the 2,400-person panel size for Seery et al. and Goggins's "40 per cent", both from memory. Verify before the numbers are relied on.
+- **How it links to the last stand.** Doc 2.63 gives him the bow and the settlement of fear. This file gives the other half, a load taken on by choice that only he can end. It is never stated. The Day 38 stance and the carved smile (scene 1.14) are the use he made of it. Whether the player is meant to see the link is left open.
+- **Open: "loves".** The brief says he loves what he understood. The file never says so. Doc 2.15 gives him no states and C-24 trigger (b) counts "a state of his own, in any word", so a circulation record gives the same effect without a word from him. Does the author want the word to appear, and where?
+- **Open: C-24 and C-35.** The record is printed for the Observe log on Day 33. C-35 (Day 34) does not mention it, so the Manager either has not seen it or has not counted it. If the Team counts it, it is a fourth case of the C-24 trigger (b) problem already raised for Doc 2.64.
+- **Open: where the player finds it.** PTKW tier is proposed, so PTKW and Research accounts can open it in ICS-OS. Whether it appears in the game world, and where, is not decided.
+- **Open: Docs 2.53 and 2.56 in Cycle 300 Q1.** The supplement classifies both instruments as already in force when it closed. Their own dates are not stated.
+- **Open: the Comforts.** The study treats them as instruments that apply no load, and records no outcome. Is that how the author means them?
+

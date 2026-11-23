@@ -25,6 +25,7 @@
         {"day": 28, "time": "18:50", "refs": ["2.49"], "text": "The sealed Study of Eirik's Smile."},
         {"day": 29, "refs": ["C-24"], "text": "The discussion of EOD sunsetting. Two readers; EOD excluded."},
         {"day": 30, "refs": ["C-25"], "text": "The Manager argues for holding the order and prepares Level 7 as a farewell floor."},
+        {"day": 31, "time": "22:05", "refs": ["2.65"], "text": "His fourteenth reading of Supplement H, Voluntary Aversive Growth, in Reading Room 5-R. The archive record is printed on Day 33 at 16:00."},
         {"day": 31, "refs": ["A-29"], "text": "Chidi and Ruth discuss the sheet they each read once and do not have."},
         {"day": 32, "time": "16:47", "refs": ["B-26"], "text": "A human asset says \"[Subjugator]\" at his desk; a scan of the Doc 2.15 designation block is found in his drawer. Report filed 19:05."},
         {"day": 33, "refs": ["C-30"], "text": "Does EOD have a Step 5?"},
@@ -33,7 +34,15 @@
         {"day": 34, "refs": ["B-29"], "text": "Result of the B-26 investigation: the page was cut by the Research Division."},
         {"day": 35, "time": "02:00", "refs": ["C-35"], "text": "The Team's confirmation issues; Level 7 closes under the recertification pretext."},
         {"day": 35, "time": "23:50", "refs": ["B-30"], "text": "\"INFLATABLE CROWD SOLUTIONS\" is written on the Level 3 corridor wall; found 05:40 on Day 36."},
-        {"day": 38, "time": "01:40", "refs": ["scene:1.14"], "text": "Level 7 sealed. The fourteen enter at 02:00. The scene stops before the end."}
+        {"day": 38, "time": "01:40", "refs": ["scene:1.14"], "text": "Level 7 sealed. The fourteen enter at 02:00. The scene stops before the end."},
+        {"day": 38, "time": "02:11", "refs": ["B-45"], "text": "The Directorate is losing; HQ orders every PTKW officer to the south seal. The Manager is not told."},
+        {"day": 38, "time": "02:17", "refs": ["B-46"], "text": "Thirty-three PTKW join. The end is recorded at 02:51."},
+        {"day": 38, "time": "02:31", "refs": ["A-43"], "text": "Lior and Chidi feel the field through the floor and hope he wins."},
+        {"day": 38, "time": "03:12", "refs": ["C-36", "C-37"], "text": "The Manager asks who sent PTKW. HQ says it did."},
+        {"day": 38, "time": "04:52", "refs": ["B-47", "B-48", "B-49", "B-50"], "text": "PTKW: glad, ashamed, not sorry, wrong, relieved."},
+        {"day": 38, "time": "08:30", "refs": ["B-51"], "text": "The Oversight Unit amends, withdraws and erases the after-action record."},
+        {"day": 38, "time": "12:40", "refs": ["A-44", "A-46", "A-47"], "text": "The statement: relief, grief, doubt, a form field, a pen on a table."},
+        {"day": 39, "time": "05:58", "refs": ["A-45"], "text": "Facilities finds two worn marks in the Level 7 coating."}
       ]
     },
     {

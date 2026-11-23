@@ -4,7 +4,7 @@
 
 Messages grouped into conversations. A thread is found when files share a subject once Re:/Fwd: are removed, or share a tag in the subject (Deployment Order 287, E-03615, ICS-IR3-…). Anything the subjects do not reveal is listed by hand in `tools/threads.json`. A file holding several messages (B-28, C-26) counts as a thread by itself. Order is by id, which is not always date order: check the Date column.
 
-**19 threads. 83 messages stand alone** (see `meta/INDEX.md`).
+**20 threads. 83 messages stand alone** (see `meta/INDEX.md`).
 
 ## The window corridor: the fight over the bench, HQ's plan, the closures, the closing
 
@@ -86,6 +86,27 @@ Messages grouped into conversations. A thread is found when files share a subjec
 | [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 10:15 | PTKW Floor Liaison, Level 3 → K-12 | Re: Re: Second signature — E-03274, Comfortable Inquiry | PTKW |
 | [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 10:52 | K-12 → PTKW Floor Liaison, Level 3 | Re: Re: Re: Second signature — E-03274, Comfortable Inquiry | PTKW |
 | [B-37](<../canon/internal-communications/ptkw/B-37 — Floor Liaison and K12 Comfortable Inquiry Escalation.md>) | Cycle 300 Q4, Day 17, 11:30 | PTKW Floor Liaison, Level 3 → E-03274 | Re: A few questions, if that's all right | PTKW |
+
+## The last battle: HQ orders PTKW in, the record, and what staff felt
+
+*14 files, 14 messages. listed by hand in tools/threads.json.*
+
+| File | Date | From → To | Subject | Access |
+|---|---|---|---|---|
+| [A-43](<../canon/internal-communications/employee/A-43 — Lior and Chidi Did You Feel That.md>) | Cycle 300 Q4 — Day 38, 02:31 to 03:04 | E-03615 → E-03702 | did you feel that | Employee |
+| [A-44](<../canon/internal-communications/employee/A-44 — Ruth and Chidi The Statement.md>) | Cycle 300 Q4 — Day 38, 12:40 to 13:22 | E-03471 → E-03702 | chat the statement | Employee |
+| [A-45](<../canon/internal-communications/employee/A-45 — Tarek and E-04118 The Marks on the Floor.md>) | Cycle 300 Q4 — Day 39, 05:58 to 06:30 | E-03388 → E-04118 | chat what they told you about Seven | Employee |
+| [A-46](<../canon/internal-communications/employee/A-46 — Sera and a Coordinator The Atrium and the Forms.md>) | Cycle 300 Q4 — Day 38, 14:15 to 14:51 | E-04788 → E-04790 | chat the atrium and the forms | Employee |
+| [A-47](<../canon/internal-communications/employee/A-47 — Noor and a Friend I Went to the Atrium.md>) | Cycle 300 Q4 — Day 38, 19:40 to 20:12 | E-03274 → E-03290 | chat I went to the atrium | Employee |
+| [B-45](<../canon/internal-communications/ptkw/B-45 — HQ Oversight Order All PTKW to the Level 7 South Seal.md>) | Cycle 300 Q4 — Day 38, 02:11 | PTKW Oversight Unit, Interplanetary HQ → All PTKW, Levels 4 to 7 | Level 7 south seal: report now | PTKW |
+| [B-46](<../canon/internal-communications/ptkw/B-46 — Duty Officer After-Action Record Level 7 South Bay.md>) | Cycle 300 Q4 — Day 38, 04:20 | PTKW Duty Officer, Level 5 → PTKW Oversight Unit, Interplanetary HQ | After-action record: Level 7 south bay, Day 38 | PTKW |
+| [B-47](<../canon/internal-communications/ptkw/B-47 — K-12 to K-7 I Was at Emplacement Two.md>) | Cycle 300 Q4 — Day 38, 04:52 | K-12 → K-7 | I was at emplacement two | PTKW |
+| [B-48](<../canon/internal-communications/ptkw/B-48 — ICS-OP-7 and VAH-3 Four Times and Not Sorry.md>) | Cycle 300 Q4 — Day 38, 05:05 to 05:48 | ICS-OP-7 → VAH-3 | chat | PTKW |
+| [B-49](<../canon/internal-communications/ptkw/B-49 — TOR-9 to Conduct Officer Reclassified.md>) | Cycle 300 Q4 — Day 38, 06:15 | TOR-9 → PTKW Senior Conduct Officer | Re: Entry of asset status, Level 7, Day 38 | PTKW |
+| [B-50](<../canon/internal-communications/ptkw/B-50 — ICS-SEC-7 to K-7 What I Saw from the North Corridor.md>) | Cycle 300 Q4 — Day 38, 07:10 | ICS-SEC-7 → K-7 | What I saw from the north corridor | PTKW |
+| [B-51](<../canon/internal-communications/ptkw/B-51 — Oversight Amendments Withdrawal and Erasure of the After-Action Record.md>) | Cycle 300 Q4 — Day 38, 08:30 / 09:05 /… | PTKW Oversight Unit, Interplanetary HQ → PTKW Duty Officer, Level 5 | After-action record, Day 38: amendments, withdrawal and erasure | PTKW |
+| [C-36](<../canon/internal-communications/branch-director/C-36 — Earth Branch Manager to HQ Who Sent PTKW.md>) | Cycle 300 Q4 — Day 38, 03:12 | Earth Branch Manager → ICS Cluster Representative Brant / HQ O… | Level 7, south bay: PTKW on the floor | Branch Director |
+| [C-37](<../canon/internal-communications/branch-director/C-37 — HQ to Earth Branch Manager The Order Was Ours.md>) | Cycle 300 Q4 — Day 38, 03:41 | ICS Cluster Representative Brant / HQ O… → Earth Branch Manager | Re: Level 7, south bay: PTKW on the floor | Branch Director |
 
 ## the Kofi email — look at the last paragraph
 
@@ -227,8 +248,8 @@ Counts of messages by sender and recipient (the To line only).
 | Messages | From | To |
 |---|---|---|
 | 8 | Earth Branch Operations | ICS Interplanetary Research Division |
+| 7 | K-12 | K-7 |
 | 6 | K-7 | K-12 |
-| 6 | K-12 | K-7 |
 | 5 | E-03019 | E-02208 |
 | 4 | Branch Director Maren Voss, ICS Earth B… | ICS Cluster Representative Brant / HQ O… |
 | 4 | E-02208 | E-03019 |
@@ -236,6 +257,8 @@ Counts of messages by sender and recipient (the To line only).
 | 4 | K-7 | Earth Branch Manager |
 | 3 | ICS Cluster Representative Brant / HQ O… | Branch Director Maren Voss |
 | 3 | ICS Cluster Representative Brant / HQ O… | ICS Earth Branch |
+| 3 | Earth Branch Manager | ICS Cluster Representative Brant / HQ O… |
+| 3 | ICS Cluster Representative Brant / HQ O… | Earth Branch Manager |
 | 3 | E-03019 | Level 4 Data Processing) |
 | 3 | E-04688 | E-03019 |
 | 3 | E-04688 | Level 4 Data Processing) |
@@ -245,9 +268,7 @@ Counts of messages by sender and recipient (the To line only).
 | 3 | E-04407 | E-04688 |
 | 3 | E-04407 | E-02208 |
 | 3 | K-7 | VAH-3 |
+| 3 | TOR-9 | PTKW Senior Conduct Officer |
 | 3 | ICS Earth Branch — People & Culture Div… | All Staff — All Tiers |
 | 3 | Earth Branch Manager | K-7 |
 | 3 | Earth Branch Manager | Monitoring & Analysis) |
-| 2 | ICS Interplanetary Research Division | Earth Branch Operations |
-| 2 | Earth Branch Manager | ICS Cluster Representative Brant / HQ O… |
-| 2 | ICS Cluster Representative Brant / HQ O… | Earth Branch Manager |

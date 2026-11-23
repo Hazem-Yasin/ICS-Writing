@@ -4,6 +4,66 @@
 
 > **Paths note (2026-11-06).** The repo was restructured after this brief was written. `writing/` is now the repo root. Lore is in `canon/`, prose in `story/`, systems in `design/`, working notes in `meta/`. `reference/` is a generated snapshot. `writing-map/` was deleted with the Godot project and the map is to be remade. `ICS-OS/` was restored on 2026-11-08 as its own repo, `Hazem-Yasin/ICS-OS`, a sibling folder (see `design/ICS_OS.md` section 9): it builds straight from `canon/` with `python build_os.py`, no database, 119 messages and 62 documents. For `writing-map/`, so the build commands and the baseline counts below are historical. The first-pass rebuild is `tools/` (mail index, addresses, `export_mail.py`) (the sibling `ICS-Game` Unity project was deleted; 3D work now lives in the sibling `ICS-Models` repo); the map itself is still to be remade (TODO D1). Open rulings are mirrored in `meta/CANON_DECISIONS.md`.
 
+### Update 2026-11-17: Doc 2.65, what the Division learned about hardship — read this first
+
+*`[PROPOSAL]`, logged in `meta/CANON_DECISIONS.md` (section dated 2026-11-17). Author's brief: humans study struggle differently (Mishima, Goggins): they grow through pain. ICS studied it and filed it as only a study. EOD understood it differently and loves what he understood. Nothing is committed or pushed.*
+
+- **New: Doc 2.65 *Voluntary Aversive Growth* (Supplement H to Doc 2.18).** PTKW tier, folder Research and Assessment. Seven real sources summarised in the Division's words (none quoted). Finding: load produces growth only when it is chosen, can be stopped and ends, and carries the person's own meaning. The Branch's own instruments (Support Steps, Tier Velocity, the Comforts) fail the conditions, so it cannot use it. Recommendation: "No operational application." EOD's part is the archive circulation record only: fourteen readings in Reading Room 5-R, the last on Day 31, 22:05 to 22:50, "did not turn pages after the first four minutes". He says nothing and no state is named.
+- **Count: 65 documents, 2.1 to 2.65** (`README.md`, `design/PRODUCTION_SCOPE.md`, `tools/build_master.py`; `ICS-OS/build_os.py` `DOCS` row 65). Edited: `canon/characters/EOD.md` (see-also), `design/TIME_MODEL.md` (Day 31, Day 33), `tools/timeline.json` (EOD track). State: `build` gives 344 files, 118 timed events; `check` gives 0 new, 38 known; ICS-OS builds 149 messages, 65 documents. Next free codes unchanged.
+- **Open, new:** (a) whether the word "loves" appears anywhere, and in whose mouth (Doc 2.15 gives him no states; C-24 trigger (b)); (b) C-35 does not mention the record, so the Manager has not seen or counted it; (c) whether the player finds it, and where; (d) Docs 2.53 and 2.56 are treated as in force in Cycle 300 Q1, which their files do not state; (e) the Comforts as instruments that apply no load; (f) not checked against the primary texts: the Seery et al. panel size (about 2,400) and Goggins's "40 per cent".
+- **Seal note.** The checker flags a PTKW document that names a sealed one, so 2.65 does not cite 2.49 and does not say "Observe log". Keep it that way.
+
+---
+
+### Update 2026-11-11: EOD's last stand, the Timeline app, and the aftermath mail
+
+*Everything here is `[PROPOSAL]` unless it is marked as the author's brief. Nothing is pushed; the author commits. Logged in `meta/CANON_DECISIONS.md`, sections dated 2026-11-09 and 2026-11-11 (four of them). ICS-OS builds 149 messages and 64 documents (the Paths note above is out of date).*
+
+**State checked 2026-11-17 (no content changed since 2026-11-11).**
+- `python3 tools/ics.py build` gives 343 files, 20 threads, 116 timed events, 27 open sections; `check` gives 0 new, 38 known. `python build_os.py` in `ICS-OS` gives 149 messages, 64 documents. 64 documents (2.1 to 2.64) and 14 scenes (1.1 to 1.14) are on disk.
+- **Committed** in `ICS-Writing` (last commit `26a3ad5`, 2026-11-11 19:47): Doc 2.63, C-35, Scene 1.14, Doc 2.64, the window corridor, the Timeline data, `design/ICS_OS.md`, `design/PRODUCTION_SCOPE.md`, `tools/build_master.py`.
+- **Not committed** in `ICS-Writing`: the 14 last-battle files of section 4 (C-36, C-37, B-45 to B-51, A-43 to A-47) and the edits made with them (`README.md`, `canon/internal-communications/README.md`, `design/TIME_MODEL.md`, `canon/characters/EOD.md`, `tools/threads.json`, `tools/timeline.json`, `meta/CANON_DECISIONS.md`, this file, and the regenerated `meta/*` files and `graph.html`). Git reports LF-to-CRLF warnings on several of these; that is the `.gitattributes` normalisation, not a fault.
+- **Not committed** in `ICS-OS`: only the regenerated `ics-os.html` (last ICS-OS commit `dd21b06`).
+- None of the "Open, new" questions below has been answered yet.
+
+**1. The window corridor (2026-11-09).** 15 files: A-39 to A-42, B-38 to B-44, C-31 to C-34. Cycle 300 Q3, Weeks 4 to 10. HQ (Brant) designs the scarcity; the Manager adds seats, has PTKW watch, then has PTKW sabotage so that one named human seems the cause each time; closure effective Cycle 301 Q1. Mateus (E-04317) and Zarina (E-03852) are the framed pair. Open: A-08 says Level 6 and different E-numbers; Facilities and Tarek.
+
+**2. EOD's study of martyrdom and the last stand (author's brief).** On a second trip to Earth EOD studied martyrdom, including how martial artists accept the lethality of a fight, and understood why Captain Aronsen smiled. He wrote it by hand. It triggers the sunsetting. On Level 7 he falls, understands he has lost, gets up with a broken face, carves a smile into it, takes a stance the Directorate does not know and breathes in it.
+- Doc 2.63 *The Study of Martyrdom* (the sheet; sealed, two readers, as 2.49).
+- C-35 (Day 34: the Manager finds the sheet, counts triggers a, b, c of C-24, gives the second decision; the Team grants the floor).
+- Scene 1.14 (`story/scenes/1.14 - ...`, the Manager's account, Day 38). It stops at the three breaths.
+- Doc 2.64 *The Note in the Drawer* (EOD's first-days note on the humans: disgusting and interesting at once, sometimes looked at in anger; author's brief; outside the ICS system, as 2.35 and 2.39).
+- Count: **64 documents, 2.1 to 2.64** in `README.md`, `design/PRODUCTION_SCOPE.md`, `tools/build_master.py`. Scenes 1.1 to 1.14.
+
+**3. The Timeline app (ICS-OS).** Source `ICS-Writing/tools/timeline.json` (tracks of items; refs are message codes, doc numbers or `scene:1.14`; validated by `build_os.py` `build_timeline()`). UI is `timelineMount` in `os.js` with CSS at the end of `os.css`. Two tabs: Story tracks (drop-down tree, inline mail reader with Previous/Next, search, resizable divider) and All files (every message by channel, every document by folder). Tracks: eod, plan, window, noor, solcred, tarek, ptkw, hq, crd7. Documented in `ICS-OS/README.md` and `design/ICS_OS.md` section 7a. Tested in jsdom only, not in a real browser. Scenes are display-only for the all-files account.
+
+**4. The last battle as the Branch records it (author's brief).** EOD used a human art and fought for a while. He lost in the end because the whole PTKW team had to join. **HQ itself, not the Branch Manager, gave PTKW the command**, because the Directorate was losing after he got up. Some PTKW are worried or glad they killed him; some feel it was wrong. 14 files:
+- C-36 (Manager to HQ, Day 38 03:12: who sent PTKW?), C-37 (Brant: the order was ours, 02:11; six PTKW hurt).
+- B-45 (Oversight Unit's order to every PTKW officer, Levels 4 to 7, 02:11), B-46 (Duty Officer's after-action record: 33 officers, 46 minutes, CRD-7 four times, the art unnamed), B-47 (K-12 glad then ashamed; K-7 keeps it), B-48 (ICS-OP-7 not sorry; VAH-3 thinks it was wrong), B-49 (TOR-9 enters *Reclassified*, asks for a fourth notation), B-50 (ICS-SEC-7 at the north door), B-51 (Oversight amends, withdraws and erases the record, as B-36).
+- A-43 (Lior and Chidi feel the field and hope he wins), A-44 (Ruth and Chidi on the statement), A-45 (Tarek and E-04118: two worn marks in the Level 7 coating), A-46 (Sera and a Coordinator: the atrium table, the pen, a new form field), A-47 (Noor at the atrium).
+- Times used: EOD rises about 02:09; Directorate reports losing 02:10; order 02:11; PTKW at the seal from 02:17 (33 by 02:24); ACS-9 field 02:26; EOD down 02:46, end recorded 02:51; emplacements stood down 03:00; last officer off 03:30. Staff chats run Day 38 02:31 to 20:12 and Day 39 05:58.
+
+**Open, new (answer these first; each is also in `CANON_DECISIONS.md`):**
+1. **C-35 line 21 cites GOV-PDR-004** ("the ten days' silence carried over") but Doc 2.17, C-18, C-20 and C-21 say the ten days are Days 11 to 20. Recommended: keep the Days 22 to 28 trip and rewrite the sentence so it no longer cites GOV-PDR-004. Still unanswered.
+2. **The cover breaks.** C-24 and C-25 plan an engagement nobody sees, no asset losses and PTKW knowing nothing. Section 4 has 33 PTKW fighting and six hurt. The statement's "[Number] colleagues were hurt" is now six.
+3. **Scene 1.14** has the Directorate hold for nine seconds, "also waiting". Section 4 has them losing about a minute later. Consistent only if the stance changed the odds.
+4. The CRD-7 failing against him (B-46, B-48) is new. The art stays unnamed (hearsay in B-46 and A-45; HQ strikes it in B-51). ACS-9 felt as being watched three floors down (A-43; no range in the weapon file). SEC-7 at the north door; desk-role officers (OP-7, TOR-9) on the floor.
+5. Doc 2.64: anger as canon for EOD (Doc 2.15 gives him no states; C-19 says "disgust, not anger"); whether it meets C-24 trigger (b); where the player finds it; the stationery.
+6. Tarek's new rule in A-45 is unnumbered because A-35 already has his Rule 8 on Day 41.
+7. Whether EOD's face is made or grown; whether he breathes at other times; whether the Directorate stands off; where the Day 38 scene should end. Whether to save the chat reading orders as `meta/READING_ORDERS.md`; placeholders-vs-hide for clearance in the Timeline; whether scenes should be readable in it.
+
+**Next (not done):** a fuller battle scene (the Manager's account stops at 02:09; the Directorate-losing and PTKW-joining part is only in mail) and a Timeline reader for scenes were offered and not chosen.
+
+**Working notes for the next session.**
+- Shell is PowerShell: no heredocs, no `&&`. Write throwaway scripts to `.bob/tmp/*.py`, run with `python3`, delete after. Never write `ICS-OS/build_os.py` with `Set-Content` (it adds a BOM and breaks the shebang); edit it with Python bytes.
+- CRLF files (edit as bytes, detect `\r\n`): `README.md`, `canon/internal-communications/README.md`, `design/PRODUCTION_SCOPE.md`, `tools/build_master.py`, this file. LF: everything new, `meta/CANON_DECISIONS.md`, `design/TIME_MODEL.md`, `tools/threads.json`, `tools/timeline.json`, `canon/characters/*.md`, scene files, and ICS-OS `build_os.py`, `os.js`, `os.css`.
+- Rebuild: `python3 tools/ics.py build` and `check` here; `python build_os.py` in `ICS-OS`, then delete `__pycache__`. Don't hand-edit the generated `meta/*` files.
+- A new document needs a line in the `DOCS` table in `ICS-OS/build_os.py` (and `SPECIAL` if sealed or outside the system) and the doc count in three places. A new message is found automatically but needs a line in `canon/internal-communications/README.md` (tree) and the repo `README.md` table, and ideally `tools/threads.json`, `design/TIME_MODEL.md`, `tools/timeline.json`. Next free message codes: **A-48, B-52, C-38**. Next free document number: **2.66**.
+- Access in `ICS-OS/build_mail.py` `access()`: "SEALED" in the status gives the sealed folder (readers named); "INTERCEPT" gives held; "NOT A MESSAGE" gives notes; "(unsent)" or DRAFT gives drafts; series C is the Branch Director tier; series B is PTKW unless "GLOBAL ACCESS"; a non-delivered A is PTKW. Dates: `**Date:** Cycle 300 Q4 — Day 38, 02:14`.
+- Commit messages, if asked, end with `Co-Authored-By: Claude Code <noreply@anthropic.com>`. Do not push.
+
+---
+
 ### Update 2026-11-08 (later): PTKW as the Branch's HR — the open door
 
 *Everything here is `[PROPOSAL]`. Nothing is committed or pushed. Logged in `meta/CANON_DECISIONS.md` ("PTKW as the Branch's HR: the open door").*
@@ -288,7 +348,7 @@ Two other handoffs exist in the author's notes: a "Draftsman" brief, and a summa
 - **After every batch of changes, rebuild and check** (`writing-map/` no longer exists; see the 2026-11-07 section at the top):
   1. `python3 tools/ics.py build` (regenerates `meta/*` and the master reference)
   2. `python3 tools/ics.py check` (must report 0 new problems)
-- **Current baseline (2026-11-07):** 272 files indexed, 51 documents, 16 mail threads, 57 timed events, 25 open sections; checker 0 new problems and 38 known (accepted in `tools/check_baseline.json`). The numbers in the next sentences of older notes (249 files, 93 messages, 2 orphans) are historical. Do not make the checker result worse, and link every new file from `README.md`.
+- **Current baseline (2026-11-17):** 343 files indexed, 64 documents, 20 mail threads, 116 timed events, 27 open sections; checker 0 new problems and 38 known (accepted in `tools/check_baseline.json`). The 2026-11-07 figures were 272 files, 51 documents, 16 threads, 57 timed events, 25 open sections. The numbers in the next sentences of older notes (249 files, 93 messages, 2 orphans) are historical. Do not make the checker result worse, and link every new file from `README.md`.
 - `notes.tx` at the repo root is covered by `design/DESIGN.md` and `story/scene-notes/Elevator.md`. The two empty files that used to sit beside it (`README.md`, `design/STEALTH_DETECTION.md`) were deleted. Do not recreate them: the real files live in `writing/`.
 
 ---
